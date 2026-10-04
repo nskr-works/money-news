@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>キャッシュレス決済ニュース</title>
+<title>決済ニュース</title>
 <meta name="description" content="クレジット・決済代行・コード決済・キャッシュレスのニュースとプレスリリースを、1日4回自動で収集・分類しています。">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <!-- ホーム画面に追加したときのアプリ設定 -->
@@ -65,8 +65,8 @@ a.hl:hover .t,a.hl:focus-visible .t{color:var(--focus)}
 .masthead .en::before{content:"";width:36px;height:1px;background:var(--gold-2)}
 .masthead h1{font-family:var(--serif);font-weight:700;font-size:clamp(2.2rem,5.4vw,4.6rem);line-height:1.18;margin:18px 0 0;letter-spacing:.04em}
 .masthead h1::after{content:"";display:block;width:clamp(80px,9vw,140px);height:3px;margin-top:20px;background:linear-gradient(90deg,var(--gold-2),rgba(217,183,110,0))}
-.br-sp{display:none}
-.masthead .tag{margin:18px 0 0;font-size:clamp(.86rem,1.2vw,1rem);color:rgba(255,255,255,.8);max-width:40em;text-wrap:balance}
+.tag span{display:inline-block}
+.masthead .tag{margin:18px 0 0;font-size:clamp(.86rem,1.2vw,1rem);color:rgba(255,255,255,.8)}
 
 /* ── 指標（市況ボード風） ── */
 .ticker{display:grid;grid-template-columns:repeat(6,1fr);background:var(--surface);margin-top:calc(-1 * clamp(40px,4vw,52px));position:relative;z-index:2;
@@ -261,7 +261,6 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.32em;text-tr
   .ticker > div:nth-child(n+4){border-top:1px solid var(--hair)}
 }
 @media (max-width:700px){
-  .br-sp{display:inline}
   .hero::after{background-position:72% 45%}
   .hero::before{background:linear-gradient(180deg,rgba(8,20,40,.6),rgba(8,20,40,.9))}
   .masthead h1{font-size:clamp(2.1rem,10vw,2.8rem)}
@@ -314,8 +313,9 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.32em;text-tr
   </div>
   <div class="wrap masthead">
     <div class="en">The Payments Daily</div>
-    <h1>キャッシュレス<br class="br-sp">決済ニュース</h1>
-    <p class="tag">クレジット・決済代行・コード決済・キャッシュレスの最新動向を、主要メディアとプレスリリースから1日4回お届けします。</p>
+    <h1>決済ニュース</h1>
+    <!-- 改行位置：「最新動向を、」の後で必ず改行。スマホでは語の途中で切れないよう文節ごとに折り返す -->
+    <p class="tag"><span>クレジット・決済代行・コード決済・</span><span>キャッシュレスの最新動向を、</span><br><span>主要メディアと</span><span>プレスリリースから</span><span>1日4回お届けします。</span></p>
   </div>
 </header>
 <div class="wrap">
@@ -384,7 +384,7 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.32em;text-tr
     <div class="key" id="chartKey"></div>
   </section>
 </div>
-<footer><div class="wrap"><div class="en">The Payments Daily</div>キャッシュレス決済ニュース ― 自動収集・分類</div></footer>
+<footer><div class="wrap"><div class="en">The Payments Daily</div>決済ニュース ― 自動収集・分類</div></footer>
 
 <div class="scrim" id="scrim"></div>
 <div class="ios-guide" id="iosGuide" hidden>
