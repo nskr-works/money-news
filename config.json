@@ -1,0 +1,262 @@
+{
+  "site_name": "キャッシュレス決済News",
+  "site_url": "https://nskr-works.github.io/money-news/",
+  "notify_tag": "credit_card",
+  "keep_days": 90,
+  "max_items": 3000,
+  "categories": [
+    {
+      "key": "credit",
+      "label": "クレジット",
+      "en": "CREDIT",
+      "color": "#B08D3C"
+    },
+    {
+      "key": "psp",
+      "label": "決済代行",
+      "en": "PSP",
+      "color": "#2F6FB5"
+    },
+    {
+      "key": "code",
+      "label": "コード決済",
+      "en": "QR / CODE",
+      "color": "#C2416B"
+    },
+    {
+      "key": "cashless",
+      "label": "キャッシュレス",
+      "en": "CASHLESS",
+      "color": "#1F8A70"
+    }
+  ],
+  "keywords": {
+    "credit": [
+      "クレジットカード",
+      "クレカ",
+      "カード会社",
+      "イシュア",
+      "アクワイアラ",
+      "国際ブランド",
+      "Visa",
+      "Mastercard",
+      "JCB",
+      "アメックス",
+      "アメリカン・エキスプレス",
+      "ダイナース",
+      "3Dセキュア",
+      "3-Dセキュア",
+      "EMV",
+      "不正利用",
+      "リボ払い",
+      "カード決済"
+    ],
+    "psp": [
+      "決済代行",
+      "PSP",
+      "ペイメントサービスプロバイダ",
+      "決済ゲートウェイ",
+      "オンライン決済",
+      "決済システム",
+      "Stripe",
+      "GMOペイメントゲートウェイ",
+      "GMO-PG",
+      "SBペイメントサービス",
+      "ベリトランス",
+      "DGフィナンシャルテクノロジー",
+      "ソニーペイメントサービス",
+      "決済端末",
+      "加盟店",
+      "決済プラットフォーム",
+      "決済基盤"
+    ],
+    "code": [
+      "コード決済",
+      "QRコード決済",
+      "QR決済",
+      "バーコード決済",
+      "PayPay",
+      "楽天ペイ",
+      "d払い",
+      "au PAY",
+      "メルペイ",
+      "J-Coin",
+      "銀行Pay",
+      "JPQR",
+      "ゆうちょPay",
+      "FamiPay",
+      "ファミペイ",
+      "AEON Pay",
+      "Smart Code"
+    ],
+    "cashless": [
+      "キャッシュレス",
+      "電子マネー",
+      "タッチ決済",
+      "非接触決済",
+      "Suica",
+      "QUICPay",
+      "Apple Pay",
+      "Google Pay",
+      "後払い",
+      "BNPL",
+      "デジタル給与",
+      "スマホ決済",
+      "モバイル決済",
+      "決済サービス",
+      "交通系IC",
+      "プリペイド"
+    ]
+  },
+  "exclude_patterns": [
+    "に関するプレスリリース",
+    "プレスリリース一覧",
+    "^PR TIMES$",
+    "^News Release$",
+    "^PowerPoint プレゼンテーション$",
+    "キャンペーン規約",
+    "利用規約",
+    "よくあるご質問",
+    "よくある質問",
+    "ヘルプ"
+  ],
+  "exclude_sources": [
+    "YouTube"
+  ],
+  "feeds": [
+    {
+      "name": "Googleニュース「クレジットカード」",
+      "url": "https://news.google.com/rss/search?q=%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "credit",
+      "require_keyword": true
+    },
+    {
+      "name": "Googleニュース「決済代行」",
+      "url": "https://news.google.com/rss/search?q=%E6%B1%BA%E6%B8%88%E4%BB%A3%E8%A1%8C%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "psp",
+      "require_keyword": true
+    },
+    {
+      "name": "Googleニュース「決済サービス・加盟店」",
+      "url": "https://news.google.com/rss/search?q=%28%E6%B1%BA%E6%B8%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20OR%20%E6%B1%BA%E6%B8%88%E7%AB%AF%E6%9C%AB%20OR%20%E5%8A%A0%E7%9B%9F%E5%BA%97%29%20%E6%B1%BA%E6%B8%88%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "psp",
+      "require_keyword": true
+    },
+    {
+      "name": "Googleニュース「コード決済」",
+      "url": "https://news.google.com/rss/search?q=%E3%82%B3%E3%83%BC%E3%83%89%E6%B1%BA%E6%B8%88%20OR%20QR%E3%82%B3%E3%83%BC%E3%83%89%E6%B1%BA%E6%B8%88%20OR%20QR%E6%B1%BA%E6%B8%88%20OR%20%E3%82%B9%E3%83%9E%E3%83%9B%E6%B1%BA%E6%B8%88%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "code",
+      "require_keyword": true
+    },
+    {
+      "name": "Googleニュース「キャッシュレス決済」",
+      "url": "https://news.google.com/rss/search?q=%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%82%B9%E6%B1%BA%E6%B8%88%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "Googleニュース「タッチ決済・電子マネー」",
+      "url": "https://news.google.com/rss/search?q=%E3%82%BF%E3%83%83%E3%83%81%E6%B1%BA%E6%B8%88%20OR%20%E9%9B%BB%E5%AD%90%E3%83%9E%E3%83%8D%E3%83%BC%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "Googleニュース「後払い・BNPL」",
+      "url": "https://news.google.com/rss/search?q=%E5%BE%8C%E6%89%95%E3%81%84%E6%B1%BA%E6%B8%88%20OR%20BNPL%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "ペイメントナビ（Googleニュース経由）",
+      "url": "https://news.google.com/rss/search?q=site%3Apaymentnavi.com%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "psp",
+      "require_keyword": true
+    },
+    {
+      "name": "日本経済新聞（Googleニュース経由）",
+      "url": "https://news.google.com/rss/search?q=site%3Anikkei.com%20%28%E6%B1%BA%E6%B8%88%20OR%20%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%82%B9%20OR%20%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%29%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "PR TIMES（決済）",
+      "url": "https://news.google.com/rss/search?q=site%3Aprtimes.jp%20%28%E6%B1%BA%E6%B8%88%20OR%20%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%82%B9%20OR%20%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%29%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "release",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "@Press（決済）",
+      "url": "https://news.google.com/rss/search?q=site%3Aatpress.ne.jp%20%28%E6%B1%BA%E6%B8%88%20OR%20%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%82%B9%20OR%20%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%29%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "release",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "PR TIMES 新着（直接）",
+      "url": "https://prtimes.jp/index.rdf",
+      "type": "release",
+      "default_category": "cashless",
+      "require_keyword": true,
+      "hourly": true
+    },
+    {
+      "name": "ペイメントナビ",
+      "url": "https://paymentnavi.com/feed",
+      "type": "news",
+      "default_category": "psp",
+      "require_keyword": true
+    },
+    {
+      "name": "ケータイWatch",
+      "url": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "INTERNET Watch",
+      "url": "https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "ITmedia Mobile",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "ITmedia NEWS",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    },
+    {
+      "name": "日経クロステック",
+      "url": "https://xtech.nikkei.com/rss/index.rdf",
+      "type": "news",
+      "default_category": "cashless",
+      "require_keyword": true
+    }
+  ]
+}
