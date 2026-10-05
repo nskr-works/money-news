@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T06:53+09:00",
+ "updated_at": "2026-10-05T10:49+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,114 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "0ca683f905cd9271",
+   "title": "【現金500円プレゼント 】「ちゅうぎんJCBデビット紹介キャンペーン」の実施",
+   "link": "https://prtimes.jp/main/html/rd/p/000000235.000166651.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ちゅうぎんFG] [画像: https://prcdn.freetls.fastly.net/release_image/166651/235/166651-235-501e7a4e5a0107b15463323039b7587c-900x636.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-05T10:40+09:00",
+   "company": "ちゅうぎんFG",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "d5cc019065a6ee8f",
+   "title": "【SRSグループ】10月9日より対象店舗でPayPayクーポンキャンペーンを実施",
+   "link": "https://prtimes.jp/main/html/rd/p/000001035.000122416.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[SRSホールディングス株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/122416/1035/122416-1035-5b1ebf5e27bde63d212110cb7b73d8df-819x807.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-05T10:15+09:00",
+   "company": "SRSホールディングス株式会社",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "6f5a805082ae233e",
+   "title": "「OEM電子マネー」「地域マネー」を提供開始（ウェルネット）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1cGF0VHpoUlJMMkN3N0RaZXJTWDhyNVJ0YVF0bVZ1aHdSOGZrU1lHVS1qTXhNdEF2ZWxoSUgyRno0OU5SVWhpLVQweUQ2YVdQaDVVcHZNbTBfalE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「OEM電子マネー」「地域マネー」を提供開始（ウェルネット） ペイメントナビ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T09:35+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "5ac4e7b2bd12acad",
+   "title": "カード加盟店サービス「スマートプラン」、決済手数料率1.88％から利用可能（北國銀行）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EUnFNOTdXaElyazZ2akVBN1FqSmx0NHh4SlV2bWtTbjJkaC0tX3lqTkJsbEJWSzlFVzEzakRMdTYyYmJydkZjLXg4UXRUTDlhSko1RFBzTUp4blU?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "カード加盟店サービス「スマートプラン」、決済手数料率1.88％から利用可能（北國銀行） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-05T09:28+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "0cb5b66ba6c50e21",
+   "title": "「Smart Code」がゼンショーグループの国内飲食店で取扱開始 （JCB）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5icHZTWnRoSU5ZU0J3YmFWX0RuRzY1Rk1HR3BneWk1WUVpMXdzXzlCVkd0a0hmYV9tRmh3N2xtQzN5M01ZTGltLTE2OW5KdEd2dWgtT3dXY1F4aUk?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「Smart Code」がゼンショーグループの国内飲食店で取扱開始 （JCB） ペイメントナビ",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-05T09:10+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "cb7d96e567970e46",
+   "title": "「クレジットカードの年会費」許容できるのはいくらまで?",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16bDRRazVaencxOWsyejN3WGZBS3Y1SVl0NmxDN0NsUkFQSFVLRkVzWEdhSzUzQmItcE1qUkFBakVpZXFJdGdTakJGbHJubUNjV0pDUnpDLUZIVFR1?oc=5",
+   "source": "マイナビニュース",
+   "summary": "「クレジットカードの年会費」許容できるのはいくらまで? マイナビニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-05T07:56+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "dc35ee8e2dbc0414",
+   "title": "PASMOアプリ、10月7日にバージョンアップ 定期情報や手続きをわかりやすく",
+   "link": "https://www.watch.impress.co.jp/docs/news/2144973.html",
+   "source": "Impress Watch",
+   "summary": "パスモは、交通系IC「PASMO」のアプリを10月7日10時からバージョンアップする。トップ画面を中心に画面の見直しを実施し、より直感的に手続きを行なえるよう刷新する。Google PlayとApp Storeで公開する。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T07:00+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "c241e0154658fc50",
+   "title": "社会保障分野におけるキャッシュレス決済の割合が、設定された目標を上回った。",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGM4S3lBZi1DTFMybDFnaFo5a0ozZ3dpSTFNcFBzS2tmaENIdlhpMTVhMm0tQU1NSjgxN0ZvX2F5NG1ncnQ3eWcxMnhQUWc0X3JiUXF4Wms2akd6dkUwVjFGczJiQVRrNWZ5MVhvVVhJMlZyOWtFQ2w3YlZKVDBtUWhTbXlTUGxXb2FHbjhaQlFLbXFvRlhpUUo2QWtqRW84b3V0azlaXzljcFBBSUE?oc=5",
+   "source": "vietnam.vn",
+   "summary": "社会保障分野におけるキャッシュレス決済の割合が、設定された目標を上回った。 vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-04T22:46+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "8e84c3ab0e9aec5e",
    "title": "暗号資産が貯まるクレジットカード「SBI VISAクリプトカード」に、法人等の代表者・個人事業主用カードが登場 ～最大31,500円相当の暗号資産プレゼントキャンペーンも実施～",
@@ -99,6 +207,20 @@
    "company": "株式会社サイトクリエーション"
   },
   {
+   "id": "5c9587818861df2f",
+   "title": "【緊急】PayPayがVISAと提携で神アプリに…‼︎タッチ決済やポイント還元も！！ Wes Streeting (wqfuMCiud9)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjlIRi1MOXFzbExtckJMeGQxbTF2R3J4WkRmcnV2Wm95UzlPbXR0SF9heXFnNUhxUGFycEhCbWhaQXhmRnZPVFF0X2MxV3NjdzlSc1dwY1NYV0Rmc1VNczNpRUhDZDkwTnhqQWFjME9nY241MjFLLWkyMnNQVWFSLU9R?oc=5",
+   "source": "Unisba Media",
+   "summary": "【緊急】PayPayがVISAと提携で神アプリに…‼︎タッチ決済やポイント還元も！！ Wes Streeting (wqfuMCiud9) Unisba Media",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-04T14:31+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "f0c5061ebe4099e1",
    "title": "「不正利用」の不安が57％もあるのに、73.9％が「便利だから使う」と回答！スマホ決済のリアルな最新調査",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56eFBTdTJfNEZDYVVlazIxTkwyTEVIYnR5NnhVNlhQUEpFalJMX09RMzN3MGJhS0RRWmd4a3VsWE90SDdNNWtVLV9XVnVNeUkwS19CTXdoZE5rSWFJaWVCazU1SENMeEE?oc=5",
@@ -150,6 +272,19 @@
    "type": "news",
    "published": "2026-10-04T10:00+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "ba9b2f462fbc3481",
+   "title": "BINテーブルはデビットカードをクレジットカードと誤分類し、誤ったサーチャージを引き起こす",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV3lVUGozRjVfQW91c2NGRDRuU3hDT1o2T29oTEJrbldqMC1kSUwxSkZlRGlSc3pmcjdXUWFuem9FTXRLSkZjbkNMcWhraDFiMzJXekpQcGU3d25GV296MUlSWUVxRGJZS2VHMjRxYkcwR2Rmb2MtQndYUDEyVnFFbE9FV1lQM3lNaGdJU29lQ0VXQ0tDNHc0UE93Q2MwMHhoaWpySVN5WVFKbGhFU2wyd1BPMFhSeE9NX1BwTXFvVjhTQQ?oc=5",
+   "source": "news.lavx.hu",
+   "summary": "BINテーブルはデビットカードをクレジットカードと誤分類し、誤ったサーチャージを引き起こす news.lavx.hu",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-04T09:58+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "6804080c26c66ffb",
@@ -269,6 +404,19 @@
    "published": "2026-10-03T16:10+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社サイトクリエーション"
+  },
+  {
+   "id": "30c2b9dad61cd525",
+   "title": "最強の航空系クレジットカード10選！還元率やコスパ別おすすめを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84TnpnTEpaMWdlY0NxTnFTM25RbmJENzBkX1F6dDV2NS1QNlNvZDYtMk5ZWlpKS3FkTmNjb0g2NElmYzFEdENVaHp1clF6YUYzMzBIVVVNYWctUnRxNmhV?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "最強の航空系クレジットカード10選！還元率やコスパ別おすすめを徹底比較 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-03T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "fa14321d38da31e8",
@@ -687,6 +835,58 @@
    "type": "news",
    "published": "2026-10-02T16:14+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "4eaf91bd3e4190de",
+   "title": "海外旅行におすすめの最強クレジットカード10選！手数料や年会費を比較",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pb08yU1p4LVV1cmEwU0dkTlZFQXFVRFBhb2lfY0I0WjQzTDNoYUwwM29GbTJJT1N5YTBlUjV6Q25OWnV0RWQxajB4a29LcGlDVnVpNlFBdGY1MWZrcGd3ck5iUWJySTBzZ3JBUnJ0MmhDZw?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "海外旅行におすすめの最強クレジットカード10選！手数料や年会費を比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-02T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "16669d8c8a4dff47",
+   "title": "後払いアプリのおすすめ22選！審査なしでも利用できるバーチャルカードを紹介",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vMlIydW9PTzJkZTFCNUNYWVhYeVBHbmM0dk9xdnQzM19uWWc3VW8zVll1eW41azFmVEI2azZ1LTFPX1oyTFd1c1VtSUpuSEdRbWt1NGRYcURUYVIxbC1KeWF0ZDFubVl4aXJZZXRGbmNlRUJoMm5oc2pPc2U?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "後払いアプリのおすすめ22選！審査なしでも利用できるバーチャルカードを紹介 ペイメントナビ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-02T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "574c5b2c1860928a",
+   "title": "【厳選】交通系クレジットカードおすすめ12選！選ぶときのポイントや注意点も解説",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZSWZvTzJ2aldjRERDMlF1TEMtdUwyN0dBVnZOTHlpRElKdWJuSXNaZk1QelR2YURNenFSTUVzOWZLeXE5WlN2TnI2ancyUjByeTBlOGtoUUFSd21wN3c?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "【厳選】交通系クレジットカードおすすめ12選！選ぶときのポイントや注意点も解説 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-02T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0930bb3a4607011c",
+   "title": "宇野バス全路線にクレカ決済導入 １０月８日から宇野自動車",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DQWlQczJEQUN5bG05VXVYZllFTDZlTS12andfOHZsWnZHVjFsM01qQXNiWlAxcjhrV1FuT0VJNFphR0tOUWFpYWVfWlFXWFg1TkE?oc=5",
+   "source": "山陽新聞",
+   "summary": "宇野バス全路線にクレカ決済導入 １０月８日から宇野自動車 山陽新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-02T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "f2172bf2e954a354",
@@ -1532,6 +1732,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "e793b78735b7bc05",
+   "title": "年会費無料のクレジットカード【2026年10月】永年無料の最強おすすめクレカを比較",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wdHcwZVdKNzJpV2c4YlR2OW5XNnhxUWVaVDZwX3FxNmY4djNMZENud0w2eFdHOWt5YVYwYlQ5Mk5pWFJTV2hFLXFPZXdNZkY3TUR1emt5SFZ3cUtL?oc=5",
+   "source": "株探",
+   "summary": "年会費無料のクレジットカード【2026年10月】永年無料の最強おすすめクレカを比較 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "423204f9bc62c500",
    "title": "届いた通知からそのままスマホ決済！マイナンバーカード基盤を活用した確実・安全なデジタル公金納付",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yOTBWYUljdGxPTUtBdF96al9uU2ZlV1NWOGFYQkd1LWlzdVdaQTVkVTdjdFZuT0cxeW1wY2szdGFOUmw3ZWRPYV9mTjdWcG1XcWJF?oc=5",
@@ -1956,6 +2169,20 @@
    "published": "2026-10-01T11:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "b106a8bae402ac22",
+   "title": "バイナンスペイ、PayPay加盟店1,000万カ所で訪日客決済開始へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1aFpwcDV6MGZmNTdscHRCd1pQelRGZUFYUUNTYkYyLUdKSDJDbnlKSk1VbjgtSHZwWGlWZWI4TEg5cDFEaDY2SVhId1htd05peV80cERLV1hsQjgtOGVqbXdsQkttSDJLLW9Vem15Sk5ZNmkt0gF8QVVfeXFMT2dnWU5Jc0ktbVFOa3NEWm1UYjdUTEJ1TmpFbDRyTDN2bUZjeE9kTVhiVnJ5N0Q3ZVU3LUZ3S3FDa2NqYnJaQTNkXzRhdHctNWlHR2hQMUNwTW1QaTRES05LalRld1B3WjlCY3dPaTRjd2lueTVsWVEySlF4WQ?oc=5",
+   "source": "coinspeaker.com",
+   "summary": "バイナンスペイ、PayPay加盟店1,000万カ所で訪日客決済開始へ coinspeaker.com",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-01T11:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "83cd2463bfaf8e8f",
@@ -2773,6 +3000,20 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "40436f3041aad78f",
+   "title": "バイナンスペイ、日本のPayPay加盟店1000万店超のネットワークに接続——訪日旅行者向けに暗号資産決済を開始",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkQ19mOGEwRk1Hd2VIUFZpb0JIMzJ2WTh5b2huakZBTTE3UDJCc0l2VGJpb1hqTmdOQTAyYk8teHhkYWhIMzN2Y1NSUi1aZDAzTHhwZUk0NjNlTW5aQXBZT09CTkd1MW4xYjc2Q2ktUHpYenJL?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "バイナンスペイ、日本のPayPay加盟店1000万店超のネットワークに接続——訪日旅行者向けに暗号資産決済を開始 BigGo ファイナンス",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-09-30T15:05+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "8b1293b91695a11e",
    "title": "ネットスターズ、Stripeに国内主要コード決済5種を接続",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlWTFqc2tCZDlDMW53cFpFS29nVWcxdVJvb0hNZjRVRFpISjRzYWx4N1hfOU1nY0tTQ0IzcVdtbzJUYXZmc0V3X183eFk1X1hsYVBZ?oc=5",
@@ -3462,6 +3703,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "b00cc159da704e64",
+   "title": "長崎電気軌道１０月以降もクレカ乗車継続",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tM2wzOS1TVHVkdUtEMG9WOHN4WmJfZzdWX3BCLUd4TlFEaGk3Qk1PNVVMUVA2NXFRdnhKOFdKS1ItQVQxRHZVMEN5ME9yVFRjX1NiNEtMajY?oc=5",
+   "source": "NCC長崎文化放送",
+   "summary": "長崎電気軌道１０月以降もクレカ乗車継続 NCC長崎文化放送",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-29T19:21+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "af480457cb52c107",
    "title": "生活困窮経験者の64.7%が後払い決済を利用、未払いによる携帯喪失の実態が明らかに",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43dFZiQVVmZjRXcTlGX1hFajg5RlRBaklINkJHbV9PcGpEVkYydlVMc1BZMDNkYk9ORHNPaFdSMjY1NV9jR3FfV29vbDdyLUdHa005dXJ3SQ?oc=5",
@@ -3526,6 +3780,58 @@
    "type": "news",
    "published": "2026-09-29T16:44+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b8c337b0d7ef35c1",
+   "title": "個人事業主向けクレジットカードおすすめランキング！ビジネスカードのメリット・審査基準も解説",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13bVctektOQ093eDZ3VWVNRFZ1RGNsdkpfc2hPUHJoN0piREhqRElUMmFJQTBvTFBYUHc1QTBpaVY5blBJN3FlUDRsMjhBZHhZQ2gwUG54UFN5b1Zm?oc=5",
+   "source": "株探",
+   "summary": "個人事業主向けクレジットカードおすすめランキング！ビジネスカードのメリット・審査基準も解説 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4edb8f1fa7cd55b2",
+   "title": "【2026年】新幹線でおすすめのクレジットカード13選！券売機よりおトクな予約方法と地域別の最強カードを解説",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LaTVsT3NwTk1KQjRycG42dDljM244ckVrTmh0dDhWa1NzcWhuSS1aYm4ybzFFYmhsVGZWeWQyLTQ4MnR1SldpNEVYUkY2amVHSVdBWTZkZ0FOYkJYbHkzek9qWmY?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "【2026年】新幹線でおすすめのクレジットカード13選！券売機よりおトクな予約方法と地域別の最強カードを解説 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0cec23d8dfd9f7cf",
+   "title": "三菱ＵＦＪカード・プラチナ・アメリカン・エキスプレス®・カードは招待なしで申し込み可能！メリット・デメリットは？",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycE81UGVtT0Y1dS1OYnhYWHU5N1FPeUc2QmFwNnc1czFXMnVqdU1CdGtabng0V3RiNnFmUWdhNmxUS2VmaXdLdDc3ZHA0bUU3enZmTC1PYllJM1k?oc=5",
+   "source": "株探",
+   "summary": "三菱ＵＦＪカード・プラチナ・アメリカン・エキスプレス®・カードは招待なしで申し込み可能！メリット・デメリットは？ 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e9240bc9a973fb15",
+   "title": "SP.LINKS、オンラインID決済に「AEON Pay」追加 e-SCOTT Smartで導入可能に",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MX1FieVJfdllIcTdWSUlQNU9VdEVRZTJ5TWFJYlozZUNtcENPdTRhQ2ozd291ckRfZjNVSnVUMWdHX0N4R0lhZEFsbmtKWXdIWFpxUWNaQ0JfdWtRZWc?oc=5",
+   "source": "tsuhan-ec.jp",
+   "summary": "SP.LINKS、オンラインID決済に「AEON Pay」追加 e-SCOTT Smartで導入可能に tsuhan-ec.jp",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "5125f53ef33e91c5",
@@ -3739,9 +4045,10 @@
    "categories": [
     "credit"
    ],
-   "type": "news",
+   "type": "release",
    "published": "2026-09-29T11:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
+   "via": "Googleニュース「クレジットカード」",
+   "company": "沖縄タイムス＋プラス"
   },
   {
    "id": "80705432994cca3a",
@@ -3889,6 +4196,19 @@
    ],
    "type": "news",
    "published": "2026-09-29T08:54+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "45bab27c2afb24f8",
+   "title": "HISが旅行部門の顧客満足1位に返り咲き、エポスカード・楽天カードはクレカ首位タイ――2026年度JCSI第3回調査",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11U1l4VmFuOFZ1b1hoYno0ZmVOQWJxUHZvbGc3MU1oY2hWenE3elVuX09EOUZackVUdjBzbEpKa29YdWJMV0loTWl3RmdGaUZtVExWYw?oc=5",
+   "source": "kankokeizai.com",
+   "summary": "HISが旅行部門の顧客満足1位に返り咲き、エポスカード・楽天カードはクレカ首位タイ――2026年度JCSI第3回調査 kankokeizai.com",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-29T08:01+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -4131,6 +4451,19 @@
    "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
+   "id": "f758676f4c1d3361",
+   "title": "｢ダイナースクラブカード｣の｢ポイント5倍｣の対象店舗にデニーズが追加！ マクドナルドやマツモトキヨシ、ココカラファインなどでも還元率が5倍になってお得！",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zcHBaajJ4MWd5LUxtaXU0alRfcVNnclBvTWxkby1WLXhuZENEaHgtSXdCMjF0RDZsSnM4RTZ1cmoxdkJ2OXAxZ0Z3SGFzS1Z5SGdZ?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "｢ダイナースクラブカード｣の｢ポイント5倍｣の対象店舗にデニーズが追加！ マクドナルドやマツモトキヨシ、ココカラファインなどでも還元率が5倍になってお得！ ダイヤモンド・オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-28T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "d252ea9710ea53cc",
    "title": "金閣寺に「おまいりPay®」導入、キャッシュレス決済で拝観が便利に",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sZ0YwNTNvRWdtdDVjZGZLOFdzRmstYURxOEpXU3J4Q3A4SGlzNlAzVnlKVnNkNFg3SjZEZmJQZEZXUWc0cHhDck9vZlJ5bGJGQ2dUcVJnMnllbVNvUHhOWTlnZUdYV1oyYlJqOHRvZ04?oc=5",
@@ -4208,6 +4541,19 @@
    "type": "news",
    "published": "2026-09-28T11:47+09:00",
    "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "10dc4818b632174b",
+   "title": "世界文化遺産・金閣寺にバリューデザインと京都仏教会が共同開発した寺院・神社専用キャッシュレス決済「おまいりPay(R)」を提供",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85QnZvbmpaVjFPZG51LXpQX240TlRJcXJ2cFozWkRfa2xPaFdROWd0S1A4MDJDUEhzQ1RKMlYtVnJDX1VwXzZMb05haVBPT0M2UUlXZjRtU1ZoTWtSekoyakl2VU5Ea0l6dTB2ZDR6MEI4dw?oc=5",
+   "source": "Infoseek",
+   "summary": "世界文化遺産・金閣寺にバリューデザインと京都仏教会が共同開発した寺院・神社専用キャッシュレス決済「おまいりPay(R)」を提供 Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-09-28T11:15+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "de2f403f53d751b6",
