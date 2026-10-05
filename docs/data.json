@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T18:51+09:00",
+ "updated_at": "2026-10-06T06:50+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,85 @@
  "topics": {},
  "items": [
   {
+   "id": "dd6b274af3f0ccd6",
+   "title": "ネットスターズ、Stripeに国内コード決済5ブランドを接続 日本市場対応を支援、店頭決済にも拡大へ",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQ0U3MFJoR2ltRnJzREJWb0ZzRFVHSDhuYVA3NmxCelBacGszLVV2VFk2cmJPcHB1SDd0TjFFckRXeDZzaURYeGhHRUJoZHRkaXNQbExn?oc=5",
+   "source": "日本ネット経済新聞",
+   "summary": "ネットスターズ、Stripeに国内コード決済5ブランドを接続 日本市場対応を支援、店頭決済にも拡大へ 日本ネット経済新聞",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-06T06:46+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "1b2a30498161e889",
+   "title": "成長するASEAN富裕層を、日本の力に JCB・MUFG両トップが語る協業の狙い",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9qd2wyX3dWM194QjlKTldqeDItRHZleDh4SDMta1dzOGNXUS00UUpZZ0dFc1JNSTR1VmI5WnMybmxVWWhf?oc=5",
+   "source": "ps.nikkei.com",
+   "summary": "成長するASEAN富裕層を、日本の力に JCB・MUFG両トップが語る協業の狙い ps.nikkei.com",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T05:43+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "11b519fbefb349f4",
+   "title": "【衝撃】総額230億円分の配布‼︎全国民にPayPayなど総額30000p貰える！！ Avatar (YIHdoxc5mL)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM3dsZkNUeFBOQVd2eV9GdXJNa0dnRko4a00xWXJIUXdQLUpDYUFIQ0N0R2plaHZpV09LSGlrbVdtRlBzMGxEdnM4c3QxSC1LUlFoZWZ3VVpHSWRHV3BFQmtQdE5FM2ppMTdrOVIyRzRReDNKV1BEQ1Brc0l1THFPcFln?oc=5",
+   "source": "Unisba Media",
+   "summary": "【衝撃】総額230億円分の配布‼︎全国民にPayPayなど総額30000p貰える！！ Avatar (YIHdoxc5mL) Unisba Media",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T01:37+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "a680bb5c448837ce",
+   "title": "消費者委員会が建議 キャッシュレス決済の規制強化を要請🔒",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44MEdRUTVSYURGNVBqOEp2QzRNU1JVMWd2M0t0NDVwaDNmb19OWmdvZ3RNQV9DOUM0bmN4T3hhQkdHTTJBZ2hvM9IBTkFVX3lxTE03dldCN05PTF82d1JGeDBSZWU0VGRHOS1nVWVoNW9aVDd4QU9NaGk0UU5IaDRwX3ZicFBDSDBKeE1HVnpRWGJpNGpOblRXdw?oc=5",
+   "source": "WEBニッポン消費者新聞",
+   "summary": "消費者委員会が建議 キャッシュレス決済の規制強化を要請🔒 WEBニッポン消費者新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T01:18+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "2521120906ceb3ec",
+   "title": "Okageが提供するキャッシュレスセルフレジ「Okage Kiosk前払い」でコスト削減を実現",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oY3dyYWJVZDdDa2cxTFVqdGdEOHFMeWl6a29rWkowOUZRRUZzQkw3YmpUeGdyNDA5SUg1R3NrcW1YTVFkNGZqVVZXbm5Ta3dIR2hZb2ZvdVFsUGd3cjdRcFYxWUw5NThEREFZamZPMWFPQkJH?oc=5",
+   "source": "voix.jp",
+   "summary": "Okageが提供するキャッシュレスセルフレジ「Okage Kiosk前払い」でコスト削減を実現 voix.jp",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T22:15+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "ede542b9bcd4ba7c",
+   "title": "『焼肉きんぐ』公式アプリから登録会員の個人情報“1000万件超”が漏洩 氏名や電話番号などでクレカ情報は保持せず",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0aFdIQ1Z4blhnME9qNjl4b0twX2VYM2lKNVgxN3BIdzF6MDgwMk1mOXFCbkxPVVd4WG5IcHd5SVFaTEs0WU9JVUlySnQtNHBYWFVPOTVLVUprSUQyTF9NYjZLZTh4ZnNNV0xLd25Sd3VIZlBTblhhQ2hOeW95T28?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "『焼肉きんぐ』公式アプリから登録会員の個人情報“1000万件超”が漏洩 氏名や電話番号などでクレカ情報は保持せず Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-05T19:13+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "86edfe2ffbf0d8bc",
    "title": "飲食店予約サービス「food back」、新規加盟店を対象に「保証金」制度を導入",
    "link": "https://prtimes.jp/main/html/rd/p/000000035.000054688.html",
@@ -41,8 +120,20 @@
    "type": "release",
    "published": "2026-10-05T18:15+09:00",
    "company": "株式会社YUKARI",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "f16702cae510147b",
+   "title": "Buy Now Pay Later（BNPL）サービス市場における22.30%の成長を牽",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmdmtlem5GdWFPX3M5VFVmZ1BkWjVrR3UzTHFWQ2FYNDFHZmg0cnVZSzNMMl9xMlBmLXpNdVBTS0t1a0ZEMXQxUEJ3?oc=5",
+   "source": "pando.life",
+   "summary": "Buy Now Pay Later（BNPL）サービス市場における22.30%の成長を牽 pando.life",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T17:02+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "651fd693df357b20",
@@ -125,8 +216,7 @@
    "type": "release",
    "published": "2026-10-05T15:15+09:00",
    "company": "株式会社クレディセゾン",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "aeb91909c1e4f701",
@@ -694,6 +784,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "273195f49bb33ae0",
+   "title": "30代のクレジットカードおすすめ18選｜恥ずかしくない究極の1枚と最強の2枚",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tN0JwLTFIajhZVExSRGVGeUFjQ0UwalZfR0FzbVBhZ2ZiX0VKN213WEZYTXdoZUFKVXI1X0pzMEd3WEstLTZvdmJCSFVyZk8xZkRoT2Q1eE1XQQ?oc=5",
+   "source": "fisco.jp",
+   "summary": "30代のクレジットカードおすすめ18選｜恥ずかしくない究極の1枚と最強の2枚 fisco.jp",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-03T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "fa14321d38da31e8",
    "title": "東京ポイントをVポイントに交換で20％還元 VポイントPayのVisaタッチ、上限1100ポイント",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZV3FJRUxlMFVXR2gtU2xtZ0dpMVVrS1pIQWx5R0pTcXFFcktjRVFRXy1NLW5MdEZ5bzdkeWtNMFM5MEVnRnAtLUgyUGFkQQ?oc=5",
@@ -1182,6 +1285,19 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kaUkzcy1mbnNYaE1ka2hMcTBMVW9KT0ZWLWNWRzhxaTFjYlBaUkxCeUJmY3YyMEZqa0NPVFM5MHkwbV9Zc1ctZ0VSNzNOLTRQ?oc=5",
    "source": "みんかぶ",
    "summary": "クレジットカードのお得な新規入会キャンペーン特典比較【2026年10月最新】 みんかぶ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-02T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6aadc325bd21bab7",
+   "title": "クレジットカードおすすめランキング【2026年10月最新】専門家が選ぶ人気の30枚を徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PNmhhOWFsRWhMMGZBQWZnSVgwSkdGRjh4RktGbVNHQXNKVWRHYUR3MFI0THhvQWtfQ2JHQkJrbW5HeE1xSXBQV2tWeHA0R08zZkJ6SFlpUnU?oc=5",
+   "source": "株探",
+   "summary": "クレジットカードおすすめランキング【2026年10月最新】専門家が選ぶ人気の30枚を徹底比較 株探",
    "categories": [
     "credit"
    ],
@@ -1802,9 +1918,10 @@
    "categories": [
     "cashless"
    ],
-   "type": "news",
+   "type": "release",
    "published": "2026-10-01T19:50+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
+   "via": "Googleニュース「後払い・BNPL」",
+   "company": ""
   },
   {
    "id": "26f9b4b3947d116f",
@@ -1980,6 +2097,19 @@
    "company": "株式会社バローホールディングス"
   },
   {
+   "id": "1f225a4154150a31",
+   "title": "VisaとONEジャパン「国際物流総合展」でB2Bカード決済の導入成果を紹介 - 振込手数料の削減や入金確認業務などを効率化",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QaTJIaEUzLWI4ZjRYOE1qSWl0MHZVUlgzTFVkSmJhZEJ2M29EWjJ0eFJ1RWJzWVpNTEVKUlFEb2QtWHRTYngySnNfQlZoWk5YWXIybGp0ZXZkMUZz?oc=5",
+   "source": "news.mynavi.jp",
+   "summary": "VisaとONEジャパン「国際物流総合展」でB2Bカード決済の導入成果を紹介 - 振込手数料の削減や入金確認業務などを効率化 news.mynavi.jp",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:27+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "9eac2d074f7e9728",
    "title": "Visa・Pulse・SBPS、オンライン決済領域での「Visa割」キャンペーン展開で協力 - 第1弾は「AION2」",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUNHZiSmFUR1lxTmJGUFFQajdCSjRxUklmMEpuYWgwVkV3Z3huQ0ItazJzUGN5MGxxNXY5bkQ0dWNpYmVtYU45UkZmUjI4NTNvQ3VXRkhzYkJuQXZv?oc=5",
@@ -2131,6 +2261,19 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uSEtjd0hfVkJ4WXdiUHFoOVJLZmtXTTdKME5fenJ0SnV3d0Z1N21ob1BvMkJUa3FPaW1KVGp4akRMRU0tRGhpQnA3SHl1c3J4cWc?oc=5",
    "source": "ダイヤモンド・オンライン",
    "summary": "アメックスの新規入会キャンペーンをまとめて紹介！【2026年10月最新版】｢アメリカン･エキスプレス｣の入会特典で、ポイントやマイルをお得に獲得しよう！ ダイヤモンド・オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2e84166f8fdef0cf",
+   "title": "プラチナカードおすすめランキング【2026年10月】コスパ最強のハイステータスカード17枚 - クレジットカード比較",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85dm9Ka0dSZW9xZkFxc0FDR3BHMjRlMVlBTWktc0t5SVZaNGd5YkxrVm5SVmxvWmx3YzBadUZ1dnhXOHp5X1dBNnJCUnk3UWFROHp5RTV1bU95dw?oc=5",
+   "source": "株探",
+   "summary": "プラチナカードおすすめランキング【2026年10月】コスパ最強のハイステータスカード17枚 - クレジットカード比較 株探",
    "categories": [
     "credit"
    ],
@@ -2904,6 +3047,19 @@
    "published": "2026-10-01T00:00+09:00",
    "via": "Googleニュース「決済代行」",
    "company": "ビザ・ワールドワイド・ジャパン株式会社"
+  },
+  {
+   "id": "6ea8361465cff3e0",
+   "title": "【徹底比較】高ステータスなクレジットカードのおすすめ人気ランキング【2026年10月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5KTHR5emdKVTZjZDlsVzJ4cGRGMkFaQ3hsSW9pN3FOSzBEUlRBYzlDMEJJSkR4clZSQ2hQY0JB?oc=5",
+   "source": "my-best.com",
+   "summary": "【徹底比較】高ステータスなクレジットカードのおすすめ人気ランキング【2026年10月】 my-best.com",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-01T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "b5ceea8454667eff",
