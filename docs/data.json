@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T14:11+09:00",
+ "updated_at": "2026-10-05T16:51+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,115 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "651fd693df357b20",
+   "title": "【本日サービスイン】東京都北区初の独自デジタル地域通貨「ほくペイ」ついに利用開始！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000207.000019691.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ポケットチェンジ] 株式会社デジタルガレージ（以下：デジタルガレージ）のグループ会社であり、オリジナル電子マネー発行プラットフォーム「Pokepay（ポケペイ）」を手掛ける株式会社ポケットチェンジ（以下：ポケットチェンジ）は...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-05T16:41+09:00",
+   "company": "株式会社ポケットチェンジ",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "86e884876ac366d8",
+   "title": "ライフカードがエンタメカード情報を集約した特設サイト「SUKIDA.」を公開！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000333.000009391.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ライフカード株式会社] ライフカード株式会社（代表取締役社長：大森 公裕、以下「ライフカード」）は、ライフカードが発行するエンタメ系クレジットカードの情報を集約した特設サイト「SUKIDA.」を2026年10月5日(月)より公開しました。...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-05T16:41+09:00",
+   "company": "ライフカード株式会社",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "aa84b0006446d801",
+   "title": "「チケットレストラン」でApple Pay・Google Payに対応した新決済方法「モバイルタッチ決済」提供開始（グルメ Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EQ0ZnbTlwYjM0NFgtR1NvbHVseVNfQU9DbzRkUUZZdjkxM0tRZUdxajF6ZnIzeGpsYjlmYlNLQXcwMFNrSkhZaUxhTXdsR1pOYWZWUHZSVDVYNG5kN1NiQUR1c1A4X3hpTm1NbF8zUjVaNWJoSmxla01lSFhKVVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「チケットレストラン」でApple Pay・Google Payに対応した新決済方法「モバイルタッチ決済」提供開始（グルメ Watch） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T15:43+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "2928e823414c353c",
+   "title": "オートレースの後払い決済利用実態を調査。87.0％が月5万円未満、最多はクレジットカード",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04Y054WFdzY1lmbXFIdGlqdXpJQTF0U0FOV3I1a2UyNVhJMWtFVzNaeTFia0U1SnM5MkYwX3A1X1lfc0Z6YUVKdy1FenZFcHhfdkxpMVNxM2pJZTZqT2pxVFFTdDN0Z2JMbmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "オートレースの後払い決済利用実態を調査。87.0％が月5万円未満、最多はクレジットカード PR TIMES",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-05T15:30+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社サイトクリエーション"
+  },
+  {
+   "id": "099d0cd011a73e38",
+   "title": "意外…31歳・pecoはアナログ人間だった タッチ決済経験なし！「なくさないで」と懇願したものは（スポニチアネックス）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtMmdsaGxjc09MeTVVSVEzbEo0blV1c1RJUEZCMkVxY0ZMczI0U1RnbE1kSmtINEVzMVFVSk9rakVudTE4QWVzNzZId3ktTHRRQWM3bElGTm1KX1ZYQTlBRS1sUGhQbWZFdFMtUmdqd1lsT181dDc2LXVGQ1JXdm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "意外…31歳・pecoはアナログ人間だった タッチ決済経験なし！「なくさないで」と懇願したものは（スポニチアネックス） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T15:24+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "aeb91909c1e4f701",
+   "title": "プリペイドカード市場：カード種別、カードタイプ、カードネットワーク、用途別―2026年～2032年の世界市場予測",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HRVhac2o3YjFlOFh5U3k2SDM3Sl8zLXhBZ2NCYUx3bE9GelV4aF8zZ2VxZlg4VEs0akp3RXE5THVrWXR3WS1jOXFPSkRUTjQ?oc=5",
+   "source": "アットプレス",
+   "summary": "プリペイドカード市場：カード種別、カードタイプ、カードネットワーク、用途別―2026年～2032年の世界市場予測 アットプレス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-05T14:05+09:00",
+   "via": "@Press（決済）",
+   "company": "株式会社グローバルインフォメーション"
+  },
+  {
+   "id": "b321196fbd3f5d86",
+   "title": "三戸町デジタル地域通貨「さんのへPay」加盟店決済機器等導入支援補助金について|三戸町公式ホームページ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BNXJ3X0RYVllYb0d6WmlTY2gybE9aTFh6QTV2SThabU82dDgyUjZud2JLTjhYNGVOVE1QMkJVTTZYcng2YmlKZGE2RHM2dV8tdjZtOU9NcXhaMm9EUHkxdTdWNEdzRUlqd0E?oc=5",
+   "source": "town.sannohe.aomori.jp",
+   "summary": "三戸町デジタル地域通貨「さんのへPay」加盟店決済機器等導入支援補助金について|三戸町公式ホームページ town.sannohe.aomori.jp",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:41+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "68dcf9aa9e79813b",
+   "title": "ウエルシア、最大20％還元の「BLACKFRIDAYキャンペーン」開催 週末限定10％還元＋Switch 2当たるチャンスも",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/05/news058.html",
+   "source": "ITmedia Mobile",
+   "summary": "ウエルシア薬局は、WAON POINTが最大20％還元される「ウエルシアグループBLACKFRIDAYキャンペーン」を開催。金、土、日曜日限定のAEON Pay払いでAEON Pay残高最大10％還元キャンペーンなども同時に行う。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:33+09:00",
+   "via": "ITmedia Mobile"
+  },
   {
    "id": "7fa4d70648093935",
    "title": "食事補助のチケットレストラン、Apple Pay/Google Payに対応",
@@ -1147,6 +1256,20 @@
    "company": "JALペイメント・ポート株式会社"
   },
   {
+   "id": "79bc6463827299ca",
+   "title": "2026年10月1日（木）より、「JAL Pay Apple Payで最大100％ポイントバックキャンペーン」に、JALカード会員限定で最大10,000マイルがあたるWチャンスが登場！ | JALペイメント・ポート株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11WkpLTDA2ZGhXeFZtRXkybTlCZ0ZtT2JqbTllNmVNdnVHS01jVWhsMk9QVVhsYU82cXZWR19HdGVPTjAtRDZJY1JIek9kZllaU0IzMEt3Sm1US2hlaW1BaVB0YnBiRWRnekE?oc=5",
+   "source": "PR TIMES",
+   "summary": "2026年10月1日（木）より、「JAL Pay Apple Payで最大100％ポイントバックキャンペーン」に、JALカード会員限定で最大10,000マイルがあたるWチャンスが登場！ | JALペイメント・ポート株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-02T13:29+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "JALペイメント・ポート株式会社"
+  },
+  {
    "id": "3ed59a9f0f0b8c4a",
    "title": "川崎アゼリアでコード決済・電子マネーの利用開始、お得なPayPayクーポンも発行",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNHFyc2s5TTJ6a3BuZGNMZ1l3ek8tN2tBeFQzV2tqUjFiQ3lpTnRzYmVhM1dHY3NhYms4RXFNUjJQLXNIdExvUzBQaFJhR2JTS1FsTTVKRzRXYnV3akxLTzhEdFVDOFBXN0ZTT0lFckwxcGlCM01SODVMazFubGZod3VHaUpOT1RmdzVhVXBFWHQ0cExoS000eA?oc=5",
@@ -1938,6 +2061,46 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qc1cza1phNGpUYVZLZWRVS2E1Yk1kMDlOemROaGpoUklOSlRfMXcxYnBhZUVqT0hVTGF4WjVqVWdtaXhyaEtYYXFteWhtSDdo?oc=5",
    "source": "株探",
    "summary": "女性におすすめのクレジットカード！20代から50代まで年代別の選び方も解説 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0e4b52f05071ad93",
+   "title": "Apple Pay対応のクレジットカードで選ぶ！Apple Payに登録して得する高還元率カードはコレ！",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nX0JJa2xwZTJucXdyaVdrd29GRmJuaDlqQXhPdFA2QWNpYXlTV1BaUkt6SmxVa3RXVVFSU05CRE4wbFpsVkV6ci0yNEJCWVNVSHc?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "Apple Pay対応のクレジットカードで選ぶ！Apple Payに登録して得する高還元率カードはコレ！ ダイヤモンド・オンライン",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "811ca7268b468cb7",
+   "title": "人気のクレジットカードから選ぶ！（2026年最新版）みんなの「おすすめクレジットカード」一覧！",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxeWdXQVNrc3FwWFozTU5SbXRQbmtoZndWQ2llYXU0SWJ0QXN2ZnJvR29INExub25vS2gtd2VwUUlyZVN2Yll3bjNMbThqbm5w?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "人気のクレジットカードから選ぶ！（2026年最新版）みんなの「おすすめクレジットカード」一覧！ ダイヤモンド・オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c05819c6f19e610c",
+   "title": "アメックスの新規入会キャンペーンをまとめて紹介！【2026年10月最新版】｢アメリカン･エキスプレス｣の入会特典で、ポイントやマイルをお得に獲得しよう！",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uSEtjd0hfVkJ4WXdiUHFoOVJLZmtXTTdKME5fenJ0SnV3d0Z1N21ob1BvMkJUa3FPaW1KVGp4akRMRU0tRGhpQnA3SHl1c3J4cWc?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "アメックスの新規入会キャンペーンをまとめて紹介！【2026年10月最新版】｢アメリカン･エキスプレス｣の入会特典で、ポイントやマイルをお得に獲得しよう！ ダイヤモンド・オンライン",
    "categories": [
     "credit"
    ],
@@ -3877,6 +4040,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "16c360c44c37ef27",
+   "title": "【徹底比較】陸マイラー向けクレジットカードのおすすめ人気ランキング【ANA・JAL別に紹介！2026年9月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB2U1Azc3FVbW04NlVDcHE1S0UtalJjcklobkdUdUJpSGhLWnBLTFJBdHN5LW55MGNDSklZSXVn?oc=5",
+   "source": "マイベスト",
+   "summary": "【徹底比較】陸マイラー向けクレジットカードのおすすめ人気ランキング【ANA・JAL別に紹介！2026年9月】 マイベスト",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-30T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "9d02bd3dfd9bb75b",
    "title": "Sa Dec Wardは、企業がキャッシュレス決済方法を導入することを促進・支援しています。",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTdnSkkyV2o1QkRzY2loNGEwU2hCR2ozSEVCNFExUnUyVEZQS1hDSi0tRXhtci03X0o1NlVYUmdZNnR3cGE4SmM1SGpKTHZCZE9ZSlpaTjBDcV9rR0Q5SUhMTWVDV0RFcGswTlBQbzE2dGFCOVlScExlbF9QaEFSSmxWeGtOYnJXcFh0TDBvR1c5RVg0NndlMXdrZE5BWllGa2EtbzkyOA?oc=5",
@@ -4107,6 +4283,33 @@
    "summary": "PayPayカードのメリットは？ポイント還元率や入会特典も紹介 株探",
    "categories": [
     "code"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a058c1f9c73ca1eb",
+   "title": "節約が簡単にできて、毎月「1％」貯金が増える！クレジットカードで決済した支出の「0.5～1％」が自動的にキャッシュバックされるお得なカード比較",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGRC1xTl9RSFZMb1FVaHpNeEM1TzNPdXE3dTZ1aU4tSFdscmFUUk01MXlZNU5MX1B0T2VodlZ2YkU2SktZZDJ3cEZwMkM0T3c3?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "節約が簡単にできて、毎月「1％」貯金が増える！クレジットカードで決済した支出の「0.5～1％」が自動的にキャッシュバックされるお得なカード比較 ダイヤモンド・オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2f5bf32484ea0a1c",
+   "title": "PayPay証券はPayPayカードでクレカ積立が可能！メリット・デメリットは？",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LU0FnbF9oSU9LeTY5SG1kRjYyZDNUQTRlWXdTZkcwNnJkZFNEeWpxOWZlZTZsWmdTWDF2MFhkNjR2TWYzd1JRMDZhYXF6V0IxVXJfQmFJdDFxOE5UbXhPdmdtTEM2WUl5Q19sVkFxRGZGdTlNdXc?oc=5",
+   "source": "株探",
+   "summary": "PayPay証券はPayPayカードでクレカ積立が可能！メリット・デメリットは？ 株探",
+   "categories": [
+    "code",
+    "credit"
    ],
    "type": "news",
    "published": "2026-09-29T16:00+09:00",
