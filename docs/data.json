@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T17:52+09:00",
+ "updated_at": "2026-10-05T18:51+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "86edfe2ffbf0d8bc",
+   "title": "飲食店予約サービス「food back」、新規加盟店を対象に「保証金」制度を導入",
+   "link": "https://prtimes.jp/main/html/rd/p/000000035.000054688.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社YUKARI] [画像: https://prcdn.freetls.fastly.net/release_image/54688/35/54688-35-0bf7198a6a5caafcaf4ba09bc9c56373-687x300.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&b...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-05T18:15+09:00",
+   "company": "株式会社YUKARI",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "651fd693df357b20",
    "title": "【本日サービスイン】東京都北区初の独自デジタル地域通貨「ほくペイ」ついに利用開始！",
