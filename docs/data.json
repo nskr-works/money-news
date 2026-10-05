@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T10:49+09:00",
+ "updated_at": "2026-10-05T12:52+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,37 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "3ba8c622182b96b6",
+   "title": "Mastercard、「働きがいのある会社」認定機関 Great Place To Work(R) より認定を取得",
+   "link": "https://prtimes.jp/main/html/rd/p/000000144.000037691.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Mastercard] [画像: https://prcdn.freetls.fastly.net/release_image/37691/144/37691-144-2316961e7f54d92a8a022d47281bf087-3900x2605.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-05T11:30+09:00",
+   "company": "Mastercard",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "7d94692a93ff0d3e",
+   "title": "初期コストはサイネージ型券売機の1/10程度。Okageが決済端末不要のキャッシュレス・セルフレジ「Okage Kiosk 前払い タップ決済」提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000056.000078704.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Okage株式会社] 飲食店のDXを支援するOkage株式会社（本社：東京都中央区、代表取締役CEO：内田善久、以下「当社」）は、決済端末不要のキャッシュレス・セルフレジ「Okage Kiosk前払い タップ決済」の提供を開始いたしましたの...",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-05T11:30+09:00",
+   "company": "Okage株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "0ca683f905cd9271",
    "title": "【現金500円プレゼント 】「ちゅうぎんJCBデビット紹介キャンペーン」の実施",
