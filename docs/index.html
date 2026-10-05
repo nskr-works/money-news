@@ -172,6 +172,10 @@ ul.list{list-style:none;margin:0;padding:0;background:var(--surface);border:1px 
 .entry .meta{font-size:.75rem;color:var(--muted);margin-top:8px;display:flex;flex-wrap:wrap;gap:4px 14px;align-items:center}
 .new{background:var(--gold);color:#fff;font-family:var(--latin);font-weight:700;font-size:.62rem;letter-spacing:.12em;padding:2px 7px;border-radius:2px}
 .rel{border:1px solid var(--line);color:var(--ink-2);padding:1px 9px;font-size:.68rem;font-weight:500;border-radius:2px}
+/* 今日の記事の NEW（一面・速報・分野欄） */
+.lead .new,.seconds .new{display:inline-block;margin-left:8px;vertical-align:1px}
+.brief .new{display:inline-block;margin-bottom:4px}
+.flash .t .new{margin-right:6px;vertical-align:1px}
 .company{color:var(--ink);font-weight:700}
 .empty,.more-wrap{text-align:center;color:var(--muted);padding:40px 0}
 .more{padding:13px 38px;border:0;border-radius:6px;background:var(--accent);color:#fff;cursor:pointer;font-weight:700;letter-spacing:.04em;transition:transform .15s,opacity .15s}
@@ -496,21 +500,27 @@ function buildCategoryUI(){
 /* 一面 */
 const FRONT_N = 7;  // 一面に載せる本数（トップ1＋準トップ6）
 function shuffle(a){ for (let i = a.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
-// 一面の記事を選ぶ：当日のニュースが7本以上あればその中からランダム、
-// なければ前日（さらに足りなければその前の日）のニュースからランダムに選ぶ
+// 今日（JST）配信の記事か
+const isToday = it => dayKey(it.published) === keyOf(new Date());
+// 今日の記事なら NEW の印を返す（append に展開して使う）
+const newMark = it => isToday(it) ? [el("span", "new", "NEW")] : [];
+// 一面の記事を選ぶ：当日のニュースを優先して前に置き、足りない分は前日、その前の日…から補う。
+// 各日の中ではランダムに並べ、同じ媒体が続かないよう媒体の重複をできるだけ避ける
 function pickFront(){
   const news = state.items.filter(it => it.type === "news" && it.title.length >= 16);
   const byDay = {};
   for (const it of news) (byDay[dayKey(it.published)] ||= []).push(it);
   const today = keyOf(new Date());
   const days = Object.keys(byDay).filter(k => k <= today).sort().reverse();
-  const day = days.find(k => byDay[k].length >= FRONT_N) || days[0];
-  if (!day) return { day: null, picks: [] };
-  // 同じ媒体が並ばないよう、まず媒体が重ならないように選び、足りなければ残りから補う
-  const pool = shuffle([...byDay[day]]), picks = [], seen = new Set();
-  for (const it of pool) if (picks.length < FRONT_N && !seen.has(it.source)){ picks.push(it); seen.add(it.source); }
-  for (const it of pool) if (picks.length < FRONT_N && !picks.includes(it)) picks.push(it);
-  return { day, picks };
+  const picks = [], seen = new Set();
+  for (const k of days){
+    if (picks.length >= FRONT_N) break;
+    const pool = shuffle([...byDay[k]]);
+    for (const it of pool) if (picks.length < FRONT_N && !seen.has(it.source)){ picks.push(it); seen.add(it.source); }
+    for (const it of pool) if (picks.length < FRONT_N && !picks.includes(it)){ picks.push(it); seen.add(it.source); }
+  }
+  // 見出しの日付は、一面に載せた中で一番新しい日（今日の記事があれば「今日の一面」）
+  return { day: days[0] || null, picks };
 }
 function renderFront(){
   const { day, picks } = pickFront();
@@ -524,7 +534,7 @@ function renderFront(){
   if (lead){
     used.add(lead.id);
     leadA.href = lead.link;
-    leadA.append(kicker(lead), el("h3", "t", lead.title));
+    leadA.append(kicker(lead), ...newMark(lead), el("h3", "t", lead.title));
     // Googleニュースの要約は「見出し＋媒体名」なので、見出しの繰り返しなら出さない
     if (lead.summary && !lead.summary.startsWith(lead.title.slice(0, 12))) leadA.append(el("p", "dek", lead.summary.slice(0, 90) + (lead.summary.length > 90 ? "…" : "")));
     leadA.append(el("div", "meta", `${lead.source}　${when(lead.published)}`));
@@ -532,7 +542,7 @@ function renderFront(){
   const secs = $("#seconds"); secs.textContent = "";
   for (const it of picks.slice(1)){
     used.add(it.id);
-    const a = link(it); a.append(kicker(it), el("span", "t", it.title), el("span", "small-meta", `${it.source}　${when(it.published)}`));
+    const a = link(it); a.append(kicker(it), ...newMark(it), el("span", "t", it.title), el("span", "small-meta", `${it.source}　${when(it.published)}`));
     secs.append(a);
   }
   const flash = $("#flash"); flash.textContent = "";
@@ -542,7 +552,8 @@ function renderFront(){
     const tm = el("time"); tm.dateTime = it.published;
     if (dayKey(it.published) === keyOf(new Date())) tm.textContent = it.published.slice(11,16);
     else { tm.append(it.published.slice(11,16)); tm.append(el("small", null, `${Number(it.published.slice(5,7))}/${Number(it.published.slice(8,10))}`)); }
-    a.append(tm, el("span", "t", it.title));
+    const t = el("span", "t"); t.append(...newMark(it), it.title);
+    a.append(tm, t);
     li.append(a); flash.append(li);
   });
   for (const c of state.cats){
@@ -553,7 +564,7 @@ function renderFront(){
       used.add(it.id);
       const a = link(it, "brief");
       const rel = it.type === "release" ? `　プレスリリース${it.company ? `　${it.company}` : ""}` : "";
-      a.append(el("span", "t", it.title), el("span", "small-meta", `${it.source}　${when(it.published)}${rel}`));
+      a.append(...newMark(it), el("span", "t", it.title), el("span", "small-meta", `${it.source}　${when(it.published)}${rel}`));
       box.append(a);
     });
   }
@@ -643,7 +654,7 @@ function render(){
     const a = link(it); a.append(el("span", "t", it.title));
     const meta = el("div", "meta");
     meta.append(kicker(it));
-    if (now - new Date(it.published).getTime() < DAY) meta.append(el("span", "new", "NEW"));
+    if (isToday(it)) meta.append(el("span", "new", "NEW"));
     meta.append(el("span", null, it.source));
     if (it.type === "release"){
       meta.append(el("span", "rel", "プレスリリース"));
