@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T12:52+09:00",
+ "updated_at": "2026-10-05T14:11+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,58 @@
  "topics": {},
  "items": [
   {
+   "id": "7fa4d70648093935",
+   "title": "食事補助のチケットレストラン、Apple Pay/Google Payに対応",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HczhxdXhXSklQbW5pc0p1OW9RaXo4eTE5SDF2aHN0U1k1aWpBMmxGUWlzdVcxdDA2S1BiVHdBVy1NWWxMckN5dmVLeGd1LTJOX2Z3a2ozQzZVZkZ4Q1FCYjFzSjQ?oc=5",
+   "source": "Impress Watch",
+   "summary": "食事補助のチケットレストラン、Apple Pay/Google Payに対応 Impress Watch",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:29+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "286b6a7d232ccfda",
+   "title": "ダイナースクラブが20～30代向けのクレジットカード「ダイナースクラブ ゴールド」を発行、主軸カードは「ダイナースクラブ プラチナ」にリニューアル",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9laFFzV1gzdkdsdFA3VzJqZ2NWWnFETUVXNTlwTG9iUnRJd09BdE9JWkhoTnRfck54c1VYeEwyRW11UGVm?oc=5",
+   "source": "@DIME アットダイム",
+   "summary": "ダイナースクラブが20～30代向けのクレジットカード「ダイナースクラブ ゴールド」を発行、主軸カードは「ダイナースクラブ プラチナ」にリニューアル @DIME アットダイム",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:09+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "94e4514f9a27822b",
+   "title": "チケットレストランがApple Pay・Google Pay対応、スマホで食事補助が完結",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2145613.html",
+   "source": "ケータイWatch",
+   "summary": "エデンレッドジャパンは、食事補助サービス「チケットレストラン」で、Apple Pay・Google Payに対応した「モバイルタッチ決済」の提供を開始した。スマートフォンのみで決済が完結するため、企業側は物理カードの発行や管理にかかる業務を削減できる。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T12:47+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "8b1e223253666f80",
+   "title": "指一本でタッチ決済から心電図、睡眠トラッキングまで。スマートリングの完成形が来るぞ",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2pmQkRsU01XRXZJZHh2eVUwLWNqdXAxUkM3R1BtTUNmUXlxYUZYUy15LWVVcXR4R1o1Mkx1WGhYZ3JYSVZjX2N5NG1wVTVDeTk0Vm0yVWJVTFVGbTFJTk92V19UaHB0aWdmM095MGotWVQ1R2M0a3ZPUVRKVnNsVllyMkhpY0M5Z0lTelVMbTlxcjNqUUF0XzlVNXB4UQ?oc=5",
+   "source": "Gizmodo",
+   "summary": "指一本でタッチ決済から心電図、睡眠トラッキングまで。スマートリングの完成形が来るぞ Gizmodo",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T12:30+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "3ba8c622182b96b6",
    "title": "Mastercard、「働きがいのある会社」認定機関 Great Place To Work(R) より認定を取得",
    "link": "https://prtimes.jp/main/html/rd/p/000000144.000037691.html",
@@ -41,8 +93,7 @@
    "type": "release",
    "published": "2026-10-05T11:30+09:00",
    "company": "Mastercard",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "7d94692a93ff0d3e",
@@ -57,8 +108,35 @@
    "type": "release",
    "published": "2026-10-05T11:30+09:00",
    "company": "Okage株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "6a1dc8d879789caa",
+   "title": "【三井住友カード】東京ポイント→Vポイント交換＆スマホのVisaタッチ決済で20%還元するキャンペーン - 10月31日まで",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BSVlsZEY3OTZ6dDNlR2NJYWtqSUFJZEdDQUw1RFlNSG56aTJDVnRFWWhHZDYzcGZDRGR0enRVNGRMUkdnZlVWUk1yZ01PVk9FVHlFSk0wUW56Ry1iSDhjWnlqWnpMSVJLRXZGb0t3?oc=5",
+   "source": "au Webポータル",
+   "summary": "【三井住友カード】東京ポイント→Vポイント交換＆スマホのVisaタッチ決済で20%還元するキャンペーン - 10月31日まで au Webポータル",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-05T11:24+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "c78f082bf9bdc521",
+   "title": "【業界初※1】「チケットレストラン」がApple Pay・Google Payに対応！スマホひとつで“食事補助”が完結する「モバイルタッチ決済」を10月5日より提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51X0NST1gyc0ViTTlvbFUteVZ2akRNZE5DR3B2RXZPak1teHA5QVVpWmxhT0pVS19VZjRyaDJxODd6N09oNGxsTVRlMjZwOFBtM1k3X1k4X1RBUkFwWFdFZ2QxTmRPcWtoZEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【業界初※1】「チケットレストラン」がApple Pay・Google Payに対応！スマホひとつで“食事補助”が完結する「モバイルタッチ決済」を10月5日より提供開始 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-05T11:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」",
+   "company": "株式会社エデンレッドジャパン"
   },
   {
    "id": "0ca683f905cd9271",
@@ -156,6 +234,19 @@
    "via": "Impress Watch"
   },
   {
+   "id": "9946dca78a359bbc",
+   "title": "聖教電子版 1カ月分の料金で最大3カ月使える クレカ限定キャンペーン実施中",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RZzE2SWlFUmwyNTVSUUwtM0JaVFg5U2hiQzBMZUlibXc5X3hNdllHWUJzbzhVU3JmVUJTZWlsWG8wWkNmUGw4WUIwQXVHVXRtSkNqc0FRRUJ0eUlTUE5iOEowQzFEOUlPMmVTZUZ6b0dDbHFaX0JvVg?oc=5",
+   "source": "seikyoonline.com",
+   "summary": "聖教電子版 1カ月分の料金で最大3カ月使える クレカ限定キャンペーン実施中 seikyoonline.com",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-05T05:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "c241e0154658fc50",
    "title": "社会保障分野におけるキャッシュレス決済の割合が、設定された目標を上回った。",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGM4S3lBZi1DTFMybDFnaFo5a0ozZ3dpSTFNcFBzS2tmaENIdlhpMTVhMm0tQU1NSjgxN0ZvX2F5NG1ncnQ3eWcxMnhQUWc0X3JiUXF4Wms2akd6dkUwVjFGczJiQVRrNWZ5MVhvVVhJMlZyOWtFQ2w3YlZKVDBtUWhTbXlTUGxXb2FHbjhaQlFLbXFvRlhpUUo2QWtqRW84b3V0azlaXzljcFBBSUE?oc=5",
@@ -195,6 +286,20 @@
    "published": "2026-10-04T19:10+09:00",
    "company": "ストライプジャパン株式会社",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "b8df753afc03bf0d",
+   "title": "「楽天ペイ」、島根県大田市が実施する最大20%還元の「おおだキャッシュレスキャンペーン」に参加",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVFNFOHJXY2I3Rlp1SUs4S0x6dWQ5VGZxQjAwcFVzTVJjRkNZUDQ0TVZBUlpZcV9tZlU0VjAxemRhUmFwVWxjOGpkZ1RFeUphSHc?oc=5",
+   "source": "山陽新聞",
+   "summary": "「楽天ペイ」、島根県大田市が実施する最大20%還元の「おおだキャッシュレスキャンペーン」に参加 山陽新聞",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-04T18:11+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "1b094b71c5b5a2f4",
@@ -610,6 +715,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "2544b670c40ea2cb",
+   "title": "ふらっと行っちゃう！「フタバ図書」２４時間営業スタート 顔認証、キャッシュレスで「無人化」実現 【広島発】",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96RE9rR2FONVp2VXB2UUtlWWRDTEdWb2c5aEFCbXYtQk5ZMFlxYzNqNzk3UjVSSWloRVlBNElGdm1RMXNCVC0wUzRCUDNaTW5aam8wbFZTSElBQXJsdWtJ?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "ふらっと行っちゃう！「フタバ図書」２４時間営業スタート 顔認証、キャッシュレスで「無人化」実現 【広島発】 FNNプライムオンライン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-03T08:45+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "65c1bf41dc56a0d6",
    "title": "クレジットカードvsスマホ決済 最得案内",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FR09tUDRmOVlULTlpcUR2T1p2S3Bzc25Ud3k4QXlfNGxUdGVjRmJPU3c0czl5dW9yUnVfUENRdldDa2RHc3hfX0dHa21TMEk1dEtQVWlsUndFcHlEWnc?oc=5",
@@ -920,6 +1038,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "2172e9a8a5c5cb52",
+   "title": "クレジットカードのお得な新規入会キャンペーン特典比較【2026年10月最新】",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kaUkzcy1mbnNYaE1ka2hMcTBMVW9KT0ZWLWNWRzhxaTFjYlBaUkxCeUJmY3YyMEZqa0NPVFM5MHkwbV9Zc1ctZ0VSNzNOLTRQ?oc=5",
+   "source": "みんかぶ",
+   "summary": "クレジットカードのお得な新規入会キャンペーン特典比較【2026年10月最新】 みんかぶ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-02T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "f2172bf2e954a354",
    "title": "メルペイ、Stripeのオンライン決済に対応 加盟店で利用可能に",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwbjVKNEgtdC1HRlMxUV9SZlBHTks0WXVaV2RGMkF5RkJzSnhHTUZOa1lUTExYc3R6QTNVVFRYaEVLV0VJSlhIb09hOTlPTlFFRTFpcExrYnFVeFlnejZJ?oc=5",
@@ -946,6 +1077,19 @@
    "type": "news",
    "published": "2026-10-02T14:56+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "4499c255e3be6684",
+   "title": "すき家・はま寿司など約5,290店で「Smart Code」導入、FamiPayやANA Payが利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WWmlRdnRhMFplalZIOC1MeG1vN1gyNXZBX0FVZU52ZTVXbkJiZHR3WTVLVFl4dVRiWVYwZzR5M0hVMnR2Q1VkaUZESGZMelExdElhRXItYjJteHZ5SGlrUQ?oc=5",
+   "source": "Infoseek",
+   "summary": "すき家・はま寿司など約5,290店で「Smart Code」導入、FamiPayやANA Payが利用可能に Infoseek",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-02T14:49+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "5dc02862d4156fbb",
@@ -1710,6 +1854,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "31f04fcadcac4c84",
+   "title": "インフキュリオン、北國銀行の決済基盤にクラウド型Axiosを提供",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tRUtPdHdlT1lMQkp1NGo4b2hUUHlfR3JRck5LLUZNZi1vcEpMWEVTLWtDNDh2b1ltX2pSN3JEZ2g2R19Bc2ZUYXBseTRGM0xqZW9n?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "インフキュリオン、北國銀行の決済基盤にクラウド型Axiosを提供 ニュースメディアVOIX",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:03+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "e622375b4e22635d",
    "title": "即日発行クレジットカード21選【2026年最新】即時発行なら最短10秒のデジタル",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yTEJBNFBPd2dIY09PMXVKNHh2UmlSNDQ5WkRJb2tQWloyOS1qS0hqbi1VMWRfeDAxVjc4N2Q4MmhxTUJMVnJuREhVejNNN0xjOVl5aTF0ZXZ3bG5XVGRGY2diOFU5ektjOXc?oc=5",
@@ -1768,6 +1925,19 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wdHcwZVdKNzJpV2c4YlR2OW5XNnhxUWVaVDZwX3FxNmY4djNMZENud0w2eFdHOWt5YVYwYlQ5Mk5pWFJTV2hFLXFPZXdNZkY3TUR1emt5SFZ3cUtL?oc=5",
    "source": "株探",
    "summary": "年会費無料のクレジットカード【2026年10月】永年無料の最強おすすめクレカを比較 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "3775126efa0185d3",
+   "title": "女性におすすめのクレジットカード！20代から50代まで年代別の選び方も解説",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qc1cza1phNGpUYVZLZWRVS2E1Yk1kMDlOemROaGpoUklOSlRfMXcxYnBhZUVqT0hVTGF4WjVqVWdtaXhyaEtYYXFteWhtSDdo?oc=5",
+   "source": "株探",
+   "summary": "女性におすすめのクレジットカード！20代から50代まで年代別の選び方も解説 株探",
    "categories": [
     "credit"
    ],
@@ -3681,6 +3851,32 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "b49820d07203c084",
+   "title": "初めてのクレジットカードのおすすめ人気ランキング【初心者向けに解説！2026年徹底比較】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA0ekdRcTZTOUxna3RpQURieXNxd1RNMENfTjUxeVNTWjM4by1hdnBaR211d1lpc1I3QTRTLVd3?oc=5",
+   "source": "マイベスト",
+   "summary": "初めてのクレジットカードのおすすめ人気ランキング【初心者向けに解説！2026年徹底比較】 マイベスト",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-30T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8b291f7e36935cd4",
+   "title": "【徹底比較】クレカ積立のおすすめ人気ランキング【投資信託でお得にポイントが貯まる証券会社は？2026年9月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBYX0V1Qm5KX0xaczZNU05mNWdvN1F1M1B4RXZ5SVl0YWRsYmJKN3ZUMk9YekdzUFJ2aVNESFl3?oc=5",
+   "source": "マイベスト",
+   "summary": "【徹底比較】クレカ積立のおすすめ人気ランキング【投資信託でお得にポイントが貯まる証券会社は？2026年9月】 マイベスト",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-30T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "9d02bd3dfd9bb75b",
    "title": "Sa Dec Wardは、企業がキャッシュレス決済方法を導入することを促進・支援しています。",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTdnSkkyV2o1QkRzY2loNGEwU2hCR2ozSEVCNFExUnUyVEZQS1hDSi0tRXhtci03X0o1NlVYUmdZNnR3cGE4SmM1SGpKTHZCZE9ZSlpaTjBDcV9rR0Q5SUhMTWVDV0RFcGswTlBQbzE2dGFCOVlScExlbF9QaEFSSmxWeGtOYnJXcFh0TDBvR1c5RVg0NndlMXdrZE5BWllGa2EtbzkyOA?oc=5",
@@ -3863,6 +4059,58 @@
    "type": "news",
    "published": "2026-09-29T16:00+09:00",
    "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "a21821a83322c729",
+   "title": "年会費無料のクレジットカード｜永年無料のおすすめカードを比較",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWVBrMUI3UlJ3WXdwa0g4YXpnTW55ekNkMndnQnFjOXB6d3VaZTBETkRVaS13VmEtcHhDbFpybTE5cmxtc21WNjJPZkE3TGRKbi1DQlpUS3k0UQ?oc=5",
+   "source": "みんかぶ",
+   "summary": "年会費無料のクレジットカード｜永年無料のおすすめカードを比較 みんかぶ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "97fc66c03b7628f0",
+   "title": "学生におすすめのクレジットカード19選！大学生でも作れる人気クレカを比較",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjWlN3MkJfb0JaWGlFYXJ2dURQaE80XzhyTTBvbG8xZDlHcExMS1RaNFpRUU9RaWhlTlRsZVRkcE9xMlN1N181bUpXWWg4Qjc4UzhN?oc=5",
+   "source": "株探",
+   "summary": "学生におすすめのクレジットカード19選！大学生でも作れる人気クレカを比較 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6875fd9a16b26732",
+   "title": "法人カード・ビジネスカードおすすめランキング！中小企業向け最強候補のクレジットカード22枚を比較",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85RGI1THI4MG9RQnUzeDVjNWh6STJVeVJ6OTBkV29KdVV2UzlmLWpNZ2FfOVJhRGFvRUNkbUQzT2ZMY0N2Y2VHVU1VLUNuMkxfTEZhRDhIeUtxbms?oc=5",
+   "source": "株探",
+   "summary": "法人カード・ビジネスカードおすすめランキング！中小企業向け最強候補のクレジットカード22枚を比較 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1078cb7d49f915d8",
+   "title": "PayPayカードのメリットは？ポイント還元率や入会特典も紹介",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpNFpPLTYxNENNNWVzeEdNOXdPYU9SR00zRE9Xd2VGU3BmRVV4UUliMUxUQ1JJOUQ5cWVlT05zb2NpMjJNdldybnlBRkllYU5hbm1JRkVEN1M?oc=5",
+   "source": "株探",
+   "summary": "PayPayカードのメリットは？ポイント還元率や入会特典も紹介 株探",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-09-29T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "5125f53ef33e91c5",
@@ -4178,6 +4426,20 @@
    "company": "株式会社サイトクリエーション"
   },
   {
+   "id": "151c1399f99d4c3f",
+   "title": "JCB、青山本社エントランスを地域との共生をテーマに刷新",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pakhFWW5vU21VYmRNQk9lb0p3eGw0c3REU2w2ZFZMRklybTVPX3JGamd5TVFBMG1BTENEQ05TdENIeHJjbVl1Ym5HM2FucENtQk5lVXpZOFBsdTllYWYtcTJuc0RVRjdJSlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCB、青山本社エントランスを地域との共生をテーマに刷新 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-09-29T10:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ジェーシービー"
+  },
+  {
    "id": "759fd83c7042e4fd",
    "title": "シティとコインベース、企業向けステーブルコイン決済を拡充｜加盟店は法定通貨で受領",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOWo3MXY3OUphd3BTeDAySEdvUUdhZWhIS25oN3A2RnJXTnRudUdra1dmbVVaRmgyODNiYnBQTEQ2X0NQU1ZHdEpLdTdyXzRyLUZIZw?oc=5",
@@ -4487,6 +4749,45 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zcHBaajJ4MWd5LUxtaXU0alRfcVNnclBvTWxkby1WLXhuZENEaHgtSXdCMjF0RDZsSnM4RTZ1cmoxdkJ2OXAxZ0Z3SGFzS1Z5SGdZ?oc=5",
    "source": "ダイヤモンド・オンライン",
    "summary": "｢ダイナースクラブカード｣の｢ポイント5倍｣の対象店舗にデニーズが追加！ マクドナルドやマツモトキヨシ、ココカラファインなどでも還元率が5倍になってお得！ ダイヤモンド・オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-28T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8856ff481e7e7ad5",
+   "title": "ポイント還元率の高いクレジットカードランキング｜3％以上貯まるクレカも比較で紹介",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PX19ZNFd4UUhWRHFXT1VZSHVqQm91dlVha2h2clJSZFZiWDl0VnJITGJ3SmV1OGl1MGo0eVViZk5WSEVXS0NNb0xYeEUxN2RQ?oc=5",
+   "source": "株探",
+   "summary": "ポイント還元率の高いクレジットカードランキング｜3％以上貯まるクレカも比較で紹介 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-28T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c852bed65f3e744e",
+   "title": "クレジットカードはコンビニで使える！お得な使い方やおすすめカードは？",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uZEc2Nmc2RjMtN2ZQS0dxemNNOHd2czRSMXdrUjdtWnpLdFh3TFYwbl8wZlVvalZwcXVQRURWRTJmQmdBekhyRUJlaVBjMTgxc0FsOVdtd3IySEJp?oc=5",
+   "source": "みんかぶ",
+   "summary": "クレジットカードはコンビニで使える！お得な使い方やおすすめカードは？ みんかぶ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-28T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "049bc419e0060082",
+   "title": "プライオリティ・パス付帯のクレジットカード|家族や同伴者は？",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kNEM4RTBTSTZPdENiVGxYcDhscnZ6Z3NlaVBLQTdKRUNKYXltMXItdC1faHA2bDRBZm5OLWx1NWpwVWEzQ2dZSlBaN2swRXBkUTM0VEZ0OA?oc=5",
+   "source": "みんかぶ",
+   "summary": "プライオリティ・パス付帯のクレジットカード|家族や同伴者は？ みんかぶ",
    "categories": [
     "credit"
    ],
