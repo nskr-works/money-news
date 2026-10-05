@@ -558,7 +558,8 @@ function renderFront(){
   });
   for (const c of state.cats){
     const box = $(`#col-${c.key}`); box.textContent = "";
-    const list = state.items.filter(it => it.categories.includes(c.key) && !used.has(it.id)).slice(0, 5);
+    // 分野別の欄は一面・速報との重複を気にせず、その分野の最新5件を配信時刻の新しい順に出す
+    const list = state.items.filter(it => it.categories.includes(c.key)).slice(0, 5);
     if (!list.length) box.append(el("p", "col-empty", "まだ記事がありません。"));
     list.forEach(it => {
       used.add(it.id);
@@ -747,16 +748,30 @@ let timer; $("#q").addEventListener("input", e => {
   clearTimeout(timer); timer = setTimeout(() => { state.q = e.target.value; state.shown = PAGE; render(); }, 150);
 });
 
-fetch("data.json?t=" + Date.now()).then(r => r.json()).then(d => {
-  state.items = d.items || [];
-  state.cats = d.categories || [];
-  state.topics = d.topics || {};
-  state.since = d.collected_since || null;
-  buildCategoryUI();
-  header(d.updated_at); renderFront(); renderChart(); renderTopics(); renderIndex(); render();
-}).catch(() => {
-  $("#updated").textContent = "データを読み込めませんでした。時間をおいて再読み込みしてください。";
-});
+// 記事データを読み込む。最終更新（updated_at）が前回と同じなら何もしない
+let lastUpdated = null;
+function loadData(){
+  return fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.json()).then(d => {
+    if (lastUpdated !== null && d.updated_at === lastUpdated) return;
+    const first = lastUpdated === null;
+    lastUpdated = d.updated_at || "";
+    // 取得した時刻ではなく、配信（リリース）時刻の新しい順に並べ直す
+    state.items = (d.items || []).sort((x, y) => new Date(y.published) - new Date(x.published));
+    state.cats = d.categories || [];
+    state.topics = d.topics || {};
+    state.since = d.collected_since || null;
+    if (first) buildCategoryUI();  // 分野のタブ・欄は最初の1回だけ組み立てる
+    header(d.updated_at); renderFront(); renderChart(); renderTopics(); renderIndex(); render();
+  }).catch(() => {
+    if (lastUpdated === null) $("#updated").textContent = "データを読み込めませんでした。時間をおいて再読み込みしてください。";
+  });
+}
+loadData();
+// ホーム画面のアプリは開き直しても前の画面のまま残るため、
+// 画面に戻ったときと5分ごとに data.json を確かめ、更新があればその場で差し替える
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") loadData(); });
+window.addEventListener("focus", () => loadData());
+setInterval(() => { if (document.visibilityState === "visible") loadData(); }, 5 * 60 * 1000);
 
 /* アプリとして追加（①メニューの一番下 ②一面と全記事の間のお知らせ） */
 const store = {
