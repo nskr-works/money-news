@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T16:51+09:00",
+ "updated_at": "2026-10-05T17:52+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -97,6 +97,21 @@
    "type": "news",
    "published": "2026-10-05T15:24+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "743fe52a8a28c60b",
+   "title": "【期間限定】「HIMEHINA」×「SAISON CARD Digital」コラボにVisaが登場！オリジナルデザインのプラスチックカードを初展開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000427.000004442.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社クレディセゾン] 株式会社クレディセゾン（本社：東京都豊島区、代表取締役(兼)社長執行役員COO：水野 克己、以下：クレディセゾン）はバーチャルユニット「HIMEHINA（ヒメヒナ）」と「SAISON CARD Digital」のコラボレーション企...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-05T15:15+09:00",
+   "company": "株式会社クレディセゾン",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "aeb91909c1e4f701",
