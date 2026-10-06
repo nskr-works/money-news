@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T06:50+09:00",
+ "updated_at": "2026-10-06T10:47+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,151 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "2f9129bab905d873",
+   "title": "Suica、JRE POINTのキャンペーンまとめ【10月6日最新版】 モバイルSuica利用で600ポイント、交換レート35％オフも",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/06/news053.html",
+   "source": "ITmedia Mobile",
+   "summary": "JR東日本が10月に実施しているキャンペーンをまとめた。モバイルSuicaやJRE POINTを利用したキャンペーンを実施している。普通列車グリーン車の利用や、JRE POINTでの新幹線チケット交換がお得になる施策もある。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T10:00+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "c707671c30179909",
+   "title": "創業70周年を記念した2つのキャンペーンを実施（アプラス）",
+   "link": "https://paymentnavi.com/paymentnews/183193.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月6日9:57（JST） 【日本】アプラス（日本・東京）は、2026年10月6日に創業70周年を迎えるが、アプラス発行のクレジットカードを利用する会員に感謝を込め、創業70周年を記念した2つのキャンペーンを […] The post 創業70周年を記念した2つのキャンペーンを実施（アプラス） first appeared on ペイメントナビ .",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T09:57+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "31eb72729e29e611",
+   "title": "「チケットレストラン」がApple Pay・Google Payに対応（エデンレッドジャパン）",
+   "link": "https://paymentnavi.com/paymentnews/183199.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月6日9:50（JST） 【日本】エデンレッドジャパン（日本・東京）は、食事補助用途で従業員に発行されるサービス「チケットレストラン」において、食事補助サービスとして業界初となるApple Pay・Goog […] The post 「チケットレストラン」がApple Pay・Google Payに対応（エデンレッドジャパン） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T09:50+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "f418dc19c2c3fc0a",
+   "title": "銀閣寺でも進むキャッシュレス化",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqZ0pjM1JQVXBKRkZOOHFEcVNaUFA1YjR2SG5oNmJ0S18wZkVpUE9SU1VMSmdZcy1UNFl1SElVMThHVkY3OUhpSlNWY3hyUi1rSFdhVDA3b0dtR3l4RGxj?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "銀閣寺でも進むキャッシュレス化 選挙ドットコム",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T08:35+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "f519b3c161ea868e",
+   "title": "ＧＥＮＤＡ[9166]：Nayaxとの業務提携を開始 アミューズメント施設向けキャッシュレス決済・店舗運営プラットフォーム「Tigapo」を英国全土へ展開 2026年10月6日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9waTdNV3FicTF5TllreV9oWU85SWx2clNSTktJcnRJMmx5eTA3b3pMbTBlbUF0TnRRR2V4N25RT0FlVmtUYVVfYmNIRFpRU09wOTFhMk9QX2ZlQzh5b1hqdWxHV2x5RjNuMUE?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ＧＥＮＤＡ[9166]：Nayaxとの業務提携を開始 アミューズメント施設向けキャッシュレス決済・店舗運営プラットフォーム「Tigapo」を英国全土へ展開 2026年10月6日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T08:30+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "748ce9329ea475b4",
+   "title": "1,000万人の決済データ×位置情報で「売れる場所」を可視化オリコの加盟店向け出店支援における商圏分析GIS活用事例を公開",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1scFAzS1ZxS1hjRXZFWDNhbEpJNlVyYmxGT3VfSUtyRjdLVG1NaG52SnBpeFVPTnFoVnBKTmdLcFpNVzNUbHBCRE5Cbm40R2ZrOGdqSXg1Wk5KMW8xaExqTWJZYjQzcGVXaHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "1,000万人の決済データ×位置情報で「売れる場所」を可視化オリコの加盟店向け出店支援における商圏分析GIS活用事例を公開 PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-06T08:30+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "技研商事インターナショナル株式会社"
+  },
+  {
+   "id": "b8809523ed6bf614",
+   "title": "電子マネーが、世界を少しだけスムーズにする。 John Travolta (V9Y1SU7hGN)",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fdlNQWG85aENEUDBOX1BaMlpBTmVJVjMtV0xhYl9jN0dqeTBSMG0zSll2bTRGMldvdWFQeHdFMGtFeWJIZUNkWUJCYkg4Y2tkM01wSUpaNUxlV2NvU0l4U2hQODFJdw?oc=5",
+   "source": "Unisba Media",
+   "summary": "電子マネーが、世界を少しだけスムーズにする。 John Travolta (V9Y1SU7hGN) Unisba Media",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T08:04+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "c3fb565e3dc099ee",
+   "title": "イズミが「ゆめNEOBANK」でチャージ・決済を便利に？ ドコモSMTBネット銀行のBaaS機能を活用",
+   "link": "https://paymentnavi.com/paymentnews/183168.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月6日8:00（JST） 【日本】ドコモSMTBネット銀行（日本・東京）と、イズミ（広島）は、2026年9月30日に記者説明会を開催し、イズミグループでクレジットカードや電子マネーなどの金融サービスを提供す […] The post イズミが「ゆめNEOBANK」でチャージ・決済を便利に？ ドコモSMTBネット銀行のBaaS機能を活用 first appeared on ペイメントナ",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T08:00+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "42cd12269a217279",
+   "title": "PayPayほけん、「インフルエンザお見舞い金」 リピート割で10円引",
+   "link": "https://www.watch.impress.co.jp/docs/news/2145791.html",
+   "source": "Impress Watch",
+   "summary": "PayPay保険サービスは、「PayPay」内の「PayPayほけん」ミニアプリで、「インフルエンザお見舞い金」の提供を10月5日に開始した。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T08:00+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "f7f0485892924e24",
+   "title": "No.79【ポイ活】電子マネーWAONポイントがWAON POINTに統合！自動移行しないって知ってた？やるべき対処法を完全解説 Geoffrey Paschel (QRlVOK5t4u)",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12b1FUWUdOQkRmRUZUUzdvZ0I1OWZpS19ZOTRrT204dGNSb1ZwSEl4RjhEZVRxaVQ5TW1aeHU2VjRybl85WF9haXVDOG1WbVNILXBxejhQNEZoMk5PQjlCOFBEUHlfaWVZSjVr?oc=5",
+   "source": "Unisba Media",
+   "summary": "No.79【ポイ活】電子マネーWAONポイントがWAON POINTに統合！自動移行しないって知ってた？やるべき対処法を完全解説 Geoffrey Paschel (QRlVOK5t4u) Unisba Media",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T07:10+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "2746e4bd1ef2c5cd",
+   "title": "コンビニのキャッシュレス決済、2026年上半期の動向を公表 セブン・ファミマ・ローソンのデータを集計",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40enRXZ2t6ZC1ObElpdmRzNjZkWHp6ejUwTUJRcnk2Q3NsODhWT2J5S29CUFR5QW0wNTJQVk9iQ1FYMkRmaHFTSE9DVXlPaER6M2hJSkh0eWI?oc=5",
+   "source": "DXマガジン",
+   "summary": "コンビニのキャッシュレス決済、2026年上半期の動向を公表 セブン・ファミマ・ローソンのデータを集計 DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T06:47+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "dd6b274af3f0ccd6",
    "title": "ネットスターズ、Stripeに国内コード決済5ブランドを接続 日本市場対応を支援、店頭決済にも拡大へ",
@@ -570,6 +715,19 @@
    "published": "2026-10-04T16:30+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社サイトクリエーション"
+  },
+  {
+   "id": "c41d362a0f97896e",
+   "title": "クレジットカードおすすめランキング2026年10月最新版！人気30選を徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvOVZaRkl0ZGtQd01QdFI0aVM3bE42RFZwTFltZnJ5Yjl0bm1qcHktM3R5ZkVFdWx5SUk2RjhPZ1ZKV3o1enpVZXNHTmFKT2pVdkhxY3hVUlFBSWJRQk1TWnh5Tk9GSGVuaUs0?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "クレジットカードおすすめランキング2026年10月最新版！人気30選を徹底比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-04T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "5c9587818861df2f",
@@ -2430,6 +2588,20 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "f0203da9ea815e6c",
+   "title": "「楽天ペイ」アプリ、2026年「インフルエンザのほけん」を提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03SGpraHRsaFVrakg1cnpaUGlqZjhzOHNlbTJBc1hnbmZyX2NtVU85RGliZzhTWHFtVGE1cVY2RENXUFFtQUhEUm4tNkVQelFDeEZwOXVyVHZGbndORzRxTnF6UFhNTk8tVkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「楽天ペイ」アプリ、2026年「インフルエンザのほけん」を提供開始 PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-01T14:30+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "楽天ペイメント株式会社"
+  },
+  {
    "id": "c982c04e705cfe54",
    "title": "佐川急便、2026年9月28日出荷分から代金引換サービス「e-コレクト®」にコード決済を導入",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TUXZZYi1CZDhWdXJWWGp3LTQzRy1RYzNleEpRY0xqZk5jRnRUTlhKT0xkRGNfSjRYNVNPRVh3ekZJNGRaeWl1Yk5FcU96SlNtalUtNG9RcjR5OFJU?oc=5",
@@ -2720,6 +2892,20 @@
    "type": "news",
    "published": "2026-10-01T11:00+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "485869fd30413c9c",
+   "title": "JCB、野球日本代表「侍ジャパン」の「ダイヤモンドパートナー」に就任",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45T2dPc3NVUWpyMUNtNy1uZ0MwSWN4M3hhSTduNW4tVFowMXAwVEJqaHdlbGRrVDBJeGlrbnUtdWVOUU8wY1c0ZjFKTWNlUUE0V05BRkpXUzBxazJaZV93a1lxcGhuSWxVbUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCB、野球日本代表「侍ジャパン」の「ダイヤモンドパートナー」に就任 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-01T11:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ジェーシービー"
   },
   {
    "id": "83cd2463bfaf8e8f",
@@ -4231,6 +4417,32 @@
    "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB2U1Azc3FVbW04NlVDcHE1S0UtalJjcklobkdUdUJpSGhLWnBLTFJBdHN5LW55MGNDSklZSXVn?oc=5",
    "source": "マイベスト",
    "summary": "【徹底比較】陸マイラー向けクレジットカードのおすすめ人気ランキング【ANA・JAL別に紹介！2026年9月】 マイベスト",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-30T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c7e60b8de624ff7c",
+   "title": "【徹底比較】年会費無料クレジットカードのおすすめ人気ランキング【2026年9月】",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBKM19salRobk82MHlsdUlVVFZZdE9uQ08yR1lqeFk5cWlkVjJtVDUxbmZGaS1nQWV5N1o0dQ?oc=5",
+   "source": "マイベスト",
+   "summary": "【徹底比較】年会費無料クレジットカードのおすすめ人気ランキング【2026年9月】 マイベスト",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-30T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "00e842aea9d99c02",
+   "title": "【徹底比較】マイルが貯まるクレジットカードのおすすめ人気ランキング【最強なのは？2026年9月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9yd2hXdXpMTWJQc2ppOVZVdXJWS2hkZUZ3eTJ1V1ZRQWIySm9pZVpCSnpaZU11R0t1bFU1ZkJR?oc=5",
+   "source": "マイベスト",
+   "summary": "【徹底比較】マイルが貯まるクレジットカードのおすすめ人気ランキング【最強なのは？2026年9月】 マイベスト",
    "categories": [
     "credit"
    ],
