@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T11:49+09:00",
+ "updated_at": "2026-10-06T12:50+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,51 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "534def4dc4f82489",
+   "title": "「三井ショッピングパーク &mall」「三井アウトレットパーク オンライン」に「d払い」を導入！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000928.000118641.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社NTTドコモ] 株式会社NTTドコモ（以下、ドコモ）は、三井不動産株式会社（以下、三井不動産）が運営する公式オンラインショッピングサイト「三井ショッピングパーク &mall（アンドモール）」「三井アウトレットパーク ...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-06T12:40+09:00",
+   "company": "株式会社NTTドコモ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "eb81ed5a552815b7",
+   "title": "決済端末「アルファポータブル」、サロン向け顧客管理POSレジシステム「Aiony」と連携",
+   "link": "https://prtimes.jp/main/html/rd/p/000000075.000041697.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[アルファノート株式会社] サロン向けサービスを展開する両社が連携、10月6日申し込み受付開始 [画像1: https://prcdn.freetls.fastly.net/release_image/41697/75/41697-75-edf2850440bf563159d5a7bddb4b17ad-1024x153.png?width=536&...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-06T12:40+09:00",
+   "company": "アルファノート株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "3f45e0fe5688185a",
+   "title": "アクル、アンファー株式会社が運営する皮膚科学の知見を土台にした新しいエイジングケアブランドサイト「AND CREAGE」に不正検知・認証システム「ASUKA」の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000126.000035938.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[アクル] クレジットカード決済などの不正利用対策ソリューションを提供する株式会社アクル（本社：東京都港区、代表取締役社長：近藤 修、以下「アクル」）は、アンファー株式会社（本社：東京都千代田区、代表取締役社長...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-06T12:40+09:00",
+   "company": "アクル",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "2f9129bab905d873",
    "title": "Suica、JRE POINTのキャンペーンまとめ【10月6日最新版】 モバイルSuica利用で600ポイント、交換レート35％オフも",
