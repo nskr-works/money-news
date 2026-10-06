@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T17:50+09:00",
+ "updated_at": "2026-10-06T23:50+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "3375f80c5f8b252f",
+   "title": "ほけんのぜんぶ、保険会社・金融機関・カード会社向けに、保険ビジネス支援事業「ほけんのぜんぶ for Business」を本格展開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000025.000058426.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ほけんのぜんぶ] 株式会社ほけんのぜんぶ（本社：東京都豊島区、代表取締役社長（CEO）：宮内 洋平、以下「当社」）は、2026年10月1日より、20年以上の保険ビジネス運営で培った実践知を活かし、保険会社・金融機関・カード会社な...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-06T23:40+09:00",
+   "company": "株式会社ほけんのぜんぶ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "692176544fece8d6",
    "title": "Suica利用は2万円というこれまでの当たり前を超えます",
