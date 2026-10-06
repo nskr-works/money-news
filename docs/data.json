@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T14:48+09:00",
+ "updated_at": "2026-10-06T15:54+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,22 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "1c0ac5c2a2a568d2",
+   "title": "TMN、JR東日本の「teppay」に2026年10月対応開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000097.000064450.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社トランザクション・メディア・ネットワークス] 電子決済サービスの株式会社トランザクション・メディア・ネットワークス（本社：東京都中央区、代表：大高 敦、以下TMN）は、自社が提供する「TMN決済ゲートウェイサービス（以下 TMNゲートウェイ）」において、...",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-06T15:41+09:00",
+   "company": "株式会社トランザクション・メディア・ネットワークス",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "a6221c83fa5b9884",
    "title": "アメリカン・エキスプレスのコーポレート・カードと「SAPPHIRE 経費精算」がデータ連携を開始",
