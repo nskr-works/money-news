@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T13:52+09:00",
+ "updated_at": "2026-10-06T14:48+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "a6221c83fa5b9884",
+   "title": "アメリカン・エキスプレスのコーポレート・カードと「SAPPHIRE 経費精算」がデータ連携を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000071.000028822.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Miletos株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/28822/71/28822-71-64cab0c73f09990974ef644344ce373f-1200x630.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-06T14:40+09:00",
+   "company": "Miletos株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "019bc460df9c4a1f",
+   "title": "Amazon、au PAY マーケット、Qoo10が登壇！EC事業者向け交流イベント「第10回 ごくー会 @東京」を11月6日（金）開催。最新トレンドと現場のノウハウから「次の一手」を見つける一日に",
+   "link": "https://prtimes.jp/main/html/rd/p/000000320.000062228.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社GoQSystem] 通販一元管理システム『GoQSystem（ごくーシステム）』を開発・提供する株式会社GoQSystem（本社：東京都中央区、代表取締役：藤本 卓治）は、2026年11月6日（金）、EC事業者向けリアルイベント「第10回 ごくー会...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-06T14:00+09:00",
+   "company": "株式会社GoQSystem",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "534def4dc4f82489",
    "title": "「三井ショッピングパーク &mall」「三井アウトレットパーク オンライン」に「d払い」を導入！",
