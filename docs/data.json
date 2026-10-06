@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T10:47+09:00",
+ "updated_at": "2026-10-06T11:49+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -41,6 +41,21 @@
    "type": "news",
    "published": "2026-10-06T10:00+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "68c4657672065181",
+   "title": "新たなステーブルコイン「OUSD」が Stripe で利用可能に",
+   "link": "https://prtimes.jp/main/html/rd/p/000000130.000077879.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ストライプジャパン株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/77879/130/77879-130-0e498245632b2b13bf2afd111c7a03ae-3900x1950.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-06T10:00+09:00",
+   "company": "ストライプジャパン株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "c707671c30179909",
