@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T12:50+09:00",
+ "updated_at": "2026-10-06T13:52+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -41,8 +41,7 @@
    "type": "release",
    "published": "2026-10-06T12:40+09:00",
    "company": "株式会社NTTドコモ",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "eb81ed5a552815b7",
@@ -56,8 +55,7 @@
    "type": "release",
    "published": "2026-10-06T12:40+09:00",
    "company": "アルファノート株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "3f45e0fe5688185a",
@@ -71,8 +69,63 @@
    "type": "release",
    "published": "2026-10-06T12:40+09:00",
    "company": "アクル",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "db11844a7ab9617e",
+   "title": "ついにクレカ決済導入！激安大型スーパー『ラ・ムー（LAMU）』各店舗で『キャッシュレス決済』導入スタート！",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FUGJJd2NoTGJmRnJxak5pVDV5NTNFVVU5NEpPRlBXNlAwSWJmVjhCaVhmUnZ4YWNVUmJiY1ZFZGtRYld1Yk9PcTByZWJRZFhrSlE?oc=5",
+   "source": "にいがた速報",
+   "summary": "ついにクレカ決済導入！激安大型スーパー『ラ・ムー（LAMU）』各店舗で『キャッシュレス決済』導入スタート！ にいがた速報",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T12:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "2e9a1778dddd18d2",
+   "title": "明治学院大学がオンライン決済サービス『Paysys』を導入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRWhkb0JfUGxDalh1dGdJbHdUYUhkVFFfSndjclB5ODh3ZVVidTFwWWtSeHZ3S3FVTHctclY2Q2VHU0lwbWlId2M4TVAwVEdyQ0JQMHpSNmNpeS1CVkJNcGJacDRNa3VOWkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "明治学院大学がオンライン決済サービス『Paysys』を導入 PR TIMES",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-06T11:23+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "株式会社ペイメントフォー"
+  },
+  {
+   "id": "bccd4cf6cc9dbb6f",
+   "title": "【初心者向け】初めての韓国旅行 お金の準備完全ガイド｜現金・クレカ・プリペイドを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pMVg0aUR4am9PREppZXRGNm5ZdmhBVElQN2NjdjdBT0RnNklsWXpaSFBwMFoxWS1sV0ZMMTRxaTkxU1JGdldZZ1FMQmVHREZ6c19r?oc=5",
+   "source": "ドリームニュース",
+   "summary": "【初心者向け】初めての韓国旅行 お金の準備完全ガイド｜現金・クレカ・プリペイドを徹底比較 ドリームニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T10:30+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "c9ee9b9ae8a0ea31",
+   "title": "すき家・はま寿司などで「ANA Pay」「JAL Pay」「FamiPay」が利用可能に Smart Code導入",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lbGwwRTJObWYyUGxiZXc0NkhUWV83enZhdzFxUnUyOE9MRVNUUkpJbFFQR19mWnJPM3RjUUJsMzJHa2p6OWlyY3ZBYndOSFhtdEprWDJxTWRvUnJ3cGhz?oc=5",
+   "source": "Infoseek",
+   "summary": "すき家・はま寿司などで「ANA Pay」「JAL Pay」「FamiPay」が利用可能に Smart Code導入 Infoseek",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T10:16+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "2f9129bab905d873",
@@ -99,8 +152,21 @@
    "type": "release",
    "published": "2026-10-06T10:00+09:00",
    "company": "ストライプジャパン株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "19a5d8866ac1a8b4",
+   "title": "「楽天ペイ」、「&mall」「三井アウトレットパーク オンライン」で利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kcjl5SEdSbG9zeC1LaXllY3VQUWVqZC1YRnlZN2RwUkhPQk5lYU1KZkhNaXdEa0c0QmV0YWFnSm9QcTlLWEJnMEhBYXVqcnNyWXhETTJkaW13RFNuMGhSb2pIbDJTdmFFeUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「楽天ペイ」、「&mall」「三井アウトレットパーク オンライン」で利用可能に PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-06T10:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "楽天ペイメント株式会社"
   },
   {
    "id": "c707671c30179909",
@@ -249,6 +315,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "bf9ef34f309724d5",
+   "title": "楽天カードとみずほが狙う1193兆円の「法人決済市場」。新クレカに「UPSIDER」を活用したワケ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOenpCY0Z3TU1MaUJPc1A4RFA2VGN0OVM0N1RqR0ZUUXlXaUZIRXJMUVV3LWNjSF9keFVlYmVQS3FTVlVMU2NJTlI5aDJrRTUzQkpVYTNNN1pwb0w0aXg4dnprTDBYSmN3N0pCSEhBRXFTdUl4aHpQZ0hpTzVjSzlhNA?oc=5",
+   "source": "Business Insider Japan",
+   "summary": "楽天カードとみずほが狙う1193兆円の「法人決済市場」。新クレカに「UPSIDER」を活用したワケ Business Insider Japan",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T06:45+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "1b2a30498161e889",
    "title": "成長するASEAN富裕層を、日本の力に JCB・MUFG両トップが語る協業の狙い",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9qd2wyX3dWM194QjlKTldqeDItRHZleDh4SDMta1dzOGNXUS00UUpZZ0dFc1JNSTR1VmI5WnMybmxVWWhf?oc=5",
@@ -286,6 +365,19 @@
    "type": "news",
    "published": "2026-10-06T01:18+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "fb03c807026947fe",
+   "title": "暗号資産で支払い、店は「円」で受け取る｜PayPayが訪日客向け決済を拡大",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uamJ5bzUwT0FjNW5Da0M4ZXdRbXMzQlp1S0t2dkFRSF9GTGRHWjRmZzRuZl9nYmM1eWFvX2J2X2x2TE8ybXBWVS01LXg5QVRTQVM2a25zb3VXLXNsOUlGcUpXWjk?oc=5",
+   "source": "amusement-japan.co.jp",
+   "summary": "暗号資産で支払い、店は「円」で受け取る｜PayPayが訪日客向け決済を拡大 amusement-japan.co.jp",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T00:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "2521120906ceb3ec",
@@ -1007,6 +1099,19 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tN0JwLTFIajhZVExSRGVGeUFjQ0UwalZfR0FzbVBhZ2ZiX0VKN213WEZYTXdoZUFKVXI1X0pzMEd3WEstLTZvdmJCSFVyZk8xZkRoT2Q1eE1XQQ?oc=5",
    "source": "fisco.jp",
    "summary": "30代のクレジットカードおすすめ18選｜恥ずかしくない究極の1枚と最強の2枚 fisco.jp",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-03T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "800db9166423f6cd",
+   "title": "クレジットカード究極の1枚はこれ！年代別おすすめメインカード最強15選や選び方・活用法を解説",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYbjAxS0FMb2JLcktsa0NLNktKZm5na1lPUjhXWEpZWk1qS0JQSENUWTU0T2syZU1NbmREU1lGNU52UzZVWHZ6ZWFpOGpxN0ttTjZjeXRwcm1vX1VP?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "クレジットカード究極の1枚はこれ！年代別おすすめメインカード最強15選や選び方・活用法を解説 投資情報のフィスコ",
    "categories": [
     "credit"
    ],
@@ -2008,6 +2113,19 @@
    "type": "news",
    "published": "2026-10-02T05:21+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "da12f0eaa11c3dd3",
+   "title": "Visaクレジットカードおすすめ12枚｜還元率・年会費・発行スピードで比較【2026年版】",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03Y3BxMF9qLXU2YzQ4UDFKRDdPdWg5SHVqTVhObktFMG8wYjVycy1od19WUEp5M3M3eVNrMFNEX2RnLWp5WGF4ZHI0UFVjd2ZPc0lnZGdfNHYya3Y2c1o3a3NUbkdQd2c?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "Visaクレジットカードおすすめ12枚｜還元率・年会費・発行スピードで比較【2026年版】 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-02T04:46+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "d95e4ff9cf1728b6",
@@ -3306,6 +3424,19 @@
    "type": "news",
    "published": "2026-10-01T00:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "26db6e4c18a400f8",
+   "title": "破産の全東信 未振り込みの“売上金約54億円” 来月中にカード会社が全額支払い（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbkdKREFrRUc4Q2RPMmhXOHNSbTFGZ0ZRQXhCaHFnb2szekdpaHN3Y3pQTzAyNVZRRUdaTF9teHNlRGNKdE4xSzNyN09UZ1FDYU5RbkNtYjYtc0tsN0lGd2VLTkFGTXBiU3FVX2JwRTlValF6TXV1WWFTSjhPVWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "破産の全東信 未振り込みの“売上金約54億円” 来月中にカード会社が全額支払い（テレビ朝日系（ANN）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-30T23:17+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "b5ceea8454667eff",
