@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T15:55+09:00",
+ "updated_at": "2026-10-07T16:49+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,47 @@
  "topics": {},
  "items": [
   {
+   "id": "db5aaec04045dc60",
+   "title": "オンライン銀行引落「Jamm」、リリースから運用1年でチャージバック・不正利用報告ゼロ件を達成。",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82ZVY0MUh3NDhfVXNJdGNYLVB2SE1yUWUzdm5YQWd5ekN1QkUzY3RGVGRsNC1Rb09KR0haVVI1Sm1IdDFvdmZyb3l2U24tZWtjYWUtejk2UDI1b045YzNZSW5ZWTNlWV9FMlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "オンライン銀行引落「Jamm」、リリースから運用1年でチャージバック・不正利用報告ゼロ件を達成。 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-07T16:19+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社Jamm"
+  },
+  {
+   "id": "07fc7db77348ac7b",
+   "title": "カーセブン加盟店が日本カーシェアリング協会へ車両を寄贈",
+   "link": "https://prtimes.jp/main/html/rd/p/000000010.000177546.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社カーセブンデジフィールド] 中古車買取・販売のカーセブン（運営本部：株式会社カーセブンデジフィールド 本社：東京都品川区 代表取締役：井上 貴之）の加盟店であるカーセブン石巻店（運営：株式会社アイセイオート）は、2026年9月18日...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-07T16:15+09:00",
+   "company": "株式会社カーセブンデジフィールド",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "e262b0c7782740aa",
+   "title": "消費者金融・クレジットカードの借金に悩む人へ 10月9日北見で無料相談会 北海道財務局",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BQk1CcXBETUFaZjduZnJMcnczemFnay1sekVHU3ZaY0RfRGplRTNGVlA1c2d3ZF9ZN0w5SWFDZ3RiZGNGVTl2VGR6aVVQMGM3ODZJdVk1OHFNVl9OZVh0VHhDcWU?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "消費者金融・クレジットカードの借金に悩む人へ 10月9日北見で無料相談会 北海道財務局 北海道新聞デジタル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T15:56+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "2d9d366985781213",
    "title": "お客さまの応援で復刻決定！「Suicaのペンギングッズ ＼復刻／応援投票」上位3商品を再販します",
    "link": "https://prtimes.jp/main/html/rd/p/000000193.000109432.html",
@@ -41,8 +82,34 @@
    "type": "release",
    "published": "2026-10-07T15:41+09:00",
    "company": "株式会社JR東日本商事",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "a67ed4d7b7b3345e",
+   "title": "今すぐ購入、後払いの価格が高騰し、若者たちは借金に溺れる。",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTBIVld2eTVvZ2FEbUhCanh4Mndid3lrckllUjFmbTJvbjk1NzEyMU8wbHFVV2hGeEp2TlBra2lFdGU1NTRxZmdZTF9CTUwtMkFnVVBPS3VYUFJNOXJQdVNtRmN2aWZzaFFMQWFyaTBkYm9EMEVvaXVuQ0RBQnVscTQ1YVFkRGVY?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "今すぐ購入、後払いの価格が高騰し、若者たちは借金に溺れる。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T14:36+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "4018f28e4fdaaa42",
+   "title": "JCB、侍ジャパン選手のサイン入り新ユニホームなどを抽選でプレゼントする「侍ジャパン応援キャンペーン」を実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSWS1fWjlBQ2x5M3piUEFYRW5IUEItTW9FSHdoVUJNM1I3aW9PeGdQUW9vWXNDdF9WSmtkbmRIRVdnaFNUeVp0X1Y4cGlJTXNzTzZsVW8waUxBX2NPc09iU0Z0azdaRjRIX2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCB、侍ジャパン選手のサイン入り新ユニホームなどを抽選でプレゼントする「侍ジャパン応援キャンペーン」を実施 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-07T14:03+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ジェーシービー"
   },
   {
    "id": "ae3615f1686fe8e3",
@@ -343,6 +410,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "65ee92f577500b49",
+   "title": "NHN KCP、運賃の早期支払い実証 物流向け決済サービスを試験導入",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPczlTdzdKM3Bpa3VLd0JQMXE3M01sTzhHQlptOXM2WWhQQ294aWcxcGFrelhrNlNGV1dqMXZYWnpjMzRfRThDMFZxYy1qR1RTdVQ5czJjelhSVGdUQ0ZSSkxvbWVadE05RzdHeGRnb3p3T2tQMGhBNnFMWHFFLWFsb09TNDR6aElzcGhxYmdzZEozOUZMV0lwcXdnYmVROThnQUVEdHZNTzJ4NjZDTnBnQ2tUaFJ6YUpUblRNd05LczR1a29p?oc=5",
+   "source": "디지털투데이",
+   "summary": "NHN KCP、運賃の早期支払い実証 物流向け決済サービスを試験導入 디지털투데이",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T09:24+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "7a46e2f2f6383b13",
    "title": "AI エージェントが自律的に購買・開発を担う時代への変革期？（Stripe）",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xeU9HMnpab19NekVnMjZ4cjBMVWIza0VYOG4wT1FOcWtpY1Y0ak8tYUJXcnR0dDg5aFVoVnJHc3paV3gtSHhBOFZ4V0V4STJDWkVmSTRaZU5SR0E?oc=5",
@@ -570,6 +650,19 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "06699c1e9e53c6b7",
+   "title": "Suicaが高額決済に対応｜新サービス『teppay』10月20日開始",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WbmRIZENLTW1fUjBSeFd3X0tXcGtxNUltdWpkeXFIY216Mk9laDdocWlHUGFUQ21wbkxUMWoyZVVHODd4dS1aYUdpVk0tdWlEMmJFZFhULTU4SFg2blE3eFRBSWQ?oc=5",
+   "source": "Amusement Japan",
+   "summary": "Suicaが高額決済に対応｜新サービス『teppay』10月20日開始 Amusement Japan",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T00:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "3375f80c5f8b252f",
    "title": "ほけんのぜんぶ、保険会社・金融機関・カード会社向けに、保険ビジネス支援事業「ほけんのぜんぶ for Business」を本格展開",
    "link": "https://prtimes.jp/main/html/rd/p/000000025.000058426.html",
@@ -648,6 +741,20 @@
    "type": "news",
    "published": "2026-10-06T21:12+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "12864d553cff9b0a",
+   "title": "モバイルSuicaでコード決済「teppay」10月20日開始",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOLVhkVU01SmllNDA4eEhJSnF6VEhqV1Ftd2NwTTZDQzhBRlExOW1sV1FEcFhNYm9NRUFPaEhycnJiWDNteURrNUlsX2lJRF9fSTBPQWZzNG5LRFV2RjJCaExvTm5KYVU5eFI5U1lLX05MX0JGb2puUnY4c2xwN1lRcVliNjJtS1Vrenh1UTZnV0l0cUhWajJxQV9UV05KcEttQ0dwWllPb1FYQUg2aGc0SlNsZ1BIeXo1eFlkQ3lTTDJld29oX0RCZFp0RmpxdXlRV096cVlBMlVrYzV4VkZNaHhLSExyRVNtbzJVMk5wMlZnV3lzTEhpTWNlRXI4VDhLWGUzRVFTZHAzbHAwMkJv?oc=5",
+   "source": "SmartNews",
+   "summary": "モバイルSuicaでコード決済「teppay」10月20日開始 SmartNews",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T21:03+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "7e52c63d0c407920",
@@ -990,6 +1097,20 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "f677d9ac03a4bbf9",
+   "title": "キャッシュレス決済音を一挙紹介(suica・nanaco・楽天Edy・WAON・Apple Pay・QUIC Pay・iD・LINE Pay・PayPay・ファミペイ・メルペイ・クロネコヤマト) Vfb Stuttgart – Leverkusen (v2QoMNBqQX)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1VvbE83VXFudS11QTl6aGFMRHV4UDl0NFRJajI2elIydUtIODVlS1NiWVNpd2dySWdSRVh3eWU5MVpxV3hKYl9ONm5iX01sTGdIeG5rbm9UR2tURTlRbHZia3BVSzdWZ2RoT1NfLUJmbUR1N3hJb1JWUHJZS21jYlZYTThBRDQ?oc=5",
+   "source": "Unisba Media",
+   "summary": "キャッシュレス決済音を一挙紹介(suica・nanaco・楽天Edy・WAON・Apple Pay・QUIC Pay・iD・LINE Pay・PayPay・ファミペイ・メルペイ・クロネコヤマト) Vfb Stuttgart – Leverkusen (v2QoMNBqQX) Unisba Media",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T17:24+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "ac7690d35b10679c",
    "title": "モバイルSuicaのコード決済サービス「teppay」今月20日からスタート JR東日本",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSDRuRTUzVjUwckp2NUR0dFZNank3VmhDU0VwNnpWa2tFc3dMQjN0LTJUb3RsZUxqV092V0dGTnZxT0o5Wm1Td1BjZE1pMEdGVDZWOEY2U2NYVEJrZUlZR09GYXVpaDFLTWo4YzZYcmxwRk5rSWpXUA?oc=5",
@@ -1288,6 +1409,19 @@
    "type": "news",
    "published": "2026-10-06T15:39+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "a1316aeac849e2f8",
+   "title": "決済サービスを悪用し 現金をだまし取られる詐欺被害も SNSアカウント乗っ取りに注意",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYa2FSSUczQk8tR0hfeU51dzJaOV9DaDlzUWVYazJ3UjZDQmVSOTR4bk5oaFJ5YWtHWEdIdmF5UC1GajlSdjJVMGpER19Ub2xDazlFWXlTT1Fxb0dNNmFV?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "決済サービスを悪用し 現金をだまし取られる詐欺被害も SNSアカウント乗っ取りに注意 TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T15:37+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "92a4c576469e0269",
@@ -2679,6 +2813,32 @@
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tQms0dnZ1R1VOS2RuYkwzWlUxS3p5M3JBZzlCWjMtTUFVVERRdEd4RjBfSHUzeW5tZTJfSWZsU21tNFhJWVVRQU1jVjBTUmhpTnFUNW8xLXZBaUIyWVlFTWZR?oc=5",
    "source": "投資情報のフィスコ",
    "summary": "【2026年最新】JALカードのおすすめは？どれがいい？JALマイルが貯まりやすい最強クレジットカードを徹底比較 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-04T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "516f54740cc3602e",
+   "title": "【2026年最新】家族カードおすすめ17選！夫婦や家族で使えるお得なクレカを徹底比較 | メリット・デメリットも紹介",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kRW9CbHRKb2NndS0xSXIzSm9OdE42QzFqclVPa0NfLWhTam4tVndpY0l6bTdwa1pyYW1SbkdJY3o2M3RLOEJzYmR0cVgxOGwxTVdRODVVbmtvQXkt?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "【2026年最新】家族カードおすすめ17選！夫婦や家族で使えるお得なクレカを徹底比較 | メリット・デメリットも紹介 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-04T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2a3907a095590a30",
+   "title": "【2026年】空港ラウンジを無料で利用できる最強クレジットカード18選！年会費無料や海外でも使えるお得なクレカを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSHpiVnhaWWswZkdBVWRsZU5BaHE5N2dKNEVQcW81b0hvODktbjdLazhyeVpmYmg5T2xUclhUTk5pN1pFWFhkTGhmcDl3Vm9TR3ctNzBra3g4d2JPay1qVEVYOS0?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "【2026年】空港ラウンジを無料で利用できる最強クレジットカード18選！年会費無料や海外でも使えるお得なクレカを徹底比較 投資情報のフィスコ",
    "categories": [
     "credit"
    ],
@@ -4792,6 +4952,21 @@
    "company": "三井住友カード株式会社"
   },
   {
+   "id": "ce9eb45c5b1dda4e",
+   "title": "三井住友カード×Vポイントマーケティング、「【要エントリー】東京ポイント⇒Vポイント交換＆VポイントPayアプリでのスマホのVisaのタッチ決済でもれなく20％還元キャンペーン」を実施 | Vポイントマーケティング株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NV2Zsb1JGV3F2d0VXWEl6eW5FQjR4RmFBNmNNUkdHYWo2cFROOTk5VjBjWDI5eklZYjNSdzdCc1BucG9ORFJCUmprc1FOUUs0WExfMjVwUFBpTm1NS0kzeTVDRWNqNmtWZUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "三井住友カード×Vポイントマーケティング、「【要エントリー】東京ポイント⇒Vポイント交換＆VポイントPayアプリでのスマホのVisaのタッチ決済でもれなく20％還元キャンペーン」を実施 | Vポイントマーケティング株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-01T11:30+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "Vポイントマーケティング株式会社"
+  },
+  {
    "id": "1d736260aa25d540",
    "title": "QR コード・バーコード決済スキーム 「Smart Code™」 が、 10 月 1 日（木）より、ゼンショーグル",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00NTBYTEFnc2J3Ym1TSWluOUNOa3R3bW1ZWHl5X1NFX0d1MzRPUW9LaWxpZEtxS1NQVk8xSGdoUkFpb1VLUnBTZjJ1WnN5dHZ6NEFYcE92dllYTVBCeUVpbDd3ZFZtaFdBdHZEVGF6YmROajJWTFdXLXJnY0E?oc=5",
@@ -5188,6 +5363,19 @@
    "type": "news",
    "published": "2026-10-01T06:00+09:00",
    "via": "ケータイWatch"
+  },
+  {
+   "id": "9f1608dc4c714b36",
+   "title": "楽天・みずほ銀、中小クレカ 利用額の1％ポイントに",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52U1JFY0kyZWpOMG5VRGFFaVFyZ21XYlEzSEFsdnBhWXNkT1ZrcGZMZnJmb2pSbzFlaEFNWkR6bGQ1RFIydmhlRlR5QXd6aDA0cUZDQ3B0VGc?oc=5",
+   "source": "日刊工業新聞",
+   "summary": "楽天・みずほ銀、中小クレカ 利用額の1％ポイントに 日刊工業新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-01T05:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "3f29208f9f681d3b",
