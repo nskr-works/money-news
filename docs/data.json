@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T12:50+09:00",
+ "updated_at": "2026-10-07T13:54+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,60 @@
  "topics": {},
  "items": [
   {
+   "id": "ae3615f1686fe8e3",
+   "title": "au PAYに「予約送金」機能 お小遣いや誕生日祝いを自動送金",
+   "link": "https://www.watch.impress.co.jp/docs/news/2146347.html",
+   "source": "Impress Watch",
+   "summary": "au PAYの「au PAY 送金サービス」に、指定日にau PAY マネーを自動で送金できる「予約送金」機能が追加された。誕生日や記念日のお祝い、お小遣いや仕送りなどでの利用を想定している。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-07T13:15+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "bf60edf09280c5e2",
+   "title": "宇野バス、クレカタッチ決済乗車を10月8日開始…岡山県内交通事業者で初",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5POWxmVENuTk1NYzlTaFh5d1VlX2ZqTFdWQ2xaal9kaGo2TzU4Qi1sM1YyWVBrZ0JxUWtwM3p1THo0ZXRlZExuMDM0QjFybnc3UkV5TU1KTHFsQjV5UGp3?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "宇野バス、クレカタッチ決済乗車を10月8日開始…岡山県内交通事業者で初 レスポンス（Response.jp）",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T12:45+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "152baa227f21dbde",
+   "title": "宇野バス、クレカタッチ決済乗車を10月8日開始…岡山県内交通事業者で初 1枚目の写真・画像",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORHg4WTZKSjFjOXFRdzI4bEQtN1MzWkNRajhoY2NSZ0JJOWMtbWp2ZmVvaG5lWG4yUVhRQ25vVGhpSTJnNV90SWt4MVMxQ0xNRGRmakdlb1hlQUpSZHZqM0lVRUw4Zkh5QmZMZmRKQzVRNndmb0Z6bzBGVHdjYXNPeDdZQXpSTDI4alFkZE1uU1g?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "宇野バス、クレカタッチ決済乗車を10月8日開始…岡山県内交通事業者で初 1枚目の写真・画像 レスポンス（Response.jp）",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T12:45+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "f65e16d2cc5091aa",
+   "title": "JR東日本、コード決済「teppay」を10月20日開始 最大30万円の決済に対応",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVM0RGTW02Q3VjZTU3Tms3dmI1NXM4RWV6T1ZuQTY4S1NRcGNGMGp2MWxNeDZOMkRhZTk2OVpDTkRsYWw0azdLSWRMVHhxcjRHa3R0S0U1QjFLT3lhTDNVV9IBZkFVX3lxTE9wT1hjYVRzc1FZa1d3LVVBb0tubjEtc0hnUTVzeXFaUE1MU3lwNDhSMkZ5bC1XYlAwMTRGYmlqaHViQW5BeTB5TjctTS1tLUs0bmQwbkk5RWFrT3h1X2ZuMHUxc3FEdw?oc=5",
+   "source": "Real Sound｜リアルサウンド",
+   "summary": "JR東日本、コード決済「teppay」を10月20日開始 最大30万円の決済に対応 Real Sound｜リアルサウンド",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-07T12:42+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "aec4300735edac57",
    "title": "【ホテルメトロポリタン】「Suicaのペンギン クリスマスケーキ」付き 宿泊プラン",
    "link": "https://prtimes.jp/main/html/rd/p/000002585.000030117.html",
@@ -41,8 +95,7 @@
    "type": "release",
    "published": "2026-10-07T12:41+09:00",
    "company": "JR東日本ホテルズ",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "5d3d8b1921f2c640",
@@ -57,8 +110,7 @@
    "type": "release",
    "published": "2026-10-07T12:41+09:00",
    "company": "auフィナンシャルサービス株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "a3ad05ba15ccb058",
@@ -72,8 +124,61 @@
    "type": "release",
    "published": "2026-10-07T12:15+09:00",
    "company": "三井住友カード株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "1b509dccf4fd75da",
+   "title": "京王線・井の頭線、スマホのタッチ決済乗車でVポイント10％還元 上限1000ポイント",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LbHZvWDh6bWx3N2dva2VjLUg0VWhIZVEzb2x0eUFQSVQyVzJOSDVRNEtmNmVsMExXcmRldWdpOU1NdTlqZ1ozcnpoUjdkdVhoRjl5U0NyN2VlenQ0bDBB?oc=5",
+   "source": "Infoseek",
+   "summary": "京王線・井の頭線、スマホのタッチ決済乗車でVポイント10％還元 上限1000ポイント Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T12:10+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "a6f1f3ba66f6f229",
+   "title": "新コード決済「teppay」はどこで使える？ エキナカ施設からコンビニ、ファミレス、ECまで一挙案内",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CQ1NSdGk1ZTRZVFMyT3NkVWlyUVpqcEJTRFJKTjNKV0xNMGlvMGczRW9yblVFN0s4M2FmMEU5c29aQ3VRY0pUUHloZk10ZVpSZlJHYktab1VaaG52TlhjVFZkSDE5RTNFVklzNEJLOU3SAXZBVV95cUxNQnRKNnE1VHA5MzdySmxLVE5XN29qUTdLVHdpeUNFSUhYU2Y5bDZKTE5VUkhtblpwaHZiS3hFLS1SdllidmthWDRVQnZtRnBhZTBnSG5wWjIzWFpCb29tNVpyeTBRMkRWUTRwbnFLLVpHLUtSR3lB?oc=5",
+   "source": "Infoseek",
+   "summary": "新コード決済「teppay」はどこで使える？ エキナカ施設からコンビニ、ファミレス、ECまで一挙案内 Infoseek",
+   "categories": [
+    "cashless",
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-07T12:05+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "5b21c176bb995b1c",
+   "title": "新コード決済「teppay」はどこで使える？ エキナカ施設からコンビニ、ファミレス、ECまで一挙案内 - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qOWxDSUdKYmFxVEhscmpYTGVTeGtPNzBnSHlmY3JEckdDaU5zOWxwaTRDUlFhZzlHcV9mU1dtVV96RjY2ZWlUQ2VCTFBfSGdDbUxoRzA4QURLcUhnQ05LS2VyWXU1ajZwTWZRNWdSUdIBaEFVX3lxTE8tRWhKRzYzMVpnd2dHOFFubGE0ejZFY25WV05sUkhCTVhjVmJTYy01Tk5SN0VMZjQyVFlDcFVoRHZRQjFnWGlUcWVKS3dQZXNZazZodmlYdE81WnZuQjhLdkhXNUg3bWJy?oc=5",
+   "source": "ITmedia",
+   "summary": "新コード決済「teppay」はどこで使える？ エキナカ施設からコンビニ、ファミレス、ECまで一挙案内 - ITmedia Mobile ITmedia",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-07T12:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "0cc9e0452ae4684d",
+   "title": "【京王線・井の頭線限定】スマホのタッチ決済乗車でVポイント10％還元！～京王でお買い物をしてVポイントまたは京王ポイン",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11VHhRWnNUZkRJcmNrWmFHSjk5ZVliZS1USUxsODhaUGpRY3JaRnIxUDZnQ2tZVHdUS0xwVUVXeTdUQTRKUWtHN2NKNXlxV2psWmpkRndKWlNOQnFLaFZmRTdXQ3pHOTRT?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "【京王線・井の頭線限定】スマホのタッチ決済乗車でVポイント10％還元！～京王でお買い物をしてVポイントまたは京王ポイン ニコニコニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:51+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "bad091aaf1120313",
@@ -87,8 +192,99 @@
    "type": "release",
    "published": "2026-10-07T11:40+09:00",
    "company": "株式会社RemitAid",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "c11369e6020f069f",
+   "title": "【不正アクセス】約3600件の顧客情報が流出か…長野都市ガスが委託会社への不正アクセスで流出した可能性公表…顧客氏名や住所、電話番号などで、金融機関口座やクレジットカード番号は含まれず（ＳＢＣ信越放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jTGZJNUxEVlF2SFY5UnlpY1JKMkxyVFhHWU9kVVY3YXZDbWhxVHIyREplNHlNWUtUYjFzRUxoSGkySHRzQ3VLZU93ZXRoRnp4enVkZXpKU0RjTWpVLXRDT1h1Z3RxVldIY2pDeUVpdzJrTnAtbEI1MGQ3N0Job1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【不正アクセス】約3600件の顧客情報が流出か…長野都市ガスが委託会社への不正アクセスで流出した可能性公表…顧客氏名や住所、電話番号などで、金融機関口座やクレジットカード番号は含まれず（ＳＢＣ信越放送） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "cfb7d251a65966c8",
+   "title": "JR東日本グループ、コード決済「teppay」のサービスを開始",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBON3FRMHFNX08wZ0xaT19UTW02MFF1SkNXLWZ1N2VDNFNZZDI4Smt5WHlMRzJUTHZOQWs4RmNYVnlPUkRYRkowem5mUkFnT3BzNFE?oc=5",
+   "source": "激流オンライン",
+   "summary": "JR東日本グループ、コード決済「teppay」のサービスを開始 激流オンライン",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:35+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "19a55f1b0a71713c",
+   "title": "Suica上限2万円を超える新コード決済「teppay」が10月20日開始！ 家族間の残高受け渡しも可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OczZrSnRYZkxYVC1RakVkdm8wQ1ZLNzdNZGxweXVrSlM2V3R1bDdZbXBKU3dzeWpTNHJiQ1l3ZmdfYTVoVDluaXJycFhVbTM1bjF3V1ZPMDYzZWdDdm5SaVl3VTNDcV9RLWc?oc=5",
+   "source": "AppBank",
+   "summary": "Suica上限2万円を超える新コード決済「teppay」が10月20日開始！ 家族間の残高受け渡しも可能に AppBank",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:02+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "b827e427a83aa518",
+   "title": "｢アメックス･プラチナ｣に期間限定の“ミラーデザイン”が登場！ 米国以外では日本が初となる新デザインの受付期間は2027年2月1日までなので早めに申し込もう",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jLUJvcm05bURHa1MyRVJfWWhCQnVnV1M0ZTBLLVJKbEpvWldVR09HMUFONzhkTl92T1cxNHF4azBXWVdqaG5LSUVFLUV4NDdmY0U0?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "｢アメックス･プラチナ｣に期間限定の“ミラーデザイン”が登場！ 米国以外では日本が初となる新デザインの受付期間は2027年2月1日までなので早めに申し込もう ダイヤモンド・オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "cdfdb61bcf203d47",
+   "title": "三井住友カードのキャッシュレス決済データ分析サービス「 Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化します | 2026年 | ニュースリリース",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqYlR1aDlwYnJUTUFqck1KRkJGMnJRdFd0a3A2NlZ3bjhRU2hiZi1va213YU5nNk5IblllU3g1LWdXcm12VHQ2VVE4UmVXZ0FtWHhxdjhwcWVEcTJ4cW1lSTFEVVktRDQ?oc=5",
+   "source": "株式会社丹青社",
+   "summary": "三井住友カードのキャッシュレス決済データ分析サービス「 Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化します | 2026年 | ニュースリリース 株式会社丹青社",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "5cfe6247653d321f",
+   "title": "プレスリリース：丹青社、三井住友カードのキャッシュレス決済データ分析サービス「Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化（Digital PR Platform）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YbzM5LWRJQksxeGQxVkdjODdOaExRbnFfZjBMWHY0RnRBczA3QXZoaWNaM3FEVXpERDZzMGJzeUNLNnZTZmVFQWNheHN2bWw0M2ZpeDJnSFVKaV9vWFhKbHFKN2ZaUkhq?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：丹青社、三井住友カードのキャッシュレス決済データ分析サービス「Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化（Digital PR Platform） 毎日新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "7d7febcfa694a0ae",
+   "title": "丹青社、三井住友カードのキャッシュレス決済データ分析サービス「Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUZkJobHl1d1FoNFRNa3NsOWI2SEpRa29CZmpHRXl0RGZ1ZVMzYjZacXBjS0thc2tHUDRxcEpLa2RCNTZGbFU1bHRFY0tyUHNXeGpTQng4aTN1VldjQXc?oc=5",
+   "source": "Excite エキサイト",
+   "summary": "丹青社、三井住友カードのキャッシュレス決済データ分析サービス「Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化 Excite エキサイト",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "24b7ba36176e1bf2",
@@ -212,6 +408,20 @@
    "via": "ペイメントナビ"
   },
   {
+   "id": "f65fec8d999dd916",
+   "title": "【ユーキャン】社会保険労務士講座がWEBからクレカ・キャッシュレス決済限定で5,000円割引！「早得！スタート応援キャンペーン」を開始！",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tNkZOX3ZNQTNIY3FPcGlsMG1nWHF5ZG5DTXJmZ2VxSi1rRk1DWXBwNE1Qcjk0UlhzUTRadTJKWnpvSzYwTUlHa1VSS0Uza3NiREdocy00TllBY28?oc=5",
+   "source": "朝日新聞",
+   "summary": "【ユーキャン】社会保険労務士講座がWEBからクレカ・キャッシュレス決済限定で5,000円割引！「早得！スタート応援キャンペーン」を開始！ 朝日新聞",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T07:49+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "62021b88a451512d",
    "title": "JR東日本、モバイルSuicaで新コード決済「teppay」10月20日開始",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kSHlWdG9CQ2xiX2hqWlN1S1NsY3NUWUQ1eEpERUhxN0xDZFpDLWJtZGMtbzNzMlJlX1ptNkVsRkR4Sl9xSW1oYWVSWmFmeV9ybWh4R2wtbDltckVBWUZtZGdzbXBmNmFzcVRIVzhjNC1Nemh1eXVKSmxNR3E?oc=5",
@@ -264,6 +474,19 @@
    "type": "news",
    "published": "2026-10-07T06:09+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "cee4a2509ad472d1",
+   "title": "デビッド・ピアース：AIエージェントにクレジットカードを1枚だけ渡し、毎日確認せよ",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZmNCRnE3Y3AzZnRMVGhncVBNd0hxTHd1ZXg1VmNsVnFCeG83YWxhbjN6Q1RyOEFseE5tcEFYYzJfU3Vvc3FwZVk2SW5SdFNzUjlaUWJ3RkUtdw?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "デビッド・ピアース：AIエージェントにクレジットカードを1枚だけ渡し、毎日確認せよ BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T06:08+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "c538c51555afdf9e",
@@ -357,6 +580,19 @@
    "type": "news",
    "published": "2026-10-06T23:17+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "4ea5f5a3c8e984ab",
+   "title": "シチズン時計、顧客情報約10万人分が漏えいか 銀行口座やクレジットカード情報も流出の可能性",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWVlQazlOdjVtVF9la01hZmZmRjYxb204a1JIQlhqU1YxbjYxdmxUZUpBVDNHclFHdll3OGdfZkczcVZtRlBaQzQ0LUNKT0xtZ0ZkY1JabmlPeWUtRHpiaVhGRW93NE5tcEZxNVEzOV9SNWtxYWd2MzQ4T1F6V0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "シチズン時計、顧客情報約10万人分が漏えいか 銀行口座やクレジットカード情報も流出の可能性 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T22:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "b135d29b7c9c3ba8",
@@ -2415,6 +2651,19 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yMDZVdzIyRUlXNktwdzcwSjZvQ2w0SXVYTGV5RlVSZmJnYWdnWWRPb19ZV1JoRS01M3BlQ2F5ZUlnNVlFWmJiVlo2QlVicnZwZFF6S3QtNHhOdWg0bllhbnV5LUNGRTBYYnR4eU5kdTJZQQ?oc=5",
    "source": "新日本保険新聞社",
    "summary": "【2026年版】40代クレジットカード最強の2枚！目的別おすすめ組み合わせ10選 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-04T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "94b4c071cb91f1df",
+   "title": "【2026年最新】JALカードのおすすめは？どれがいい？JALマイルが貯まりやすい最強クレジットカードを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tQms0dnZ1R1VOS2RuYkwzWlUxS3p5M3JBZzlCWjMtTUFVVERRdEd4RjBfSHUzeW5tZTJfSWZsU21tNFhJWVVRQU1jVjBTUmhpTnFUNW8xLXZBaUIyWVlFTWZR?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "【2026年最新】JALカードのおすすめは？どれがいい？JALマイルが貯まりやすい最強クレジットカードを徹底比較 投資情報のフィスコ",
    "categories": [
     "credit"
    ],
