@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T11:49+09:00",
+ "updated_at": "2026-10-07T12:50+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,52 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "aec4300735edac57",
+   "title": "【ホテルメトロポリタン】「Suicaのペンギン クリスマスケーキ」付き 宿泊プラン",
+   "link": "https://prtimes.jp/main/html/rd/p/000002585.000030117.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JR東日本ホテルズ] [画像1: https://prcdn.freetls.fastly.net/release_image/30117/2585/30117-2585-31ffe00447fb6882b81359491890f551-600x400.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-07T12:41+09:00",
+   "company": "JR東日本ホテルズ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "5d3d8b1921f2c640",
+   "title": "au PAY、指定日に自動で送金できる「予約送金」の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000166.000020989.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[auフィナンシャルサービス株式会社] auフィナンシャルサービス株式会社（本社：東京都港区、代表取締役社長：長野 敦史）は、スマホ決済サービス「au PAY」の「au PAY 送金サービス」において、指定日にau PAY マネーを自動で送金できる「予約送金...",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-07T12:41+09:00",
+   "company": "auフィナンシャルサービス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "a3ad05ba15ccb058",
+   "title": "無限の可能性が、無限の価値を生み出す。三井住友カード Visa Infinite 2026年12月開催の限定イベントラインアップ公開。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000998.000032321.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[三井住友カード株式会社] 三井住友カード株式会社（本社：東京都江東区、代表取締役社長：佐々木 丈也、以下：三井住友カード）が発行する最上位カードである、三井住友カード Visa Infiniteのブランドメッセージ「無限の可能性が、無限の...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-07T12:15+09:00",
+   "company": "三井住友カード株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "bad091aaf1120313",
    "title": "RemitAid、輸出免税の証明書類ルール改正に対応したホワイトペーパーを無料公開",
