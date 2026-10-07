@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T16:49+09:00",
+ "updated_at": "2026-10-08T00:54+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "1f898c003ca13aef",
+   "title": "【ニコニコレンタカー】公式アプリ「ニコパス」からはじめて予約した方の中から抽選で、200名様にPayPayポイント2,525円分をその場でプレゼント！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000045.000179021.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社レンタス] [画像1: https://prcdn.freetls.fastly.net/release_image/179021/45/179021-45-b52e2015fea04c108da055451b631ed4-1200x650.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-08T00:15+09:00",
+   "company": "株式会社レンタス",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "db5aaec04045dc60",
    "title": "オンライン銀行引落「Jamm」、リリースから運用1年でチャージバック・不正利用報告ゼロ件を達成。",
