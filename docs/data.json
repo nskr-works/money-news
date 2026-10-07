@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T06:48+09:00",
+ "updated_at": "2026-10-07T10:49+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,154 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "24b7ba36176e1bf2",
+   "title": "【FIVE SPACE JAPAN Co., Ltd】ADERERROR Significant × Alpha Industries、コラボレーション「Stripe in the Loop」を発表",
+   "link": "https://prtimes.jp/main/html/rd/p/000000015.000141146.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社FIVE SPACE JAPAN] [画像1: https://prcdn.freetls.fastly.net/release_image/141146/15/141146-15-c994babaf7e91f98566f4f1c243db542-1080x1350.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-07T10:15+09:00",
+   "company": "株式会社FIVE SPACE JAPAN",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "bbe76d3ea42df9f3",
+   "title": "【京王線・井の頭線限定】スマホのタッチ決済乗車でVポイント10％還元！～京王でお買い物をしてVポイントまたは京王ポイントプレゼント～を開催！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wVzZLQ1pNQXUydUJjUWNkMHozelNhdGhvSG1JSDhWSHF4bnQzdkpOUUhFQW1UMHpkX2pDTGhFaElOSWg1MTM3MThfOEx2N3VZZnJYUVM5Y295cTF0TEh3djhULThWWEtGNEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【京王線・井の頭線限定】スマホのタッチ決済乗車でVポイント10％還元！～京王でお買い物をしてVポイントまたは京王ポイントプレゼント～を開催！ PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-07T10:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」",
+   "company": "三井住友カード株式会社"
+  },
+  {
+   "id": "087c0e293a88845f",
+   "title": "クレジットカードのデータによると、中間選挙を前に米国の高級品支出が減速していることが明らかになった",
+   "link": "https://news.google.com/rss/articles/CBMingVBVV95cUxNa0N3VW5sVlR3aDZ3bnZLd1NFa29XaEFiWWVsVjZ2eFk5TWpLS0lTSWpJQ0hCX01EU2ZnMWNaNHJHRENCY2dpVkM2b0s3Zlc4VERsOWpSZ2pPN244al9jZXAyUVhHODEtbk12ZmNIX0VoWFpDY2RJa1BGS2dWLU9OdG5BbWxCTDZleFZsQjJ5bHFTNTU1Q0hsV0NtUzl3NkNHWDNqdDV6OFJEMjVTUHRoY0ZlYmxuQnZlQzRudUhjeUYtZ190NUw1ZFJjNXVpMXhKS01QWmdtU0RRM0dVMVdHMmpHdm94S1h5dUpxRXh4VGl2NGozcUtoTnFHSHo2ZkVZQjZGSzR0aV9nSU9QMlB3TDZfTlBUNWFYb2NzaXp2WW05Rmp2Wkh6S0V4TGY1WkZWVHJiTDExVjVSaHZ2ZkNkOGFDTWIzVVVZM1hQTk5UdEk3d0l3eUdaakNpOXpkajdIOENuRlFkcUhvRUlRdmxlSGZaVUo4eXRwdFluZ3ZhNVIyUi1hM3k0Q0ZhNWJYVHdGTTd5d1JPWVNzWDY3ZXB2ZDR1ZnVHQWVCQXpMb1dBb0FTbUFQVjB1c01TRUhIV3FzemFpUTNyUFMtSk1CUnhnaW1vc0NhSW1YUW1uMTVpdmIyZHA3bS16MWcySW10X0oybUpwZkdDSlJSbG5pc2U3WkZQOUJlaFlaZU5tdGQ4THJoRHd1VXJTOGVoMHhDaGFvbjN5bzc2ODNMRDJYaFVKRzVmdkg5OFZhVDEyQjNxV2VDaGVCTDBfRzRaZE14SGc5Z09HdXlwV2gtb2dKT1dRN0ZqaW9yVFFjNjhybHhQdG95MV9XY2w5emlBZlUza2FVQVB1NW1GZ0cwM3FBV2JsTnN6STg0ZzBKNkQzb2d3?oc=5",
+   "source": "FashionNetwork France",
+   "summary": "クレジットカードのデータによると、中間選挙を前に米国の高級品支出が減速していることが明らかになった FashionNetwork France",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T09:54+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7a46e2f2f6383b13",
+   "title": "AI エージェントが自律的に購買・開発を担う時代への変革期？（Stripe）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xeU9HMnpab19NekVnMjZ4cjBMVWIza0VYOG4wT1FOcWtpY1Y0ak8tYUJXcnR0dDg5aFVoVnJHc3paV3gtSHhBOFZ4V0V4STJDWkVmSTRaZU5SR0E?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "AI エージェントが自律的に購買・開発を担う時代への変革期？（Stripe） ペイメントナビ",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-07T09:07+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "ddc026209e8ea6aa",
+   "title": "「teppay」を全国120万台超の決済インフラを有するTMNが普及支援（TMN）",
+   "link": "https://paymentnavi.com/paymentnews/183228.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月7日9:05（JST） 【日本】トランザクション・メディア・ネットワークス（TMN、日本・東京）は、自社が提供する「TMN決済ゲートウェイサービス（以下TMNゲートウェイ）」において、JR東日本の新たなコ […] The post 「teppay」を全国120万台超の決済インフラを有するTMNが普及支援（TMN） first appeared on ペイメントナビ .",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-07T09:05+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "55c957be0ef63126",
+   "title": "新コード決済サービス「teppay」を「StarPay」で申込受付開始（ネットスターズ）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MNl9Xb0tncW9oeFJoZjhuVXJ5SVhZUFFhUUxIaEgwcDU4bDFIcGVwcU1lREluaHk3SEtvMUFHQ2txV1ZCb0dER3ozZ3dVdG5sTnBfc1BlMUtFN28?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "新コード決済サービス「teppay」を「StarPay」で申込受付開始（ネットスターズ） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-07T09:01+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "7f9baa1679d92020",
+   "title": "「AND CREAGE」に不正検知・認証システム「ASUKA」提供（アクル）",
+   "link": "https://paymentnavi.com/paymentnews/183240.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月7日8:55（JST） 【日本】クレジットカード決済などの不正利用対策ソリューションを提供するアクル（日本・東京）は、アンファーが運営するAND CREAGEへの不正検知・認証システム「ASUKA」の提供 […] The post 「AND CREAGE」に不正検知・認証システム「ASUKA」提供（アクル） first appeared on ペイメントナビ .",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T08:55+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "3457526966078cc8",
+   "title": "「アメリカン・エキスプレス 飲食店応援プログラム」実施、世界で約2.4億円超の支援金（アメリカン・エキスプレス）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43LUtFSzJjUDQ5dGd0RFI5NmVkUDRlUUY3eHc2ZHBpYkdFM0JtUVFHU3lES1FBOWhlZ3BHd21mY0h4emRlVkExZ2FQMDktNTlpS3hEZlIzVWhfYlE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「アメリカン・エキスプレス 飲食店応援プログラム」実施、世界で約2.4億円超の支援金（アメリカン・エキスプレス） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T08:51+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "a346458ba2a7175b",
+   "title": "地域的AIコマースの展開状況について（AIコマースとオンラインペイメント第1部 第4回目）",
+   "link": "https://paymentnavi.com/paymentnews/181972.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月7日8:05（JST） 和田 文明 プロフィール キャッシュレス、電子マネー関連のジャーナリスト/ライター、主に欧米、アジアのセキュリティを含むキャッシュレス情報、カスタマーロイヤルティプログラム情報を取 […] The post 地域的AIコマースの展開状況について（AIコマースとオンラインペイメント第1部 第4回目） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T08:05+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "62021b88a451512d",
+   "title": "JR東日本、モバイルSuicaで新コード決済「teppay」10月20日開始",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kSHlWdG9CQ2xiX2hqWlN1S1NsY3NUWUQ1eEpERUhxN0xDZFpDLWJtZGMtbzNzMlJlX1ptNkVsRkR4Sl9xSW1oYWVSWmFmeV9ybWh4R2wtbDltckVBWUZtZGdzbXBmNmFzcVRIVzhjNC1Nemh1eXVKSmxNR3E?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "JR東日本、モバイルSuicaで新コード決済「teppay」10月20日開始 ニコニコニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-07T07:12+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "f8fc95febc28ab5f",
+   "title": "ネットスターズ、ＪＲ東日本「ｔｅｐｐａｙ」を「ＳｔａｒＰａｙ」に接続、加盟店の申込受付開始",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oUml1Z3QtWVJZTG0wMlQyeU5uV1ZRSmdsS0JxbmR3R3F1by1uMjFoTDJjWWxkZ0phWElnbmhKOHI5T3ZZTjFMYVpMRXp6SGxYWkVZRA?oc=5",
+   "source": "https://kabu-ir.com/",
+   "summary": "ネットスターズ、ＪＲ東日本「ｔｅｐｐａｙ」を「ＳｔａｒＰａｙ」に接続、加盟店の申込受付開始 https://kabu-ir.com/",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-07T07:04+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
   {
    "id": "6b70c6d973bb8156",
    "title": "本当にあった「キャッシュレス決済」体験(163) 【漫画】スーパーでキャッシュレス専用セルフレジに並んだのに……",
@@ -195,6 +343,19 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkeFpqWXNNYVA4UnZtQlNsVkJ3aFYzY2RiUExCSlI1RnV2V3YwcGJ6ZmJQMEJEOXNCX3VWMW9xSEJJcG0zZncyajFYR0VzRTllMHNGalFHcHdPZVdVel9hTm5NWlA1N0hQ?oc=5",
    "source": "毎日新聞",
    "summary": "コード決済「teppay」 JR東が20日から提供、業界上位規模 毎日新聞",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T20:33+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "fe63b5c132ed52cf",
+   "title": "コード決済「teppay」 JR東日本が20日から提供、業界上位規模",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkeFpqWXNNYVA4UnZtQlNsVkJ3aFYzY2RiUExCSlI1RnV2V3YwcGJ6ZmJQMEJEOXNCX3VWMW9xSEJJcG0zZncyajFYR0VzRTllMHNGalFHcHdPZVdVel9hTm5NWlA1N0hQ?oc=5",
+   "source": "毎日新聞",
+   "summary": "コード決済「teppay」 JR東日本が20日から提供、業界上位規模 毎日新聞",
    "categories": [
     "code"
    ],
@@ -863,6 +1024,19 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hOWRwZXhROVJXNko0WTFzbXB0akNXYnVfU1ZsQjlHY1h6OVNzQkFSeHdSaUdqa25ENWVSRmpYazNoT2VGSnJoUGVFY3UtOFl6ZFZQTA?oc=5",
    "source": "時事通信ニュース",
    "summary": "ＰａｙＰａｙアカウントを購入容疑＝男再逮捕、電子マネー詐取に悪用か―警視庁 時事通信ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T15:26+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "e011645cf043055d",
+   "title": "ＰａｙＰａｙアカウントを購入容疑 男再逮捕、電子マネー詐取に悪用か―警視庁",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVVhMlF1OHkyTlVLOWI0TjhDRHpTVEhuQTRxODlqNi0zOFBsNHlUNGJEM2F2dVFkUERJMjhrRDROU192MXRmQ1Z2NkhPOGkwYld3WHo1ajJSQ3ppZTEwTGxPRERHWEE3NjFCM2hZYXlFbTRILThGZjk0YmJOSXBoQQ?oc=5",
+   "source": "時事ドットコム",
+   "summary": "ＰａｙＰａｙアカウントを購入容疑 男再逮捕、電子マネー詐取に悪用か―警視庁 時事ドットコム",
    "categories": [
     "cashless"
    ],
@@ -1810,6 +1984,19 @@
    "via": "ケータイWatch"
   },
   {
+   "id": "b0f7b5f61efad9bc",
+   "title": "MWC2016で見たFinTech、モバイル決済最新事情",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnVMbUlPWFdZTHBqYjNOaVZqV1BhMV9qQjJ5dkFLWWxCTU1HMTd1S3lWTmRlbERiRS1SMmMyeVVGbHBiWUcxVlB3UVFGMF9Cb2wyZU5PZjB4TTduOTE3SHpPSmhjcV9JeUdHNzFrSXowLWI0Ym9HOWFHaml0TE1QM2g5azltMWMxQ2NEMWRFN0JCMmI1TkJvNGhWNXZwQ1gzSVN4SmZoVkxyc1E5VWNPejNWNFJqQQ?oc=5",
+   "source": "日経クロステック（xTECH）",
+   "summary": "MWC2016で見たFinTech、モバイル決済最新事情 日経クロステック（xTECH）",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T12:32+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
    "id": "8b1e223253666f80",
    "title": "指一本でタッチ決済から心電図、睡眠トラッキングまで。スマートリングの完成形が来るぞ",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2pmQkRsU01XRXZJZHh2eVUwLWNqdXAxUkM3R1BtTUNmUXlxYUZYUy15LWVVcXR4R1o1Mkx1WGhYZ3JYSVZjX2N5NG1wVTVDeTk0Vm0yVWJVTFVGbTFJTk92V19UaHB0aWdmM095MGotWVQ1R2M0a3ZPUVRKVnNsVllyMkhpY0M5Z0lTelVMbTlxcjNqUUF0XzlVNXB4UQ?oc=5",
@@ -2154,6 +2341,19 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yNmkxUUJ1YW5tekdVTk9kcS1fS0RabzZaRi00LXhZdHJPR0pQZ1BJNWVJdHZMS1VsXzdneEQ2QUdmRmRCT2RWeVNITVB2VGs5bUJvd2locFhsdUUxdFE?oc=5",
    "source": "投資情報のフィスコ",
    "summary": "審査なしでもETCカードは発行できる！誰でも作れるETCカードやおすすめクレカ5選を解説 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-04T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2e4bcdfc104071ee",
+   "title": "【2026年版】40代クレジットカード最強の2枚！目的別おすすめ組み合わせ10選",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yMDZVdzIyRUlXNktwdzcwSjZvQ2w0SXVYTGV5RlVSZmJnYWdnWWRPb19ZV1JoRS01M3BlQ2F5ZUlnNVlFWmJiVlo2QlVicnZwZFF6S3QtNHhOdWg0bllhbnV5LUNGRTBYYnR4eU5kdTJZQQ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年版】40代クレジットカード最強の2枚！目的別おすすめ組み合わせ10選 新日本保険新聞社",
    "categories": [
     "credit"
    ],
