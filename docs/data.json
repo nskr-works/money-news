@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T10:49+09:00",
+ "updated_at": "2026-10-07T11:49+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "bad091aaf1120313",
+   "title": "RemitAid、輸出免税の証明書類ルール改正に対応したホワイトペーパーを無料公開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000035.000108273.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社RemitAid] 「テクノロジーで国際決済の“新たな道”を創る」をミッションに掲げ、海外取引における決済プラットフォームを展開する株式会社RemitAid（本社：東京都渋谷区、代表取締役：小川裕大、以下 当社）は、2026年10月1...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-07T11:40+09:00",
+   "company": "株式会社RemitAid",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "24b7ba36176e1bf2",
    "title": "【FIVE SPACE JAPAN Co., Ltd】ADERERROR Significant × Alpha Industries、コラボレーション「Stripe in the Loop」を発表",
