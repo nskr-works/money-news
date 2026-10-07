@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T13:54+09:00",
+ "updated_at": "2026-10-07T15:55+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "2d9d366985781213",
+   "title": "お客さまの応援で復刻決定！「Suicaのペンギングッズ ＼復刻／応援投票」上位3商品を再販します",
+   "link": "https://prtimes.jp/main/html/rd/p/000000193.000109432.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社JR東日本商事] ○株式会社ＪＲ東日本商事（本社：東京都渋谷区、代表取締役社長：大西秀麿）は、 鉄道グッズ専門店「TRAINIART（トレニアート）」において、2026年5月に実施した 「Suicaのペンギングッズ ＼復刻／応援投票」の...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-07T15:41+09:00",
+   "company": "株式会社JR東日本商事",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "ae3615f1686fe8e3",
    "title": "au PAYに「予約送金」機能 お小遣いや誕生日祝いを自動送金",
