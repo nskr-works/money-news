@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T09:57+09:00",
+ "updated_at": "2026-10-08T10:51+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,47 @@
  "topics": {},
  "items": [
   {
+   "id": "a3e6c193124ded46",
+   "title": "「急いであの機材が要る」を、最短で。イベント・現場機材の「ゴリラレンタル」が『Apple Pay』『Google Pay』での決済に対応開始！",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PUmpnb05tOE0xXzdxOUsxLTNiZlNseVQ2dDhmNFFsWnRTTDBMNGMwYmk0VHJrZ2hOTnplWDMxNlNCQlFWbGdXdmc0YW52UXM?oc=5",
+   "source": "アットプレス",
+   "summary": "「急いであの機材が要る」を、最短で。イベント・現場機材の「ゴリラレンタル」が『Apple Pay』『Google Pay』での決済に対応開始！ アットプレス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-08T10:02+09:00",
+   "via": "@Press（決済）",
+   "company": "ゴリラレンタル"
+  },
+  {
+   "id": "ee562f623e2add45",
+   "title": "SHIPS、Forterの導入でデジタルの「STYLISH STANDARD」を追求。顧客体験を最優先した3Dセキュア「パターン①」の運用を実現。",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzc0RuRUl5M0RienE1cDloWE1KMmRzdkxTZHdxY2FxX0lNVlZLak9sNUJDSl9zY3ZwOU1iNDFqRktLZWYxUFZkaHBpODMyT3pKVkxKVWhoZkFaNnkyYjd5cnkwM2owU04xTGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "SHIPS、Forterの導入でデジタルの「STYLISH STANDARD」を追求。顧客体験を最優先した3Dセキュア「パターン①」の運用を実現。 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-08T09:50+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "Forter"
+  },
+  {
+   "id": "5bef45e7cb92b3da",
+   "title": "福井銀行「JURACA＋」を2027年春開始 JURACAのQUICPayは3月末終了、nanacoは継続",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmTkNaT0ZRc0hOM3JTSFlrZ3BLU21vUTVuYXBNVXg3TzRaa3BZVWlSb1o2MzRmc2twX2FBZl8tX19ZZlFEQzdwSExIWTYtZw?oc=5",
+   "source": "ポイ探ニュース",
+   "summary": "福井銀行「JURACA＋」を2027年春開始 JURACAのQUICPayは3月末終了、nanacoは継続 ポイ探ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T09:25+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "f0682189478c258f",
    "title": "TVアニメ『貸した魔力は【リボ払い】で強制徴収』第2話あらすじ＆先行カットを公開！",
    "link": "https://prtimes.jp/main/html/rd/p/000009794.000014827.html",
@@ -41,8 +82,87 @@
    "type": "release",
    "published": "2026-10-08T09:15+09:00",
    "company": "株式会社ブシロード",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "8f1da24b0b6406a8",
+   "title": "【楽天ペイ】富山県で最大10%還元キャンペーン開始 - なすなかにしが「富山県1日生活応援隊長」に",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Dd040dGJMT3JFdFU4R1hkODBtc1VLSnRGRXUxM3dSdmRYR1Z2VHIzU2VIYXprS0U2N1lmekRLNHlncHRUeHM2WjlzbW9sblVjUnVDanRRTWdLZVdDbkh2MTI3M3NmMXNHb2ZHY1Bn?oc=5",
+   "source": "au Webポータル",
+   "summary": "【楽天ペイ】富山県で最大10%還元キャンペーン開始 - なすなかにしが「富山県1日生活応援隊長」に au Webポータル",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-08T09:08+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d6a7aa396d2b74e3",
+   "title": "エンタメカード情報を集約した特設サイト「SUKIDA.」公開（ライフカード）",
+   "link": "https://paymentnavi.com/paymentnews/183181.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月8日8:52（JST） 【日本】ライフカードは、同社が発行するエンタメ系クレジットカードの情報を集約した特設サイト「SUKIDA.」を2026年10月5日より公開した。 「SUKIDA.」は、エンタメカー […] The post エンタメカード情報を集約した特設サイト「SUKIDA.」公開（ライフカード） first appeared on ペイメントナビ .",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-08T08:52+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "30ec5826c6b7e404",
+   "title": "アメックスのコーポレート・カードと「SAPPHIRE 経費精算」がデータ連携（Miletos）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5feC13R0hpUTBTbUhzbm5oaUxDLUFFUUIxdlVpajZ6S0p5ekVtS1lsaUdkdEEwQ3ZLcllBWUJ2UTZYVmlWRENqT2NhOUppbWlmWV9vcG5Xa0tBRTA?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "アメックスのコーポレート・カードと「SAPPHIRE 経費精算」がデータ連携（Miletos） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-08T08:37+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "b15a5ad74bcab2c1",
+   "title": "AEON Payの利用促進に向けた各種キャンペーン実施（イオンフィナンシャルサービス）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3dS1DM1JWUGZWMnZ4Z19GNFlCckFCWURHa2ZCUURtLWQ0QVhEUHZLdzI3TV9hd3JtbVNBR3VQSDBMTjI3TjYzajZEbUpLWnB3aHJ4VTVXUWVoMEE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "AEON Payの利用促進に向けた各種キャンペーン実施（イオンフィナンシャルサービス） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-08T08:30+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "dd0e03b7ac8b8d91",
+   "title": "「Okage Kiosk 前払い タップ決済」提供開始（Okage）",
+   "link": "https://paymentnavi.com/paymentnews/183242.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月8日8:28（JST） 【日本】Okage（日本・東京）は、決済端末不要のキャッシュレス・セルフレジ「Okage Kiosk前払い タップ決済」の提供を開始した。 同製品は、NFC搭載タブレットそのものを […] The post 「Okage Kiosk 前払い タップ決済」提供開始（Okage） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-08T08:28+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "fabe83d97325a473",
+   "title": "「三井ショッピングパーク &mall」「三井アウトレットパーク オンライン」に「d払い」導入（ドコモ）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mWndEUm5ncndGMmxLREdRalhfYmlwbGNJTUthaVIyMjNnd1FQRmRfYUNYN1ZpTGdabU9rM2c0WWxKc2txcUJkV0xmSTdQckZ5Ri03TEtNTUtjMTg?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「三井ショッピングパーク &mall」「三井アウトレットパーク オンライン」に「d払い」導入（ドコモ） ペイメントナビ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-08T08:19+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
    "id": "40cbccfa07bf3209",
@@ -436,6 +556,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "eac1265a92019409",
+   "title": "【不正アクセス】約3600件の顧客情報が流出か…長野都市ガスが委託会社への不正アクセスで流出した可能性公表…顧客氏名や住所、電話番号などで、金融機関口座やクレジットカード番号は含まれず | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxX3VNMDVQOThtalVGeEFyNmthOXlWaTNLUEpud1p4NGJCUTRrbmxWWjRRRmExQzVrZDdZUlkxQlJiMzlCRjF0dU9XbFVpZy1ySE5IdzMxel9mMmp4Tl9XVDIzcmpjNUU?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "【不正アクセス】約3600件の顧客情報が流出か…長野都市ガスが委託会社への不正アクセスで流出した可能性公表…顧客氏名や住所、電話番号などで、金融機関口座やクレジットカード番号は含まれず | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ) TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:38+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "cfb7d251a65966c8",
    "title": "JR東日本グループ、コード決済「teppay」のサービスを開始",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBON3FRMHFNX08wZ0xaT19UTW02MFF1SkNXLWZ1N2VDNFNZZDI4Smt5WHlMRzJUTHZOQWs4RmNYVnlPUkRYRkowem5mUkFnT3BzNFE?oc=5",
@@ -567,6 +700,19 @@
    "type": "news",
    "published": "2026-10-07T09:24+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "a49a052c997a99a3",
+   "title": "職場の店長が「年会費2万円のカードを使っている」と話していました。私はクレカに年会費を払ったことがないのでびっくり。年会費が高いカードって、どんなメリットがあるのでしょうか？ (ファイナンシャルフィールド)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjZSN1NMWVpZUFV0a0tWRExpQzBNc3U4YmlOV1VIWjdId3lLakp2YnY0eHluLXFfN0k3akRhOUt1ZHNfaUp4SDhMMkRNY0c0WWFLMi1acGxlSEsxZV9iQ01HTzFMd3p0dms0aTZUN204QmxLUHZlWnZaSGlCRGFfODlBUlUyMFdyMEs3cHpn?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "職場の店長が「年会費2万円のカードを使っている」と話していました。私はクレカに年会費を払ったことがないのでびっくり。年会費が高いカードって、どんなメリットがあるのでしょうか？ (ファイナンシャルフィールド) Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T09:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "7a46e2f2f6383b13",
@@ -2751,6 +2897,19 @@
    "published": "2026-10-05T11:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」",
    "company": "株式会社エデンレッドジャパン"
+  },
+  {
+   "id": "a8b964030f08fde5",
+   "title": "【業界初※1】「チケットレストラン」がApple Pay・Google",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBielhadnVPWE9rN1g5NE4zTlk5Y0pOckZLQ2FsYlE0MWVXa0dhQ1BjaDhUN0l6NGlnT2dxbE1LbC1PVV81RnM2cHN6TDJFMUJVUkZPbjBDR0tfOXBoM3dneUk2aTdBUk4tbnMtOUtUbUxGQVRNZ1E?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "【業界初※1】「チケットレストラン」がApple Pay・Google ニコニコニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-05T11:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "0ca683f905cd9271",
@@ -5343,6 +5502,20 @@
    "published": "2026-10-01T11:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "adaab2f75775b222",
+   "title": "「宮古・八重山限定！抽選で最大10,000ポイント当たるd払いキャンペーン」 を開催",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jbWExY3k1YW84dUxoMGFITGR6UjJ4SXNDaWpCdFluMVFHdkJwY3lha1MzVzlFSWlQaGJ4ZXp6RGVKSjlqN3lxNU1wUlVOenJPYTIxSjlINlRGdlJ2VmhzYlVxZGh1WmtCQ2Z1d2x6cFV5NkRfYXZUcDk3ZEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「宮古・八重山限定！抽選で最大10,000ポイント当たるd払いキャンペーン」 を開催 PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-01T10:58+09:00",
+   "via": "PR TIMES（決済）",
+   "company": ""
   },
   {
    "id": "83cd2463bfaf8e8f",
