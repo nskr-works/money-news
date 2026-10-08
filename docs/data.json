@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T16:50+09:00",
+ "updated_at": "2026-10-08T18:52+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "6d03259b7a5c8421",
+   "title": "「Stray Kids」 × FUQUOKKA[フクオッカ] 福岡公演を記念した限定バウムクーヘンを発売",
+   "link": "https://prtimes.jp/main/html/rd/p/000000140.000011956.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社 ぶどうの森] Stray Kids World Tour <RUN IT JAPAN>のみずほPayPayドーム福岡公演開催を記念し、「Stray Kids」と福岡発ギフトスイーツブランドFUQUOKKAがコラボ！ [画像1: https://prcdn.freetls.fastly.net/release_i...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-08T18:41+09:00",
+   "company": "株式会社 ぶどうの森",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "d8abdc77d7876749",
    "title": "【プラパで充電】「INSPIRATION by SUNSET LIVE」内に設置決定！スマホの充電が切れていても、アプリ不要のタッチ決済でその場でレンタル可能に",
