@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T18:52+09:00",
+ "updated_at": "2026-10-09T06:51+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,72 @@
  "topics": {},
  "items": [
   {
+   "id": "51cbeed8e6225ab8",
+   "title": "インタセクトはユーシーカードと連携し、ウォークスルー型無人店舗・スマート冷蔵庫のクレジットカードタッチによる入店と自動",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OWHk3bEd1QmlkU2xnY0VIQ3hFNWxjM1RNNldBM0x3d1BkM1dxOFlQZXdxSDcyQm4tN1dWZHJEZC1SRHRaV2RneTNNdzUyRzM4RFVHZmlLU3Y4LUhsVEJaYmtobVo0Qm13bUpST0ZkZjU3c1NLM21DM0dabw?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "インタセクトはユーシーカードと連携し、ウォークスルー型無人店舗・スマート冷蔵庫のクレジットカードタッチによる入店と自動 ニコニコニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T03:21+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "e6031c03ed1f873c",
+   "title": "『AEON Pay』が『GiGOアプリ』に導入！ ゲームプレイや回数券購入でキャッシュレス決済が可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YaDJVTDZQVFQ0OXpiTENJZHloR0UxN01hcVQ4X0M1Z2h1RXIwejdoSXpGUW9weHd4QldXS0NZcmZsX1dtTER6SC0zRkVBTXdQbjJNRk83eHJ6NWwyY29nVDlYeUp6WlRHb1E?oc=5",
+   "source": "AppBank",
+   "summary": "『AEON Pay』が『GiGOアプリ』に導入！ ゲームプレイや回数券購入でキャッシュレス決済が可能に AppBank",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T02:31+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d2ac35380cd40241",
+   "title": "車両決済サービス市場需要における世界最大20社",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkRoOFZ2c21EWk1iYnFjTkRWLUlmdVdRRXhqdFozbm1ZbVhEYWY2b01JUk5ZQnBpWXhHdGI4TzZrN3Z5aTdaai1Wa21za1FsSFhfOWE2OTQyMU1Ld1pwSGpzb2prSnROVm5VWkhGcjE5U2VBa0pvQVhZQkZQcXVyeHlvTlJQNzQzS0Y3VFZCeVNNUGlkck4xQ25mUkNRMzUtaEp0WThfUko2TTRwb3JLZXNBa04zcDZ0Mk1MdjdVRFVuc2czakZtMy0wRFM?oc=5",
+   "source": "Spherical Insights",
+   "summary": "車両決済サービス市場需要における世界最大20社 Spherical Insights",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T23:34+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "7c464a2eb1b63a47",
+   "title": "パンパンくんの“成金デザイン”クレジットカードが爆誕！",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqcHBVX3JtVExiVEZIWWs0ZkRaWTl1NW5QdVByWWltSTZTdHhDWjNaN0VILU1wVU9lUEx0el9HWU5XQi1ha19fTEdORmthSlUxSFR0Q1Fn0gFbQVVfeXFMTk02ZUlXYlBsVC11SGsxWU51ay1UX2JEU2FlejBzX2FURUMtVHVKRzZGNm9MdGN5cmpsdHVsa0dPSjF5RlU5aTRXTGFKZzd5ekNaNF9FU1FGd05lVQ?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "パンパンくんの“成金デザイン”クレジットカードが爆誕！ ウォーカープラス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-08T23:17+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6f84bba2b83c7c61",
+   "title": "トランプ一族支援のUSD1、世界数百万の加盟店で決済対応へ（NADA NEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUjRrRU5xZURfdm9SMGFLRGp6ZmFpTnVZQTZvN09fNE0xbXBZQThyWWJMN2VoeFVWZVV6aDgyQzdJenlSZXRVYW05andZdDVyaTI3bEFaemZlVGZ4Z2hERl9kZ1ZCN2RBTldEZVJmOWJQRXNtQmFqVjh2VnpleFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "トランプ一族支援のUSD1、世界数百万の加盟店で決済対応へ（NADA NEWS） Yahoo!ニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-08T19:30+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "6d03259b7a5c8421",
    "title": "「Stray Kids」 × FUQUOKKA[フクオッカ] 福岡公演を記念した限定バウムクーヘンを発売",
    "link": "https://prtimes.jp/main/html/rd/p/000000140.000011956.html",
@@ -41,8 +107,59 @@
    "type": "release",
    "published": "2026-10-08T18:41+09:00",
    "company": "株式会社 ぶどうの森",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "da3c4607fbf2b46f",
+   "title": "「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱（ウォーカープラス）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbzhVRjh5ZUVaUE83NENrWnhJemtyYUR1R3JEYWQ1bXFqOUF1RFphdHNwb29fQWdPbVV6bUhDZnNiaW9DekZBM2x2VnNvTTMxdUhocE5mNHJfbUluenNmV1ZxdVZCYW5NWC1Bc1E0MWxIT3MwTDdtZFJzMnhCYkk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱（ウォーカープラス） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T17:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "43959742667f9614",
+   "title": "【画像】「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 1/4",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42RktMcE9URWdRejJFNl9xaGFTY1VjeEc2dnhLbjRyN05teTNockFYLVBDcDBTYmZIMzlpckpJQUdPZmUyV0lCMjNieE5rb0F4QlhQNkdHUTJlaWRaeTg4U3l2MG0xRkczNlVZWmxxcWJmQWtjZndkSVZzNl8?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 1/4 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T17:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "bcdea82ec9ff7179",
+   "title": "建築関係手数料のキャッシュレス決済について",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWDJJeUVvbVkzbmtyRGdjY09WYVpzV01hR2tIMU9jZUVhWm1ZMkxYSWFqOXVfVW5hQU4zQWxzV3RDbk51THF2Sl9wbE1UdTZLay1z?oc=5",
+   "source": "鹿児島県公式ホームページ",
+   "summary": "建築関係手数料のキャッシュレス決済について 鹿児島県公式ホームページ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:52+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "ee679bf0f1adb1ec",
+   "title": "資産3000万円以上が対象 MUFG「エムット」最上位サービスと“年会費無料”アメックス・プラチナの魅力とは（ITmedia Mobile）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pcHhpNE9LTVdhSnNXTVM1UFNIT1I5dGwwcWxDeGlmajBIN25GWmJsUjFHcXNOU2RnZVlPY0Nfbkh4emktRVJSVDk3T2w2S2pDOGQwNnFmU25BOVhtSDE5U2lXRERkS2RWOEFCVkkzXzI1R2tBcW9hczE1QkFWaTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "資産3000万円以上が対象 MUFG「エムット」最上位サービスと“年会費無料”アメックス・プラチナの魅力とは（ITmedia Mobile） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "d8abdc77d7876749",
@@ -57,6 +174,19 @@
    "published": "2026-10-08T16:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "スリーアール株式会社"
+  },
+  {
+   "id": "d57fed9452238151",
+   "title": "電子マネーがフィギュアに!?スプラトゥーン「イカ」型nanaco",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uTEVNNUNVWldIZ1JEekZEUlhQYXRlSFlQLWhrLUtqTC1MbkNvcnFkRFdnVWUwSm9QWmlIbjFpd1ZIVmtXblIwTmpmNldfY013QW9wUNIBWkFVX3lxTE5oQkRER2ZWbk5jX0xqeEtkZ294azBnc2lOajI5RlIwM3pDaTVTdjNvSkFoMm5NY3kwZkRkdnUzZ1U4WTMwNWlhX0JkNXF5OVF3ckRmeU85czRJdw?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "電子マネーがフィギュアに!?スプラトゥーン「イカ」型nanaco ウォーカープラス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T15:53+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "3a5e8331bb676aad",
@@ -408,6 +538,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "f3672c9b7a671977",
+   "title": "トランプ氏支援のワールド・リバティ、USD1ステーブルコインを数百万のオンライン決済に導入へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDMUZWTlZfY2Jla3hZSjAwemVlT3lRSHhTNUMzRWp3djV4VXBMOVpoVEw1R3ItZElFRTE2Nllra0RjTDRVTy11cGRrdDkzNjZIODNYUkVhMDVISi1SMnVwb1kyM1RKNVFrb093UmZfY1U2a3dw?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "トランプ氏支援のワールド・リバティ、USD1ステーブルコインを数百万のオンライン決済に導入へ BigGo ファイナンス",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-08T03:28+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "1f898c003ca13aef",
    "title": "【ニコニコレンタカー】公式アプリ「ニコパス」からはじめて予約した方の中から抽選で、200名様にPayPayポイント2,525円分をその場でプレゼント！",
    "link": "https://prtimes.jp/main/html/rd/p/000000045.000179021.html",
@@ -552,6 +695,19 @@
    "published": "2026-10-07T16:15+09:00",
    "company": "株式会社カーセブンデジフィールド",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "29303e5511b68f3f",
+   "title": "【神奈川】サーバー開発エンジニア（決済サービス） ※リーダー",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84SnQ0SFJYR1J5Yk5uTnRoSHk2cS0tYXpvaG0yekJfc2ZPd1VuMXBOYmRqVm1QU1FmcEtWenlrdURWTEJ2ck1XZnRfaHpGUWNIVDFzVUtSNnBYR2hMdDgwTTNWYTlldU9fWWh6eHJB?oc=5",
+   "source": "日経転職版",
+   "summary": "【神奈川】サーバー開発エンジニア（決済サービス） ※リーダー 日経転職版",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T16:00+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "e262b0c7782740aa",
@@ -896,6 +1052,20 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EYkFnN0RiUHdUSlk2ZUwxakNxcE9oQzFJVTFXNGRZRFJvdUJxd0tMeVlLeW5MbEtmZ04yYm1hcFJWdkM5MHNjM2tWQVMxUEk?oc=5",
    "source": "アットプレス",
    "summary": "中国のモバイル決済：市場シェア分析、業界動向と統計、成長予測（2026年～2031年） アットプレス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-07T11:00+09:00",
+   "via": "@Press（決済）",
+   "company": "株式会社グローバルインフォメーション"
+  },
+  {
+   "id": "7df227b310a67038",
+   "title": "ドイツのモバイル決済：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zN0dvNXBDMEc5eUhDRFVoMlJBUGVXMTBNWXRsM190UjRBOExiV1NjQkQ0aThnR28zQ0FjdVhZa1BkS2xNQmM1M1ZidFB1cTA?oc=5",
+   "source": "アットプレス",
+   "summary": "ドイツのモバイル決済：市場シェア分析、業界動向と統計、成長予測（2026年～2031年） アットプレス",
    "categories": [
     "cashless"
    ],
@@ -1997,6 +2167,45 @@
    "type": "news",
    "published": "2026-10-06T16:00+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "d34c78952bd48a0e",
+   "title": "【2026年】ホテル無料宿泊・優待クレジットカードおすすめランキング8選！選び方や特典適用条件も解説",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UcHFnb0hrV3M5VW5TbkU3aEFLWDFaVWhmZUQ1VjlacDFUWFB6OFk4WHc2RDhIUUpnWllQcUZhY1M5T3E3TU16NUlfSXJydmxkY19wWlUwbDlUWkU4LU9YdXJ3dHM?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "【2026年】ホテル無料宿泊・優待クレジットカードおすすめランキング8選！選び方や特典適用条件も解説 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "88f08d560b0fa64b",
+   "title": "【新NISA口座おすすめ比較】NISAでより多くのポイントが貯まる証券会社はココ！ ｢クレカ積立｣で年1万ポイント以上が貯まることも！",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxOS1DXzZNZndncm9RTlMtRDJval9CbFI3bmxJU0JPcm1tYlN3SjZobE5OZnk3YkVHTWp1T2EzTkRZSnNHRXhHU0ZPRFVUckJHSzYw?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "【新NISA口座おすすめ比較】NISAでより多くのポイントが貯まる証券会社はココ！ ｢クレカ積立｣で年1万ポイント以上が貯まることも！ ダイヤモンド・オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ec75e42059fed3b9",
+   "title": "アメックスカードのおすすめの種類は？最強クレジットカード21選を徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aT19TU3UwZnU2LXRmQURtbDRtcUFBcUxUQlBPZU5rQUhlNmJJbFI0SWk5d0dwdUxVLUZ0cGs4RWhxNkUtTU0zakdVWjFtQi1NWXVjdWNMRDQ3MUFKT3c?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "アメックスカードのおすすめの種類は？最強クレジットカード21選を徹底比較 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "aa00b4e6ef88d157",
