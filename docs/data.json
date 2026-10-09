@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T06:51+09:00",
+ "updated_at": "2026-10-09T10:52+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,209 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "646e742f668445d2",
+   "title": "映画館支援サービスKinelpがクレジットカード発行へ、日々の買い物が映画館の援助に（映画ナタリー）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5neVRBUFJnNVJ4RDdwLUdaSWtVWjh0RkN1MG5ycHhFSEE2UURPc2Jpay1URzV1RUlVNlJUNmhRUVFBamhfQWl2NHk5THpVbUtQMFNIZnpuNWswakZ1UmZrUmV6X1FKWnNvOWZxT0xjSmo0SC1hMWhiaDVoZk5KZmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "映画館支援サービスKinelpがクレジットカード発行へ、日々の買い物が映画館の援助に（映画ナタリー） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T10:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8c9cdbb8f8698aee",
+   "title": "公正取引委員会に対し、ステーブルコイン決済の普及を踏まえたキャッシュレス決済市場の競争環境に関する情報提供を実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KdURXR2NYTkYtMEM0QmhRb0Uza0JlZmVrVG1kR3BUTVBMZVM3WnJGRFFET2Fhd0lxMUhkcHp3aVJ2eFN6dnM5T3RYTzY0LU5fQmRaNmxzLTN4a2lfM21QLVR5eXduV2lNU0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "公正取引委員会に対し、ステーブルコイン決済の普及を踏まえたキャッシュレス決済市場の競争環境に関する情報提供を実施 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-09T10:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」",
+   "company": "JPYC株式会社"
+  },
+  {
+   "id": "ab122abc60622d3e",
+   "title": "アップガレージ、買取金額の「PayPayマネーライト」受け取り機能導入でキャッシュレス化を推進",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kRlZFNi1tRTFRV3FEaXVfcnZkYVZobnlIWE5ZVkR3cC04d0JMazFJRUJGTHF2RlNzbzZNa3R0Q3pwdVptcktfaktKNlBCeC1EMkxmOVpidnZYSEJQMHNtRmlJZWhua0JKOVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "アップガレージ、買取金額の「PayPayマネーライト」受け取り機能導入でキャッシュレス化を推進 PR TIMES",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-09T10:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社アップガレージグループ"
+  },
+  {
+   "id": "ed810115d10da514",
+   "title": "「楽天ペイ」、関西を中心に展開するディスカウントスーパー「サンディ」268店舗で利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tZDhxY01yOWtPc0tUUHVHUXZsVTNnbVBBeXNVTUt1NjdreVNxa3lHdEtsd3AzUlk5Yy1URUVNZ1ZGSW9WS3F3SU1CYnBJZUhoNkVVYVJXVVlJVWpMQVByWGlxaE9aVndwLUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「楽天ペイ」、関西を中心に展開するディスカウントスーパー「サンディ」268店舗で利用可能に PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-09T10:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "楽天ペイメント株式会社"
+  },
+  {
+   "id": "baa8ba2d4ce6d4a4",
+   "title": "NewsPicksユーザーの個人情報漏えいか 勤務先やカード番号下4桁も……管理ツールに不正アクセス",
+   "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002153/",
+   "source": "ITmedia NEWS",
+   "summary": "漏えいした可能性がある情報は、ユーザーの氏名、勤務先、メールアドレス、住所、電話番号、クレジットカード名義、クレジットカード番号の下3ケタまたは下4ケタなど。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:47+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "a2f62e671889e151",
+   "title": "【鈴木淳也のPay Attention】なぜSuicaではなく「テッペイ」が必要なのか JR東日本が見据える10年後",
+   "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2146976.html",
+   "source": "Impress Watch",
+   "summary": "既報の通り、JR東日本は10月20日より「teppay(テッペイ)」のサービスを開始する。モバイルSuicaまたはモバイルPASMOから利用可能なコード決済サービスであり、teppay残高を使ってのSuica(PASMO)へのチャージや別のteppayユーザーへの送金が可能だ。",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:41+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "94ccc1692e5714ef",
+   "title": "ウォークスルー型無人店舗・スマート冷蔵庫でタッチ入店と自動決済に対応（インタセクト/UC）",
+   "link": "https://paymentnavi.com/paymentnews/183400.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月9日9:40（JST） 【日本】インタセクト・コミュニケーションズは、ユーシーカード（UC）との連携により、自社が展開するウォークスルー型無人店舗において、新たにクレジットカードのタッチによる入店と自動決 […] The post ウォークスルー型無人店舗・スマート冷蔵庫でタッチ入店と自動決済に対応（インタセクト/UC） first appeared on ペイメントナビ .",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:40+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "708c7f2cf6be8c70",
+   "title": "「プラパ」が音楽フェス「INSPIRATION by SUNSET LIVE」に設置！ アプリ不要のタッチ決済でレンタル可能、10月10日から",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HWW9nYl9oSnN2ZHRTaVBINHpHOVhqQU9sSk42eXlJaVRpUThwdHZCUS1LdmRua2Fxd084RTZOLUVmTlJ5cGFMUlNkdUZrTU4wR0JTekI1UnFPazRsRUNlNUdCOHVSTUlnZHc?oc=5",
+   "source": "AppBank",
+   "summary": "「プラパ」が音楽フェス「INSPIRATION by SUNSET LIVE」に設置！ アプリ不要のタッチ決済でレンタル可能、10月10日から AppBank",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:31+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "01248d58905bb577",
+   "title": "指定日にau PAY マネーを自動で送金できる「予約送金」提供（auフィナンシャルサービス）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sLWs2R0t2QkdvZHhERVJwTHBYdUFQLURKdzRPWE93WVd1RDMxdjl3dWhLR2tMakgyUjhrRER2RmowWHF5SVRsMGR1MlNHRVZTR3pEaVJNUllZRVE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "指定日にau PAY マネーを自動で送金できる「予約送金」提供（auフィナンシャルサービス） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:19+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "7f5e5f04500a44c0",
+   "title": "A2A決済の運用1年でチャージバック・不正利用報告ゼロ件を達成（Jamm）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4YlNncXpBZElXN01Tajl6dk02QXpJWGhGUU9vV1pIRnRNSXJHQUFOQ2F6U2pIYllyYTZIa3Z2dWlnRy14eEt2dHF5UkprSk1tZDlQQW1HM1Nucjg?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "A2A決済の運用1年でチャージバック・不正利用報告ゼロ件を達成（Jamm） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:16+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "6cca5551a56e26bf",
+   "title": "JCBオリジナルシリーズの新規入会者へ「侍ジャパン応援キャンペーン」を実施（JCB）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYW1mN05DbFpJeml1UWt5QkZwM1hETnBkQmZBRURxZWZaOWxpQ3pYX2dhVkJSaDZYN282Z1hPZkRrN1ZDRGdxZ1dDVzRhRHA2bW96Zk5TbkhoSk0?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "JCBオリジナルシリーズの新規入会者へ「侍ジャパン応援キャンペーン」を実施（JCB） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:13+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "8e2f8808a37d4806",
+   "title": "決済データ分析「Custella」活用で富裕層・インバウンド消費を捉えた空間づくりへ（丹青社）",
+   "link": "https://paymentnavi.com/paymentnews/183338.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月9日9:10（JST） 【日本】丹青社（日本・東京）は、三井住友カードとの協業により、同社が提供するキャッシュレス決済データ分析サービス「Custella（カステラ）」を活用したデータ駆動型の空間づくりを […] The post 決済データ分析「Custella」活用で富裕層・インバウンド消費を捉えた空間づくりへ（丹青社） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:10+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "a1563ca886769319",
+   "title": "オンデマンド配信／AI時代、決済・金融はどう変わるのか ～キャッシュレスの次に求められる価値提供と事業変革",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93S2VVbmRlb2FLM01FNHJfOGhXblNKQUlfSG03T2xSTTFObGNQamVkdkd1NjlrTnc1ZXUyYi15SVJVUm1YZkdhQU9TNmpGSHZsbHV3NVd2M0RUazVoZXl3am1ZZWV3Z3FfTTZoRGVzcWJwaWYyX3VyMXd6TQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "オンデマンド配信／AI時代、決済・金融はどう変わるのか ～キャッシュレスの次に求められる価値提供と事業変革 ニコニコニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:03+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "b556ccafbe7613b5",
+   "title": "クレジットカード不正利用「フレンドリーフラウド」とは何か 誤認申告がトラブルの火種になることもある（多田文明） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakRFWXpYS1R3UzJTZllxT1lvSmlIR0pidk5zOXdGYkVFZ0VaSF8wMW9vbmFnTlNDNGJEVmhqNzVQdUd1d0U2eWFRclV5dGxFYnB2QkhIQjFlVm10d2NJaFNuU0JCSnQwZzdwcnhFTnRHemZIaXRsOTlNaFVMOUFFVVhBLTlNM0FQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレジットカード不正利用「フレンドリーフラウド」とは何か 誤認申告がトラブルの火種になることもある（多田文明） - エキスパート Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T08:14+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "16f7b84f557d3aea",
+   "title": "1秒に1000件処理も…SBペイメントサービスが「決済サービス」改善に選んだ“解決策”",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42eGVKMy0yU1RaQ3FGaVltMWt6bnJKeHhtOEZkUXpQdXhGdnRvQk9TQlF2QTJnVTNxVUdiMXYyMTVzcFBJVlMweENHQlpzeXc?oc=5",
+   "source": "ビジネス+IT",
+   "summary": "1秒に1000件処理も…SBペイメントサービスが「決済サービス」改善に選んだ“解決策” ビジネス+IT",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-09T07:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
   {
    "id": "51cbeed8e6225ab8",
    "title": "インタセクトはユーシーカードと連携し、ウォークスルー型無人店舗・スマート冷蔵庫のクレジットカードタッチによる入店と自動",
@@ -107,6 +310,20 @@
    "type": "release",
    "published": "2026-10-08T18:41+09:00",
    "company": "株式会社 ぶどうの森",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "ad4ae35a2215cb0d",
+   "title": "インタセクトはユーシーカードと連携し、ウォークスルー型無人店舗・スマート冷蔵庫のクレジットカードタッチによる入店と自動決済に対応開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000181.000032118.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[インタセクト・コミュニケーションズ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/32118/181/32118-181-1f6889671e61a36d23c351cfed6a4f35-262x92.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-08T17:15+09:00",
+   "company": "インタセクト・コミュニケーションズ株式会社",
    "via": "PR TIMES 新着（直接）"
   },
   {
@@ -296,6 +513,19 @@
    "type": "news",
    "published": "2026-10-08T12:00+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "32da5c9e0b3349c9",
+   "title": "改札前で慌てない！電子マネーの残高がわかるパスケースが登場",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyU3c0UXRfUmdOeUZhUlFZbGxNLWlURW8zSmlKNWM5SjVWc3duN3JhUWkyQ0tLUWNtVVE4WUswU2Z3Rmh1dEVQZFFUN25wV2kxT3Fr0gFYQVVfeXFMTlFZc1hJSFhTUFZvak11QloxVmNWbzRJdzEtZHhVSzN4aHhicXIzRkFfd3hObWxPXzBBSG1pQmNQUjFVTnVYcEtseTdrblNWZy1FSDRfZU5kOA?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "改札前で慌てない！電子マネーの残高がわかるパスケースが登場 ウォーカープラス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T11:43+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "c5b9c30229adcc0b",
