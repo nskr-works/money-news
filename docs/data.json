@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T12:51+09:00",
+ "updated_at": "2026-10-09T13:53+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,99 @@
  "topics": {},
  "items": [
   {
+   "id": "137a249b4f4ebdbb",
+   "title": "JPYC、公取委に情報提供──カード加盟店規約を問題視（NADA NEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RDR2VVdkV2V0QWR4ZHJNS2pLaEs4MmtBU2dKRkoyZUVHUVpOeFFYOXctZnVZcEs0Y0E5dTE5UzgwaDZFZzYzdGNaRjNPekFpZ3Ytek55eF9BZ0xFS2VKb2dlMXptUXBzVzBIalpQbS1qQkxpTjhibTVoR0dkOHc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "JPYC、公取委に情報提供──カード加盟店規約を問題視（NADA NEWS） Yahoo!ニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-09T13:30+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "c84a0f2133769c9c",
+   "title": "Orico Card THE PLATINUMなど、iD・QUICPay搭載終了へ 更新カードはタッチ決済のみに",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aSGdlTzhKYTRsTHdwU1NpMDA3QVVwNWJaZ0RXMGpXSG1EMndtVGI0YU5SWVFyR3RlM1RsN1ljYXV4TUlfTHlyOWRScVExdw?oc=5",
+   "source": "ポイ探ニュース",
+   "summary": "Orico Card THE PLATINUMなど、iD・QUICPay搭載終了へ 更新カードはタッチ決済のみに ポイ探ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-09T12:34+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "38aa96303cabf700",
+   "title": "バクニン省：デジタル環境におけるキャッシュレス取引の推進。",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkRYZXRKWDJQQXM4UFRrUlhKUllFM3FpZzAwZUtNQnpQS2phOERTLU1aLUJFbTZpM2M1WGxwVmJ4ZmhRVmpCMFRTTVlYR0VwODc4VmRta2hGLUI3REtGMV9IVDM5WlhYRGhJTWl5QW9NdURrNjRnM3BsenNFSV9ienBQbjVIVEJGYlRXS01EZnpGRFd2R2FR?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "バクニン省：デジタル環境におけるキャッシュレス取引の推進。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-09T11:59+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "b90035552db03bc6",
+   "title": "第一興商、委託先への不正アクセスで「ビッグエコー」などの利用者情報約872万件が漏えいのおそれ",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2147032.html",
+   "source": "INTERNET Watch",
+   "summary": "株式会社第一興商は10月8日、同社が個人情報の取扱いを委託している日本コロムビアグループ株式会社の従業員の端末がマルウェアに感染し、利用者に関する情報が漏えいしたおそれがあるとの報告を受けたとして、情報を公開した。記事公開時点では、個人情報が実際に外部へ漏えいした事実および不正利用は確認されていないとしている。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T11:34+09:00",
+   "via": "INTERNET Watch"
+  },
+  {
+   "id": "2a42dab0b11eae4b",
+   "title": "アップガレージ、PayPayマネーライト導入でキャッシュレス買取を実現した新サービス",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRmJOTEgxaDQ4ZVNFaExlcE5PdmtyRXFXbHNxTlkteVRXaXNheElJVXRoczJ5UkJxSURvWEZPUDF6T0xONkJ6OWZEZEVBZ2FMc2NSTW84MjZYNmJKV2wtUlU2S3p5THUtQWhv?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "アップガレージ、PayPayマネーライト導入でキャッシュレス買取を実現した新サービス ニュースメディアVOIX",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T11:08+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "105887245171cf0f",
+   "title": "サンディ268店舗で楽天ペイ導入、キャッシュレス決済の新たな選択肢が登場",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44SjlMMU5qQ2o0YlBHMDNXXzI5VUVfUUZIRmJqTEptNGhvT1Fhb3NTNUphN0V1YjFkZjlHcmNFaC1BdnRuRHZpYmdyRFJhMjk2Sl9UeW9Ya0Vja21fM1JXQ1FFOTc?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "サンディ268店舗で楽天ペイ導入、キャッシュレス決済の新たな選択肢が登場 ニュースメディアVOIX",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T11:07+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d8359f4e9a22b356",
+   "title": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WeUNReTc5dFhwM2NKUk1mVWdwUkZJdHN0dU9INU1xTmUwVW1sbkMwSkVvUHJUZVRfVklRZm9Vdlc1RXpFa3R2SG5ObXNiQXZrRlR3UHZB?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-09T10:53+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "646e742f668445d2",
    "title": "映画館支援サービスKinelpがクレジットカード発行へ、日々の買い物が映画館の援助に（映画ナタリー）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5neVRBUFJnNVJ4RDdwLUdaSWtVWjh0RkN1MG5ycHhFSEE2UURPc2Jpay1URzV1RUlVNlJUNmhRUVFBamhfQWl2NHk5THpVbUtQMFNIZnpuNWswakZ1UmZrUmV6X1FKWnNvOWZxT0xjSmo0SC1hMWhiaDVoZk5KZmc?oc=5",
@@ -54,8 +147,7 @@
    "type": "release",
    "published": "2026-10-09T10:10+09:00",
    "company": "フリーウェイフィナンシャル株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "8c9cdbb8f8698aee",
@@ -299,6 +391,19 @@
    "type": "news",
    "published": "2026-10-08T23:17+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "de3f761f9632f390",
+   "title": "画像131 / 131＞「電子マネーだよ早くしろ！」と切れる客。だけど電子マネーの種類によって、レジの操作が違うことを知ってほしい…／チェッカー鳥海さん、レジまでお願いします",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDd1pRdjNPQjJJZURCdWl1UUVOUUo5N2FuNVA1XzVENDdaWXVGY2R3ZUVFYldXUVRSVVYzV2pxdHQwV1VGS19TcEdjNEhNMjZOeThVdkY1dHVIUHlCVnRMZEV3ZTlHejh4MUM4ODln?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "画像131 / 131＞「電子マネーだよ早くしろ！」と切れる客。だけど電子マネーの種類によって、レジの操作が違うことを知ってほしい…／チェッカー鳥海さん、レジまでお願いします ウォーカープラス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T23:11+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "6f84bba2b83c7c61",
@@ -593,6 +698,19 @@
    "type": "news",
    "published": "2026-10-08T10:47+09:00",
    "via": "ITmedia NEWS"
+  },
+  {
+   "id": "9dc9c196ec85c3e0",
+   "title": "トスと光州銀行、ステーブルコインQR決済技術の検証完了…「2次検証を推進」",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xejY1bDJhWFhJa2NxN00wZ0t2VWtGbHRldm5lZWhxd2I1dk1hbXdlZnlVMEFuNEkzMTFIWnJkenA5YkRsc1FiaVFJWURBMW1OUmZKb0FZY0dyLTg?oc=5",
+   "source": "아주경제",
+   "summary": "トスと光州銀行、ステーブルコインQR決済技術の検証完了…「2次検証を推進」 아주경제",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-08T10:12+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "a3e6c193124ded46",
@@ -940,6 +1058,19 @@
    "published": "2026-10-07T16:15+09:00",
    "company": "株式会社カーセブンデジフィールド",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "10917f43196655f5",
+   "title": "京王線・井の頭線でスマホ決済を利用しVポイント10％還元キャンペーン開催中",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zOC1sNEpscG5VN3ZJUE51UFlvTlJpMTE3UEUwZVlpUVV0X3lKYnh3RDNkQmpPNUtTS0VhVi14S1FVTHJRSDVfRjZNemZGeS01MTJRbVEwMU10STI4ZFRTR2pmQ3JCRlZsVHZvTw?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "京王線・井の頭線でスマホ決済を利用しVポイント10％還元キャンペーン開催中 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T16:12+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "29303e5511b68f3f",
@@ -1506,6 +1637,19 @@
    "type": "news",
    "published": "2026-10-07T07:49+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "155d51b9984a7386",
+   "title": "ミスターマックスのECサイト・アプリに不正アクセス、会員情報が流出。クレカ情報は漏えいなし",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52VlhkWXBSUDVVaDNnVzFLRm0temlmc1lrVE94elduVjVMRXhWdklNRS1HTkxmWGJoMXVOUVdIN0dMYkJKQlB0SE02RklZUmF4SklKZGp3SzdWQTVa?oc=5",
+   "source": "ネットショップ担当者フォーラム",
+   "summary": "ミスターマックスのECサイト・アプリに不正アクセス、会員情報が流出。クレカ情報は漏えいなし ネットショップ担当者フォーラム",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T07:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "62021b88a451512d",
