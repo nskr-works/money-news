@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T16:47+09:00",
+ "updated_at": "2026-10-11T06:48+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,46 @@
  "topics": {},
  "items": [
   {
+   "id": "d2eff8ee5ad7bcd1",
+   "title": "クレジットカードの不正利用が巧妙に サブスクが入り口、明細確認を",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqUWc3QjEzZEcydXlIOWU3a210Q21laTk0UzhmXzhDbTlzWVhtblJreDlKUFd4cGV3bmZBazBLdWZWQ2NGTUdaQTROYVg1MjhVVE95OGpSbXo5VEJHeWRVeUlHeVNEdGV1cE95bA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "クレジットカードの不正利用が巧妙に サブスクが入り口、明細確認を 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-11T04:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4e18b80dda31fa4e",
+   "title": "クレジットカード＆タッチ決済の話題振り返り！ 2026年9月のトピックス（BCN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xOEFQVVZpWnZpOFhuQ25HaFNweWI4MzlNb3VXWDNybzNiTXZCWXZkQXl4WkxIM0l2MGFDUmxBakRTMllPdFJnWjM4cWVucTRlS2g2UHcyVDYwcnpELVhUVFFaekc4Zmo1VXUzMTdjVjktTHd0N3l6RHFHTktOMGc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレジットカード＆タッチ決済の話題振り返り！ 2026年9月のトピックス（BCN） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-10T18:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6b7c9a4640b5503d",
+   "title": "富澤たけし、クレカ不正利用被害→コールセンターの対応に憤り「何だお前のその態度は！」（日刊スポーツ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1talB3SHFEX2R3Z0tuMUI2VXEzTXo1ME81dF9MWXBkZzJqSG9fV0VEX2xTeFNYTWlFYW1EYWdEVHFYUWZxRTNQdHk5bGZra1NWREFRbzhOYlNtbFE2WXJpS0xZdXFjRS1kU3FDa1BCUzYwR3JOalNxYmx6Q0xBeVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "富澤たけし、クレカ不正利用被害→コールセンターの対応に憤り「何だお前のその態度は！」（日刊スポーツ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-10T15:48+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "50aa944e233f54c5",
    "title": "キャッシュレス決済を習慣にする。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY1c5U0ZPTlB5cnZzcEVKU2tTQVVCQnIwdHBPMjI0WTdndXZ2cF8tM2ZjZm5aWFNHWTRZa0QyaWxOQUs2QVd5NVprTVljdk9jZWpVU0wxM3ByenlyMUhONzQ5OU1GbjY1UXhDaWtkbGtiX28wdWFnRHJLLTUyQktNdF9QN29rQQ?oc=5",
@@ -41,6 +81,19 @@
    "type": "news",
    "published": "2026-10-10T14:33+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "a9761f2898ada3e8",
+   "title": "クレジットカードの支払日に残高不足で引き落としできず…。夫は「明日入金すれば問題ない」と言いますが、たった1日の遅れでも信用情報に影響するのでしょうか？ (ファイナンシャルフィールド)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzFXQnE5RlJSRW9KUzRIV09NazhrVVlYRzUzMkU5ZlNqSGxTdDktVFRrYVJ5UGxlZ1RwbWZPblUwajIyb0wxWWRFN2k2dGlYS3RUSmZLbWhRVjJNRm1peUw3bEhjR0JKUllzNk5USDZXY0RJY0lKVzJzLTlhaHFjOS1IREg5YVRzQkxPTnl3?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレジットカードの支払日に残高不足で引き落としできず…。夫は「明日入金すれば問題ない」と言いますが、たった1日の遅れでも信用情報に影響するのでしょうか？ (ファイナンシャルフィールド) Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-10T13:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "dd3072278e92c13d",
@@ -82,6 +135,19 @@
    "published": "2026-10-10T10:15+09:00",
    "company": "日吉商店街連合会",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "77a1d424197a6dfa",
+   "title": "ゆうちょデビット、Apple Pay・Google Pay新規設定＋3000円利用で現金500円",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nNWJOWFdWZFZwRW40S1Jqb1hRSEhIVldBenJZR1pwY1dicGxYLW9yM3NjbzU4blJPUG9uZWdnaGNnX2F5Vmw0UFJabUMxZw?oc=5",
+   "source": "ポイ探ニュース",
+   "summary": "ゆうちょデビット、Apple Pay・Google Pay新規設定＋3000円利用で現金500円 ポイ探ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-10T10:09+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "a1782879bde86b79",
@@ -938,6 +1004,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "f8c94b274b7b3e12",
+   "title": "【画像】「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 2/4",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkakZsdlpRU294UFVIN0VWalJUSUhzNW9EN0hYaHc0MWI0REhNNEs4cHF1Rk5tbG5yOHViWE9TN0hYRkZqV2VkRV9iNWx1N1dYRXBaSXhZb3pjR01qYVlWbWRYd1hfb01Eb09XTWhTYVpQS29IcUt3Zkdldzg?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 2/4 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T17:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "d3fa2abe849aa259",
    "title": "サンホリデーズのNAPAS経由でQRコード決済を行うと、フーコック島の年末限定コンボプランで100万ベトナムドンの割引が受けられます。",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPck03QUNNSE9FaWdVMmJ2UzlhTUJMWkJYOUpuUWpEZEx3WFRPQmlUbWUzQmpoUjlObXo0eElyVjdLcWNDRWVKODc2OS1xWHZobW51eXY5ZURUQXZKSkhVdDB2QmxZaVlYWjZabk1VbjZQY3hLNHFVWDY2Z2p5aWMyQmRMbXdtdTNrcWttWU10clpyaVdMZi1yYmE0b25sUGJkN2V0N3VPcHJxbVdsemZEWDN1ZE9yYnotcjYwZUlIZ09CYTJVcWc?oc=5",
@@ -1728,6 +1807,20 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORHg4WTZKSjFjOXFRdzI4bEQtN1MzWkNRajhoY2NSZ0JJOWMtbWp2ZmVvaG5lWG4yUVhRQ25vVGhpSTJnNV90SWt4MVMxQ0xNRGRmakdlb1hlQUpSZHZqM0lVRUw4Zkh5QmZMZmRKQzVRNndmb0Z6bzBGVHdjYXNPeDdZQXpSTDI4alFkZE1uU1g?oc=5",
    "source": "レスポンス（Response.jp）",
    "summary": "宇野バス、クレカタッチ決済乗車を10月8日開始…岡山県内交通事業者で初 1枚目の写真・画像 レスポンス（Response.jp）",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T12:45+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "edf0f16b42664129",
+   "title": "宇野バス、クレカタッチ決済乗車を10月8日開始…岡山県内交通事業者で初 2枚目の写真・画像",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JckZqeWdRRXg3VEpOSEpRUFhuSEJ3dWpQNDlHVFptZzh2N1k5MW5vRUNvMFVHa3NsWEhoTVkxX1VQOVFOU3pKODFFblpRX2dUUTNmVFBYSWlUWHFRQ1VQdEdLZEFrQjVOaDFsaHJMMV96UQ?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "宇野バス、クレカタッチ決済乗車を10月8日開始…岡山県内交通事業者で初 2枚目の写真・画像 レスポンス（Response.jp）",
    "categories": [
     "cashless",
     "credit"
@@ -2828,6 +2921,19 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "2721d03043cbc49f",
+   "title": "JR東日本がSuicaの2万円上限を突破する新決済を導入",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlbGwyU3FUbWpDVmdCYjJlYTNObEEyQi02THBJYnhCajRwcUcwUE9BeVllVTQ5NEVHTFRfSUw5c0psbGhlYVdVSkg5dFM0dFBQT0lv?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "JR東日本がSuicaの2万円上限を突破する新決済を導入 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-06T18:02+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "70cdb5ba92daadf9",
    "title": "JR東のコード決済「teppay」20日開始 2万円超チャージも",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pc1ZVclhCdHROVnNycFRCXzhiMGw0M2trYXMyN2Zpd1BiV0FwanBtMF82YnJGNzJ3TVlUTDRPN2E4Vzd5X1J6dHJGajh1b0hIMlpQN1BfajB4MTljZzlnZDFTcEdXQ0k?oc=5",
@@ -3185,6 +3291,19 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aT19TU3UwZnU2LXRmQURtbDRtcUFBcUxUQlBPZU5rQUhlNmJJbFI0SWk5d0dwdUxVLUZ0cGs4RWhxNkUtTU0zakdVWjFtQi1NWXVjdWNMRDQ3MUFKT3c?oc=5",
    "source": "投資情報のフィスコ",
    "summary": "アメックスカードのおすすめの種類は？最強クレジットカード21選を徹底比較 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "bc2b3e77a6765275",
+   "title": "【2026年最新】公共料金・税金の支払いにおすすめのクレジットカード最強ランキング14選！",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2X29WQ3BqMlJnalhxYXVYSHZSczdDTTRQUFRFcFNPWmZvSGFxZnZORzVLN3pQU1BudEdGdkF1amtFZ0F5MkVfMzlhalVVZGhOQ3h5dHZ1ZmRiSlV4a01B?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "【2026年最新】公共料金・税金の支払いにおすすめのクレジットカード最強ランキング14選！ 投資情報のフィスコ",
    "categories": [
     "credit"
    ],
