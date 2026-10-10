@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T13:53+09:00",
+ "updated_at": "2026-10-10T16:47+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,19 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "50aa944e233f54c5",
+   "title": "キャッシュレス決済を習慣にする。",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY1c5U0ZPTlB5cnZzcEVKU2tTQVVCQnIwdHBPMjI0WTdndXZ2cF8tM2ZjZm5aWFNHWTRZa0QyaWxOQUs2QVd5NVprTVljdk9jZWpVU0wxM3ByenlyMUhONzQ5OU1GbjY1UXhDaWtkbGtiX28wdWFnRHJLLTUyQktNdF9QN29rQQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "キャッシュレス決済を習慣にする。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-10T14:33+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "dd3072278e92c13d",
    "title": "スマート決済端末の世界市場（2026年～2032年）、市場規模（据置型端末、モバイル端末）・分析レポートを発表",
@@ -69,6 +82,19 @@
    "published": "2026-10-10T10:15+09:00",
    "company": "日吉商店街連合会",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "a1782879bde86b79",
+   "title": "「どこまで漏れたか恐怖」巧妙化する詐欺メール 被害者が語る実態 クレカ不正請求に不審な“銀行振り込み” 専門家「公式アプリやサイト確認を」（FNNプライムオンライン（フジテレビ系））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0S0tOU3pXeE1uTmZVREtCd2FXM1NjY2Fic2pJQ1lBa3pneEFqeFpvTmZTMWo1MjJ6ZV9vSkJ3UHZFMmd3RUFlS1hEM0tiNG12NmdlNFRoZzg5aHZYdzdfcUdaXzlvS1JTSXlqejZaa2xyS3lyS29FSl9BUC1HTGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「どこまで漏れたか恐怖」巧妙化する詐欺メール 被害者が語る実態 クレカ不正請求に不審な“銀行振り込み” 専門家「公式アプリやサイト確認を」（FNNプライムオンライン（フジテレビ系）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-10T07:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "710ce7b37ccfd29c",
