@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T06:50+09:00",
+ "updated_at": "2026-10-10T10:50+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,34 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "16778d9742f42c5b",
+   "title": "多世代共生型NFCインフラ「どうかんクンPoint」",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000192528.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[日吉商店街連合会] 日吉商店街連合会（神奈川県川崎市幸区）は、多世代共生型NFCインフラ「どうかんクンPoint」について、2026年10月1日よりテスト運用を開始し、2026年12月に本格運用を開始する予定です。本サービスは、加盟店での...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-10T10:15+09:00",
+   "company": "日吉商店街連合会",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "710ce7b37ccfd29c",
+   "title": "クレジットカード情報流出事件に関する統計とECの不正利用傾向をまとめた【キャッシュレスセキュリティレポート】2026年",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IaF9vUDcxM05FdVlwdnV4ZVpWZnF4aXJtM1NnRGpEZmlDUDRNN1FaNFVmcjRSYTd0ZE9SeS1uTXpCWmlINTNHOU41aWd5U2R1N3VYelllYW9TS2RtVmdaY3A0MlVBM3hyMklIMHZDeG55V2lOOEtHcjRySQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "クレジットカード情報流出事件に関する統計とECの不正利用傾向をまとめた【キャッシュレスセキュリティレポート】2026年 ニコニコニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-10T02:30+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "a56e2f889d58877d",
    "title": "【迷惑客】「電子マネーで」って言ったのに「5600ポイント入ってるから！」決済方法が迷子な客にレジ大混乱【作者に聞く】",
@@ -455,6 +483,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "d82f0f6c350202bd",
+   "title": "【2026年6月】スマホ決済が”また”大改悪。今すぐ◯◯に切り替えろ！ Lorenzo Musetti (8guKDdiHXl)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXNlSzhBTnRXelY1X3VXRDRLcXRiX0pqd2xrb0wxRGdwUGstRmExTWZqNzRrRUhYdHVNc0hKWjhnaE01bFBabjIwSGxYWFlpendFU1dCVkVuMFJjSEVVZGRiMVJINl9xYWpXem5EWHZscG5aODhpdE4zaHJNUU9QZ3pR?oc=5",
+   "source": "Unisba Media",
+   "summary": "【2026年6月】スマホ決済が”また”大改悪。今すぐ◯◯に切り替えろ！ Lorenzo Musetti (8guKDdiHXl) Unisba Media",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-09T10:22+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "7d24326680e45d8d",
    "title": "「フリーウェイ請求書カード払い」、1件の支払いを最大5枚のカードに分けて決済できる「複数カード払い」機能を提供開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000007.000169910.html",
@@ -831,6 +872,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "1e623caf21fd43d4",
+   "title": "【画像】「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 3/4",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9feGp5N2RjMkRoUTVCWWlEYzNEQmRDb2pIaDFqUXJ0c2Ytb21SbnNDZEMteExueF9JUGtvQVJNNG9hemFSOG42VmpzSHFCVHlZd3hVempYc05nSHN0ZUJSdXZ0TGNYWVp3UzVldlhkUUhjNHZaTFpyUmlrWHc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 3/4 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T17:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "d3fa2abe849aa259",
    "title": "サンホリデーズのNAPAS経由でQRコード決済を行うと、フーコック島の年末限定コンボプランで100万ベトナムドンの割引が受けられます。",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPck03QUNNSE9FaWdVMmJ2UzlhTUJMWkJYOUpuUWpEZEx3WFRPQmlUbWUzQmpoUjlObXo0eElyVjdLcWNDRWVKODc2OS1xWHZobW51eXY5ZURUQXZKSkhVdDB2QmxZaVlYWjZabk1VbjZQY3hLNHFVWDY2Z2p5aWMyQmRMbXdtdTNrcWttWU10clpyaVdMZi1yYmE0b25sUGJkN2V0N3VPcHJxbVdsemZEWDN1ZE9yYnotcjYwZUlIZ09CYTJVcWc?oc=5",
@@ -1137,6 +1191,19 @@
    "published": "2026-10-08T09:15+09:00",
    "company": "株式会社ブシロード",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "67fc30e31d3fd3aa",
+   "title": "Toss、光州銀行とステーブルコイン活用のQR決済実証を完了",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3FzbnFyckdoNFRwZzVfWjNRMFVlTjd2aUFQUHhnTnk3Q21Jb2tZQ0VuWW81bmpVSmRRX3NZSVo0UGZFdWRGWmRab0dyMEJqZVB0aGhVYzhsbHNfVWFWU19NbU53RHhjdUtzZk5DVS1ZUlp5c3lnSEhnRXFodURQTEFqWVlWclQ3TTBzc05XeE13OWNjN0VaVEFyVWRZVXhscFRMUUhadXhMNzM5VFZpckN0WEtoQzQ?oc=5",
+   "source": "디지털투데이",
+   "summary": "Toss、光州銀行とステーブルコイン活用のQR決済実証を完了 디지털투데이",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-08T09:12+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "8f1da24b0b6406a8",
