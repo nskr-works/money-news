@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T16:48+09:00",
+ "updated_at": "2026-10-12T06:49+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,19 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "d6cad86ccde1a5b3",
+   "title": "ケンタッキーでVポイント2倍 店頭提示とスマホ決済を重ねる攻略、注文方法に注意（しょうこちゃん） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORlU4RENCdUV0S3ZwRzdoX2pweDVxLTBuUmJxcTQzajBzenpsZnpBakMtd1drSXNpZXFxNGxlbjJVcmV2REdGUGxyZ1pSLVZneUFPSHM5Yll1cllqZHNlcU1iRWNEUGlmWG1BRU12X0w1VjgxZVVKS01oXzk4V2dDZzJiWi1vYXdl?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ケンタッキーでVポイント2倍 店頭提示とスマホ決済を重ねる攻略、注文方法に注意（しょうこちゃん） - エキスパート Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T06:05+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
   {
    "id": "e0646def3f710560",
    "title": "｢JMBクリスタル･サファイア｣への到達は｢アメックス･プラチナ｣が近道に！ JMBとMarriott Bonvoyの連携で、1万FLY ONポイントを搭乗実績なしで獲得可能！",
@@ -108,6 +121,20 @@
    "type": "news",
    "published": "2026-10-10T18:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b47f6c86963416c7",
+   "title": "【画像】クレジットカード＆タッチ決済の話題振り返り！ 2026年9月のトピックス",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uN2c4N181X3p5UXdGVU5MTjAzSC03c01XRkV1NEo5RDlDNVdINTk5cExuYnpvdmc0aXAzMllOcGJDSzFhdW01X180SHRrVmw3Zm1tbEZmUzFuS3dVMmw2a3hiZzUzUDlFSTBMNXgzbHhkQ3pyWWd5ZGdTN0Y?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】クレジットカード＆タッチ決済の話題振り返り！ 2026年9月のトピックス ライブドアニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-10T18:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "6b7c9a4640b5503d",
@@ -295,6 +322,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "857271705ac52ff2",
+   "title": "「特典がすごい」クレジットカード8選｜入会特典目当ての人も必見！高額な優待サービスはこれだ",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb2E2c2FWejJ4TnJ5MEZYYWpNRmRFVjhuLUhLZnQ4TVA0X3NDcmRtZTlkUkR4VGdkeGtRVVNOcDRZOXB2UUFxbHNVRzZ4X3JaNjRmSzJuUXE0UEdUNTJ1WkZOY1lXbnJ4Q1BzZTJhdDF1RVAxeGNsc0JNMVRzV2Q2VnV3?oc=5",
+   "source": "ライフハッカー",
+   "summary": "「特典がすごい」クレジットカード8選｜入会特典目当ての人も必見！高額な優待サービスはこれだ ライフハッカー",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T18:34+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "724650c14c88d157",
    "title": "NewsPicksで利用者情報が漏洩か クレカ番号の一部も [不正アクセス]",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OeVJuaVJaUWN3QVRCX0FnNERTV1I5bjR5clQ1aGdVYlBSeS1oSjE3Y0NKMVcxVU1PM3Q4STFCbGE4Q3pKTXFEdzdCYUN6RFNsU3RYQm5XSDF4LUY3T19uczcyM2FyN1U?oc=5",
@@ -345,6 +385,19 @@
    "type": "news",
    "published": "2026-10-09T17:56+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "f0d28dd31a3f29c9",
+   "title": "【2024最新版】恥ずかしくないクレジットカード6選｜40代・50代におすすめカードは？",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBweFd5d19yVEtNTXAxMUFVMU8tSjNac28xVzhRMzQ4cUw0dzJ5WG5QdnhoRG9lWEpldk4wTDFkcGZXU29oMmtqd0swS2FaS0Y3QjBvbTNleU83R1QtTXZfNHBMaUNpSFZjT0xZWg?oc=5",
+   "source": "ライフハッカー",
+   "summary": "【2024最新版】恥ずかしくないクレジットカード6選｜40代・50代におすすめカードは？ ライフハッカー",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T17:53+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "42d031cc3c820516",
@@ -491,6 +544,33 @@
    "type": "news",
    "published": "2026-10-09T16:01+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "a44f73fb0b7529e4",
+   "title": "セブン-イレブン、電子マネーで支払時の不具合「店舗ごとに順次復旧」「大変ご不便とご迷惑をおかけしました」",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTQ0o1UFB4T0FYOW5YTWwzN1JwSWdLcG95a014amR3SlRpQ3ItY1dSQmxfNjlYVkJXWDlWVG9MTkhHbmNVbHRhaWp2blFJdnJrZGc?oc=5",
+   "source": "山陽新聞",
+   "summary": "セブン-イレブン、電子マネーで支払時の不具合「店舗ごとに順次復旧」「大変ご不便とご迷惑をおかけしました」 山陽新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-09T16:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "932e41a09583a635",
+   "title": "関空・伊丹の空港リムジンバス、現金・切符いらずに クレジットカードなどのタッチ決済を3・1開始【詳細】",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53OWZ1ZXROYVR4WWN2di01cHJwYy04UzZqSmpzUjU0eVY1WTBCOHlsamlWeWt2a1g0V1h5anRyTjVRY1FsZ1RNQWtoLXpTTlZZMHc?oc=5",
+   "source": "山陽新聞",
+   "summary": "関空・伊丹の空港リムジンバス、現金・切符いらずに クレジットカードなどのタッチ決済を3・1開始【詳細】 山陽新聞",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T16:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "8e8a1cf7ab1ef49f",
@@ -963,6 +1043,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "7c0195e682b6e464",
+   "title": "韓国のToss・Kwangju Bank、ステーブルコインQR決済の技術検証を完了",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzZDdXQU5xaTVFUEtHRW1qUmMwTXdsdEtWZ3ktRXp2WVRuYVMxX083dTRwSUlmQm9zcC1WTDllckJ4a0xyUEVlVlhkMEZ3N1lCVEFiZHJWSG5qSGhUMGFRSE00akgzeEdEcUlFRGZndnpjbWgz?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "韓国のToss・Kwangju Bank、ステーブルコインQR決済の技術検証を完了 BigGo ファイナンス",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T03:20+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "e6031c03ed1f873c",
    "title": "『AEON Pay』が『GiGOアプリ』に導入！ ゲームプレイや回数券購入でキャッシュレス決済が可能に",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YaDJVTDZQVFQ0OXpiTENJZHloR0UxN01hcVQ4X0M1Z2h1RXIwejdoSXpGUW9weHd4QldXS0NZcmZsX1dtTER6SC0zRkVBTXdQbjJNRk83eHJ6NWwyY29nVDlYeUp6WlRHb1E?oc=5",
@@ -1173,6 +1266,20 @@
    "published": "2026-10-08T16:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "スリーアール株式会社"
+  },
+  {
+   "id": "653210bf12c73509",
+   "title": "【2026年最新】交通系クレジットカードおすすめ12選！タッチ決済乗車との違いや選び方も解説",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZSWZvTzJ2aldjRERDMlF1TEMtdUwyN0dBVnZOTHlpRElKdWJuSXNaZk1QelR2YURNenFSTUVzOWZLeXE5WlN2TnI2ancyUjByeTBlOGtoUUFSd21wN3c?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "【2026年最新】交通系クレジットカードおすすめ12選！タッチ決済乗車との違いや選び方も解説 投資情報のフィスコ",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "d57fed9452238151",
@@ -1508,6 +1615,32 @@
    "type": "news",
    "published": "2026-10-08T08:30+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "43bb03e072ebe5af",
+   "title": "画像9 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zdFZaWXU4MXlzM3doZFp2cXNIc3FWd3ZSRmdlSmJKaV9mU190amJidkJKd29sRFFydmJCV2FJN3JTbDZxVEVWQUFMM3FkSEtybURYQzVvR1RxdTdJY3RIVGNzcGNsdl9kalNIajVn?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "画像9 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 ウォーカープラス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T08:29+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "7e5ac37083f75e26",
+   "title": "画像6 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKcVVDNVlydjhLWlR2WWNxUFdKRHFOdUpkczdIbWFWZGhTUEphYlhUWHctSU5lY1ZpNy01d1E2R3JkSUsyZGxacENMbVFTejVqQzNTVURPZUxTSHhoOWYxSnVCaWJlZzRBbk5VQkhB?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "画像6 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 ウォーカープラス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T08:29+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "dd0e03b7ac8b8d91",
@@ -3106,6 +3239,20 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "b7ffc4e636e08690",
+   "title": "「Suica利用は2万円というこれまでの当たり前を超えます」JR東の新コード決済「テッペイ」月内サービス開始",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZZTJRRW1iX0VvNDR6NWdzU0VzZkcteWpUU1R5WTZLVkNrcjlEQ0hZUzJ0Vk5JcDdONEZGRUhFM1lxdUw4cG5jUVZPVGw2ZXE5azNJRUJibWhGU2FXLVU5Zl9B0gFnQVVfeXFMUHhhNFI5YS1pOER1aXBjLTcxbVZlZWFVaU5SeHlTMU54cjcwcDhpQzJSd0JMS1ZUaXVveWNOdTc1ZkdGMjR3YzlqWjdIb3ROWHp4QXhQUWlUQ1dINHgzV0dTS1QwRVFtWQ?oc=5",
+   "source": "Infoseek",
+   "summary": "「Suica利用は2万円というこれまでの当たり前を超えます」JR東の新コード決済「テッペイ」月内サービス開始 Infoseek",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T17:39+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "f677d9ac03a4bbf9",
    "title": "キャッシュレス決済音を一挙紹介(suica・nanaco・楽天Edy・WAON・Apple Pay・QUIC Pay・iD・LINE Pay・PayPay・ファミペイ・メルペイ・クロネコヤマト) Vfb Stuttgart – Leverkusen (v2QoMNBqQX)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1VvbE83VXFudS11QTl6aGFMRHV4UDl0NFRJajI2elIydUtIODVlS1NiWVNpd2dySWdSRVh3eWU5MVpxV3hKYl9ONm5iX01sTGdIeG5rbm9UR2tURTlRbHZia3BVSzdWZ2RoT1NfLUJmbUR1N3hJb1JWUHJZS21jYlZYTThBRDQ?oc=5",
@@ -3706,6 +3853,21 @@
    "company": "イオンフィナンシャルサービス株式会社"
   },
   {
+   "id": "67cc1640bb7a6cea",
+   "title": "JR東日本の新コード決済サービス「teppay」、「StarPay」で申込受付開始 | 株式会社ネットスターズのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qRk01UWhaR1l4NGdwT25JbmU3NGoxd0VxNHpYWTlJWlA5ZlBLSk56WlRrM3RFSUVFV0dPUi1RdEJoTzhJdnRUYmhBNFdhaEEzd2Yybm1sVnowMHJpUlhDV0VIanhUSmQ5SXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "JR東日本の新コード決済サービス「teppay」、「StarPay」で申込受付開始 | 株式会社ネットスターズのプレスリリース PR TIMES",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-06T15:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "株式会社ネットスターズ"
+  },
+  {
    "id": "9d114b56f82b044b",
    "title": "Suicaがついに“2万円の壁”超える！新コード決済「teppay」10月20日スタート",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3aFhybWpvMFBHb0l4ZnFNV0RVWktMN1VZem9tNFo4bkFQbFJPYzk2dXlDaXpWakJheEFDcXg1Z01oU0RaQ1FhX3VYMTJ0UQ?oc=5",
@@ -4002,6 +4164,19 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lbGwwRTJObWYyUGxiZXc0NkhUWV83enZhdzFxUnUyOE9MRVNUUkpJbFFQR19mWnJPM3RjUUJsMzJHa2p6OWlyY3ZBYndOSFhtdEprWDJxTWRvUnJ3cGhz?oc=5",
    "source": "Infoseek",
    "summary": "すき家・はま寿司などで「ANA Pay」「JAL Pay」「FamiPay」が利用可能に Smart Code導入 Infoseek",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T10:16+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "353e792cf641bcd6",
+   "title": "すき家・はま寿司などで「ANA Pay」「JAL Pay」「FamiPay」が利用可能に Smart Code導入｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lbGwwRTJObWYyUGxiZXc0NkhUWV83enZhdzFxUnUyOE9MRVNUUkpJbFFQR19mWnJPM3RjUUJsMzJHa2p6OWlyY3ZBYndOSFhtdEprWDJxTWRvUnJ3cGhz?oc=5",
+   "source": "Infoseek",
+   "summary": "すき家・はま寿司などで「ANA Pay」「JAL Pay」「FamiPay」が利用可能に Smart Code導入｜Infoseekニュース Infoseek",
    "categories": [
     "code"
    ],
