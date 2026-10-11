@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T06:48+09:00",
+ "updated_at": "2026-10-11T10:49+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,33 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "ff63cbebddeb4bdc",
+   "title": "【大阪市東淀川区】阪急電車のタッチ決済による入退場サービスがさらに便利に！ICカードだけでなくクレジットカード等でも20分まで出入り自由になりました。",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPM1hzTlJJN3hkdE5IWG9QS2pnbGpwNkV3NXdrSGdlVnU0cDBCMXB6N1pWV0pPZGlZdHliY0RjcEhHcHNQTk13Qk1UbGZERDhYRmE0NjhXWVAzSlVHX01CZVJWWFg1NFd4VnB6THVzeTQ?oc=5",
+   "source": "号外NET 東淀川区",
+   "summary": "【大阪市東淀川区】阪急電車のタッチ決済による入退場サービスがさらに便利に！ICカードだけでなくクレジットカード等でも20分まで出入り自由になりました。 号外NET 東淀川区",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-11T08:17+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "b95a872b91e249b8",
+   "title": "田口壮氏が明かすＭＬＢのお会計事情 クレジットカードを使った意外な支払い方法とは「１０人とかでやると…」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSG1yMThXRGpWVW1CWTZXQnZyak9zbi1wSDY1OWpZRVU0eTg5Y2Jqd2NPVlN4cFZ6U2Z0UkZzTC1sQzV4RlFkYzk3RFdXSHM0WW96YnA0dFRqVlV4LUJiUWctZ1RSRVJUS1o2Q1RzWi0?oc=5",
+   "source": "読売新聞",
+   "summary": "田口壮氏が明かすＭＬＢのお会計事情 クレジットカードを使った意外な支払い方法とは「１０人とかでやると…」 読売新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-11T08:03+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "d2eff8ee5ad7bcd1",
    "title": "クレジットカードの不正利用が巧妙に サブスクが入り口、明細確認を",
@@ -1702,6 +1729,19 @@
    "summary": "JCBカード比較・一覧|おすすめJCBカードランキング&種類や違いを比較 みんかぶ",
    "categories": [
     "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "34c3b05091f6a185",
+   "title": "au PAY ゴールドカードの特徴・メリット&デメリット|au/UQ mobile・auひかりで最大10%還元のauユーザーにお得なカード！",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZYmRZOXY1NVl0dE1zcVNqR2VwYV9QR1k3R05MOXM1QlRkbzdreFJSOG9Xc3ltaC1kOTl1SzJETERWZEVwa1Y2MnhSSVkwX1pEZ0p6b2o1My1aQWxVZkpxMDc5cw?oc=5",
+   "source": "みんかぶ",
+   "summary": "au PAY ゴールドカードの特徴・メリット&デメリット|au/UQ mobile・auひかりで最大10%還元のauユーザーにお得なカード！ みんかぶ",
+   "categories": [
+    "code"
    ],
    "type": "news",
    "published": "2026-10-07T16:00+09:00",
