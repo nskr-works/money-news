@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T10:49+09:00",
+ "updated_at": "2026-10-11T13:52+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -55,6 +55,19 @@
    "type": "news",
    "published": "2026-10-11T08:03+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "76acea8cca3c53c4",
+   "title": "【事件】「ＰＣ感染」詐欺で電子マネー７５万円分被害 周防大島町の６０代男性",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZQUVnUjlnRE1fSEc0b0NMMkp1ZEhhLUU4UEFXRjVwSThydUhYN3FWV0xzUVJTWW1ld3hJMFdrekRKUC1KOGltZVhwekZWcEtVSEFpUlRZbE9xZkpmVXM0Vnh1NVMySW0tQkE?oc=5",
+   "source": "山口新聞 電子版",
+   "summary": "【事件】「ＰＣ感染」詐欺で電子マネー７５万円分被害 周防大島町の６０代男性 山口新聞 電子版",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-11T06:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "d2eff8ee5ad7bcd1",
@@ -215,6 +228,19 @@
    "type": "news",
    "published": "2026-10-10T01:18+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "461a1c29af79ee59",
+   "title": "$クラーナ (KLAR.US)$ 一旦手仕舞い。謝²さん、小幅益確定[ドル]この会社はマレーシアのShopeeのようなBNPL（後払い）ビジネスで好調ですね。チャンスがあれば11〜12元付近で再購入を検討しましょう〜",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0hLcEJqSlBYaktMMlFYU2lfTkhqLUZFeGRKZVp4enJOLTJOZTJycWdMR2ZqR21jV1kya2dOUnlsZmpWYXdIYVNXbnFXc0lnaC00YWp6WkFHby1Kbjl4OUNTT1piendVdHlLVnNQQ0YwTml4TGF2aDJmVTJKNERpV3JTR1M5N3JRVkI4RzZuZnU2anQ2dFFPVGFOZk1fVXRldTdiVw?oc=5",
+   "source": "Moomoo",
+   "summary": "$クラーナ (KLAR.US)$ 一旦手仕舞い。謝²さん、小幅益確定[ドル]この会社はマレーシアのShopeeのようなBNPL（後払い）ビジネスで好調ですね。チャンスがあれば11〜12元付近で再購入を検討しましょう〜 Moomoo",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-10T00:43+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "eb47f75aba0ce98c",
@@ -699,6 +725,19 @@
    "company": "楽天ペイメント株式会社"
   },
   {
+   "id": "e1340497c2e5401a",
+   "title": "「NewsPicks」に不正アクセス、利用者の情報が漏えいした可能性 クレカ名義など（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MSnZ4R3NqWVgyWWVENHcyX2x1NVFLQ0tWcFI3YjRoYm9PU3ZIT0xQYm1ld3RoQW9sNEloOHRZZDFHcDcxamZoR3gtUkt5Q29FSUdQVERzd04zc1pYY2NlQVdHWlV3Qjg4ZXdHSVFyVzFXeHh3cC1OdE5yQmVxdG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「NewsPicks」に不正アクセス、利用者の情報が漏えいした可能性 クレカ名義など（産経新聞） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:56+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "baa8ba2d4ce6d4a4",
    "title": "NewsPicksユーザーの個人情報漏えいか 勤務先やカード番号下4桁も……管理ツールに不正アクセス",
    "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002153/",
@@ -1036,6 +1075,19 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkakZsdlpRU294UFVIN0VWalJUSUhzNW9EN0hYaHc0MWI0REhNNEs4cHF1Rk5tbG5yOHViWE9TN0hYRkZqV2VkRV9iNWx1N1dYRXBaSXhZb3pjR01qYVlWbWRYd1hfb01Eb09XTWhTYVpQS29IcUt3Zkdldzg?oc=5",
    "source": "ライブドアニュース",
    "summary": "【画像】「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 2/4 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T17:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "75fa70fbba79223a",
+   "title": "【画像】「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 4/4",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EdlhhRExQcmpMdmZBbFlSTGtIS2NjbVlfM3BQTzh0NmdObVQ3VFNXeDQ0dXJjY2NES2lLcDZBYTh5QkhJS2laZWI3VXQ2WGhYY0Z5dFR6eUU5TVBRdTNSS0U4VTZ2Tmxmam5COUNFSnZWVkdvdm04TDJUYU4?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 4/4 ライブドアニュース",
    "categories": [
     "cashless"
    ],
@@ -4980,6 +5032,19 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43RGxKU0RsS1AwajJnd21PUDVhUTJkTDVROUpRbFdVTHVzaTE0NTZQeE00cmM1bGlZYkEyUjdacDNaUHZJQUVJZER0UU1RZFVRQVZ6ZUtiRDRnZ2lGVG9Z?oc=5",
    "source": "投資情報のフィスコ",
    "summary": "JCBカード W plus LとJCBカード Wの違いは3つ｜女性向け特典や男性が持つメリットも解説 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-04T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "382147514782106e",
+   "title": "JCBカード Sの還元率や優待店は？メリット・デメリットなどJCBカード Wとの違いを徹底解説",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jbGZVd1pXZHRUUEF0anFXMkJQQmtObld6OU9reTJOZFd1NnJfZEtocDEtMUd0ZmwzeW00TVd5d2RkWkowX1N5LU5Fd0VVUTZWV2g4WmhPU2xtbUU?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "JCBカード Sの還元率や優待店は？メリット・デメリットなどJCBカード Wとの違いを徹底解説 投資情報のフィスコ",
    "categories": [
     "credit"
    ],
