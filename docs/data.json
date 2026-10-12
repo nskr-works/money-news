@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T16:54+09:00",
+ "updated_at": "2026-10-13T06:51+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,111 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "151ab67d189909a8",
+   "title": "ロシアＩＴ大手、無人機攻撃でデータセンター損傷＝決済サービスで不具合",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JRmp2U2Z3d3FyODBoWGpWSnItbU5ETjZMMTYwV3V1QTBFdVgxc2sxeFg4UFFxSHVmUmR2dGNFTFlteWRYTkNGMW5iZXZXQ0t2VFJBUQ?oc=5",
+   "source": "時事通信ニュース",
+   "summary": "ロシアＩＴ大手、無人機攻撃でデータセンター損傷＝決済サービスで不具合 時事通信ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T06:43+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "0cd9dbf08cfba169",
+   "title": "セコマで57万人分の会員情報漏洩、オンライン手続きを店頭・フォームに変更",
+   "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/011300385/",
+   "source": "日経クロステック",
+   "summary": "著名なセキュリティーリサーチャーのpiyokango氏が注目のシステムトラブルをピックアップ。今週は、セイコーマートのアプリを巡る不正アクセス、日本原子力研究開発機構の研究支援サイトからの個人情報流出、ローソンのメールサーバー不正利用を取り上げる。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T05:00+09:00",
+   "via": "日経クロステック"
+  },
+  {
+   "id": "4604bacf60e226e1",
+   "title": "後払い決済",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTjdfT3BEaWpwTi05T2dQSVFJbW51R1RfTFJ1ZXp2eG9aUWwzcUFCNlY3YXpETmxtUF81SjRlR2txNm9CNEJBTzRaMXNfNTg5QzVuVjM5eExMdGY2RzJEYWZ4ZkFXemE3aFY2M1lB?oc=5",
+   "source": "日経クロステック",
+   "summary": "後払い決済 日経クロステック",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T04:58+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "f5a5322fd52bfcc5",
+   "title": "グーグル「Fitbit Edge」、電池交換に対応しタッチ決済は非搭載",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdzNfVmJBbFBkUGQ5Z1R4bWpzU05CVERhb0YxSmZkX0Yyc3VVUWQ5MU1LNWJFNjUyaWstcDJ6a1U3cUlOenpHSnlBNkRtMWlZclBLNUVySFQxNnQ4eW9jOVMxUTVtUlJkU2VCbmNMZ0FmR0dUTUpJemRUVDNlWlFWLThhLS1yWGdnZDVfc1FsaTU1TXVsU3Q0cXVDTjRKLUlSYV9vX2Zad3FTUm9vZWZHdGJFVGNzNzFyLWxNU21NdkxZaTUzaEZBRXVDLS0?oc=5",
+   "source": "Martin Cid Magazine",
+   "summary": "グーグル「Fitbit Edge」、電池交換に対応しタッチ決済は非搭載 Martin Cid Magazine",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T23:10+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "940304d180914e6c",
+   "title": "【食事補助サービスのエデンレッド】「チケットレストラン」が業界初のApple Pay・Google Pay対応！ スマホで完結するタッチ決済を提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwQVVXUHA5cm05YVZVS0FpZ2N6dHQ0VEFna092QkppNkE2TUlIX19xcHIzeDlXNk9ENVE1Q0dBTk5hcVlYZGdLcjlWVXc?oc=5",
+   "source": "DXマガジン",
+   "summary": "【食事補助サービスのエデンレッド】「チケットレストラン」が業界初のApple Pay・Google Pay対応！ スマホで完結するタッチ決済を提供開始 DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T22:17+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "1008db504a702a21",
+   "title": "ベトナムと中国間のQRコード決済の相互運用性を促進する。",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEZPMVMwVDJxZDBtVWYtbGlxWU5yeWthNFFyS3lUTVoybnpGdDVNM2d2YVJNQUtaOUV2WDNXUHhSc3pXR3VTMUFXUzF1dmxoZHRRTXZwczJDR3JUcDhJbXhzNTF4SWV6STl3LUdCU0tXZ3BMejZ4SGVzUWt5T1AzdzBTSV8walFEUUhVWjQyR28?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ベトナムと中国間のQRコード決済の相互運用性を促進する。 Vietnam.vn",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-12T19:08+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "650bf6179e9e19f8",
+   "title": "普段使いにおすすめのクレジットカード11選！還元率やコスパ最強はどれか徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5POHVuSDdTeFRBVGdjTG1DZTN3ZHJHcS11M2JoU3NmWUFLZzZLNHdwMkJmV0Z1QTR3aHE4cUVPM2pscFRxQ3B3Q180SkpyT3VfSmVsdDFWS25QUFVXaE5CaWpvbDYxWGs?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "普段使いにおすすめのクレジットカード11選！還元率やコスパ最強はどれか徹底比較 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-12T18:23+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f0f2e79e178c8443",
+   "title": "【吹田市】万博記念公園がより便利に！入園券と駐車場精算でキャッシュレス決済が2026年10月1日（木）より導入スタート",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Bam1fMjJMOVF0SG02WmMzY1U4X0FMWUFaeU81VG5kR3h1WC1YQ3FsV1RHOWhXOEJVV3I1TDFwc3NMUkIyWEl3TVNvOUlqaHhEdWpRTzZfNnAwVWht?oc=5",
+   "source": "号外NET 吹田",
+   "summary": "【吹田市】万博記念公園がより便利に！入園券と駐車場精算でキャッシュレス決済が2026年10月1日（木）より導入スタート 号外NET 吹田",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T18:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "4a5f5ec259d29f9e",
    "title": "PayPay加盟店で「Binance Pay」が利用可能に 海外ユーザーが暗号資産決済、加盟店は日本円で受取｜Infoseekニュース",
@@ -176,6 +281,32 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "32214e80e50b64a5",
+   "title": "車載型決済端末市場2035年予測：フリートのデジタル決済需要が成長を牽引",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT01PMlJ5YkpEM05QWG1vaEthdjlTRlNmQlhhUzZRaUE0NzE4NWlzUzdsVDM1b3dDQml6ZDRkN2c3dWhDM0Zhc29QUjlsT1ctb196bGt3akdra004Yzc5WVBVMzR1V3hZUEZ5eVVERHlJZ1FQVWppRnotZGdMX1o4WDhZRDNXX2pqSXNadDdyZXZTM2RFX0J2TE1ZeW14UG5KR2YxaWJ2SlpiejNwUk1FcFRic3N5ZDRzcDZWSlNmS1lKYUl6R014cTFlTDZKZw?oc=5",
+   "source": "IndexBox",
+   "summary": "車載型決済端末市場2035年予測：フリートのデジタル決済需要が成長を牽引 IndexBox",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-12T05:11+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "35d1b90d4327b783",
+   "title": "【2026年10月】WAON・AEON Payのキャンペーン！ポイント10倍になるお得な日を紹介",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56ODhSQ1B3OXdESWViUURFOEZOeTdQNEVWNE9zUzVNOUlYeDVnczFMVy0xem5hU2kwRmdCN0VuMUZ4NEIzYTBfeg?oc=5",
+   "source": "マイベスト",
+   "summary": "【2026年10月】WAON・AEON Payのキャンペーン！ポイント10倍になるお得な日を紹介 マイベスト",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-12T00:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "e0646def3f710560",
    "title": "｢JMBクリスタル･サファイア｣への到達は｢アメックス･プラチナ｣が近道に！ JMBとMarriott Bonvoyの連携で、1万FLY ONポイントを搭乗実績なしで獲得可能！",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Bek4wWUxPTlY4WWJmdnBBV0dNUm1HY2NLdXFGZTJOQ3pUdzc0Rm9ub1hrQW1PY3dWLTR1aTF1dU0xSUlfc3dYWmRPcGdTTy1PbktN?oc=5",
@@ -268,6 +399,20 @@
    "type": "news",
    "published": "2026-10-10T18:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "30af49c9617a8b89",
+   "title": "資さんうどん、PayPay「ご利用停止」支払い対応終了を発表 今後利用可能なキャッシュレス決済を説明",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcURROXRHTk8yYXRwLU1wYWJFNnM4bm04eHdQYUIyWFJ4enhDUF9yY2QzRUtkbWZMYWlCLUt6Nlg1TG1VTG5iLXFxVmZtLVc3YWc?oc=5",
+   "source": "山陽新聞",
+   "summary": "資さんうどん、PayPay「ご利用停止」支払い対応終了を発表 今後利用可能なキャッシュレス決済を説明 山陽新聞",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-10T16:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "6b7c9a4640b5503d",
@@ -730,6 +875,19 @@
    "type": "news",
    "published": "2026-10-09T16:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "543eb84f3b6d3842",
+   "title": "HFM クレジットカード入金手順｜入金できない原因・対処法",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vY1B1MkV1N0JlcXR4QzI5YzYwUXRKcTN0enRyOXpWWGNXVlNtMXRmU08tdDRzSFJJMlM5LTRfYjRfYTFLcHU4Q1p2ZmFUNHpFS3ZBNlV4WUFtREFYWnNkRg?oc=5",
+   "source": "HF Markets",
+   "summary": "HFM クレジットカード入金手順｜入金できない原因・対処法 HF Markets",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "8e8a1cf7ab1ef49f",
@@ -1894,6 +2052,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "971811377862d142",
+   "title": "Wise、旅行先市場でeSIM接続と現地QR決済を追加",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aVE1tRXI5UEF4R19vcmc3RlJtbVdzMWZTa0ZUTTBfTXBtcERyUjZFN1FETUZuRlEzTjJ5OU92NnVaWTlBTkx2Nmp4Y0xVeVA5bkxmYjNYR0NnVkR4RlFmMU5zSXplN3hsM1NKVA?oc=5",
+   "source": "FinanceFeeds",
+   "summary": "Wise、旅行先市場でeSIM接続と現地QR決済を追加 FinanceFeeds",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:05+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "cc57683801cdc8a9",
    "title": "豪企業団体、税務当局にクレジットカード決済禁止の撤回要求",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Rc2FXeEE2TFRXbk50ekFwRVBTT3ZUU0lTNGU0ZHVEeUtMY3M1UWdwV3BsRjJOWGxybXM1OUp4QTJlR2hVTWo0aTRLamp4S2ZwUlVvRXlIYWZSX1VsdHVHWnZFcjhPeXlfY1JpbkpwekJVNFNq?oc=5",
@@ -2327,6 +2498,19 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LbHZvWDh6bWx3N2dva2VjLUg0VWhIZVEzb2x0eUFQSVQyVzJOSDVRNEtmNmVsMExXcmRldWdpOU1NdTlqZ1ozcnpoUjdkdVhoRjl5U0NyN2VlenQ0bDBB?oc=5",
    "source": "Infoseek",
    "summary": "京王線・井の頭線、スマホのタッチ決済乗車でVポイント10％還元 上限1000ポイント Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-07T12:10+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "8a27417b7ca129be",
+   "title": "京王線・井の頭線、スマホのタッチ決済乗車でVポイント10％還元 上限1000ポイント｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LbHZvWDh6bWx3N2dva2VjLUg0VWhIZVEzb2x0eUFQSVQyVzJOSDVRNEtmNmVsMExXcmRldWdpOU1NdTlqZ1ozcnpoUjdkdVhoRjl5U0NyN2VlenQ0bDBB?oc=5",
+   "source": "Infoseek",
+   "summary": "京王線・井の頭線、スマホのタッチ決済乗車でVポイント10％還元 上限1000ポイント｜Infoseekニュース Infoseek",
    "categories": [
     "cashless"
    ],
@@ -3767,6 +3951,19 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02M2JiZE1IMHQ1TkJyN1d4YTd0anJPTWZSVy0xb3dObVlKdHBBeWtSYjdiTWRwU21rcWtwaVQ5aXdNNWk2TTd6R2dENV9nSHZzSVUteg?oc=5",
    "source": "株探",
    "summary": "ゴールドカードおすすめ人気ランキング【2026年版】年会費無料・特典・還元率を比較 - クレジットカード比較 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "18c0286fc57428c9",
+   "title": "【2026年】かわいいクレジットカード30選！デザインがシンプル・おしゃれ・キャラクターな年会費無料クレカを画像付きで一挙紹介",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfVXN6QUZ4a1ZrU0U2eG1QV1lWd21rWmVtbjhKOVMzWE5uV3MxNjhyY0pXelE2Znp2eWZRbGNtMTdCZEVDWVNhNTlES19DNGZWQzBOQnF3UjhvTlpO?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "【2026年】かわいいクレジットカード30選！デザインがシンプル・おしゃれ・キャラクターな年会費無料クレカを画像付きで一挙紹介 投資情報のフィスコ",
    "categories": [
     "credit"
    ],
