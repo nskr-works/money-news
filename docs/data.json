@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T13:56+09:00",
+ "updated_at": "2026-10-12T16:54+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,33 @@
  "topics": {},
  "items": [
   {
+   "id": "4a5f5ec259d29f9e",
+   "title": "PayPay加盟店で「Binance Pay」が利用可能に 海外ユーザーが暗号資産決済、加盟店は日本円で受取｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lUFp3STNqX2E3N0o5V05LdE9SbGZxcUU1MXBmdml1dkdEYWhuZlIyNzVmVlBTd19ucVhWX2tESHJCaGxNeUVReFlfcGsxUnZuaWthTi1ZcDJhamxLZGtV?oc=5",
+   "source": "Infoseek",
+   "summary": "PayPay加盟店で「Binance Pay」が利用可能に 海外ユーザーが暗号資産決済、加盟店は日本円で受取｜Infoseekニュース Infoseek",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-12T16:10+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "000b4f16fbc6c8f0",
+   "title": "決済手数料ゼロ！最大20％ポイント還元！新キャッシュレス決済サービス「さいきょうPAY」11月～サービス開始予定「地域経済の活性化へ」西京銀行",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82UmhMVHY2bHd3Ylh3NDhGOTFQN0pQRE9RUnMzdDNHREpIS0VOUTh1bkxlQmJEbGZoRXFLSnptNk45MEhoMExnWnRmVzRCaHh2TzFsUW5vSGdtcmM3TjNn?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "決済手数料ゼロ！最大20％ポイント還元！新キャッシュレス決済サービス「さいきょうPAY」11月～サービス開始予定「地域経済の活性化へ」西京銀行 TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T14:04+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "c3fe18f7f1a35999",
    "title": "「東京クリスマスアドベント Sponsored by au PAY」11月6日（金）上野恩賜公園袴腰広場、11月18日（水）不忍池周辺で順次開幕!!",
    "link": "https://prtimes.jp/main/html/rd/p/000000001.000192190.html",
@@ -42,6 +69,19 @@
    "published": "2026-10-12T13:15+09:00",
    "company": "株式会社サエキジャパン2",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "aad38ac1becdd125",
+   "title": "EC業界カオスマップ2026 － EC決済サービス編",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DRGFoemIyWFhNTFpTYUJvSU9TeGxDM1VKV1I0NWdiQUt3X0xrUWZ2SHBGb1lmRWNITTNMc0MxN1d6T3NITEJINUVLb3ZFdGc3S3l1X19KcTFxQWdK?oc=5",
+   "source": "エンパワーショップ株式会社",
+   "summary": "EC業界カオスマップ2026 － EC決済サービス編 エンパワーショップ株式会社",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T12:33+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "3ff6273fdcb0448e",
@@ -69,6 +109,19 @@
    "type": "news",
    "published": "2026-10-12T10:56+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "09444eaf3ebaeeaa",
+   "title": "2026-27シーズン ホームゲーム会場におけるキャッシュレス決済導入のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mN3JnUzB6aUd4QTFiY1lDSmVQcVNBWVVSQ3dKUHh1ckx1Zmh4MHdkMEp1cjF2NlVVVmpzdFI3X0tTdTM3ZjlvampYT0wyX3M3U2Y5OUhYaw?oc=5",
+   "source": "シーホース三河",
+   "summary": "2026-27シーズン ホームゲーム会場におけるキャッシュレス決済導入のお知らせ シーホース三河",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T10:01+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "6c16ecf9d493d68a",
@@ -1754,6 +1807,19 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKcVVDNVlydjhLWlR2WWNxUFdKRHFOdUpkczdIbWFWZGhTUEphYlhUWHctSU5lY1ZpNy01d1E2R3JkSUsyZGxacENMbVFTejVqQzNTVURPZUxTSHhoOWYxSnVCaWJlZzRBbk5VQkhB?oc=5",
    "source": "ウォーカープラス",
    "summary": "画像6 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 ウォーカープラス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T08:29+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "55562c0837367906",
+   "title": "画像5 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yU1dXZ1R1bmdwaVFQbUczTWxRZUc0NE8yRVVER2RTU0VKUmVaZ051c244TUpjUFFmVjhkUU16VXR2Z21iR25zbVFLRWVWZFVial83TndCX3lFczBOVGlDb1dkMHFoTGR1ejluN2pB?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "画像5 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 ウォーカープラス",
    "categories": [
     "cashless"
    ],
