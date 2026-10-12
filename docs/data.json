@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:49+09:00",
+ "updated_at": "2026-10-12T10:53+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,45 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "6c16ecf9d493d68a",
+   "title": "堀江貴文「現金払いは安心？」キャッシュレスを避ける人が気づかず失っている3つのもの、「働かない老後」の損も指摘",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sT3dJVTlhajE0ZVR3RDBPUXNLaTkzLWNzVmRGdXRuOXJpUXdCbW5VWmdfdGprdjl1ejVwT3g4V1YzbHBaVjRkUjJOQjdVbG5HQ1ZDNThyR05MemREMUZhUVJiVnpiM2hoVHRNanJXbG82YkdTUk5kZ3A4ckJFeHc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "堀江貴文「現金払いは安心？」キャッシュレスを避ける人が気づかず失っている3つのもの、「働かない老後」の損も指摘 Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T10:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d2196422b779ed55",
+   "title": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html",
+   "source": "ITmedia Mobile",
+   "summary": "2026年は身近なサービスからの大規模な個人情報流出が急増しユーザー側の二次被害対策が急務となっている。パスワードの使い回し防止や多要素認証、パスキーの導入により被害の拡大を効果的に防ぐことができる。情報漏えい通知の受領時や本人確認書類流出時には信用情報機関への本人申告など迅速な対処が求められる。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-12T10:00+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "fd1cb98a1e61b31d",
+   "title": "「1万円以下の少額決済」を狙う悪質な不正が急増中！データから見えた最新のクレジットカード被害動向",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RN1RxZ21rSkluR0pGaExEN0UzUDJIYllPX1VJZTlDNEthVm44NkpaY0dybUdZTVdPV3RVeE5jeDNXaWRpaFNWeUgwVVI?oc=5",
+   "source": "DXマガジン",
+   "summary": "「1万円以下の少額決済」を狙う悪質な不正が急増中！データから見えた最新のクレジットカード被害動向 DXマガジン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-12T07:03+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "d6cad86ccde1a5b3",
    "title": "ケンタッキーでVポイント2倍 店頭提示とスマホ決済を重ねる攻略、注文方法に注意（しょうこちゃん） - エキスパート",
@@ -309,6 +348,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "373986e7403a13d2",
+   "title": "マスターカード Ａ 株価[MA/Mastercard A]最新ニュース 日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKNEFvUGtzOG01YjNXVklITHd0alBYRlhfUWFQdEdfYWloZ0EtUzZQNHc3eFVLSk03YmJXTzlUamxFclhMeGlDOFRvN05sbWVzYnB3?oc=5",
+   "source": "日本経済新聞",
+   "summary": "マスターカード Ａ 株価[MA/Mastercard A]最新ニュース 日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T19:58+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "515733f9bc081de0",
    "title": "「当選金1億円を受け取れます」とメッセージ 80代の女性が電子マネー323万円分だまし取られる詐欺被害 警察「身に覚えのない当選メッセージは無視して」広島",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BbzZpSHBGeklWcVdmU1hsZDNsN1pWR3hIV0VpOV9DaFB1YU5GTnROdm1qRnZpX0hLTEZOQi1KVUFkZFNmNU1vaUViVF9QYUc4Qmk0UjlzT3pxaUM1RmNV?oc=5",
@@ -418,6 +470,19 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMzdrbm43Wi05bnltLWFYTUxiXy1GRkkxQ2F4RTJteWVqOGVMN1RJV2QtaFBDeWpjUVpPeEd1MHlydnRRYkpuRkxaaUtMemFpVmNYTS1raUpLS1VYVm96RWNOVDhjRUdRc0V1TG1Bclo4Tk5WWlpIY244STVfUkpTbDNfNmhXU0dXa2FjUzNRd9IBjwFBVV95cUxNMzdrbm43Wi05bnltLWFYTUxiXy1GRkkxQ2F4RTJteWVqOGVMN1RJV2QtaFBDeWpjUVpPeEd1MHlydnRRYkpuRkxaaUtMemFpVmNYTS1raUpLS1VYVm96RWNOVDhjRUdRc0V1TG1Bclo4Tk5WWlpIY244STVfUkpTbDNfNmhXU0dXa2FjUzNRdw?oc=5",
    "source": "ｄメニューニュース",
    "summary": "「NewsPicks」でも不正アクセス クレジットカード番号の一部など漏洩か ｄメニューニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-09T17:47+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e2b3a5a34eeeb196",
+   "title": "「NewsPicks」でも不正アクセス クレジットカード番号の一部など漏洩か – Quebee キュエビー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiNGI1QUZpVzBPTW1FVm5RRlpPa25sazhyZE9iM2ZhVkdFTVVIdmRwV3o2RlpwU2UzdUk3MFBmRkI3REZCNVk5cmVDNFc4a2hTQ25xVVZFejg?oc=5",
+   "source": "QAB 琉球朝日放送",
+   "summary": "「NewsPicks」でも不正アクセス クレジットカード番号の一部など漏洩か – Quebee キュエビー QAB 琉球朝日放送",
    "categories": [
     "credit"
    ],
@@ -1467,6 +1532,19 @@
    "type": "news",
    "published": "2026-10-08T10:47+09:00",
    "via": "ITmedia NEWS"
+  },
+  {
+   "id": "9a0acf804f619cea",
+   "title": "【業界初※1】「チケットレストラン」がApple Pay・Google Payに対応！スマホひとつで“食事補助”が完結する「モバイルタッチ決済」を10月5日より提供開始｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aUTJNdVJLa21WbG1BREVXZ3ZJTW9XYnNvV1p6NkI5enVzRFREWWN2NDRUeHhYUVZWdC1SSElUREhteEpveFJzaUZFdU1Ddkw1YjRNaE1UcnI2RElwYmF2TE1RM2xQMjF2OFp4V2xXN2lOQQ?oc=5",
+   "source": "Infoseek",
+   "summary": "【業界初※1】「チケットレストラン」がApple Pay・Google Payに対応！スマホひとつで“食事補助”が完結する「モバイルタッチ決済」を10月5日より提供開始｜Infoseekニュース Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T10:40+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "9dc9c196ec85c3e0",
@@ -3693,7 +3771,8 @@
    "source": "時事通信ニュース",
    "summary": "ＰａｙＰａｙアカウントを購入容疑＝男再逮捕、電子マネー詐取に悪用か―警視庁 時事通信ニュース",
    "categories": [
-    "cashless"
+    "cashless",
+    "code"
    ],
    "type": "news",
    "published": "2026-10-06T15:26+09:00",
