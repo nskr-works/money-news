@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T10:53+09:00",
+ "updated_at": "2026-10-12T13:56+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,47 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "c3fe18f7f1a35999",
+   "title": "「東京クリスマスアドベント Sponsored by au PAY」11月6日（金）上野恩賜公園袴腰広場、11月18日（水）不忍池周辺で順次開幕!!",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000192190.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社サエキジャパン2] [画像1: https://prcdn.freetls.fastly.net/release_image/192190/1/192190-1-25165b4250159b60719e64688ba4521b-1920x1280.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-12T13:15+09:00",
+   "company": "株式会社サエキジャパン2",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "3ff6273fdcb0448e",
+   "title": "JR東日本が新コード決済「teppay」を10月20日より開始 ネットスターズ「StarPay」連携で全国70万拠点へ拡大",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GanJPczNhMVJZSFZQMTNKUzlGb2s0bHRZVnhMcjhieGJUeWx1eU1aZmJwOTFnYzcyaFVORk40cEZleGxYM1BvMHRmSmw5VTdaSjFV?oc=5",
+   "source": "東京報道新聞",
+   "summary": "JR東日本が新コード決済「teppay」を10月20日より開始 ネットスターズ「StarPay」連携で全国70万拠点へ拡大 東京報道新聞",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-12T11:07+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "97b65f5ed31b10eb",
+   "title": "コード決済だけじゃない！ かざす決済で操作は劇的に向上した【今さら聞けない🉐スマホ決済利用術】#3",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zQU9lalBCMmVJTzZjMzRJOVN2RVZPMFpLUkRLOWhwOC1rYkNnSDNJRGVJNXVKdWd3czJIQTIxU1VEOU9VUjNiMEYyTmFfa0ZRMTMyZG9RN1hINmp2UXE0?oc=5",
+   "source": "千葉テレビ放送",
+   "summary": "コード決済だけじゃない！ かざす決済で操作は劇的に向上した【今さら聞けない🉐スマホ決済利用術】#3 千葉テレビ放送",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-12T10:56+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
   {
    "id": "6c16ecf9d493d68a",
    "title": "堀江貴文「現金払いは安心？」キャッシュレスを避ける人が気づかず失っている3つのもの、「働かない老後」の損も指摘",
@@ -3647,6 +3688,19 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2X29WQ3BqMlJnalhxYXVYSHZSczdDTTRQUFRFcFNPWmZvSGFxZnZORzVLN3pQU1BudEdGdkF1amtFZ0F5MkVfMzlhalVVZGhOQ3h5dHZ1ZmRiSlV4a01B?oc=5",
    "source": "投資情報のフィスコ",
    "summary": "【2026年最新】公共料金・税金の支払いにおすすめのクレジットカード最強ランキング14選！ 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-06T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "466b19e0b28543de",
+   "title": "ゴールドカードおすすめ人気ランキング【2026年版】年会費無料・特典・還元率を比較 - クレジットカード比較",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02M2JiZE1IMHQ1TkJyN1d4YTd0anJPTWZSVy0xb3dObVlKdHBBeWtSYjdiTWRwU21rcWtwaVQ5aXdNNWk2TTd6R2dENV9nSHZzSVUteg?oc=5",
+   "source": "株探",
+   "summary": "ゴールドカードおすすめ人気ランキング【2026年版】年会費無料・特典・還元率を比較 - クレジットカード比較 株探",
    "categories": [
     "credit"
    ],
