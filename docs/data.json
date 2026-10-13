@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T14:52+09:00",
+ "updated_at": "2026-10-13T16:02+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -41,6 +41,21 @@
    "type": "release",
    "published": "2026-10-13T14:41+09:00",
    "company": "株式会社ドコモ・アニメストア",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "623f44ba0fce2a93",
+   "title": "「日本国内用プリペイドSIM自動販売機」第2ターミナル地下1階に設置！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000336.000067976.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[日本空港ビルデング株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/67976/336/67976-336-ce4ce5013f9471ce21827f24800fb084-963x890.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-13T14:00+09:00",
+   "company": "日本空港ビルデング株式会社",
    "via": "PR TIMES 新着（直接）",
    "pending_notify": true
   },
