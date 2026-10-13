@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T16:02+09:00",
+ "updated_at": "2026-10-13T16:53+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,86 @@
  "topics": {},
  "items": [
   {
+   "id": "5ba11f63f615398f",
+   "title": "ついにSuicaが進化！JR東日本の新しい決済サービス「teppay」の全貌と爆益キャンペーンおすすめ7選",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE15cWxrY0hiMmJRdnhJT1NHb3M2U09URUdUWnZEdWtfSWJ6OTRyRno3ZDJGdUNLNzBLWHJTbEtVaHVUU2d2?oc=5",
+   "source": "@DIME アットダイム",
+   "summary": "ついにSuicaが進化！JR東日本の新しい決済サービス「teppay」の全貌と爆益キャンペーンおすすめ7選 @DIME アットダイム",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T16:08+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "ebad0ebd6f14ad62",
+   "title": "インフキュリオン、三井住友カードの決済サービスをAI規格MCPに対応",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlMms3UnA0eXFvMWwyQjhKbVpDeGJYWkNFbmJ3VDJTTE1iajVFZ2pTSlBrTl9CZzB3aUw1bXAxRkFPMnRQZ0hQN2l3ZW1iZDU3Sl93?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "インフキュリオン、三井住友カードの決済サービスをAI規格MCPに対応 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T16:03+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "79af54e617d269bc",
+   "title": "JR東日本グループ、2026年10月20日より新コード決済サービス「teppay」開始",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HRk5SVVNVenRhMklzSXBsbG5Qa0hpTElzRlo4UVRaUFFEVUNHZkFRcUtCWG9oRXZiU0JpUUpqZzBhOEZkNFFqLW9SZVJnSllrYUlGbmV6ZFQtd3dLSXJENGdhTUw?oc=5",
+   "source": "ECのミカタ",
+   "summary": "JR東日本グループ、2026年10月20日より新コード決済サービス「teppay」開始 ECのミカタ",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-13T16:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "c597c30f4ad25030",
+   "title": "【ミニストップ限定】「Amazonギフトカード×電子マネーWAONキャンペーン」",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PaWV4Q3lpQlB1LVh1N1lsTDBNUDZjS3p3STQ4czg0OFR4Q1hqSGFHanUwU0EzOVp5TW9sSmRTYkpmNy04dXlXamxJdXhWNTFuV2gtU2VscHlWZC0wVDFwZkdYOVBTLWdkT1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "【ミニストップ限定】「Amazonギフトカード×電子マネーWAONキャンペーン」 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-13T16:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」",
+   "company": "インコム・ジャパン株式会社"
+  },
+  {
+   "id": "387107542b6a9947",
+   "title": "「お金支援しましょうか」SNSで誘い さくら市の30代女性が電子マネー129万円被害",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zODVQNWdMWGxSM1JqcnRsNnRWZU9JcEFQSW9KYWNNalNmZmxFOV9TUF9sY1RhRkQzMldGYVZrNTM0NklKY3Q3VDhLb3E0X191NXlXRUhQaWN4MWc?oc=5",
+   "source": "下野新聞社",
+   "summary": "「お金支援しましょうか」SNSで誘い さくら市の30代女性が電子マネー129万円被害 下野新聞社",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T15:36+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "31b5c5067e911c37",
+   "title": "ハノイ市は駐車場における100％キャッシュレス決済を目指している。",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2dXcFZ1TnY3NzE5eHFQRkhTTENXUXh3dHJCVlVha3k2TlpDSnVGeDVPYml5d3RkRXhXT21BZ2JtQ2J6VklyejJUT2pqNlRyWlFsVGs1X3pwemJmSGo3NzNjMkxCdUNfc0loTmFFTVZNbk95MW5sWDJ6Ny1wMzAzOFRkdzBzVC13NnRSQWFVVWp3Rnc5RTBGbVRR?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ハノイ市は駐車場における100％キャッシュレス決済を目指している。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T14:59+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "e1703b3f4071cdba",
    "title": "＜2026秋アニメ・ dアニメストア配信ラインナップ＞地上波先行・最速「FX戦士くるみちゃん」 独占配信「貸した魔力は【リボ払い】で強制徴収」など含む、81作品配信！",
    "link": "https://prtimes.jp/main/html/rd/p/000000792.000005738.html",
@@ -41,8 +121,7 @@
    "type": "release",
    "published": "2026-10-13T14:41+09:00",
    "company": "株式会社ドコモ・アニメストア",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "623f44ba0fce2a93",
@@ -56,8 +135,20 @@
    "type": "release",
    "published": "2026-10-13T14:00+09:00",
    "company": "日本空港ビルデング株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "d6eb4b432868470f",
+   "title": "SBI、韓国のカード会社と協業 AI使った越境決済",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0bllpUVF6RWNNejBvOE9rUDNvZ20yTnRtZEgwemFKN2J3dGF1a182SEZQS0RoeFd6LU5lcFk5WGpxTmo3Q05md3V1RkhGUGhwSVRiQk03WV95RFVLbUxkbEJvOWFJQW40MTNWYg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "SBI、韓国のカード会社と協業 AI使った越境決済 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T14:00+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "082c63614d77835c",
@@ -98,8 +189,7 @@
    "type": "release",
    "published": "2026-10-13T13:00+09:00",
    "company": "パナソニック ハウジングソリューションズ株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "d89f78fae425ea66",
@@ -289,6 +379,20 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "a41b9bfca5a64c8c",
+   "title": "ビックカメラ、JR東日本の新コード決済サービス「teppay」を10月20日から導入 全店舗で利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkpuTDc3c3EzNDAtb0VMSTkzNnV0VE9rSnBfX3plQVdtQkFQQjI4LTZzUEEzbkt2dzd6U3dJX25MWWhXWjVWTmV5TGhPT1cwZGw5YzR1eDJJaDl2YVY5Y1lvNU9hcUtRLWs5eHlQeS0ta3NhbVNrWTM5NGdOTUF1ZmlrX3N3d9IBhgFBVV95cUxPWkpuTDc3c3EzNDAtb0VMSTkzNnV0VE9rSnBfX3plQVdtQkFQQjI4LTZzUEEzbkt2dzd6U3dJX25MWWhXWjVWTmV5TGhPT1cwZGw5YzR1eDJJaDl2YVY5Y1lvNU9hcUtRLWs5eHlQeS0ta3NhbVNrWTM5NGdOTUF1ZmlrX3N3dw?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "ビックカメラ、JR東日本の新コード決済サービス「teppay」を10月20日から導入 全店舗で利用可能に ｄメニューニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-13T05:30+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "0cd9dbf08cfba169",
    "title": "セコマで57万人分の会員情報漏洩、オンライン手続きを店頭・フォームに変更",
    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/011300385/",
@@ -381,6 +485,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "a4f6c0ad1c32e491",
+   "title": "タイムズカーで約660万件の個人情報が漏えい…専門家は口座やクレジットカードの不正作成に悪用される恐れ指摘―被害を防ぐ鍵は“パスワードの使い分け”利用者が今できる自衛策とは〈モクゲキ〉",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2FzMm9rdlB0ZTVRMDdsQzV1eVlFOXFkWjhzSGFheFp5OUplMUpaOXRsS0JDQ2tSUFdCbkFZYXFwVmUzNlpJZTd1ZzF1eEZ1VHdZbDJVcFpBQWxRUENLMGV0TkM5VGd2Y3p0cHBMUXBxMnlRWVhQZndESVVNYW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "タイムズカーで約660万件の個人情報が漏えい…専門家は口座やクレジットカードの不正作成に悪用される恐れ指摘―被害を防ぐ鍵は“パスワードの使い分け”利用者が今できる自衛策とは〈モクゲキ〉 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-12T17:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "4a5f5ec259d29f9e",
    "title": "PayPay加盟店で「Binance Pay」が利用可能に 海外ユーザーが暗号資産決済、加盟店は日本円で受取｜Infoseekニュース",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lUFp3STNqX2E3N0o5V05LdE9SbGZxcUU1MXBmdml1dkdEYWhuZlIyNzVmVlBTd19ucVhWX2tESHJCaGxNeUVReFlfcGsxUnZuaWthTi1ZcDJhamxLZGtV?oc=5",
@@ -459,6 +576,20 @@
    ],
    "type": "news",
    "published": "2026-10-12T10:56+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "cf9aa995d2ada69d",
+   "title": "【画像】コード決済だけじゃない！ かざす決済で操作は劇的に向上した【今さら聞けない🉐スマホ決済利用術】#3",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHMkp4Zmx2UHBDNC1UUGIwdHdOa3gxOHl3bVlEbVVmRGk0U0dMbjlyYzVMWmVoY1FEMkhTOFk4SDg3RkJNZEgtRzlPSWpUT2FEcGFKM0ZVVlBZVGRtT1B0WXJXOE1oc01MV2FJMWZaNE9EMFRCTkZldFgxLWI?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】コード決済だけじゃない！ かざす決済で操作は劇的に向上した【今さら聞けない🉐スマホ決済利用術】#3 ライブドアニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-12T10:55+09:00",
    "via": "Googleニュース「コード決済」"
   },
   {
@@ -551,6 +682,19 @@
    "type": "news",
    "published": "2026-10-12T00:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "6462d5d461a487a4",
+   "title": "韓国スタバ 売り上げ急減から1位返り咲き＝カード決済ベース",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZTlsdUd4bEo3UEI3MWZDOXUzeWZFb1NFeUgzNE0wcjJ4QjFiSjRXdjl4NF9USVpEVXh2M01jdUlQQ3pGUmNWNkVPZWJad2l6MVRZVmFKYlQ2dw?oc=5",
+   "source": "聯合ニュース",
+   "summary": "韓国スタバ 売り上げ急減から1位返り咲き＝カード決済ベース 聯合ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-11T14:28+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "e0646def3f710560",
@@ -833,6 +977,19 @@
    "via": "Googleニュース「後払い・BNPL」"
   },
   {
+   "id": "d39ef38de55aa180",
+   "title": "オンライン決済の急増：生体認証データのセキュリティという課題。",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc0xSUWEzcUNKUS1lYVhvb1Vva2ZHeW56V095WjhQNVh0ODNMTV9ldkRCUTFrNllqZWV5dmpsTVNNTDRERGJwWS16VjF6RFJwSld0T0dyYS0tQXR4NDZXLUowdmhUazE0R2owaW9MdDFKdFllZzlYTWpkbjdkdnNrMW1ja1dhMDF2T1JESkFSZEFmNWJD?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "オンライン決済の急増：生体認証データのセキュリティという課題。 Vietnam.vn",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-09T22:16+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "eb47f75aba0ce98c",
    "title": "JAL Payは100％還元、三菱UFJデビットは20％相当キャッシュバック、すぐに得するキャッシュレス決済の激アツキャンペーン3選",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwdnJYcUYwa0k5RWxqSTNwQ1p3OFUwUHo0Qjl1VzJ6Z1BHSlRkMF9USUROSUxlTXRvUlNLSUlhQnVPRGNLdGt2MlZJUVh6LV9NQl9MQmRVYXNJa3RXRlhxMWh2U1NCUlQ3Rm84emFkRVJ1V0tZcVVBMUVRYm5lNzQ?oc=5",
@@ -844,6 +1001,20 @@
    "type": "news",
    "published": "2026-10-09T21:10+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "3b5d67224ebab144",
+   "title": "PayPay銀行はスマホ決済PayPayと相性最強！カードレスATMや出金手数料無料など充実したサービスが満載のネット銀行です Napoli (7TqDlqIv9S)",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTlWX0ZPTnY4czUtdHNMaGlfdGgtUHp2aVh2a2F0UG4zRnIzcGtuZkRCbS1VV0lKNlpXNEJCUzU3ckwxalo0Y1dZZnUwTEl6a1J2UldVdGhUSHhEWWxxeFhRZ0JSb2hEN2xPME44QTczNU1jT0JCclA3TFRGdm8tZg?oc=5",
+   "source": "Unisba Media",
+   "summary": "PayPay銀行はスマホ決済PayPayと相性最強！カードレスATMや出金手数料無料など充実したサービスが満載のネット銀行です Napoli (7TqDlqIv9S) Unisba Media",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T20:26+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "1fac9ae9673a7846",
@@ -2613,6 +2784,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "8bbb7a922a3b4df7",
+   "title": "セゾンアメックスゴールドは恥ずかしいと言われる理由は？口コミや代替カードを解説",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pOEpOVHhRTEpkTDVRSEZnNGZiQU96MmlpWUVQckVndUh2ZzAyTW5BczFKMVpKNXI4TnFKSGZnR1poUFZDSTJDc0l5eFB0Nm16WTJScFIwRkFpQ1ZPbjhzbGZlVWlfMEo4czBnVkQyM1RxdmxyT1otNGd3?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "セゾンアメックスゴールドは恥ずかしいと言われる理由は？口コミや代替カードを解説 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-07T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "e262b0c7782740aa",
    "title": "消費者金融・クレジットカードの借金に悩む人へ 10月9日北見で無料相談会 北海道財務局",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BQk1CcXBETUFaZjduZnJMcnczemFnay1sekVHU3ZaY0RfRGplRTNGVlA1c2d3ZF9ZN0w5SWFDZ3RiZGNGVTl2VGR6aVVQMGM3ODZJdVk1OHFNVl9OZVh0VHhDcWU?oc=5",
@@ -3273,6 +3457,20 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "1dd9c2e192768edf",
+   "title": "【画像】JR東日本、モバイルSuicaで新コード決済「teppay」10月20日開始 - 2万円超の買い物や残高の受け渡しが可能に 5/10",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lbVJiSlprb0x3cGl2MXRJNXJ2RkF6RFhKcy1CREJIUGc0RzhhTDdPckhQQ0ptazBjSzRJSVdNaVc0Y29ucWtxWFpLTWZOUnh1WkNhck80YmMyakt6WWFmQmdTRWR3YTUwX0o1cTNPM1NIemJaREM3cmYzZGI?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】JR東日本、モバイルSuicaで新コード決済「teppay」10月20日開始 - 2万円超の買い物や残高の受け渡しが可能に 5/10 ライブドアニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-07T06:09+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "cee4a2509ad472d1",
    "title": "デビッド・ピアース：AIエージェントにクレジットカードを1枚だけ渡し、毎日確認せよ",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZmNCRnE3Y3AzZnRMVGhncVBNd0hxTHd1ZXg1VmNsVnFCeG83YWxhbjN6Q1RyOEFseE5tcEFYYzJfU3Vvc3FwZVk2SW5SdFNzUjlaUWJ3RkUtdw?oc=5",
@@ -3593,6 +3791,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "9fb1f1365b13e0bc",
+   "title": "【teppay速報】20%還元＆1億pt山分け！新コード決済の7大キャンペーンまとめ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pVTNCODZtWEdoTWtub2RfWmJfcW9vZEhtTWF0RjMzZmtFeVh2TkpORWYtLVlTQ1pPU2hlN0ZQNElDZzA1UTAya3FRbjVQZTNDVURpN0MxX09JVFFuRHFB?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【teppay速報】20%還元＆1億pt山分け！新コード決済の7大キャンペーンまとめ ライブドアニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T19:54+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "85893a6ace069885",
    "title": "Suicaアプリにコード決済「teppay」、10月20日から 上限30万、送金も可",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTN3RFJGVlZLR25semF2MF9HSmdrLTY4bkVLanhvUE1obEpHakdHRFhMYkFoQ214WkFnLUdVeTY1RUlvZ3QwUF9tWmtzR1RZSFhzRXFpMXF6SzhTQ1VqZXZoNFJYczJlcVV3ZHZ4NXVVYnk2MUFmU0ZZT0UyUWFXTTB2LWlqb09xMDE3R2Y5N196UE9LOWFsZFBUS0lsXzhleVNOdUhBQXZtZ2_SAbABQVVfeXFMT0Z5N19wa296blNQS3hLNVlhRmxONU41a21weFFEMjJjWmR2aml1UUtpRXhUSEtHanBxV2QxQWg3MUo5T0NiTTZNNThVUXBGVnFpY3Q1SVFRSG5LQW1vcnlnVEVwZjgzRkY3ZzBIRE9UbzNidFVaNS1NZUZLcVpDeG5SdHE1NEpTbXlrSFdmYzZBUzcyOThYeWNXYUhGb2xYLURuMUhwU1M3dlR2QWh6dDI?oc=5",
@@ -3741,6 +3952,20 @@
    "type": "news",
    "published": "2026-10-06T18:46+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d85cf0a72a89e453",
+   "title": "Suicaの上限2万円を超えるコード決済「teppay」10月20日開始。Suicaとの違いは？",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWNSN0pBRGQ5Y2NubDNyM2p5NUMyNFQ2MC1zVk5Fb0hRMU1sWGdrQjdWYThLQkdabUdWZ1ZKYkp5WlY5aDZfUkVMRFdaUVRYY3JIdXluUE1DQl9FVUdEWEFMTzE3d1dRVVZCOFFjY0xONFdDdm9oYjFiRXk0a3hqUVZkVzMzR2JuLS1XWHRSeWI2YndVQWRZMElxQVRia0ZpcDkxdGlqZW10bVBvdHhieQ?oc=5",
+   "source": "携帯総合研究所",
+   "summary": "Suicaの上限2万円を超えるコード決済「teppay」10月20日開始。Suicaとの違いは？ 携帯総合研究所",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-06T18:42+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "413b7bcc3a7bc5b1",
