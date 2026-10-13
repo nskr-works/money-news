@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T16:53+09:00",
+ "updated_at": "2026-10-13T18:53+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "ce20a9bb02e2d2fc",
+   "title": "琉球銀行、スマレジとPOS・キャッシュレス・免税対応の推進に関する業務提携",
+   "link": "https://prtimes.jp/main/html/rd/p/000000098.000069907.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社 琉球銀行] 琉球銀行（頭取 島袋 健）は、株式会社スマレジ（代表取締役 宮崎 龍平、本社 大阪市中央区、以下「スマレジ」）と、沖縄県内事業者のデジタル化支援およびインバウンド需要への対応強化を目的として、決済...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-13T18:15+09:00",
+   "company": "株式会社 琉球銀行",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "82e55b1fe161ef76",
+   "title": "スマホアプリ「アルコイン」シリーズ第2弾！無料ゲームアプリ「アルコインソリティア」を10月13日に提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000069.000093190.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社Agoop] 歩くだけでコインがたまり、たまったコインを「PayPayポイント」や「Amazonギフトカード」などと交換することができるスマホアプリ「アルコイン」を提供する株式会社Agoop（アグープ、本社：東京都渋谷区、代表取...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-13T16:15+09:00",
+   "company": "株式会社Agoop",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "5ba11f63f615398f",
    "title": "ついにSuicaが進化！JR東日本の新しい決済サービス「teppay」の全貌と爆益キャンペーンおすすめ7選",
