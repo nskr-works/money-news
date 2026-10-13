@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T13:56+09:00",
+ "updated_at": "2026-10-13T14:52+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,21 @@
  "topics": {},
  "items": [
   {
+   "id": "e1703b3f4071cdba",
+   "title": "＜2026秋アニメ・ dアニメストア配信ラインナップ＞地上波先行・最速「FX戦士くるみちゃん」 独占配信「貸した魔力は【リボ払い】で強制徴収」など含む、81作品配信！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000792.000005738.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ドコモ・アニメストア] 7,400作品以上のアニメが見放題（※）の「dアニメストア」（ https://animestore.docomo.ne.jp/ ）では、2026年秋から始まる新作アニメの配信ラインナップを公開しております。 ※2026年10月13日時点、一部個別課...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-13T14:41+09:00",
+   "company": "株式会社ドコモ・アニメストア",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
    "id": "082c63614d77835c",
    "title": "【人口10万人あたりのカード・割賦金融業の事業所数、鳥取県が最多で佐賀県の7.8倍】クレジットカード会社を含む区分の市場データを無料公開（事業所数・広告費）",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDd1RwWnJYSU5SWmRDYUFyZ2RucEdidzVPOTFQTERyYUtyeldsRTdHem45SnV5WDN1empuLWV2eGZLZTFscThzV0g0Wk0xZmhFcFdR?oc=5",
@@ -55,6 +70,21 @@
    "published": "2026-10-13T13:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "ビザ・ワールドワイド・ジャパン株式会社"
+  },
+  {
+   "id": "8e1743a7952c2082",
+   "title": "横断型業務支援システム 新築版『Sumai Base』提供開始 勘と経験に頼らない経営へ─集客・営業・経営を一気通貫で可視化",
+   "link": "https://prtimes.jp/main/html/rd/p/000000013.000179566.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[パナソニック ハウジングソリューションズ株式会社] パナソニック ハウジングソリューションズ株式会社（代表取締役 社長執行役員：山田 昌司、本社：大阪府門真市、以下、当社）は、当社の加盟店であるパナソニック ビルダーズグループ（全国に約350社、以下、加盟...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-13T13:00+09:00",
+   "company": "パナソニック ハウジングソリューションズ株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "d89f78fae425ea66",
