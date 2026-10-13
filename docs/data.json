@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T10:53+09:00",
+ "updated_at": "2026-10-13T13:56+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,72 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "082c63614d77835c",
+   "title": "【人口10万人あたりのカード・割賦金融業の事業所数、鳥取県が最多で佐賀県の7.8倍】クレジットカード会社を含む区分の市場データを無料公開（事業所数・広告費）",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDd1RwWnJYSU5SWmRDYUFyZ2RucEdidzVPOTFQTERyYUtyeldsRTdHem45SnV5WDN1empuLWV2eGZLZTFscThzV0g0Wk0xZmhFcFdR?oc=5",
+   "source": "ドリームニュース",
+   "summary": "【人口10万人あたりのカード・割賦金融業の事業所数、鳥取県が最多で佐賀県の7.8倍】クレジットカード会社を含む区分の市場データを無料公開（事業所数・広告費） ドリームニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T13:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ea5bb59698ddc753",
+   "title": "Visaカード会員向け「2026 MAMA AWARDS」チケット先行応募受付、10月13日より開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95dWpnTkR3TXMwNUlZTXRhQkZyZEdNUHdHcVVSdVJnaGZxdUxneGZJdHE2VURMMVFSSnBiTEVRX25jbVR3ZUFvWmZxRzNkQ2hiV3VjRTBjOVpsSzVBZTFNSzJSbllMMTZrWXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "Visaカード会員向け「2026 MAMA AWARDS」チケット先行応募受付、10月13日より開始 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-13T13:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ビザ・ワールドワイド・ジャパン株式会社"
+  },
+  {
+   "id": "d89f78fae425ea66",
+   "title": "AEON Payで10％還元、最大2000ポイントが戻ってくる 10月13日から19日まで",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news067.html",
+   "source": "ITmedia Mobile",
+   "summary": "イオンフィナンシャルサービスは、10月13日から10月19日までAEON Payのコード決済で利用金額合計の10％分のポイントを還元するキャンペーンを実施する。進呈上限は2000ポイントで、期間中の利用金額を集計して11月25日頃にポイントを進呈。WAON POINT利用分や残高チャージなどは対象外なので要注意。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:24+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "14c1fa68fd3c9805",
+   "title": "デジタル決済における不正利用警告を強化する。",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JOHl2U3hxT2UxbnRpb1JaUWhyRFVEVHg4QTQ5ZVVlRHBpWU5MWGpDSGwyS0g4T2VGdzYxR0RFZVZtZVpUVWtyQ3dubGkzMEcxWnJoYjR2SWZVNXlqNlRDaE1MTnFmbVBQdW9iWWtKdEVIZ3JPSVF3?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "デジタル決済における不正利用警告を強化する。 Vietnam.vn",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T11:13+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "78dea1e5ced451cd",
+   "title": "タッチ決済 JR九州 日本 20261013｜極論空手形 / Extreme Argument Fictitious Bill",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Hd0gtS2RMOXZTWmlLY1I2V09MaWRxYmhzaHBrNVVJdXdqdEk5ZXJVcE9iUkQwNEYtLVdidmYxYkdhbXNHM3VtQWxOVkt2anFjVXQ3UmVXZjhrd0U?oc=5",
+   "source": "note",
+   "summary": "タッチ決済 JR九州 日本 20261013｜極論空手形 / Extreme Argument Fictitious Bill note",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T11:10+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
   {
    "id": "0e704c4b169aaa62",
    "title": "ゼンショー／QRコード・バーコード決済スキーム「Smart Code」導入",
@@ -667,6 +733,19 @@
    "type": "news",
    "published": "2026-10-10T07:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "77d303842bbe3b9f",
+   "title": "ドバイのキャッシュレス戦略、80億ディルハムを追加し2026年目標を前倒し達成 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHQ1MTU4ZFRUVEYybFZ2ckNkbXFwbDRyNU03VlZrQ25oUnJhRm5QcVVOU09FYmxoRThRcDkyWkE4U21mV0xiV0VROXBlcG9POVRZbjNlZUk1UFN0eUd3VlFpYTRyYjJiWTNoaktaMmdGeWVQVmNsaktGU0NXcFBYVDVNT3dqZzlaMThYaVdVY29rNXZIMDdLc3Zqbkh3VUVDMkdwdHhRc1E3aDNKUk9tWg?oc=5",
+   "source": "IndexBox",
+   "summary": "ドバイのキャッシュレス戦略、80億ディルハムを追加し2026年目標を前倒し達成 - ニュースと統計 IndexBox",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-10T03:03+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "710ce7b37ccfd29c",
@@ -1869,6 +1948,19 @@
    "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
+   "id": "f02607c1b0fad90e",
+   "title": "ASEANの富裕層向けカードを発行開始、三菱UFJ銀行と協業（JCB） | ペイメントナビ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04a2RqLUdrcTlkcmNsNTZEQWdwY3ZoeEQyNVNwQXVBam1HeG5yajgta3BnekF5cUJzclVKc3pFUG84Q3lsLW1iSkk3U21Ld0RXcEpONW52dUJUNDA?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "ASEANの富裕層向けカードを発行開始、三菱UFJ銀行と協業（JCB） | ペイメントナビ ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-08T12:00+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
    "id": "32da5c9e0b3349c9",
    "title": "改札前で慌てない！電子マネーの残高がわかるパスケースが登場",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyU3c0UXRfUmdOeUZhUlFZbGxNLWlURW8zSmlKNWM5SjVWc3duN3JhUWkyQ0tLUWNtVVE4WUswU2Z3Rmh1dEVQZFFUN25wV2kxT3Fr0gFYQVVfeXFMTlFZc1hJSFhTUFZvak11QloxVmNWbzRJdzEtZHhVSzN4aHhicXIzRkFfd3hObWxPXzBBSG1pQmNQUjFVTnVYcEtseTdrblNWZy1FSDRfZU5kOA?oc=5",
@@ -2126,6 +2218,19 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yU1dXZ1R1bmdwaVFQbUczTWxRZUc0NE8yRVVER2RTU0VKUmVaZ051c244TUpjUFFmVjhkUU16VXR2Z21iR25zbVFLRWVWZFVial83TndCX3lFczBOVGlDb1dkMHFoTGR1ejluN2pB?oc=5",
    "source": "ウォーカープラス",
    "summary": "画像5 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 ウォーカープラス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-08T08:29+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "99991b9076878bf8",
+   "title": "画像7 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zdmZtOEZnLXVaWlNTcW03ZEdHbngwN3ZiZGhOdWNIY3ctc1hKRUctVkpORFVnUEtlVVZtVnB2WG1EU2pBX0szbUdVOU45amV1Ty12UjJJeFp0cFR2LTFmREQ1V3BhVkFkQm5OeTlB?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "画像7 / 9＞「電子マネーでって言ってるじゃない！分からないの!?」複雑化したキャッシュレス決済に客もレジも大混乱 ウォーカープラス",
    "categories": [
     "cashless"
    ],
