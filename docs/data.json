@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T17:08+09:00",
+ "updated_at": "2026-10-15T07:03+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,228 @@
  "topics": {},
  "items": [
   {
+   "id": "05eae0c30f993f88",
+   "title": "円建てステーブルコインに新基盤 日本主権型の「MIZUHIKI」始動",
+   "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/100501511/",
+   "source": "日経クロステック",
+   "summary": "AltX Research（アルトエクスリサーチ）は2026年9月28日、ステーブルコイン発行・決済基盤「MIZUHIKI（ミズヒキ）：The Japan Chain」の本格提供を始めた。日本の法規制対応や、取引手数料の一部を発行体に還元するといった特徴を生かし、発行・決済を容易にする狙いだ。",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-15T07:00+09:00",
+   "via": "日経クロステック"
+  },
+  {
+   "id": "361446d699b1112c",
+   "title": "松下奈緒はデジタルに嫌われている？自販機のタッチ決済が「一切反応してくれない」 アナログ主義に共感する共演者も",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OSGlycVFNbHlnRG5tcUVkTlJiNW5GYjRpazBuaklsRVNuUFJPay1hZWxENm11cjdId2xpS1lOeE5MSU5tbXhWeGgyamppeklTWk9aTG9hS0x0WGE2OW1EWElhVlkwM2Y5TlE?oc=5",
+   "source": "デイリースポーツ",
+   "summary": "松下奈緒はデジタルに嫌われている？自販機のタッチ決済が「一切反応してくれない」 アナログ主義に共感する共演者も デイリースポーツ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T05:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "ad7ffc9d6c06a434",
+   "title": "10/14(水) レコレール・アップデーツ 【 新決済サービス「teppay」とは？ 】ライター 小林拓矢さん",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YaW4ybGdtaVg0QXJuV3RSREZCbjI2Rndoa1ZySThNTTN0UkMyZnlLUzFPdUR3X2Rkdm9jWnFKVGVhTUdSbEExTUNZZ1ZtRXFtUWV6eTFkbWN6emZkWWw0aW1iUDNISkVE?oc=5",
+   "source": "JFN Pods",
+   "summary": "10/14(水) レコレール・アップデーツ 【 新決済サービス「teppay」とは？ 】ライター 小林拓矢さん JFN Pods",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T02:49+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "cc76d1caec030eb4",
+   "title": "QRコード決済が急増しており、ベトナム国家銀行はセキュリティ確保のための対策を講じるよう呼びかけている。",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRHRYOXozVU5pRDNwMGY3c25PUGQta3lWc29oenlZZmVVdGU2bkFEMW1LaTdIVVIyQ1llLWNKenVLdW11Mjk1VmhZNjBWTFpFSVVyaWJob05DeGpFTTdhRjhveHpHSmE4aUxEaVdYdHRoOUF0RkRSVFdPbVZWU21xa0NDQ2hlNnQ2akQ1MUlJLTdfdGxWNFRr?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "QRコード決済が急増しており、ベトナム国家銀行はセキュリティ確保のための対策を講じるよう呼びかけている。 Vietnam.vn",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-15T00:56+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "839f7f233a6d54e3",
+   "title": "国境を越えたQRコード決済は、接続性を拡大し、デジタル経済を活性化させる。",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGFHZU4zX0pDbW03WlNKZkNzQWRkTTJtVXJSVXU5enpOaXI3TjA0MHJnTHE2aWVrRnJpWm52T2VIclhEeW9TWmVxRWh2TlYzc2VEWjhfejBsdERPRTE2M1lTNWlhOWhCRjhuVmppY21ESDV3MlRYdWJTWDFuTFZQVUxYUHEwWTAzWEhDalUxZW9FZHEtOEE?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "国境を越えたQRコード決済は、接続性を拡大し、デジタル経済を活性化させる。 Vietnam.vn",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-15T00:14+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "d22f5ca80a0fe824",
+   "title": "上期の後払い決済利用数、若者が全体の38％",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44XzVTNnlyaF9wRWV3QlNXOGltVy13dnhRUXNDc2VMdENjUncyRDZrOFBHampvLTZUS1lmUEUwcWtFSEhyVmc?oc=5",
+   "source": "NNAアジア",
+   "summary": "上期の後払い決済利用数、若者が全体の38％ NNAアジア",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T00:00+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "1db283bc27ab03fa",
+   "title": "ファンクラブや推し活の「限定カード」がすぐ作れる！JCBらが発表した新しいカード作りの仕組み",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kLU9DOUF5T1NFSmYzNHp5RFpyX2RTRkpSNkxfdHhZLVozRlkxdTQxN1pCbWZNNl93bXF0S3g0TEFMVDdTUmRFT1lIYm4?oc=5",
+   "source": "DXマガジン",
+   "summary": "ファンクラブや推し活の「限定カード」がすぐ作れる！JCBらが発表した新しいカード作りの仕組み DXマガジン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T22:59+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6d8d762b51a45456",
+   "title": "欧州37行連合Qivalis、オランダで電子マネーライセンス取得",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82YmN0Y2VyWmhCb0ZBd1FsaEl5dHRpOFBoYzFBSkt2eWpsdklmYTBnX05LZjRxOXlfaHZWbXNhYm5mTmZHWHFPTXFBZ09XNzhKaC1ROGJfSmdlTU96elFtdm11dGlFLXUyVU15R0xBV2xMNldK?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "欧州37行連合Qivalis、オランダで電子マネーライセンス取得 BigGo ファイナンス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T22:35+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "7810bf8b15f6fac8",
+   "title": "タンディン村が「キャッシュレス市場」モデルを導入。",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3BNUk1nRmNnaEFrRU1Yc1hqNVZKdjNOWFlheVdKbDVQSzZjZ2xVcncwSHpzSXVoeEtjOEpaNGw4OTd3UlFpSmlXWFVqZloyZlBoazFRbEVQdVhaNWxEVXQxYXhMVUk5clZoUE1rcUVMSzZHaUx0SXMtUWdCOUd5amJn?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "タンディン村が「キャッシュレス市場」モデルを導入。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T22:34+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "fceac605e9f76582",
+   "title": "【画像】熊本県内のバスや市電などの運賃が、タッチ決済で半額になる",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oT0FBblgzLWY1eDRUZTRBYTlOVDhtellaanlmV1lPYS1JSHA2UHpJdVZHbXBfMVVXMkdjeEhHSTAxaGFiYWhELXpyTW45YXBXRVhhUlRHeC1UeWwxTDNQYVRHMzAwZ1kzM1g1a3VxdGZTekZXRlNKazE5OFA?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】熊本県内のバスや市電などの運賃が、タッチ決済で半額になる ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T20:35+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "06ecd6fab57643bf",
+   "title": "熊本のバス・市電・鉄道、タッチ決済で運賃半額",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjTTg5aWVKOWJIcXozREN0V0NZMW8zdEFGM29xQWhjdElxUFJrbUFBRjhqSDIzZlVtRWlQWUw3bHRhZzRoNTZhQWVZbHZ4cHlRdFJTZ3dlX1FrcUE2Q080SDRITWo?oc=5",
+   "source": "Impress Watch",
+   "summary": "熊本のバス・市電・鉄道、タッチ決済で運賃半額 Impress Watch",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T20:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "3fb814c0addaff47",
+   "title": "【半額】タッチ決済で熊本県内のバス、路面電車、熊本電鉄、南阿蘇鉄道の運賃が50％オフに 熊本〜福岡の高速バスも",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1ZmhvVWVIZFV4U2l4NzdSMGZ1NUw0amFPX01ydVl3SkNZeWQwb1RlMW5EN0RpR0N1Z2JTSmU3YXkxVDB1M3MxWUxoRUhsMTBYWGdyM2xrWTZIREozRWxaXzJNOHlNOXFvZzdxZlAybUJEdE5XTndzX3BETnlmOFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【半額】タッチ決済で熊本県内のバス、路面電車、熊本電鉄、南阿蘇鉄道の運賃が50％オフに 熊本〜福岡の高速バスも Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T18:40+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "80a8f70c9809c590",
+   "title": "【半額】タッチ決済で熊本県内のバス、路面電車、熊本電鉄、南阿蘇鉄道の運賃が50％オフに 熊本～福岡の高速バスも",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCaDFDV2w1LUxzNkN0Z2tocWhWTG9hWkR0clZBMHFKbUx1WS11OTNGNFF5SjV2MnFRMkJmYWduMURzN004VXRYS19QZktrcVFydjk5LVlhYzVfMWJZNWEw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "【半額】タッチ決済で熊本県内のバス、路面電車、熊本電鉄、南阿蘇鉄道の運賃が50％オフに 熊本～福岡の高速バスも TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T18:39+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "1215fea449b3403e",
+   "title": "熊本県内のバスや市電などの運賃が、タッチ決済で半額になる (2026年10月14日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCa3ZGaFdwTDE4akdWb3Y2M1JrN21saS0tczJrdG9KeG9yT2dHU2RJdDZTdmZBNzFSOTUwTWdhaEtSeEJHOTcwMDhvdExxR3N1cHhXM3IwQ01pYmljVnc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "熊本県内のバスや市電などの運賃が、タッチ決済で半額になる (2026年10月14日掲載) ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T18:39+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "b6fc4d5a25e485aa",
+   "title": "タッチ決済でバス電車半額 29日から熊本県内7事業者 「熊本応援プロジェクト」＜2026年熊本地震＞",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KR0JfZ2lBTkFOcUFlTG5WSXVXblZfRnJoblQtRWRvbDdqMFZkWjE4N1I1bXJOd1hsOXZmdldZWmVBRzQ3M0t0b3kyTzdibGs?oc=5",
+   "source": "熊本日日新聞社",
+   "summary": "タッチ決済でバス電車半額 29日から熊本県内7事業者 「熊本応援プロジェクト」＜2026年熊本地震＞ 熊本日日新聞社",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T18:34+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "5a1e606b4c5b170e",
+   "title": "キャッシュレスサービス「IDARE」で約13万件の情報漏えい 一部取引履歴も",
+   "link": "https://www.watch.impress.co.jp/docs/news/2148121.html",
+   "source": "Impress Watch",
+   "summary": "キャッシュレスサービス「IDARE」を展開するFivotは、第三者からの不正アクセスにより、利用者の個人情報が外部に漏えいしたと発表した。対象となるのは129,659名で、電話番号、メールアドレス、生年月日のほか、残高情報や取引履歴も含まれる。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T18:00+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "8b50ffae47f2c624",
+   "title": "クラウド集約型決済サービスMPACが9月17日に商用提供開始 第一弾端末も同日提供",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mQ283MnY2OFFxdUU4ZlNOaU95dGxQZlFkLVlrREE5OVZuMWdfREtYbWxZVkhMamRVRjF4VlNYRlZlaXlLcEE?oc=5",
+   "source": "Dellows News",
+   "summary": "クラウド集約型決済サービスMPACが9月17日に商用提供開始 第一弾端末も同日提供 Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T17:11+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "07e8a31c9d4369dc",
    "title": "化粧品販売「アエナ」約81万人分の個人情報流出か 氏名やクレカ下4ケタ・有効期限など",
    "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002268/",
@@ -56,6 +278,33 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "40446a59385e5f7a",
+   "title": "SB C&Sがスマレジと契約 POSレジや決済サービスなど取り扱い開始へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xR1V4NjA1TkJsRFAwcTJrWE5Rd3c1aFlHQ3NnWGVlQXR0b3VoRWRhMHVLWUpqMldCYWZKRHB2cmNvNUdDcEE?oc=5",
+   "source": "Dellows News",
+   "summary": "SB C&Sがスマレジと契約 POSレジや決済サービスなど取り扱い開始へ Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T16:07+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "793733093ffef692",
+   "title": "Stripe 、 Meta などと共同開発するパーソナル AI エージェント 向け オープンスタンダード「 Pers",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmNUREZpdnZybWxINDBMY1dFMkpiUWhqblkwNFJXaFF0YVNScnEyY0M0QmJaWk12cVFOU3RhQzVfQl8zbWFGZkZ6Nm9nYnduN0taUWNwNlp1Y2Y1ZFVZNHBBV1k1UlhGNkZZb1ZUa284WEVndkhNZVA3UHowUDRHSHBBSm5tazNmTVRnVVRR?oc=5",
+   "source": "PR TIMES",
+   "summary": "Stripe 、 Meta などと共同開発するパーソナル AI エージェント 向け オープンスタンダード「 Pers PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-14T15:43+09:00",
+   "via": "PR TIMES（決済）",
+   "company": ""
+  },
+  {
    "id": "69b969d31ae108a3",
    "title": "フライトソリューションズ、京セラ製タブレットで決済端末刷新",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95dDZjMnd4bEZEdV85ZjViUk9Oa01zM2FDaUp1eEVoLXE2eGkyUy03T2t1NVUzMm9GcjI2Q0lTZlpPbTVybnR3M0VxXy04MFJBazJR?oc=5",
@@ -67,6 +316,19 @@
    "type": "news",
    "published": "2026-10-14T15:31+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "41f37321b666514f",
+   "title": "松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XeHRsZUlIZmJYOGM4enhobEZ2YmdOcE9FUTE0S2JCd1hxUThRRjlta2lEVHdVajVMZk4wZHFlMFdOOC1FVUJmTVFhdEo2MFU3b0NISDJTQTJRdnc?oc=5",
+   "source": "山陽新聞",
+   "summary": "松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 山陽新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T15:24+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "3274b1c87c772306",
@@ -215,6 +477,32 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "23054f53547d05ad",
+   "title": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く 21枚目",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PaW5md1ZPT2N5OU5hSFZ1VFdHeW11Nl90OTh0anppbmRFX3RYNUtzNDVnTUI1dzJCZnQySGs1NV9MRjFLZm5xNS1aOVhtOUFpbFlFVHJyTzFvZk0?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く 21枚目 オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "21394dd5b968870c",
+   "title": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 4枚目",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ERmx0VTloRUc3U2hOTGgxeksxdV9WckxFcVZoclRmRXQ5SlZiV2Y2cWYxY3UtSG5IdHA4RWZQdWJvMjFGRWpmWjJFUkNOZnpDb3duMEM5ejBfQQ?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 4枚目 オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "aa2aef8b06b65499",
    "title": "三井住友カード、Mastercard(R)限定で「マスマスお得な秋！」キャンペーンを開始",
    "link": "https://prtimes.jp/main/html/rd/p/000001012.000032321.html",
@@ -287,6 +575,20 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lUU1QbHl5aUZFRlRzVHlubnNPVkw0WlZkaTV5RS1vbUdqLWo1TmlHLWtNZURaeTVPTGRaUXNMS3NoWDAwMUkxSmk4b294TjQyRzdBM0JrUHVFYW5XQzRJ?oc=5",
    "source": "レスポンス（Response.jp）",
    "summary": "箱根登山バス「オレンジバス」、キャッシュレス決済導入…同社路線バス初のQRコード決済にも対応 レスポンス（Response.jp）",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:15+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "ed56f741ddcd038d",
+   "title": "箱根登山バス「オレンジバス」、キャッシュレス決済導入…同社路線バス初のQRコード決済にも対応 1枚目の写真・画像",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TVm9uQ2FLUUF1aWdndzVDSTY5NGRScEU5Mkw1ZXVwcFRZWkZYdXk4cG83RUFXWkpTNXN6MzRpanVxU21IOGZ0NEo5Z2xRZkpyVThpUFlvbjRxcUNhQVhqcDRUWGM5LWt6dWVkMlNFUQ?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "箱根登山バス「オレンジバス」、キャッシュレス決済導入…同社路線バス初のQRコード決済にも対応 1枚目の写真・画像 レスポンス（Response.jp）",
    "categories": [
     "cashless",
     "code"
@@ -556,6 +858,32 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "0cdab9007259fe89",
+   "title": "【画像】決済端末が与信の窓口に。Alliex、LOTTE FINANCEとベトナムの小規模事業者向けに、カード取引データを審査に活用する簡易与信サービスを発表 1/2 - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZUh0VHBSb3BsVWVxU19NMGdYN3NLd3dZWUFKOVdPMFZIYWQxaXFfOGt1RmJxNGpJS0dScnAwYzF1ZGh3c29kVUdYUmFrd3NuRkpjTWVHSXUtOUxoU0xHRXVzYjNSeC1Sc0ZManV4UjN2SGRCbWtN?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】決済端末が与信の窓口に。Alliex、LOTTE FINANCEとベトナムの小規模事業者向けに、カード取引データを審査に活用する簡易与信サービスを発表 1/2 - ライブドアニュース ライブドアニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-14T10:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "f2a1d4326855b9e1",
+   "title": "「熊本応援プロジェクト」始動 2026年10月29日（木）よりタッチ決済で熊本県内全域の移動が半額に｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwZ2J4V01oQVhTRVNObU1wSGdYZDY3c2FzYWJLMnJfcVdVOGpNdENTbUtsRVRySGIxTGN2bmNoU0l4QUhZN1htanV3azFyYWdZVlkwYzdYd2J0dXAzNnpzMmRUQ2tvemJHTzFuVXhJZElhZw?oc=5",
+   "source": "Infoseek",
+   "summary": "「熊本応援プロジェクト」始動 2026年10月29日（木）よりタッチ決済で熊本県内全域の移動が半額に｜Infoseekニュース Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T10:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "60ffa31436a29b35",
    "title": "「絶対に必要だと思って」 キャッシュレス大国のベルギー人 日本で大量の硬貨を用意した意外な理由とは（Hint-Pot）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RTTJBa1dCMU5Cd0JZYjQwVWFNVVhWZHkxd1pENENvcklTeVBNOGJPb056dml6bXBoQ256bTR3VGtIZm1tcEZhRDNHYmctTkxIVFVFcXJIeW9DVmt6OVNaOTB6aFViS0haeGp6ajY1aG8zWFFFeENlV0RWeUhJenM?oc=5",
@@ -687,6 +1015,19 @@
    "type": "news",
    "published": "2026-10-14T04:00+09:00",
    "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "93007e64d1ff3827",
+   "title": "名古屋市営地下鉄 9月3日から「クレカ乗車」全線・全駅に導入 定期券のWEB予約サービスも開始へ（中京テレビＮＥＷＳ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yckt5REdxZTIybnl6cVhsQnBLdXJ0LXAyRVRneVZ6WGtkejZ2bmx6b3lFT1BnaVY5M0NGVElZeHc4Vi04WVVrWVdVMEJOd1ZiTGYwbnpqbV8wLTFqWU5UNGRfdllOTGpFejlDNThkYmJTVndxWDNmMmZSUnpFbFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "名古屋市営地下鉄 9月3日から「クレカ乗車」全線・全駅に導入 定期券のWEB予約サービスも開始へ（中京テレビＮＥＷＳ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T00:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "80aeebbf0e769ce0",
@@ -990,6 +1331,19 @@
    "type": "news",
    "published": "2026-10-13T16:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "9b28a321b0e6cccc",
+   "title": "【新社会人・新卒向け】投資家目線でおすすめの銀行口座・証券会社・クレジットカード",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PcTBob3dZTHhvUVNkQVp2VDRWUTJHU1pZUEFEakVhVFh3ZEhEdHYwMkpPblFMR2w1SzRYN0ZFV3UwM3FWcnZmVjZJZXk3N2dZU3VBXzFhN0FhY0J6MmdyV3NvN2d5WjRa?oc=5",
+   "source": "やさしい株のはじめ方",
+   "summary": "【新社会人・新卒向け】投資家目線でおすすめの銀行口座・証券会社・クレジットカード やさしい株のはじめ方",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "69952769e924deef",
@@ -1684,6 +2038,20 @@
    "via": "ITmedia Mobile"
   },
   {
+   "id": "3cc0ef7066f58ed8",
+   "title": "Gate、仮想通貨カードを40カ国超へ展開｜Visa加盟店で利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjNktvU1Z6ZENxRTZJYTFCbXdSTWFoMmtiSUhYNk5BcE5PN0hOM2hZZ25ieDB4VHRZeFdEMEEzQ1psOE4wLXYtZmlGbG8zZw?oc=5",
+   "source": "BitTimes",
+   "summary": "Gate、仮想通貨カードを40カ国超へ展開｜Visa加盟店で利用可能に BitTimes",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-12T08:23+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "fd1cb98a1e61b31d",
    "title": "「1万円以下の少額決済」を狙う悪質な不正が急増中！データから見えた最新のクレジットカード被害動向",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RN1RxZ21rSkluR0pGaExEN0UzUDJIYllPX1VJZTlDNEthVm44NkpaY0dybUdZTVdPV3RVeE5jeDNXaWRpaFNWeUgwVVI?oc=5",
@@ -1775,6 +2143,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "db8f3beb92d25718",
+   "title": "銀行系クレジットカードおすすめランキング8選！銀行ごとの一覧とメリット・デメリット・選び方",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwWktLbTVZdWhSSTY0YUctSkhKeWF6dG1TZFdHRnJaYjllbUx1Z1pEQmZEVVNWV0xBMWotLXg0MXRwQzhtZmt2UlVNRkhILXdzVEw5dHJTNmQtSkl4X2VQYTJXMA?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "銀行系クレジットカードおすすめランキング8選！銀行ごとの一覧とメリット・デメリット・選び方 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-11T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "6462d5d461a487a4",
    "title": "韓国スタバ 売り上げ急減から1位返り咲き＝カード決済ベース",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZTlsdUd4bEo3UEI3MWZDOXUzeWZFb1NFeUgzNE0wcjJ4QjFiSjRXdjl4NF9USVpEVXh2M01jdUlQQ3pGUmNWNkVPZWJad2l6MVRZVmFKYlQ2dw?oc=5",
@@ -1799,6 +2180,19 @@
    "type": "news",
    "published": "2026-10-11T11:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c8c8f8524678e712",
+   "title": "アン・ジョンソン | Mastercard | Mastercardニュースルーム",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObURLRGlGWDhrOXVQSzJBNmVVV3R4Um1uZnJjdEZwSFVHMlh5Y180eW04Y18wMkFKUWxyRmJLeFdkSTFRNEZyME9mUzFZaFFPa2dtbXlOQS12aXY5Szh4aGlzSmpmZ3ZzbVkxZmRRdVR2ZVpuYVlESzJ6cms2em1CZVJpQVE1MWx3d3V3ZEIxSQ?oc=5",
+   "source": "Mastercard",
+   "summary": "アン・ジョンソン | Mastercard | Mastercardニュースルーム Mastercard",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-11T08:59+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "ff63cbebddeb4bdc",
