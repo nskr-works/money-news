@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T07:03+09:00",
+ "updated_at": "2026-10-15T08:54+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -172,6 +172,21 @@
    "type": "news",
    "published": "2026-10-14T20:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "f4b4001db5b5a8b7",
+   "title": "TVアニメ『貸した魔力は【リボ払い】で強制徴収』第3話あらすじ＆先行カットを公開！",
+   "link": "https://prtimes.jp/main/html/rd/p/000009808.000014827.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ブシロード] 株式会社ブシロード（本社：東京都中野区、代表取締役社長：根本雄貴）のグループ会社にあたる株式会社ブシロードムーブ（本社：東京都中野区、代表取締役社長：大貫佑介）は、累計発行部数210万部を突破したフレ...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-14T19:00+09:00",
+   "company": "株式会社ブシロード",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "3fb814c0addaff47",
