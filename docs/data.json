@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T15:02+09:00",
+ "updated_at": "2026-10-14T17:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,191 @@
  "topics": {},
  "items": [
   {
+   "id": "07e8a31c9d4369dc",
+   "title": "化粧品販売「アエナ」約81万人分の個人情報流出か 氏名やクレカ下4ケタ・有効期限など",
+   "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002268/",
+   "source": "ITmedia NEWS",
+   "summary": "会員の氏名や住所、電話番号、登録済みクレジットカードの下4桁、有効期限、カード名義などが流出した可能性がある。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T16:38+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "d16e3b92e135dba2",
+   "title": "熊本復興へ運賃半額＝タッチ決済で、２９日から―三井住友カードなど",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kTTMxeDB3Rmw0T21tb0p2a0E1aXc2OTQ0b0ptcUtFZkFsNnF2d3NEbHBPalNZb3FYMU52aUFRd0ZneEhLY1lkOWtuTXpzUmZhVDVKWDRtTWpQb3RYaXNRNlVXNXVpQXdhNTkwVlR0dnJnUnF5bHV1RjhPN1fSAYIBQVVfeXFMTkYzVm5LUjNyQ2plUm9pUTlfa2JUX01QZ1FWU0QzNWdMXzZJWFBCU3dIVWtlaDN0TmM1SG9uYVB2X1hodm5hZ3FrUzdQZm5MQnFNMGQ3eFprSklaeVJtWVNyVVg4dEo5SEloWkp5REN6dmh1YjJwRmhQX01RVjN4N1dldw?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "熊本復興へ運賃半額＝タッチ決済で、２９日から―三井住友カードなど ｄメニューニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T16:37+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "69b969d31ae108a3",
+   "title": "フライトソリューションズ、京セラ製タブレットで決済端末刷新",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95dDZjMnd4bEZEdV85ZjViUk9Oa01zM2FDaUp1eEVoLXE2eGkyUy03T2t1NVUzMm9GcjI2Q0lTZlpPbTVybnR3M0VxXy04MFJBazJR?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "フライトソリューションズ、京セラ製タブレットで決済端末刷新 ニュースメディアVOIX",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-14T15:31+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "3274b1c87c772306",
+   "title": "中国の銀行カード決済市場が開放拡大 Visa中国が新機関設立へ 写真1枚 国際ニュース",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTZRaUJTNzI0bXpfWHJLcFVtYUc4ME5tUFJTYVdfUkx0ZUFqZkRJbE5xQnEtZ0NzNGtReWd4TENmQmlqMnZncVVBQW1WZGZKdnkyME1ZQnpXYUxTUFZRUEdUcktha1E2T19SWWc2Z0NKVW1EWHVGUkQtSDBDN3B1Tw?oc=5",
+   "source": "AFPBB News",
+   "summary": "中国の銀行カード決済市場が開放拡大 Visa中国が新機関設立へ 写真1枚 国際ニュース AFPBB News",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T15:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c0f8b6cc9de20584",
+   "title": "Stripe、Meta などと共同開発するパーソナル AI エージェント向けオープンスタンダード「Personal Agent Protocol」を発表",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fenlIR250LWVjZV9sY0ptR08zVE1zMm5ZX1AzTU1XSG5ITGROLVRES1BsdHFWN2gtUjFneEMxRU1EMUo2Vkl2UFZZUjZlTmVnMDZCRG14Z3hEbHJqQV9XYlpNZWxpbFg3aEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "Stripe、Meta などと共同開発するパーソナル AI エージェント向けオープンスタンダード「Personal Agent Protocol」を発表 PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-14T15:15+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ストライプジャパン株式会社"
+  },
+  {
+   "id": "6fbf7438059d703d",
+   "title": "「楽天ペイ」、「ケーズデンキオンラインショップ」で利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTzRhYjlwTTRTQ1FKZk1mNnpBNUcySUh1b3ZhZG1XY0E2SjNYaEJYd0lIZEJkc2FISEtqREI3TUlIOXBpSkJpNzNNX2l6dHdGdnQ2SjhvdEJPZlpKX19fQnJkUXdDMVEzRVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「楽天ペイ」、「ケーズデンキオンラインショップ」で利用可能に PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-14T15:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "楽天ペイメント株式会社"
+  },
+  {
+   "id": "08187d079fd81fc5",
+   "title": "コードレス決済で会計待ちを解消へ。端末切り替えでお店の導線を大きく変化させた",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qTWhlZlF4dnpNclNMRVlWb2ViN2tkaDVFVmJWbmxHbXVXZGVqWUV1a2JxUlp4TjA0VWNLZV9rdXJySE9tRFFySGFLcUJlazlLYTc4RG43RmxZcHBEVGZUc2I2aHpOUVdu?oc=5",
+   "source": "PayPay",
+   "summary": "コードレス決済で会計待ちを解消へ。端末切り替えでお店の導線を大きく変化させた PayPay",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:35+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "a719bcc33bd5156e",
+   "title": "「GiGOアプリ」にスマホ決済サービス「AEON Pay」導入（イオンフィナンシャルサービス）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qdy13VlU0cElWcE1sVHpUQzIxNEYzT0FGUlo1Y2tXWjVYNmRGS18xd3dwUThtbEtZSktKS1pGd0ZZTXdzN2hRSHZDVUNiTUh3NnZ2SFlVREpWc0E?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「GiGOアプリ」にスマホ決済サービス「AEON Pay」導入（イオンフィナンシャルサービス） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:26+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "8d597f5b0f361dab",
+   "title": "請求書支払いサービスがAI接続規格「MCP」に対応（インフキュリオン）",
+   "link": "https://paymentnavi.com/paymentnews/183489.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月14日14:24（JST） 【日本】インフキュリオン（日本・東京）は、三井住友カードと提供しているBtoB決済サービス「請求書カード払い Powered by Winvoice」において、AIエージェント […] The post 請求書支払いサービスがAI接続規格「MCP」に対応（インフキュリオン） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:24+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "00ab270b8cbcdeaa",
+   "title": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 6枚目",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0cWs1TlpxYndLUk9DS3luOEdDeGtCcFpCc3N6NkNKTzJVZEt0Vndtc0VSLWtNYWNXNEtuRTN1UHFFQWl1c3RRX3h2Q05LcGIycXktdHV6NDBLZWM0UnZLRE5VcTc?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 6枚目 オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "43b2a00abd2416db",
+   "title": "松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NRnA5dXM2b1l3S0NSVVBaXzU3UHFfemdsUVl1YlhJcVhKNV83M0lxZUVPR05sQzNsVnFGWHdxc0hsaHRILWlmVnhKTGdwN1U?oc=5",
+   "source": "オリコンニュース",
+   "summary": "松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "c0fb4d6336b53465",
+   "title": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く 5枚目",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44c201aXFrSjJnZERtV1Y5b0Izc01JYy1PQ1FNMVNodlBHMUp1TTRjUTNRV0JvTk5NVVJoUVV4bmVsdmo0MG9QZXJUczBjU19iVEJzMXJkWVh5UQ?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く 5枚目 オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "f9a3cd981790850d",
+   "title": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く 3枚目",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nckFwWEMwWWFhT3o5VXhNQmpfSThpdUh4RDNGelBZaF9PRWF5X1d2OHk2MkhhVkU5ZFlma0dwTlhRb2xEM05FTTE3YW9FV0hnZkZMZWFhVWhxZw?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く 3枚目 オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "9b86e59a3581aead",
+   "title": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く 13枚目",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WVFExeW05ajVDODhfWjNzM0I4bEtsSllXUzFScGlrbzJhbEJQRDM3ZVJPR0FYWjNqVndmLUpvZUVTR0NObFppNjRXbHpyODNwM1ViWC1VLTVsY3c?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で変えたことがほぼない」 “デジタルデトックス”も初めて聞く 13枚目 オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "aa2aef8b06b65499",
    "title": "三井住友カード、Mastercard(R)限定で「マスマスお得な秋！」キャンペーンを開始",
    "link": "https://prtimes.jp/main/html/rd/p/000001012.000032321.html",
@@ -41,8 +226,34 @@
    "type": "release",
    "published": "2026-10-14T14:15+09:00",
    "company": "三井住友カード株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "93f7260c4dc2cb34",
+   "title": "三井住友カード、ハローキティの「プラチナプリファード」 年会費3.3万円",
+   "link": "https://www.watch.impress.co.jp/docs/news/2148012.html",
+   "source": "Impress Watch",
+   "summary": "三井住友カードは、「三井住友カード プラチナプリファード」のハローキティデザインを発行した。国際ブランドはVisaで、年会費は33,000円。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:10+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "8f941edaf440b5d5",
+   "title": "GiptにPayPayと銀行振込が導入 クレジットカード情報登録にも対応",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UMHpGRVJ3RU1tYW1ZSVl1TDZ4SkNFRTYwX1d1RGNsd2NRV3JyOTAxLTdnVVZFeHBBTkhCMU1yd01FbnNhTEkxNmRGT0Iwb1RfeTVNWl9MOGZsNnpvWmRVYzBoU0g?oc=5",
+   "source": "Dellows News",
+   "summary": "GiptにPayPayと銀行振込が導入 クレジットカード情報登録にも対応 Dellows News",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T13:40+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "c8c8cee0e607e3c6",
@@ -163,6 +374,19 @@
    "type": "news",
    "published": "2026-10-14T11:59+09:00",
    "via": "ケータイWatch"
+  },
+  {
+   "id": "d2367bd5ab452471",
+   "title": "熊本県全域の移動が半額に！タッチ決済で地域活性化を実現する熊本応援プロジェクトの始動",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oVUJUYnhfTlY0M1lLcktHUHpaR0ctMFlyUDB5UVp4aXJ1VkZyT05paERCU0RZYTFPZGpvVjNvbUtCbzRRMERSRlRyRWpiS1Q3WFRrMUoyWXhXcVJwY1Z4TV9qVWo0VGRfaFZ5elNB?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "熊本県全域の移動が半額に！タッチ決済で地域活性化を実現する熊本応援プロジェクトの始動 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T11:54+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "2dad7845410e1d77",
@@ -465,6 +689,19 @@
    "via": "日本経済新聞（Googleニュース経由）"
   },
   {
+   "id": "80aeebbf0e769ce0",
+   "title": "＜画像3 / 3＞人気ゲーム「ラブプラス」がクレジットカードに！会員限定のレアグッズも",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iWUtlTVIxZGhhbWk4MWNXVzJuWjRBdjg5d1FHNmFrbnFEUzM5YkVnUmJqTWxXM3UwYmx1WW5hQnlvR0EtOFFUSXI0dFFoNWxaWVhtOU5zQWcxbXk3eHNNWFI3TjB5RGM?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "＜画像3 / 3＞人気ゲーム「ラブプラス」がクレジットカードに！会員限定のレアグッズも ウォーカープラス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T23:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "838df6b5580000e4",
    "title": "キャッシュレスサービス「IDARE」、約13万人の個人情報漏えい 残高や取引履歴なども",
    "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002233/",
@@ -476,6 +713,19 @@
    "type": "news",
    "published": "2026-10-13T22:25+09:00",
    "via": "ITmedia NEWS"
+  },
+  {
+   "id": "8a9d5b66e82b0779",
+   "title": "ペイオニア、カナダで決済サービスプロバイダーとして登録完了 執筆",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iZVRacS1wNzJUYUZPbWJpeUJfcVV6V1ZMVjZHb0xBNmJBdDhra3VhS3Rtb3JtMXFNZE9ZR0htdFZYZmkydzBVbXpMNFJCRVZILWZVZWg4V1FFYW9kTGI0M09LdWJUSUo1LXpDYlVqLWI?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "ペイオニア、カナダで決済サービスプロバイダーとして登録完了 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T21:24+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "bd58a2c9f0c78e13",
@@ -622,6 +872,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "c29f26d8bf012d8c",
+   "title": "プレスリリース：［ミニストップ限定］「Amazonギフトカード×電子マネーWAONキャンペーン」（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSakxIOThhR09ibzFpVVhFTGVIamM2SGEwWFJhQUZSMWhWWEZEWEI5RFhhR2pRQnhuZElIdjF1Wi0tWnE3M0g3RnlCd0I1Z2hEejU3dXNHcVYzWlBVTkRUM3g1NFhKRHln?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：［ミニストップ限定］「Amazonギフトカード×電子マネーWAONキャンペーン」（PR TIMES） 毎日新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T16:53+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "ae09b8548dae73a6",
    "title": "10月14日(水) 【 新決済サービス「teppay」とは？ 】｜レコレール",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16blk0YlNWbDNCcy05elJPM1NsWWtiVzN0ZHBzN25IX3lCeHZpd0E5TXRsdmR4U1dnU3hRcUVIMnlzUWg5YTZwbmZvdFVnZjMySEZqWE50bk9ndnc0XzQzM25JT2R5WFRj?oc=5",
@@ -734,6 +997,19 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2eGdpNjZ4OVJ3ODBPaW9EeGJWcE9neHpZRklEMXVhQWlhbDlUMjcwSXh0bTNyTEFrN2ZMaHdYdFRuencySlBJNnpZOHd2X3ZVZnowcndYMUlra01xc2c?oc=5",
    "source": "ライブドアニュース",
    "summary": "「チャージした残高、現金に戻せる？」電子マネーを使わなくなったときの３つの確認点 (2026年10月13日掲載) ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T15:50+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "3191369195bb471f",
+   "title": "【画像】「チャージした残高、現金に戻せる？」電子マネーを使わなくなったときの３つの確認点",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KMEphRTI1NkM4SkFNa3RsVzhtcjgyZmRjLVlYbkhSYTE2MHNWTHlEZ2Fia21wQV9MMTJ1bTdRMzk1RElKMkRqMGFBTmNWeHlVeU5zcXZ5M19qcXFTdmNleTl1QU1UOGM2akpNQXdfSl9MQnZFQlIySHlPVFQ?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】「チャージした残高、現金に戻せる？」電子マネーを使わなくなったときの３つの確認点 ライブドアニュース",
    "categories": [
     "cashless"
    ],
@@ -1447,6 +1723,19 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "ddfaa9133b0c9ca8",
+   "title": "＜画像2 / 3＞人気ゲーム「ラブプラス」がクレジットカードに！会員限定のレアグッズも",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEenFTU3ZBR05MZG9Jc29QWVY3dHJzQnU0OFFSQWdqZWxTaC1yaC1SSi1aOVpsdjNyMjhDSW1HYnVFVXBHOVNtVGFKYUFNc3dHMHpVei1wMEN3NW9heTduY21xVU01ck0?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "＜画像2 / 3＞人気ゲーム「ラブプラス」がクレジットカードに！会員限定のレアグッズも ウォーカープラス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-12T03:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "35d1b90d4327b783",
    "title": "【2026年10月】WAON・AEON Payのキャンペーン！ポイント10倍になるお得な日を紹介",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56ODhSQ1B3OXdESWViUURFOEZOeTdQNEVWNE9zUzVNOUlYeDVnczFMVy0xem5hU2kwRmdCN0VuMUZ4NEIzYTBfeg?oc=5",
@@ -1465,6 +1754,19 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UcHFnb0hrV3M5VW5TbkU3aEFLWDFaVWhmZUQ1VjlacDFUWFB6OFk4WHc2RDhIUUpnWllQcUZhY1M5T3E3TU16NUlfSXJydmxkY19wWlUwbDlUWkU4LU9YdXJ3dHM?oc=5",
    "source": "投資情報のフィスコ",
    "summary": "ホテル優待クレジットカードおすすめ8選【2026年最新】無料宿泊の条件と朝食・アップグレードを比較 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-11T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "13e46bba0e1ea3eb",
+   "title": "【2026年最新】ダイナースクラブカード全種類を徹底比較｜プロパー・提携15枚の年会費と特典まとめ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zdi1wSzVaYUI3VmtOcVVkN043U3B6djZLTjdqMEswa0RPOXlCb2tDMjFpVWRZXzg0cmNhSGVsM190NTdsU0g3X25yWXljLU10dldhNXh3SGtsT0Jld0ItUjhkUVBUbXhhTmtieXpXMW1IQ1gy?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】ダイナースクラブカード全種類を徹底比較｜プロパー・提携15枚の年会費と特典まとめ 新日本保険新聞社",
    "categories": [
     "credit"
    ],
@@ -2159,6 +2461,19 @@
    "type": "news",
    "published": "2026-10-09T16:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7956a1d2fc58dff9",
+   "title": "【2026年9月】au PAYのおトクなキャンペーンまとめ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoU2xBYnlMVDdnWW0wU1pqWk40VDdPdmdObkpON09hX0lqM1dqQlJ2M0lxOUswUVpGN3JPTmFYRjQ0dzNjVUxfWDZXTXNROWhYMzVqTGhXcTlYSGJUdnc?oc=5",
+   "source": "au PAY magazine",
+   "summary": "【2026年9月】au PAYのおトクなキャンペーンまとめ au PAY magazine",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T16:00+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "8e8a1cf7ab1ef49f",
@@ -2876,6 +3191,19 @@
    "summary": "【2026年最新】交通系クレジットカードおすすめ12選！タッチ決済乗車との違いや選び方も解説 投資情報のフィスコ",
    "categories": [
     "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "9eef6604d21aef2b",
+   "title": "クレジットカードおすすめランキング44選【2026年最新】目的別・還元率で比較",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16Qk5MN0tKWGxtemZjOEFfMl9tVjh0dllHNDVQOFBId1ZubWRURHp0VjVSM3VxUEFrLTNIX0hTUDIxb2xXa1BpaUluakJFeUxrUEdBdWxiTWZHdnE5aEMyVw?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "クレジットカードおすすめランキング44選【2026年最新】目的別・還元率で比較 投資情報のフィスコ",
+   "categories": [
     "credit"
    ],
    "type": "news",
