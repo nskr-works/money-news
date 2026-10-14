@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T11:02+09:00",
+ "updated_at": "2026-10-14T14:06+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,196 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "c8c8cee0e607e3c6",
+   "title": "決済端末が与信の窓口に。Alliex、LOTTE",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2WUI0ZFlxczAxLWhGZVJQVWxnVjhEaUJJTEoteXgtWV9zaG4zeU41ZS1yRmdEaHhNbDhsQVE5Y2c5RGNsZmtrYWRJbjVKcGVTdEpLM1NFUWRFWHcwVU1vZXZLbV9fYjNm?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "決済端末が与信の窓口に。Alliex、LOTTE ニコニコニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-14T13:15+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "3eadd084557144a8",
+   "title": "auの「iPhone Duo」は一括41万9800円から、2年後返却で23万円超え 機種変更で割引も",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news065.html",
+   "source": "ITmedia Mobile",
+   "summary": "KDDIが10月14日、折りたたみスマートフォン「iPhone Duo」のau Online Shopでの価格を発表した。iPhone Duoの一括価格は41万9800円（256GB）からで、最大容量の2TBだと64万9800円。機種変更では、au PAY ゴールドカードの会員に対し、au PAY残高に2万7500円相当を還元する「機種変更ゴールド割」を実施する。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:58+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "4db9fb55e49efa82",
+   "title": "箱根登山バス「オレンジバス」、キャッシュレス決済導入…同社路線バス初のQRコード決済にも対応",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lUU1QbHl5aUZFRlRzVHlubnNPVkw0WlZkaTV5RS1vbUdqLWo1TmlHLWtNZURaeTVPTGRaUXNMS3NoWDAwMUkxSmk4b294TjQyRzdBM0JrUHVFYW5XQzRJ?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "箱根登山バス「オレンジバス」、キャッシュレス決済導入…同社路線バス初のQRコード決済にも対応 レスポンス（Response.jp）",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:15+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "e3e4b7b42c76f5e7",
+   "title": "Gipt（ジプト）がPayPayを導入し、クリエイター向けギフトの支払い方法が多様化へ進化",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MamJRSmE3V3U4d1dXeGxDdDZWUE1FaFlvd0xZbnRkeE11bXZhbldPdlU0Z3l2Q1lhakxscU16Z2xmcm5zdUNPbUU4UlNESkhUaUlrN0x4WGhhemdvZTdmYVJfOXBoaE9ZbDZVbw?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "Gipt（ジプト）がPayPayを導入し、クリエイター向けギフトの支払い方法が多様化へ進化 ニュースメディアVOIX",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:13+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d0ad4b1f6eb324c5",
+   "title": "熊本応援プロジェクト始動 タッチ決済で熊本県内の移動が半額に",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ycU1UVkdKcjd1aGN2a3Z5WWRWWFltY1k2bWVhMk9STy1vVU9MVUs4YjJaRGdYcHNNMWgzSzJ6Z2dWRkYwdkZ0eW05MzJrMF9vcXJ1ampSaTdKa3JVRlJweHRMNW5tLTBuQmhqNFZEdl8?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "熊本応援プロジェクト始動 タッチ決済で熊本県内の移動が半額に ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:11+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "5bd0fe422d1e714b",
+   "title": "松下奈緒はプライベートもアナログ派「タッチ決済がほとんどできたことない」…ドクターＸでも着用のナース服で登場",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zNDFpRmw3bF9USzN6UGpGU05ValByUUhHd1VRNDhqdmZaM2E2TGc4UXBvM2txelhsSkhHNVU5bU1GbVNxQVVLSUZXZW5FWTExcmRfaHcyU1J5Y3NQSk9sLTk4Ymk3T2VYNXN4S2k0eWoyVGVxenBNVmFvcXFkTjg?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "松下奈緒はプライベートもアナログ派「タッチ決済がほとんどできたことない」…ドクターＸでも着用のナース服で登場 Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:10+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "855563bdbc3a53f1",
+   "title": "ホリプロ初男性ダンス＆ボーカルグループ「WATWING」の公式クレジットカードを提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sc1E2ZDBsUFJFUnJxaXc1NDc2TzI5TkRWNElkZ0lSRDFsdlRkeHhFZlNFZGNiTjZrWU8xU3k3cEh2eVV1d0NCUmg5UURBRV9jeHJaT1ZhN3ZhNWU2VWFnZlRRODdVUE1OUWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "ホリプロ初男性ダンス＆ボーカルグループ「WATWING」の公式クレジットカードを提供開始 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-14T12:00+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "ナッジ株式会社"
+  },
+  {
+   "id": "a05b2dfa4ffe54fb",
+   "title": "三井住友カード、Mastercard®限定で「マスマスお得な秋！」キャンペーンを開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByNmx5Ui1qaEF0RGZEUG1yVEdwZWgtNWpFd0IwQURnM3QyRVl4ZzQwWTk5cmszbFlabU1WbjRraTV6WFVBcVp5WGF4bjhtNjVUWUN6YmVWbVhCTWhGTTBIQUdkVXRUNUR0SFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "三井住友カード、Mastercard®限定で「マスマスお得な秋！」キャンペーンを開始 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-14T12:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "三井住友カード株式会社"
+  },
+  {
+   "id": "b19a7a2560b1e596",
+   "title": "PayPay証券、日本株・ETFの取引を再開 サイバー攻撃は否定",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2147938.html",
+   "source": "ケータイWatch",
+   "summary": "PayPay証券は14日、13日10時15分ごろから一時停止していた日本株・ETF全銘柄の取引を再開した。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T11:59+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "2dad7845410e1d77",
+   "title": "【独自調査】JCBカードWの利用者98人に聞いた！満足度は89.8%、優待店のポイントアップ登録をしていない人は38.8%",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aQW53RXlzY2ZHdEFuaDVydmxrRnBXWE9mWXNXUlZZMkhFWEYyX0JwbTdfckRmVHYxcWxIU2lVOTQ4UDBXbUFnVTBXWkVLS0tURVp0X2xfdEtFaE1qeW04LUdPNy1FbWxhZVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【独自調査】JCBカードWの利用者98人に聞いた！満足度は89.8%、優待店のポイントアップ登録をしていない人は38.8% PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-14T11:40+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "アドバイザーナビ株式会社"
+  },
+  {
+   "id": "75147f3c8b89cf1a",
+   "title": "PayPay証券、障害から復旧 日本株・ETFの取引を再開 原因はみずほ証券の受発注システム",
+   "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002246/",
+   "source": "ITmedia NEWS",
+   "summary": "PayPay証券は10月14日、前日から続いていた日本株とETF全銘柄の取引停止が解消し、通常通り取引できるようになったと発表した。障害の原因は、外部接続先であるみずほ証券の受発注システムの不具合だった。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T11:13+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "2860db2513410cdb",
+   "title": "『NC』Amazonアカウントを使ったかんたん&便利な決済サービス「Amazon Pay」NCサービスに導入開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tUjZ3VmIwZHptSkw5Y3l4STJOWDRTSFZXMGw4NEt5NE9EWmFxVmtZX0hGM0FkczFCV3dsWmI1UjROUGRMOW9vekQzQWxVSEtKRUIyUmhpRmlQNFhHejUwaUdlVThSSWRvMXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "『NC』Amazonアカウントを使ったかんたん&便利な決済サービス「Amazon Pay」NCサービスに導入開始 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-14T11:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "エヌ・シー・ジャパン株式会社"
+  },
+  {
+   "id": "d36e291d46f0f79b",
+   "title": "クリエイター向けギフトプラットフォーム「Gipt（ジプト）」、キャッシュレス決済「PayPay」を導入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdUZtSU5EV3lBY2lUNDdRdERGT1F2UkRCUzItRTZsLWp6cEZ5eldGMWNiM0xkdkRJejd2R3BXNTd5SndGMlJIMC04MDMxellaVXplVm44SENnRmtPOGdmaVhnRW9mRTFacUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "クリエイター向けギフトプラットフォーム「Gipt（ジプト）」、キャッシュレス決済「PayPay」を導入 PR TIMES",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-14T11:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」",
+   "company": "株式会社Gipt"
+  },
+  {
+   "id": "a114091c5ab28fdb",
+   "title": "10/23 クレジットカード決済システムメンテナンスのお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51N2hoeGZEdExzQzk0RE44ejNEbmV5VGlpVk5tZUdaR2U4Z3hWY2drMFJKZkowME9FRUVfalVCOEo1UnlqUnFLcnJHTzFfWHJRUFNtaGttTllJaHh2d1hYYS1XakhLQdIBZkFVX3lxTE51N2hoeGZEdExzQzk0RE44ejNEbmV5VGlpVk5tZUdaR2U4Z3hWY2drMFJKZkowME9FRUVfalVCOEo1UnlqUnFLcnJHTzFfWHJRUFNtaGttTllJaHh2d1hYYS1XakhLQQ?oc=5",
+   "source": "Zaif",
+   "summary": "10/23 クレジットカード決済システムメンテナンスのお知らせ Zaif",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-14T10:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "2642b86fa962d74f",
    "title": "日本NFCリーダーIC市場、2035年に95億4,580万米ドルへ拡大｜非接触決済・スマートデバイス・次世代認証技術の普及が市場成長を促進",
@@ -112,6 +302,19 @@
    "published": "2026-10-14T10:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "ac16085cf2a28d41",
+   "title": "タッチ決済で熊本県内全域の移動が半額へ 熊本応援プロジェクト始動へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pMFhWOWR4NVZIMk5fNHkzeVpoU1owTXg3bVM2bXJ1dmx1VVJFd3lkZjlfQXlHRUdQMXBoY2F2X1FDT1FrQ2lvNEN0ZGZPXzJpeEJuOXhXZjFtcnN4dGdNWWNpRXI?oc=5",
+   "source": "Dellows News",
+   "summary": "タッチ決済で熊本県内全域の移動が半額へ 熊本応援プロジェクト始動へ Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T10:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "60ffa31436a29b35",
@@ -260,6 +463,19 @@
    "via": "ITmedia NEWS"
   },
   {
+   "id": "bd58a2c9f0c78e13",
+   "title": "中国の銀行カード決済市場が開放拡大 Visa中国が新機関設立へ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iZzFqVThCNHR5ODVTeGxOSXZWZWxzVXoxTklhN1lJRTVMeFJnMjRZVWZlMi15OU5Ya1k4MTFlMmh2T1ZiZGdHZExVYTMwdjQyLU9PNTNCcWpfRHNaMXRqY0VORzlhZw?oc=5",
+   "source": "CGTN Japanese",
+   "summary": "中国の銀行カード決済市場が開放拡大 Visa中国が新機関設立へ CGTN Japanese",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T21:04+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
    "id": "84123ac73cacf0d3",
    "title": "インド、UPI加盟店手数料の導入をディワリ後まで延期",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yM1RseXUtdWs1aWc0UjJjb21PSjNwUXprSzJXVWlmekcxUldIOXQzNE45TC1YU1VJRmhZMXFtdzQ5ZEJERjJZc25TUmtDcG94cVI1ai1uVFE0cnFYN0tSTnFrU05lRkw4T0xKMWRHRTZFYnVS?oc=5",
@@ -271,6 +487,19 @@
    "type": "news",
    "published": "2026-10-13T20:35+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "3c68430d287eb283",
+   "title": "【画像】刃物で脅されたら…電子マネーの高額購入…コンビニで強盗や特殊詐欺想定の訓練 従業員と警察がいざという時の対応を確認 秋田・北秋田市 - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9td2V4dURoMExHVTZZVGR5UnNyek8wa0pnQkV2d2JnSDlYVmZMNmdfZkg2QlZwNld2emVETUZ3ejVtMFU1NGpyOEFxeHl6M0Zidlhka1ozNFNfeVR6ai1fbzE5dkhLNUJMLXlXZDRYNldGdDM4SlFmSVM1NHc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】刃物で脅されたら…電子マネーの高額購入…コンビニで強盗や特殊詐欺想定の訓練 従業員と警察がいざという時の対応を確認 秋田・北秋田市 - ライブドアニュース ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T20:09+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "cd9aee89185dbc7a",
@@ -657,6 +886,19 @@
    "type": "news",
    "published": "2026-10-13T12:24+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "36fb51a0686be448",
+   "title": "AEON Payで10％還元、最大2000ポイントが戻ってくる 10月13日から19日まで - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oQWVyMjVmbFhDcVBWOGdxaUoyYnVCWVVVZmNZcVd6VUtMSmYwVkdwX2tiQXg0NjU1ajN6STlFSnF2SE5pMXRSQ1MyeWJFWkprVGk2MXVUQnVTX2g0TC1GV01Va2doc0Q20gFoQVVfeXFMTmhBZXIyNWZsWENxUFY4Z3FpSjJidUJZVVVmY1lxV3pVS0xKZjBWR3Bfa2JBeDQ2NTVqM3pJOUVKcXZITmkxdFJDUzJ5YkVaSmtUaTYxdVRCdVNfaDRMLUZXTVVrZ2hzRDY?oc=5",
+   "source": "ITmedia",
+   "summary": "AEON Payで10％還元、最大2000ポイントが戻ってくる 10月13日から19日まで - ITmedia Mobile ITmedia",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:24+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "14c1fa68fd3c9805",
@@ -1586,6 +1828,19 @@
    "type": "news",
    "published": "2026-10-09T19:58+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "504308ba823bf5f0",
+   "title": "宿泊と現地のお買い物でお得！楽天ペイが札幌市内で最大20％〜22.5％ポイント還元を実施",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MRDRTeUlvXy1seWo4QW5ZdkNGRFM0WGxsQlkweHNIaXphV241UDZkMEFGLVJqN1g4YnBTTjBFcG5SUGJsN1ItU1c5ci1aOGR1U1pV?oc=5",
+   "source": "DXマガジン",
+   "summary": "宿泊と現地のお買い物でお得！楽天ペイが札幌市内で最大20％〜22.5％ポイント還元を実施 DXマガジン",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T18:54+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "515733f9bc081de0",
