@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T14:06+09:00",
+ "updated_at": "2026-10-14T15:02+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "aa2aef8b06b65499",
+   "title": "三井住友カード、Mastercard(R)限定で「マスマスお得な秋！」キャンペーンを開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000001012.000032321.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[三井住友カード株式会社] 三井住友カード株式会社（本社：東京都江東区、代表取締役社長：佐々木 丈也、以下：三井住友カード）は、対象の三井住友カードのMastercard(R)を対象とした「マスマスお得な秋！」キャンペーンを、2026年10月14...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-14T14:15+09:00",
+   "company": "三井住友カード株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "c8c8cee0e607e3c6",
    "title": "決済端末が与信の窓口に。Alliex、LOTTE",
