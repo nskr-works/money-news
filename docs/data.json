@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T17:08+09:00",
+ "updated_at": "2026-10-15T18:06+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -55,6 +55,21 @@
    "type": "news",
    "published": "2026-10-15T16:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8cb0d7247422192a",
+   "title": "dポイントクラブ・d払い各アプリに「箱根駅伝」オリジナルデザインが登場！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000048.000144861.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[NTTドコモ コンシューマサービス] 株式会社NTTドコモ（以下、ドコモ）は、「応援をチカラに。箱根駅伝を応援しよう！」をキーメッセージに、「dポイントクラブ」アプリのモバイルdポイントカードおよび「d払い」アプリにおいて、箱根駅伝オリジ...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-15T15:45+09:00",
+   "company": "NTTドコモ コンシューマサービス",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "47eca2e7b8387345",
