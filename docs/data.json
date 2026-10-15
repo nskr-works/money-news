@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T16:17+09:00",
+ "updated_at": "2026-10-15T17:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,46 @@
  "topics": {},
  "items": [
   {
+   "id": "9788287868ca8141",
+   "title": "りそなHDとJCBが資本業務提携 企業向け決済など連携強化",
+   "link": "https://www.watch.impress.co.jp/docs/news/2148462.html",
+   "source": "Impress Watch",
+   "summary": "りそなホールディングスとジェーシービー(JCB)は14日、資本業務提携契約を締結した。りそなHDはJCBの発行済株式の2.24％を既存株主から11月中旬頃に取得し、りそなグループのJCB株式保有割合は5.27%となる。提携の強化により、企業向けの決済サービスや、地域・事業者向けのキャッシュレス浸透などでの協力を強化していく。",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:59+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "270f401ad9a9a7bf",
+   "title": "不正アクセスで情報漏洩 クレカ不正利用『二次被害』も 最新手口は“2段階方式”",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tYVRNWkhuQ25GODBuQXowQ1ZqWmtTclo1TDRMY2Qtc05wUUhZUVppdDlrMUpVTldkbjhEbHZNTzMxdGJoa2hoVFZTRHAySkxpc29qenludUk3aGdnVF9JNGNwWHgzeVUzTVVPYjZpMUYwdw?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "不正アクセスで情報漏洩 クレカ不正利用『二次被害』も 最新手口は“2段階方式” テレ朝NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "47eca2e7b8387345",
+   "title": "auフィナンシャルサービスなど3社が連携、独自クレカ発行基盤を構築へ",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LSDZNaWhVZ0wxS2tONldrdDVCeWRQaDJzdG1UTWxib2d4d0tBN3JGZTNjbzFTeWNmYWVTZUlua2J1dWNOMjY1dmswWUhGNzBwZVo2UktJek44V044Q213bXlHaDVsSWs?oc=5",
+   "source": "ケータイ Watch",
+   "summary": "auフィナンシャルサービスなど3社が連携、独自クレカ発行基盤を構築へ ケータイ Watch",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T14:43+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "3b55fbb6b04a2b0c",
    "title": "【10月31日まで】まだ間に合う！JAL PayならApple Payで最大100％ポイントバック！新規入会で最大2,000マイルも",
    "link": "https://prtimes.jp/main/html/rd/p/000000007.000188664.html",
@@ -41,8 +81,7 @@
    "type": "release",
    "published": "2026-10-15T14:40+09:00",
    "company": "JALペイメント・ポート株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "8800650c1c0a2c94",
@@ -56,8 +95,20 @@
    "type": "release",
    "published": "2026-10-15T14:40+09:00",
    "company": "エクスプライス株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "272dd767a34fd4d5",
+   "title": "AppleCare+なしで修理費最大27万超の「iPhone Duo」を守るなら？ 年間2万も差が出る、スマホ保険を検討してみた",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/15/news074.html",
+   "source": "ITmedia Mobile",
+   "summary": "AppleCare+なしの修理費が判明した「iPhone Duo」。インナーディスプレイの修理費18万2800円を賄えるスマホ保険はあるのか。保険会社、キャリア、クレジットカード付帯の補償を調べ、AppleCare+と比較した。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T14:21+09:00",
+   "via": "ITmedia Mobile"
   },
   {
    "id": "d76f3539b6474aaf",
@@ -71,8 +122,46 @@
    "type": "release",
    "published": "2026-10-15T14:20+09:00",
    "company": "株式会社アーラリンク",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "6c370a4b36aa521a",
+   "title": "オルタナバンクが新たに提供する海外BNPL事業支援ファンドID1189の魅力",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zTVo1N2R4ZW1DVVdoOVozeERqQUNubUFQWFp0WG9KZmo3NGtmQ3VDbDNTVTE4b2JrNkJyOWRkRW1GcXFVTHBHYXVtSkVlVEFRQk1Ydw?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "オルタナバンクが新たに提供する海外BNPL事業支援ファンドID1189の魅力 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T14:13+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "9de7e33c24332644",
+   "title": "映画券名目で電子マネー詐取疑い 笛吹署が女逮捕",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xRGxhWThNODZZRVU4cFI0RTdRMnp1WEVIblZjeUtvSjc4Z0JrdG1wT0RsUm9lRlh4YmhJYjdEWjl5UUhWMmJ2b2VZTTJzbXRaZ251czFQODRnNmdZSE1lVUVodEs?oc=5",
+   "source": "sannichi.co.jp",
+   "summary": "映画券名目で電子マネー詐取疑い 笛吹署が女逮捕 sannichi.co.jp",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T14:04+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "cf8c3c799ac77d4e",
+   "title": "ステーブルコインUSDC、EU初の「重要な電子マネートークン（EMT）」に指定",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1fTUNlTkY1RFNlOFUxSjhzbDdoVG1vLW8wQkxfZTJOcHl5bHZ5dVJxZmpBSWtxNzB2NzlOVW50MUxWaE0?oc=5",
+   "source": "CoinPost",
+   "summary": "ステーブルコインUSDC、EU初の「重要な電子マネートークン（EMT）」に指定 CoinPost",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T14:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "e6ba96725285ff31",
@@ -141,6 +230,19 @@
    "company": "SAMURAI証券株式会社"
   },
   {
+   "id": "c156039d412370b8",
+   "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】海外BNPL事業者支援ファンドID1189』を公開",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lS21KYUpqQUtXVDhjSEtmZFdFSlBPU2hMVHpPU2RMQ1dCTE9zeG5BVVFzV0luZ04zRmZRUzBpQW1VS1U5TVl2VEtzZ0hTNjFSTnN2WU9YXzhmNzFHSjE0a3JB?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】海外BNPL事業者支援ファンドID1189』を公開 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T12:30+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
    "id": "bb5fc88b1de42f8c",
    "title": "メルペイ、対象決済でいつものお買い物が3回ごとに最大999円の値引きになるキャンペーンを開始",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LY3dJWXp4R1B2MF9Rdkl3cTlZUE42SU5SQXVDd1hjN245ZWpYdFYyTU0zNmVSM3F0VkY1cEhsc2E3RDdYLVhFU1BPM1hoRFJOMDBxS0xZV2F6aWROVE9ETVlDNTJsYldKeVE?oc=5",
@@ -192,6 +294,19 @@
    "type": "news",
    "published": "2026-10-15T11:01+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "9bc2b45acd60a32d",
+   "title": "メンテナンスのお知らせ（クレジットカード決済）",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0RXIzc1pUUlEweTc4NnlsT1czYmRwVHhhc0pjNXNTanNvU2RlaGVuVmtkc1I5MEI0clJHcGVsXy1nZXNtZm5URXlQYlJIX0cyMHpBSmtkQTlnV3hq?oc=5",
+   "source": "U-NEXTヘルプセンター",
+   "summary": "メンテナンスのお知らせ（クレジットカード決済） U-NEXTヘルプセンター",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T10:46+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "b2ff049301999777",
@@ -888,6 +1003,19 @@
    "published": "2026-10-14T14:15+09:00",
    "company": "三井住友カード株式会社",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "2df7a93052b0e151",
+   "title": "おすすめウィジェットのテスト",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkt0MmU3WVBWSlBzYk1tVzdTVmJDVmVZQlNlS0NUdjUxOWl6c2pLRVZPNlhiTkNVY3c1Mk9CamZ6QUNmWTRMY0lLZldSLWdHOGVVMVB2TFNFSGc3UDA5X3F3cVQtc1ZkUGxZMEl1TklqQUJqSmdPYmR1dTQ0MTZPdFFkNkNxR3hOVFJJOXgycHEya1Z6RWZQQ2p1R1BTSExaX1pBR0ZtV2VZRlZCS3c?oc=5",
+   "source": "Mastercard",
+   "summary": "おすすめウィジェットのテスト Mastercard",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:14+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "93f7260c4dc2cb34",
@@ -2517,6 +2645,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "8b8053b632d14b89",
+   "title": "住民税を毎回異なるアプリで払ったらどうなる？PayPay、楽天ペイ、auPAYを徹底比較（＠ＤＩＭＥ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWHlpRkdTX2NiV3pSblJnX01RQkpnelBFR1lBODB0bVBEN3hyTTJ4d2lCYnVUdm8xek1OZll5NXVjdGNiZzlOUFBoYlN1MnJRaWU2V3R6dU5LN0lqVFB5NWdHWjdXcmRuTTZqbmlTblBUUnJ4NENNMDdXYXdQVmM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "住民税を毎回異なるアプリで払ったらどうなる？PayPay、楽天ペイ、auPAYを徹底比較（＠ＤＩＭＥ） Yahoo!ニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-11T21:10+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "07b8e45151c77187",
    "title": "ホテル優待クレジットカードおすすめ8選【2026年最新】無料宿泊の条件と朝食・アップグレードを比較",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UcHFnb0hrV3M5VW5TbkU3aEFLWDFaVWhmZUQ1VjlacDFUWFB6OFk4WHc2RDhIUUpnWllQcUZhY1M5T3E3TU16NUlfSXJydmxkY19wWlUwbDlUWkU4LU9YdXJ3dHM?oc=5",
@@ -2753,6 +2894,19 @@
    "type": "news",
    "published": "2026-10-10T13:50+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ec6eba9b4419b49d",
+   "title": "【激ヤバ】ドコモの改悪がやばすぎた。PayPay他社利用券の終了と楽天、vポイントのお得キャンペーン【2026年9月】 Luciano Darderi (pMxgZTz4nF)",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VRjh1ZEZ1NWlvdFlmcVNKRi1TVVUySGhzZmFzV25va1AxVXNRSlpEbDdVdkk2SnIxTVBFQmZxOFhRWmJMMUdYZVQwYTktTnptYzNLdEJFRUhmdFZLMGhXajhacFE1dkxaODc0?oc=5",
+   "source": "Unisba Media",
+   "summary": "【激ヤバ】ドコモの改悪がやばすぎた。PayPay他社利用券の終了と楽天、vポイントのお得キャンペーン【2026年9月】 Luciano Darderi (pMxgZTz4nF) Unisba Media",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-10T13:49+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "dd3072278e92c13d",
@@ -3526,6 +3680,19 @@
    "published": "2026-10-09T10:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "楽天ペイメント株式会社"
+  },
+  {
+   "id": "c5ae109ab0f3d13f",
+   "title": "岸和田カンカンの対象店舗で最大10％割引、au PAYクーポンは10月15日まで",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KQjRtSndzazNqVDhPV1Z3X3Qtd0hIMTkyZUNEc18tNXFsYlNJdW5nRGx3OVB5aWdITXdrejNicWFQSzl0bjgwUDY0QUZBV2VBMmZqV1JHOXZadzZsZkE?oc=5",
+   "source": "au PAY magazine",
+   "summary": "岸和田カンカンの対象店舗で最大10％割引、au PAYクーポンは10月15日まで au PAY magazine",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-09T10:00+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "e1340497c2e5401a",
