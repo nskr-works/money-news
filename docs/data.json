@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T21:03+09:00",
+ "updated_at": "2026-10-15T23:13+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "4eab2b524dcfcd32",
+   "title": "『貸した魔力は【リボ払い】で強制徴収』小林ゆうのアドリブに川島零士「無限の引き出し」“通し見”収録の裏側を明かす／川島零士＆加藤英美里が“借金地獄”へ！？「リボ上等！借金地獄すごろく」で波乱の展開も",
+   "link": "https://prtimes.jp/main/html/rd/p/000004111.000064643.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ABEMA] [画像1: https://prcdn.freetls.fastly.net/release_image/64643/4111/64643-4111-d548270a38d3ddbbb436d0f449658502-3900x2925.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-15T22:40+09:00",
+   "company": "ABEMA",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "c143cdeb6b01ba23",
    "title": "業界初のプリンターEDR技術でオフィス向け複合機・プリンターのセキュリティーを強化 高度化するサイバー攻撃や複合機の不正利用を常時監視し、脅威の低減を支援",
