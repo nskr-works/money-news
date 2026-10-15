@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T15:03+09:00",
+ "updated_at": "2026-10-15T16:17+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -56,6 +56,21 @@
    "type": "release",
    "published": "2026-10-15T14:40+09:00",
    "company": "エクスプライス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "d76f3539b6474aaf",
+   "title": "「食料品を後払いで買えなくて困りました」（50代男性）｜連絡先を失った経験者の約2人に1人が同時期に食事も不安定に",
+   "link": "https://prtimes.jp/main/html/rd/p/000000105.000116196.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社アーラリンク] 誰でもスマホリサーチセンターは、10月の世界食料デー月間および飲食料品の値上げが続く時期にあわせ、生活困窮の経験がある445名（うち携帯電話を失った・失いかけた方359名）へのアンケート調査から「食」に...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-15T14:20+09:00",
+   "company": "株式会社アーラリンク",
    "via": "PR TIMES 新着（直接）",
    "pending_notify": true
   },
