@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T18:06+09:00",
+ "updated_at": "2026-10-15T21:03+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "c143cdeb6b01ba23",
+   "title": "業界初のプリンターEDR技術でオフィス向け複合機・プリンターのセキュリティーを強化 高度化するサイバー攻撃や複合機の不正利用を常時監視し、脅威の低減を支援",
+   "link": "https://prtimes.jp/main/html/rd/p/000001241.000013980.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[キヤノン株式会社] キヤノンは、プリンティング業界において初めて（※1）、PCやサーバーなどで普及しているEDR（Endpoint Detection and Response）の考え方をプリンター向けに展開したプリンターEDR技術を開発し、実用化（※2）して...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-15T20:15+09:00",
+   "company": "キヤノン株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "9788287868ca8141",
    "title": "りそなHDとJCBが資本業務提携 企業向け決済など連携強化",
