@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T11:04+09:00",
+ "updated_at": "2026-10-16T12:03+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,66 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "2a47d90a2a836714",
+   "title": "メルボルンのヤーガが快挙！「世界のベストレストラン50」のVisa One to Watch Award 2026と「グッドフードガイド・アワード」のRestaurant of the Yearを受賞",
+   "link": "https://prtimes.jp/main/html/rd/p/000000115.000004793.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[オーストラリア政府観光局] この度、オーナーシェフのヒュー・アレン（Hugh Allen）氏が率いるオーストラリア・メルボルンのレストラン「ヤーガ」（Yiaga）が、「世界のベストレストラン50」（The World’s 50 Best Restaurants）の特別賞...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-16T11:40+09:00",
+   "company": "オーストラリア政府観光局",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "61295436a81a8b64",
+   "title": "au PAY、「東京ポイント(R)」から交換で先着20,000名にポイントを進呈するキャンペーンを実施",
+   "link": "https://prtimes.jp/main/html/rd/p/000000168.000020989.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[auフィナンシャルサービス株式会社] KDDIとauフィナンシャルサービスは、2026年10月16日から11月15日まで、東京都が提供する「東京都公式アプリ(R)（以下 東京アプリ）」（注1）内で獲得できる「東京ポイント(R)」（注1）を、キャンペーンページか...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-16T11:15+09:00",
+   "company": "auフィナンシャルサービス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "f35b6b20ed83fe68",
+   "title": "RemitAidの「ラクヤス決済 振込」導入により、フューチャーショップの越境EC事業で事業者別の売上金振込を効率化",
+   "link": "https://prtimes.jp/main/html/rd/p/000000036.000108273.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社RemitAid] 「テクノロジーで国際決済の“新たな道”を創る」をミッションに掲げ、海外取引における決済プラットフォームを展開する株式会社RemitAid（本社：東京都渋谷区、代表取締役：小川裕大、以下「当社」）は、株式会社...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-16T11:15+09:00",
+   "company": "株式会社RemitAid",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "54e5d13976923b03",
+   "title": "～ダイナースクラブの芸術文化支援活動～ 東京MINATO CITY国際音楽コンクール&ワークショップに３年連続で協賛 2026年はピアノ部門で白熱の競演",
+   "link": "https://prtimes.jp/main/html/rd/p/000000333.000030208.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ダイナースクラブ] ダイナースクラブカードを発行する三井住友トラストクラブ株式会社（代表取締役社長：山口 信明）は、三井住友トラストグループとともに2024年から3年連続で東京MINATO CITY国際音楽コンクール＆ワークショップ...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-16T10:52+09:00",
+   "company": "ダイナースクラブ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "917016b2b3a9bf5e",
    "title": "クレジットカード「ローソンPontaプラス」の最大15％還元対象サービスの追加について",
