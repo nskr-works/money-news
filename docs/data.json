@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T13:06+09:00",
+ "updated_at": "2026-10-16T14:06+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,60 @@
  "topics": {},
  "items": [
   {
+   "id": "55069e344579b1ea",
+   "title": "三井住友カード、「クレカ乗車」のデータ活用加速 地銀と連携拡大も",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1raHctY2ZERVlGVm1lRlZ1RGJzT19qazVyZ2dpUGF4U3JaQk52cXVaS19GMHdCZ1BENnVJNFlsSEZKRklSd0lFNGdBMFhreWswSG4xcWJB?oc=5",
+   "source": "ニッキンONLINE",
+   "summary": "三井住友カード、「クレカ乗車」のデータ活用加速 地銀と連携拡大も ニッキンONLINE",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T14:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "97def89f8cdd1b6d",
+   "title": "西鉄・ニモカ・三井住友カード、「キャッシュレス推進およびデータ利活用に関する包括連携協定」を締結",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Zemh5SzIzWC1QVENsZ3pINGFwbi1tcGdVNjk0RHZrNFotOWJUMFY0UzJCYTJ5QVB2bVVRalJfR2dHSUF4WGFpZEdhcThlUWY1SlN5ZUpQME9zcVFQbVZPc1lpTVpDOVpMMVJQNA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "西鉄・ニモカ・三井住友カード、「キャッシュレス推進およびデータ利活用に関する包括連携協定」を締結 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-16T13:39+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "cae9ef2f626c1db4",
+   "title": "Stripe インサイト：Stripeデータが明かす AI スタートアップを狙う不正利用の実態を発表",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiSGlTNC12RGd6bGlhSGpXb1FFWldrWDN1d2IzSmhIZW1kb3Y5LXd3UmRiY3pqSnlRaC1GcWlqM212X2pMU1dxZlNRRkVweFNxRlBjX0ZHd3R5clBtNmVWNTQzaVZ5cnpDMVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "Stripe インサイト：Stripeデータが明かす AI スタートアップを狙う不正利用の実態を発表 PR TIMES",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-16T13:30+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ストライプジャパン株式会社"
+  },
+  {
+   "id": "0d081945a94dc6e5",
+   "title": "JR東日本がスマホ／スマートウォッチ向け「Suica」の規約を改訂 teppayのサービス開始に伴い",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news091.html",
+   "source": "ITmedia Mobile",
+   "summary": "10月20日から新しい決済サービス「teppay」が始まることに伴い、東日本旅客鉄道（JR東日本）がモバイルSuica会員規約を改定した。10月16日以降の新規会員、および同日以降にアプリにログインしたユーザーは、新規約とteppayに関連する規約類に同意する必要がある。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-16T13:30+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
    "id": "78f08fb22e02e20c",
    "title": "【ホテルメトロポリタン】数量限定！人気の「Suicaのペンギン シーズンケーキ」テイスト変更＆ホリデーシーズンを彩る華やかなケーキを販売",
    "link": "https://prtimes.jp/main/html/rd/p/000002608.000030117.html",
@@ -41,8 +95,47 @@
    "type": "release",
    "published": "2026-10-16T12:40+09:00",
    "company": "JR東日本ホテルズ",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "12aa73bf5ea0390c",
+   "title": "ドコモが11月の「dポイント」「d払い」自治体キャンペーン発表、岩手県野田村で還元",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2148717.html",
+   "source": "ケータイWatch",
+   "summary": "NTTドコモは、岩手県野田村で「d払い」のポイント還元キャンペーンを11月1日から実施すると発表した。期間は11月30日まで。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-16T12:28+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "3599c87ed6663787",
+   "title": "世界中に熱狂的なファンを持つ「攻殻機動隊 THE GHOST IN THE SHELL」の公式クレジットカードを提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tanh0dnE4S1hEU3FRWV82RFdsY0o1NDJuM0hsUHhiN2F2djZ3S1hBalVIakhwOHBBQ2x4d1AyN3JjWFpPMWdYaXVYOXBTMHNHNnpWaVJ1RUdRRkZCS25SdkRiTVdyYzFKSHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "世界中に熱狂的なファンを持つ「攻殻機動隊 THE GHOST IN THE SHELL」の公式クレジットカードを提供開始 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-16T12:00+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "ナッジ株式会社"
+  },
+  {
+   "id": "e4d2009657243810",
+   "title": "PayPayが12月の自治体キャンペーン発表、岩手県平泉町で最大20％還元",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2148681.html",
+   "source": "ケータイWatch",
+   "summary": "PayPayは、地方自治体と連携して12月以降に実施するキャンペーンを発表した。岩手県平泉町で、対象店舗でのPayPay決済に対し、最大20％のPayPayポイントが還元される。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-16T11:47+09:00",
+   "via": "ケータイWatch"
   },
   {
    "id": "2a47d90a2a836714",
@@ -56,8 +149,7 @@
    "type": "release",
    "published": "2026-10-16T11:40+09:00",
    "company": "オーストラリア政府観光局",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "61295436a81a8b64",
@@ -71,8 +163,7 @@
    "type": "release",
    "published": "2026-10-16T11:15+09:00",
    "company": "auフィナンシャルサービス株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "f35b6b20ed83fe68",
@@ -86,8 +177,20 @@
    "type": "release",
    "published": "2026-10-16T11:15+09:00",
    "company": "株式会社RemitAid",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "c1d4d7ff93900e36",
+   "title": "【FISCO銘柄コメント】ムニノバホールディングス---消費者金融事業やクレジットカード事業等を営むグループ会社の経…(フィスコ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSE1SbEVYY244ZGtBRjkySlJFbXZtR0tSWFNlSEpqZkRoVk5lODhZMnpTeWpvOXNsV1FlSTBZTFdNOUQ5aVJEcFdNNVpLTHJpcXhCN2hrU2xoVTFCZ0lsOERIQU11WDU5Uk5zWEtReU1QWmg5Z3RyZDBDczNoeDd4cDgyMnRNa3M?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "【FISCO銘柄コメント】ムニノバホールディングス---消費者金融事業やクレジットカード事業等を営むグループ会社の経…(フィスコ) Yahoo!ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "54e5d13976923b03",
@@ -101,8 +204,7 @@
    "type": "release",
    "published": "2026-10-16T10:52+09:00",
    "company": "ダイナースクラブ",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "917016b2b3a9bf5e",
@@ -130,6 +232,19 @@
    "type": "news",
    "published": "2026-10-16T10:28+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f5d4d6690b6d3a53",
+   "title": "オルタナバンクが新たに発表した海外BNPL事業者支援ファンドID1187の魅力",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXRVNFNVpPTGc4YjNfbXk4RG5DLVdySGxabXdFV3BDVktRRVIwSWctUEp3a0RSMGs0bHJ3SUhnTHJndU9vN1R0OEsxSndyWXNyMmN6Yw?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "オルタナバンクが新たに発表した海外BNPL事業者支援ファンドID1187の魅力 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-16T10:26+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "d3e226bbae7c29f5",
@@ -293,6 +408,19 @@
    "type": "news",
    "published": "2026-10-16T09:10+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "60c973ed86b33700",
+   "title": "カプセルトイ総合通販「あミューズ」が「O-PLUX」を導入し クレジットカード不正利用対策を強",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUUtVHF1b0gxbkQ3dXI4MGcxOTJiMnZFRDRBZ1ZUdXlMSVY3c1F1Z3k4RlNnSEtnaXAzRm1wT2hTd3NHWDF5X1JZZklab0RCUENGZ0dIOG4zUWN3VDBpUEdiOXFRZ2RzSDF4dEM1WDEtTGZGMlZlNlJGajYweGRncnBXOEhpLXI1c2dwWWxSOWlGZ3pUcFZWVnpTTkk?oc=5",
+   "source": "日本経済新聞",
+   "summary": "カプセルトイ総合通販「あミューズ」が「O-PLUX」を導入し クレジットカード不正利用対策を強 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T09:01+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "1e03a5a9e5765ada",
@@ -1068,6 +1196,32 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GZTgtSmxweHQ0U00wMWQ3NkYzYzRkdTRyU1NhVGJ2cm1lTGdreWFLblVSQ2dpQ0xBSm1YSUdBZVItNHJKLTFOdTJFUDNDNkZjRHJaQk1QaDVEcFlpMGFOb1pkU3BNcmUwem42M3NqaGdXRk9ESFVGZVNNUUU?oc=5",
    "source": "ライブドアニュース",
    "summary": "【画像】Squareが決済端末の「Square Kiosk」を発表 3/6 ライブドアニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-15T11:01+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "d7d1de641d179577",
+   "title": "【画像】Squareが決済端末の「Square Kiosk」を発表 5/6",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzd19FOE1KeGFwM2RjZ3NPYWtOZDJtQVhwY3A0WnJGQTdGTmNOa0ltTnBPb19BYkN5WTVPT3FSXy1hRUFmQllZS3VKd2hJa0o5VS1NUE1YV1VEb3M1LThad3dJbGhFbUlsTS1nVER3bnBJOXBmZmtMd1VHVWU?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】Squareが決済端末の「Square Kiosk」を発表 5/6 ライブドアニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-15T11:01+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "77d8f2ac8ad60197",
+   "title": "【画像】Squareが決済端末の「Square Kiosk」を発表 4/6",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PYWExd3NfcEpUU3lMVVlRN2QzcGhiSFNWYmFibjZJMkRHRkVXYVVESEpMX2VrekFhaWFBMjA1aFJneFpRSWh4Q29uTkk1OVdtRXpCbE9DUW1vcWI5dzhnSXlGcVNac0hrR0w1RzcwLXpQTE50TmVjeElLdTE?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】Squareが決済端末の「Square Kiosk」を発表 4/6 ライブドアニュース",
    "categories": [
     "psp"
    ],
@@ -2617,6 +2771,19 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XdGF2MXoydGxOb2EzUEl0bXlEN3R2bDFFdjVJOFQ5QUNETjU4bDl1VVNPcVU1SmJHLXY5RGtqN18ycnFMV3BoalJIREV5M0VYV3c?oc=5",
    "source": "매일경제",
    "summary": "ネイバーペイ(Npay)は来月30日まで全国「Npayコネクト」加盟店で顔認識で決済すれば決済額の10%をポイントとして積み立てる行事を実施すると13日明らかにした。 매일경제",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-13T16:16+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "9b14fdf9fbf65f67",
+   "title": "ネイバーペイ(Npay)は来月30日まで全国「Npayコネクト」加盟店で顔認識で決済すれば決済額の10%をポイントとして積み立てる行事を実施すると13日明らかにした。Npayコネクト端末機が設置された..",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XdGF2MXoydGxOb2EzUEl0bXlEN3R2bDFFdjVJOFQ5QUNETjU4bDl1VVNPcVU1SmJHLXY5RGtqN18ycnFMV3BoalJIREV5M0VYV3c?oc=5",
+   "source": "매일경제",
+   "summary": "ネイバーペイ(Npay)は来月30日まで全国「Npayコネクト」加盟店で顔認識で決済すれば決済額の10%をポイントとして積み立てる行事を実施すると13日明らかにした。Npayコネクト端末機が設置された.. 매일경제",
    "categories": [
     "psp"
    ],
