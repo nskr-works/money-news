@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T07:01+09:00",
+ "updated_at": "2026-10-16T10:09+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "1efe7cf3032cc7da",
+   "title": "株式会社りそなホールディングスと株式会社ジェーシービーの資本業務提携契約の締結について",
+   "link": "https://prtimes.jp/main/html/rd/p/000000052.000100027.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社りそなホールディングス] 株式会社りそなホールディングス(社長 南 昌宏)と、株式会社ジェーシービー(代表取締役会長兼執行役員社長 二重 孝好、以下「JCB」)は、これまでの協業をさらに深化させ、両社の取り組みを継続的に推進するため、...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-16T09:40+09:00",
+   "company": "株式会社りそなホールディングス",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "71ae4577c4097f0c",
+   "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】海外BNPL事業者支援ファンドID1187』を公開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000939.000013809.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[SAMURAI証券株式会社] 個人投資家の皆様にさまざまな投資機会を提供するオルタナティブ投資プラットフォーム「オルタナバンク」を運営するSAMURAI 証券株式会社（本社：東京都港区、代表取締役社長：山口 慶一）は、新商品『【3ヶ月毎...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-16T09:40+09:00",
+   "company": "SAMURAI証券株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "435cba6cc98e0068",
    "title": "枚方から一番近いキャッシュレス（クレカ）決済を導入してるラ・ムーはどこ？【ひらかたクイズ】",
