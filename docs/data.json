@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T14:01+09:00",
+ "updated_at": "2026-10-17T16:58+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,11 +30,63 @@
  "topics": {},
  "items": [
   {
+   "id": "e523bdd5f5ad02ca",
+   "title": "旅行サイト「スカイチケット」で最大6140人分のクレジットカード情報流出 不正アクセス被害拡大 当初は「流出なし」と説明",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UbjhRMUtJa1JrUWwwdzB3eHdXRHQzWEJ5aWNCWVBkYkhPdGlHOER2clBXUlpBV3lRY3hzSEdfX21zaEp5RndScnJYWi0zUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "旅行サイト「スカイチケット」で最大6140人分のクレジットカード情報流出 不正アクセス被害拡大 当初は「流出なし」と説明 FNNプライムオンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T16:23+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b8f886d89b16bcc4",
+   "title": "熊本のバス・市電・鉄道、タッチ決済で運賃半額 10月29日から、事前登録不要｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5cjJKSmxrOEVvZ19iRE1RNnFzYmEzdUowX0Q4ZktfbXFCSHJGSnBJZlQxdlAyZUhFekVXSzc3azVkLXN1akMtTXFCaHhmdUYxTkthUVRHWlo4Vk1qNHpn?oc=5",
+   "source": "Infoseek",
+   "summary": "熊本のバス・市電・鉄道、タッチ決済で運賃半額 10月29日から、事前登録不要｜Infoseekニュース Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-17T15:15+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "153a4d1e8430bfce",
+   "title": "スカイチケット クレジットカード情報も流出 最大6100人余り（2026年10月16日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGai16YjlENWVHWHNvbnJSR09EOVVGSXFqT3RPUDhxYkVCU0w4VWhvY1pTRVUwZFNWcF9HdTkyYlVxVFVMUWdiWkljbW44NlRzdnViR19nNTZkaHVYRVQwZU8wdm9CODFBbmtPdk1YR3FwcTRxRkFQZTlza0c?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "スカイチケット クレジットカード情報も流出 最大6100人余り（2026年10月16日掲載） 日テレNEWS NNN",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T14:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "977981d8c4c0c7fc",
    "title": "「Skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明（テレビ朝日系（ANN））",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tOXhZRE5Ca2pQUGNzOTUzZ0lDV0M3NkRidHJRbzhnR3RuaEhiTk1uRUctY0N1ZW5fODFrYXFsenFXUllZQnhmeWNjNmxCeTNUX21Za0doTFVKUXFpOU5rbTB6MmZhbm1UMWtFZk1jVGRZV2xjdGkzWDdId2VNb00?oc=5",
    "source": "Yahoo!ニュース",
    "summary": "「Skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明（テレビ朝日系（ANN）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T13:51+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7f5b6e7c12faf7ff",
+   "title": "「skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNG42dTJycF9nRWxxMlJJOENuMTVXWElHQ0hDOHJhMHBnS2hGWFlCX2JPSE4wR1E3QlpKQ2pPUGNDMUJaZEtpSFR6M0tOOWxRYl9hTVlOQ2xkR2l5QzNvOF9uX3p0ZEJON2IwT2RWX2txZw?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "「skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明 テレ朝NEWS",
    "categories": [
     "credit"
    ],
@@ -200,6 +252,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "26207b253326882d",
+   "title": "旅行予約サイトのスカイチケット、クレカ情報流出（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KMkxlS3pzcHhDOWZFTzhNbWdIUkV0TmtQRGlEU1p1WTFTU1RYTFB2YzdTbFM1dml1cUVfWmlTSjNaTkNJZmRHeC0tZ2ZJVkpXV2J4Z1pTbmlSQkpnTnc4WVJjMEdFbVpkaS0wY2J6T1dHb2NVR1FwdEJkNVZTY28?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "旅行予約サイトのスカイチケット、クレカ情報流出（時事通信） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T06:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "70cc56998b5b5647",
    "title": "スカイチケット運営会社 新たに「一部の顧客のクレジットカード情報流出」 Eストアーもカード情報の一部漏洩",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaNURGZjFlT1NOV3JXazh3eTVrRU96MXgtV0JfSEpzOEhJWVpJNWlGZWszZmxYSTB6NlNfOXNyVkh3VGFGQlcteXVrOGVJSWw2YUl6bWZHZw?oc=5",
@@ -296,6 +361,19 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56MzQzdHdXT3B4TzZjSjUzaVVoUVZCMm1ScHRKM012MnhtVTlYdGVIVEJwTmlhOXU2RzNTRE5zV3JCWHNzRmFYTGZyVDYtdWF3VFJFSFpRQnp3aUhNZDBj?oc=5",
    "source": "NHKニュース",
    "summary": "クレカ会社の偽造ギフト券 広島県内で今年200枚以上確認 NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T19:46+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "3d5da5e48aee100d",
+   "title": "クレカ会社の偽造ギフト券 広島県内で200枚以上確認【解説】",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56MzQzdHdXT3B4TzZjSjUzaVVoUVZCMm1ScHRKM012MnhtVTlYdGVIVEJwTmlhOXU2RzNTRE5zV3JCWHNzRmFYTGZyVDYtdWF3VFJFSFpRQnp3aUhNZDBj?oc=5",
+   "source": "NHKニュース",
+   "summary": "クレカ会社の偽造ギフト券 広島県内で200枚以上確認【解説】 NHKニュース",
    "categories": [
     "credit"
    ],
@@ -2448,6 +2526,19 @@
    "type": "news",
    "published": "2026-10-14T16:07+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "b351a8c538f8df2b",
+   "title": "建設業許可申請等の申請手数料に係るキャッシュレス決済の導入について",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82S0JlOFhzY1F1aC04OGdGMnZDc2VTMHpjZjZ4d2s5U2taZ2NhQ2lLNFFyTmNHRXRpZmNuUThNQmV0bnpHMnJpRjEwajVmVEt1SzdRTlNBZlN1TTVPZjNNTQ?oc=5",
+   "source": "鹿児島県公式ホームページ",
+   "summary": "建設業許可申請等の申請手数料に係るキャッシュレス決済の導入について 鹿児島県公式ホームページ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T16:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "793733093ffef692",
