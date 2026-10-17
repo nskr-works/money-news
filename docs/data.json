@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T11:03+09:00",
+ "updated_at": "2026-10-17T14:01+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,72 @@
  "topics": {},
  "items": [
   {
+   "id": "977981d8c4c0c7fc",
+   "title": "「Skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tOXhZRE5Ca2pQUGNzOTUzZ0lDV0M3NkRidHJRbzhnR3RuaEhiTk1uRUctY0N1ZW5fODFrYXFsenFXUllZQnhmeWNjNmxCeTNUX21Za0doTFVKUXFpOU5rbTB6MmZhbm1UMWtFZk1jVGRZV2xjdGkzWDdId2VNb00?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「Skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明（テレビ朝日系（ANN）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T13:51+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "70c7f4c5cddeda0f",
+   "title": "旅行予約「スカイチケット」、約6000人のクレカ情報流出 不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zaXB2QUp4YjdLZmdybi1sUTZFVUpoOWhTRnlpNjI1d2QwQmhmNTdFU0xhckphTHk3NjctbWxVSXpwZGxqdXFnVkotQk5fRUZNODRzOEJfelBJNlN2aGxOajg3d1M1S2Jhd0o2VQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "旅行予約「スカイチケット」、約6000人のクレカ情報流出 不正アクセス 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T13:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c41c805c9bb19928",
+   "title": "紙幣とコイン、クレカをバランスよく収納できるLastDrip Designsのスマートウォレットを衝動買い",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GY0hxeXd1UVNaVkRDMmFURW5aa1ZwVzZCbENkdVJ5QUxjZS1VY1ZqdWNzRkhqRTdUTy1BRktkNGszcVdOd0JjRFJJSG9CLVN0V1V5LW1xWFBJVl83THNycjd6bVUycWdDWmM2N1lCU0k3bm0wUURJ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "紙幣とコイン、クレカをバランスよく収納できるLastDrip Designsのスマートウォレットを衝動買い ニコニコニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T12:12+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "38358cffb3ca91d4",
+   "title": "結論、dカードの最適解は「d払い」だった。タッチ決済、iD、d払いの違いと還元率アップのからくりを徹底解説",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45VXU4cjVhVDEtVHFUYXZVaU5DY2stdVhaelpwR1RnV3J0bVFiczJlMTZrVkpqZWdXZmh2N2lnNHVpT096aUNLQWQwd3B3RGxrQlNTYnVTYU1FcndJVnBN?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "結論、dカードの最適解は「d払い」だった。タッチ決済、iD、d払いの違いと還元率アップのからくりを徹底解説 ライブドアニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-17T12:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "9fdf12d9d1bb7180",
+   "title": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wYjNLT2VkeWJKQ0JOd0RqV3Z0bDVMMUYxSUhWbzhVYkFrRjRZZG9yMGs2SmdrZTJWQ1dyWEJFWU95bUpkQk9CamFPNHVhdExmeENqUXNNQzVaQnphX1NF?oc=5",
+   "source": "NHKニュース",
+   "summary": "スカイチケット運営会社 クレカ情報も最大6000人余流出 NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T11:58+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "5e79878fbe4501ad",
    "title": "｢アメックスプラチナ｣の家族カードは、4枚まで年会費無料なのに付帯特典が豪華！ ホテルの上級会員資格や空港ラウンジを使える｢プライオリティ･パス｣が付帯！",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pWmRxYjhmeWFEZ2NWUGhaVGVoX1QwR3doRlF6a2c5T3FIWmhkYXJMRVJfYW9sVTdLcWliMUdSUEhET1lIR3U0ZElXSVRmMVU0bFhn?oc=5",
@@ -54,6 +120,19 @@
    "type": "news",
    "published": "2026-10-17T10:42+09:00",
    "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "b8251bb8759ab6c5",
+   "title": "クレジットカード決済でのご利用について",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQXBDT0YyeVdJbTJFQUQwSnVJbExIbDNCTEFXLWdudE9LQjJlcmtSdXg4bU5OOWo5dXA0eTU1ZXhGczFYTE1NcElJbnNVeUZINVRkd0s0dEc2eEdX?oc=5",
+   "source": "U-NEXTヘルプセンター",
+   "summary": "クレジットカード決済でのご利用について U-NEXTヘルプセンター",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T10:22+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "8b87c2f71e538431",
@@ -1529,6 +1608,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "6c541add22a4dc03",
+   "title": "タンニン区：「キャッシュレス決済推進区」モデルの開始。",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmo0aXpkbDNJSVZTQ3V2bjFRUWUtel9pWXN0UkFOQ2tyeGJ5T2xmVXl6elQ5bmdiZ3kzaTNHTk9lZHNraVZIQkk3eTlLZ25WVk1EZnB4N29JTjRCRW93aTM1Z2dVZFd5Rzh4X21QVmNoRV9jQ0YwMzhMNDhWSkQ2VmcxNDAtRkNlVWQ3REFKN0RWcTUxSzJJa1k3azVUa29IeDBRRHR3?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "タンニン区：「キャッシュレス決済推進区」モデルの開始。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "5ca73fd4dc3bd5f2",
    "title": "メルカリにForterの「AI判定プラットフォーム」を本格導入 クレジットカードの不正決済を防止へ",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DaFR3MG1NcHNwSkhGRFAxazZzYV9NUG1hSDl4VFQyQWdqNDk1a0s5ZmVPTVBQcXI3dmJOLTRTUG54Vm14OXZ1dVVfMVRobHk2N3ZjRHByR2E1dDVyYk5N?oc=5",
@@ -2068,6 +2160,19 @@
    "type": "news",
    "published": "2026-10-15T05:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "6cfe6765af15c2b7",
+   "title": "モバイルSuicaの障害、復旧まで9時間半 2つの要因が重なり高負荷に",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIQTd1TS0tcDNZRE9pbnZqdXJmbEVRcFJhZDF6UnJ6Z3FiZGpDMGtPVnhhUDc2WUxNRHROV3BNU21pd2Z2eWN1M0tTTnc5bU1fek10aTRMbHp5dkluTWE3cVNHbnJVY0RyV2llZQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "モバイルSuicaの障害、復旧まで9時間半 2つの要因が重なり高負荷に 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T05:00+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "ad7ffc9d6c06a434",
@@ -3239,6 +3344,19 @@
    "type": "news",
    "published": "2026-10-14T04:00+09:00",
    "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "b89e47cdf9604124",
+   "title": "PayPay時価総額2兆円 ナスダックに上場 日本企業で最大【モーサテ】 Matt Damon (zXlTOLsiG2)",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yUkwzX09qc3A2Tm9XOTVmU3lKYlBXbmtBdVVFR0FQMDc1MHN0TGpYbjJkTk1BUWtSVTVqQTRNOE5faWFjd2M4el9YWDZpNER6VTBXT01BYU91MmxMa2RQQVpaR3gtTVlnZUVz?oc=5",
+   "source": "Unisba Media",
+   "summary": "PayPay時価総額2兆円 ナスダックに上場 日本企業で最大【モーサテ】 Matt Damon (zXlTOLsiG2) Unisba Media",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T01:43+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "93007e64d1ff3827",
