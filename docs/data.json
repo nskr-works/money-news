@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T16:58+09:00",
+ "updated_at": "2026-10-18T06:57+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,72 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "67ad081c3524d178",
+   "title": "高金利ブラジル、クレカに悲鳴 多額債務、大統領選の焦点に",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4RlZ1Q1M5Q2Ewel9oZHM4cURNa0RYMUxwNkJHOFJfdGZzVGk5Q19UOHRvUGllMHlVOHlzTkF0MFNTQkxjSHgyUDBmSkhJcnZVNmlLbENEaHM2Y3pB?oc=5",
+   "source": "朝日新聞",
+   "summary": "高金利ブラジル、クレカに悲鳴 多額債務、大統領選の焦点に 朝日新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-18T05:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f0d315199a81126d",
+   "title": "オートレースの後払い決済利用調査でクレカが7割超 チャージ月5万円未満が約9割",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kdkZJbjNSSDFScmwyZzlFLWk0cUpndjd1akRuWUluUzBncTI4b3MtclQ0V2tmQXhtazdPelVoLUxDTU5lMEE?oc=5",
+   "source": "Dellows News",
+   "summary": "オートレースの後払い決済利用調査でクレカが7割超 チャージ月5万円未満が約9割 Dellows News",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-18T03:44+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "b348c7dd90b17f63",
+   "title": "三谷幸喜氏 個人情報流出の話題に「僕はクレジットカード１枚も持ってないですから」（東スポWEB）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qdVRHRVo2RlBULUszZFNzbmk3WU5FQkRJUWNyaTFQLWNodlNtbVoyMHZoTHFNT19IOEQzMmlvVjdqSzVJcERYeVJjZW9sS0Y5eWgtRjM0elpOR1NNenVsWDV2bHNHNjhJZWFhcExTdWVrOFEwNlVuT01Oem5LZ1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "三谷幸喜氏 個人情報流出の話題に「僕はクレジットカード１枚も持ってないですから」（東スポWEB） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T23:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d700b663c66fcf02",
+   "title": "【「PayPay」システム障害】ランチタイム直撃 支払いできず… Moncton Wildcats (GiHE741dVy)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalFhSzhLVDIzb3hwRVdHMUJzTmE3dF9ZcGN6X3YtaXhVX2NORm1yUk1lMzBtaUZYQ2paeC14ZGJsMjY5RWdJSHdMRUtXMnUwclRfMDY5ZEdqVFZIODdoZXlVTTZRekgxcXBQQzRQaGlEcGUyVDlhNHlTaFdCVmlVeVEwZw?oc=5",
+   "source": "Unisba Media",
+   "summary": "【「PayPay」システム障害】ランチタイム直撃 支払いできず… Moncton Wildcats (GiHE741dVy) Unisba Media",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-17T18:39+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "4d7c2f376eb9ac72",
+   "title": "キャッシュレス決済「ファジアーノペイ」導入 ファジアーノ岡山独自 スタジアム周辺でスムーズに買い物",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WOENGbTVRU0xSTENjci14cUxVZVFOa3lfTE5iQ2NWbUgtTzVZYnZBMlZRdzFEQkMyR3kzek5kdHlvTVdTQ0lERW5GMl9mM1NLeXc?oc=5",
+   "source": "山陽新聞",
+   "summary": "キャッシュレス決済「ファジアーノペイ」導入 ファジアーノ岡山独自 スタジアム周辺でスムーズに買い物 山陽新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-17T17:24+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "e523bdd5f5ad02ca",
    "title": "旅行サイト「スカイチケット」で最大6140人分のクレジットカード情報流出 不正アクセス被害拡大 当初は「流出なし」と説明",
@@ -69,6 +135,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "640de1d318637832",
+   "title": "スカイチケット クレジットカード情報も流出 最大6100人余り（2026年10月16日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGai16YjlENWVHWHNvbnJSR09EOVVGSXFqT3RPUDhxYkVCU0w4VWhvY1pTRVUwZFNWcF9HdTkyYlVxVFVMUWdiWkljbW44NlRzdnViR19nNTZkaHVYRVQwZU8wdm9CODFBbmtPdk1YR3FwcTRxRkFQZTlza0c?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "スカイチケット クレジットカード情報も流出 最大6100人余り（2026年10月16日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T14:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "977981d8c4c0c7fc",
    "title": "「Skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明（テレビ朝日系（ANN））",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tOXhZRE5Ca2pQUGNzOTUzZ0lDV0M3NkRidHJRbzhnR3RuaEhiTk1uRUctY0N1ZW5fODFrYXFsenFXUllZQnhmeWNjNmxCeTNUX21Za0doTFVKUXFpOU5rbTB6MmZhbm1UMWtFZk1jVGRZV2xjdGkzWDdId2VNb00?oc=5",
@@ -93,6 +172,33 @@
    "type": "news",
    "published": "2026-10-17T13:51+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "30514a0df380004f",
+   "title": "クレジットカードの明細に、身に覚えのない「9万円」の請求があることに気づいてショック！ すでに2ヶ月も経っていますが、全額補償してもらえるのでしょうか？ (ファイナンシャルフィールド)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVhyaFB2RzZiWGRlTW5wcnpreUExSlBtWlRRcWRpbjRDQTdhUkUxM3pIS1M0eGZDWmpkQWVzYzFzSzdCV0hzN2xuSnpHaUwtSU9MVXpUbUNabzhLd1Z3RXZaeGpvZWZhdE9sN3hPMU13bHp2WFdncFViWTlsUDFIcHRRZDg5VmFMZDhmWFdB?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレジットカードの明細に、身に覚えのない「9万円」の請求があることに気づいてショック！ すでに2ヶ月も経っていますが、全額補償してもらえるのでしょうか？ (ファイナンシャルフィールド) Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T13:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "23d0c7f9fb88b0cb",
+   "title": "キャッシュレス決済音を一挙紹介(suica・nanaco・楽天Edy・WAON・Apple Pay・QUIC Pay・iD・LINE Pay・PayPay・ファミペイ・メルペイ・クロネコヤマト) Palermo (985eVQFXZ3)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmFDRGhYYl9xMlM4b1F4Y29RcWN1ZmtoaG8wWlNaNTNNQjJGNzBwMlBDVEZtTHB4dWVKdnFfejRSd0lzSldfbmhsRU8tTFNobWxudGVtZHE2Skg5ZWpmT3RGZ2ZKaXk0aGtkckxqRVZRWVpUZ2lsbDRNeGdQNUxicnhNS0d3aUE?oc=5",
+   "source": "Unisba Media",
+   "summary": "キャッシュレス決済音を一挙紹介(suica・nanaco・楽天Edy・WAON・Apple Pay・QUIC Pay・iD・LINE Pay・PayPay・ファミペイ・メルペイ・クロネコヤマト) Palermo (985eVQFXZ3) Unisba Media",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-17T13:36+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "70c7f4c5cddeda0f",
@@ -278,6 +384,33 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "4fb0d3a7400902e8",
+   "title": "【復旧連絡】10/17 Zaifカード決済システムの障害のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SUUNBdVVGNnhCaWZXUFJ4OGRzYk5BQXdPRTM0UHI1VmRPY29pTW5mYU05bHEzdmRNcXpBMHlQNFE3UlZTekxPbmtIeGFkNjQ5Q2Y3ZU530gFmQVVfeXFMUFpwckFNYzRqZnhpVV93ZXZtUWp5MzNnNE0zRlUwbERndURRa1hUcklscTNPcUw2SXQxdjU5bER2Uk9QeVQtTTN4QmZOSzJKUnh1LWRlLWZPT3ZDUVVRMkdFN1JMcDhn?oc=5",
+   "source": "Zaif",
+   "summary": "【復旧連絡】10/17 Zaifカード決済システムの障害のお知らせ Zaif",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-17T02:01+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "049683be23fea726",
+   "title": "市場噂話：アップル、iPhoneのタッチ決済を競合他社に開放するよう英国から圧力",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdkRSYW9CcjRhbHprSmg1NnVTenBVdFBUSC1VcWFhWWt1YVVYUTA2clpSMFV3N2lVdUNKV013QTA0YlczdEloNlE3M3dOLXdPanNmVGI4SUhIcEM5S21xcUhwYVdWckFHMUZzbmkwVXdld0UwbEwzdG95bVk3Qm44ZURlcjlpbWM2MElpWEFwLWxxOGRVWGpjaW9yNk9xdlZIRFE?oc=5",
+   "source": "Moomoo",
+   "summary": "市場噂話：アップル、iPhoneのタッチ決済を競合他社に開放するよう英国から圧力 Moomoo",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-17T01:09+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "ec3330aefe3b3e99",
    "title": "旅行予約サイトのスカイチケット、クレカ情報流出＝6140人分、不正アクセスで(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTR3eDdRQW1tR3B3cWRBWXpnbUJKd2tibEF1TG9ieVVvZjlMVFlNbTlVU3ZxMjRHX3NqRktyNEF3RWE2U1I4WmNfYXlBem4tbktIMEJpMFJzUThYdkY0QnRsbDRnOFBrcGo4VDRmZ09FT0xOWGZKLXpSZnZuQXZualloQXMxLVU?oc=5",
@@ -289,6 +422,19 @@
    "type": "news",
    "published": "2026-10-16T23:24+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "664f79fb7fcdebda",
+   "title": "電子マネー時代に、親子でお金について考えるきっかけをつくる。金融経済教育推進機構と取り組む「かいがら書店」が2026年度グッドデザイン賞を受賞｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCcVNiREpqR0V5RE5RX25GeXpUdnFLc1pvbmdPMzdtbDFXR0dQRHJHVVQyQThLZGkwM0o0Skx5dDFaaXBkNW9FZkxfX180RDZCenRabW4zd2drVi1hUFdLYVoxcFJrQ3E4X1E2WWNIOWlIZw?oc=5",
+   "source": "Infoseek",
+   "summary": "電子マネー時代に、親子でお金について考えるきっかけをつくる。金融経済教育推進機構と取り組む「かいがら書店」が2026年度グッドデザイン賞を受賞｜Infoseekニュース Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-16T22:40+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "cec12bfb7c119bda",
@@ -577,6 +723,19 @@
    "type": "news",
    "published": "2026-10-16T16:39+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "61d46aadd4735684",
+   "title": "【画像】日経新聞でも…183万件の個人情報流出 ヤマト運輸も約531万件の情報持ち出され発表 「後払い決済サービス」に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OOE9WeWRoT2FRSXB3WE9WUVBLeHBnWWRmRjVLbFBJTmxKTi1QNGhLbDNxeVgwZnBUVGxqVVo3a1RMQUxjNFdMaGFFc1Y3dE9VYm5xekJzSDF0N1hrbDZlRFdPdFllRm40WVJvS0tMdmJFRGVUUzI3YndCN2w?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】日経新聞でも…183万件の個人情報流出 ヤマト運輸も約531万件の情報持ち出され発表 「後払い決済サービス」に不正アクセス ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:35+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "f6d7a1694cd5664c",
@@ -1699,6 +1858,20 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "946aca7ba40d4bda",
+   "title": "PayPayのチャージ方法は？おすすめのやり方と相性の良いクレジットカードを紹介",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3UmpXVXRQZGRqdW1mazRIMXR6b29XWXh1Z0hIZXI3WmszeWdtSlgtbXpuT3NfY2EtUktUQXo5ZDVaTjQ2QUhTTS1XSGRYbi1xQUUySEJWSVpwS0VEYjhn?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "PayPayのチャージ方法は？おすすめのやり方と相性の良いクレジットカードを紹介 投資情報のフィスコ",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "5ca73fd4dc3bd5f2",
    "title": "メルカリにForterの「AI判定プラットフォーム」を本格導入 クレジットカードの不正決済を防止へ",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DaFR3MG1NcHNwSkhGRFAxazZzYV9NUG1hSDl4VFQyQWdqNDk1a0s5ZmVPTVBQcXI3dmJOLTRTUG54Vm14OXZ1dVVfMVRobHk2N3ZjRHByR2E1dDVyYk5N?oc=5",
@@ -2149,6 +2322,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "d7250e2a8cdbdea8",
+   "title": "【画像】熊本県内のバス・市電などが「タッチ決済」で半額に -「熊本応援プロジェクト」10月29日始動 3/3",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1YTdER2hIRmNuNWRoeTdVT21idXY5WEsyUDNuVWI1VEdlbUVVRWpTX2JObGpFWmM1RllzcC1PZWN4SzNZblpleGZLM2FwT29VUVhBYV9mc1BUT19KR2Q1UHFTZGVfZE1JWFh0UVh3bXpyY0VqNkhzaHpJc1g?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】熊本県内のバス・市電などが「タッチ決済」で半額に -「熊本応援プロジェクト」10月29日始動 3/3 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T08:59+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "937255a06b0b5cab",
    "title": "免許証画像は1枚20円､クレカ情報は1件2370円…個人情報が流出→二次被害を招く\"危険なSNS投稿\"とは",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CdEhBbHpNdWhJZDA3VFNvYVFoSHVBaGhqNnkwM0lsR05DQThzNjRuMFlaOXAyX0hjRXFSSHltQ09SY2xXY3FOamVXTjFEcjNGUzVreGE3ZGU3MVNyS0d5QlE4M0dhMGZlX0FGdW41empLRWVjUE45N25BblQzWVk?oc=5",
@@ -2541,6 +2727,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "74e568153bddbce9",
+   "title": "年会費無料クレジットカードおすすめ25選【2026年最新】高還元・特典で徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zSGxrQzRWTzNKTDZGY0FvZU9ybmJ3bzhWSk5neUV3LWk4al9wOU11NE84TXJNVm5wLURhSlVJSF9UQzVmOEhyWUFJaV90c2VMSldHQ0lHQzR3TTZkWV9aR1M5OGVoSlVmaVRN?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "年会費無料クレジットカードおすすめ25選【2026年最新】高還元・特典で徹底比較 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "793733093ffef692",
    "title": "Stripe 、 Meta などと共同開発するパーソナル AI エージェント 向け オープンスタンダード「 Pers",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmNUREZpdnZybWxINDBMY1dFMkpiUWhqblkwNFJXaFF0YVNScnEyY0M0QmJaWk12cVFOU3RhQzVfQl8zbWFGZkZ6Nm9nYnduN0taUWNwNlp1Y2Y1ZFVZNHBBV1k1UlhGNkZZb1ZUa284WEVndkhNZVA3UHowUDRHSHBBSm5tazNmTVRnVVRR?oc=5",
@@ -2883,6 +3082,45 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "4f6a37916eb82254",
+   "title": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 22枚目",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxSi1UR3JpVVNkbXRlVVNYbExPdU5OTEVjNHRPcXNsVHc4N1h2OHhSY2lRMnlwRjVUai1hb21ROTBaeFJuVE1kQmpBcGM2LU9Nb2xidkpkYWlldkU?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 22枚目 オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "0aec289756180a74",
+   "title": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 9枚目",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbVc2Q3dYaVI5SHhSTWhDcDltcUhPSHlObEtsLS1wZ0cwVDBNN3BjczBSbjdTX2M4U3l3Z1IwVGhEZXRmWk1lMGJETDBlLXpHUHVYSEZYSHRqZw?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 9枚目 オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "33763feceac26100",
+   "title": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 2枚目",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jYlI2LWIwSHFZZWRfLUw5aUdOU2FETFhNb3llcG5pU25ITWtpOGJkU0NybG9xdG9kTDY2WlBXUkVJd01TLTI2TlRzWENnZHVmSHVZckNoRUkwZw?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く 2枚目 オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "aa2aef8b06b65499",
    "title": "三井住友カード、Mastercard(R)限定で「マスマスお得な秋！」キャンペーンを開始",
    "link": "https://prtimes.jp/main/html/rd/p/000001012.000032321.html",
@@ -3209,6 +3447,19 @@
    "company": "株式会社GOODREI"
   },
   {
+   "id": "67cdc7d8c10a20a6",
+   "title": "親の死後、クレカを止めても督促状、残せば無駄な課金の二重苦｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GMUIyMGVrMmlmRDNtN3lDSU1taVgyZHFsLW9uYWN5SjNzVDhYUkRTTmZJX19LbU54X215M3M2Z3RzMFVaNVdkR3pmTGs0dWdlY2s3QXhDNmM5aklsTGJESFg5My14TGNaS2tyVXVLMmk1QQ?oc=5",
+   "source": "Infoseek",
+   "summary": "親の死後、クレカを止めても督促状、残せば無駄な課金の二重苦｜Infoseekニュース Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-14T10:10+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
    "id": "ca319d5a1883eec1",
    "title": "「熊本応援プロジェクト」始動 2026年10月29日（木）よりタッチ決済で熊本県内全域の移動が半",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3NGRHdNWkpfNHdMWmVPaFRkakdITUluSWw1WjU5bnJVOXFXMEI2ZGpVNENBMkpqM1lyaWhVMTJtZFRPbTdtQmJDR1ZpRkRUaXY1V0ltdFRNelZBcmUzQ2FVempmelZ5eFN2VDkwU1BlNXFBLXJmWTN5OHlpU0dkVzBUWlZJaFB1WnBQWWY4Q2g?oc=5",
@@ -3463,6 +3714,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "64516862c3ab123b",
+   "title": "中国はVisaの国内カード決済市場への参入を承認した。",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGh5NW1LVkVxeFdhUkUxQXpHQlRGUHVYeWkyNTNvb0xiSzhucTNkS1FqZ2ZXbnFlUVNTMlEwWE5wcktTV2ZydXdSTU0yaGg3TmJaajA2T0tJUGF6TEVJRDBGeW9vLWJwX3VIOU1GQnVRYVVzTVFSMkNuSHdubFk4eUljczdYOEt0aTY5M2RrWEZQX2tOQXpXcFhTTm9COUp2?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "中国はVisaの国内カード決済市場への参入を承認した。 Vietnam.vn",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T23:53+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "80aeebbf0e769ce0",
    "title": "＜画像3 / 3＞人気ゲーム「ラブプラス」がクレジットカードに！会員限定のレアグッズも",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iWUtlTVIxZGhhbWk4MWNXVzJuWjRBdjg5d1FHNmFrbnFEUzM5YkVnUmJqTWxXM3UwYmx1WW5hQnlvR0EtOFFUSXI0dFFoNWxaWVhtOU5zQWcxbXk3eHNNWFI3TjB5RGM?oc=5",
@@ -3474,6 +3738,20 @@
    "type": "news",
    "published": "2026-10-13T23:10+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e4186aaa1f282fbe",
+   "title": "PayPayがVisaと提携しアメリカ進出へ(2026年2月12日) Shania Twain (1FPqPMeSIw)",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JTHBYeFNnTHJQQkRsTTRIdzBrTWlONndCeXpkbi1sdk9UYkl0SlpKdTVsR1dZTkIyZ0dqRUVuZTBlZFhQMmJTRVBnT3N5TXVRcWVHclJCaW9GZ0JVLUhDN0NwZkJyc3ptOXFmWg?oc=5",
+   "source": "Unisba Media",
+   "summary": "PayPayがVisaと提携しアメリカ進出へ(2026年2月12日) Shania Twain (1FPqPMeSIw) Unisba Media",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-13T22:27+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "838df6b5580000e4",
@@ -3618,6 +3896,19 @@
    "type": "news",
    "published": "2026-10-13T18:02+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "980b2cb7dcb2c040",
+   "title": "プレスリリース：琉球銀行、スマレジとPOS・キャッシュレス・免税対応の推進に関する業務提携（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NOVpjVXdXdl9lbTBMaXNzM0hFa1BZeVNaejlyRjlzdk8ydm5rU2lsRHk5aEFUQWV4ZGp3OXktZklTT1FtUWpYZTlGanVWbUVuMVVqSVIyZzdrLUYyVHlBZFh2Vjh0R1lv?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：琉球銀行、スマレジとPOS・キャッシュレス・免税対応の推進に関する業務提携（PR TIMES） 毎日新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T17:53+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "981f0db7fcbab540",
@@ -3816,6 +4107,20 @@
    "type": "news",
    "published": "2026-10-13T16:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d538aec8f2689f8e",
+   "title": "【ミニストップ限定】「Amazonギフトカード×電子マネーWAONキャンペーン」 | インコム・ジャパン株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PaWV4Q3lpQlB1LVh1N1lsTDBNUDZjS3p3STQ4czg0OFR4Q1hqSGFHanUwU0EzOVp5TW9sSmRTYkpmNy04dXlXamxJdXhWNTFuV2gtU2VscHlWZC0wVDFwZkdYOVBTLWdkT1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "【ミニストップ限定】「Amazonギフトカード×電子マネーWAONキャンペーン」 | インコム・ジャパン株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-13T16:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」",
+   "company": "インコム・ジャパン株式会社"
   },
   {
    "id": "69952769e924deef",
@@ -4408,6 +4713,19 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNExzMmlkTEhuWjhkMTdmaG80VkItZlhsVWVLNFMxLVpJR3lrUnhrRlBCRXV4R0lDbDVGWERkUVFEbENmWkNpcVlIOUxGY0JtUlVGVHNod0dYSEFvVG1vQi1HTVl0QTJPUWVjRWxpTWo1UmFhQmhCYjJPejRXMUUzNEVmQWx5RG1wMTJOU3loV1lNTlVYV3BmVFNUM2luczhySzVfSmVCQmZXQTdjQklZSlVwNEhPeFJOQV9TUFN3?oc=5",
    "source": "Vietnam.vn",
    "summary": "ベトナム国家銀行第13地域事務所：地方自治体や区におけるデジタル変革の推進とキャッシュレス決済の普及。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T16:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "6eb204d4e48198bf",
+   "title": "シーマーツァイ地域保健センターはキャッシュレス決済を推進しています。",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQS0xZU5ZZnJzTGRocHd6U0hfWFF0ZlNLWldsY0JQUzhNaTJwTWJhblNzQ2Fyd2ozN2RSek10TEhTeHJFZkg1RENQYUdhVFJJTVBLTjk5eGRZUlZRZTNTSjVQSFViQmxjOVdzSnVhQzByYTM1ZzlzZXBUY1JtanVzQUV1NFlOTWVZeFllRkxwQ0JhQQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "シーマーツァイ地域保健センターはキャッシュレス決済を推進しています。 Vietnam.vn",
    "categories": [
     "cashless"
    ],
