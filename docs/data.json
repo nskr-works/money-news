@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T16:57+09:00",
+ "updated_at": "2026-10-19T06:58+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,99 @@
  "topics": {},
  "items": [
   {
+   "id": "537733f54b9ef75c",
+   "title": "PayPayがいるのになぜ？JR東日本が新コード決済「teppay」に乗り出すワケ",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OTTY4Y2VUaHhwckZOSHMyX3pNUW81eHFhb1hvSVNFN1VrZFFiYXZIbVRRRjVzbjZCRi0wOE5ZRjZOOXQ0RkZ0czBLMlfSAU9BVV95cUxPMXd6Qm1BbVZSZ2hCTnlkUDh1Q0N3LTRSQ3hoY2s5RWdBVDRROGJsZVB3Q3pDNHpZX3BsQzlqRXlDdXZfQmZrQ0czS0F6dTVF?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "PayPayがいるのになぜ？JR東日本が新コード決済「teppay」に乗り出すワケ ダイヤモンド・オンライン",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T06:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "841c43d34ca96446",
+   "title": "《経済やわらかゼミ》決済代行、未払いで混乱 赤字続くも銀行は融資継続",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pcDZFeThSRmUyY0oxS0d4Rm1xdVVCN1pHSk9TNkhDbkMwaDZEU3RoandJeXN1bHBIOG9SRlh6Q1dZWDY1cjh3OXNkMzl3UzNhMjZOcDJiVExiZw?oc=5",
+   "source": "上毛新聞電子版",
+   "summary": "《経済やわらかゼミ》決済代行、未払いで混乱 赤字続くも銀行は融資継続 上毛新聞電子版",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-19T05:00+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "d0a8982b879f036f",
+   "title": "JR東の新コード決済「teppay」は何ができるのか？Suica、PayPayにないメリットとは（ダイヤモンド・オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNaVRHQW14eHlGMUpPYnlhYTM2a2NLQkFrUFNfTWRRZVdZU052Q0VnaFRCNlVrNkNzeEtxVmNUeXBIUXNaRWhFM1psdGtKR2hMTUdwVlFqaVlsMFdCSTFNT1JmWnNYMnpjcGZvOVZyNVVnaEh5UDZhU2xUN1ZGZ3M?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "JR東の新コード決済「teppay」は何ができるのか？Suica、PayPayにないメリットとは（ダイヤモンド・オンライン） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T04:18+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "b1a2dfc0933aacbf",
+   "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jclEwY2xxdGlrVUhod0NpcG9JYWtiTDB1WGl5S3Rjd2FOYUUxUEZaSE51N05YRERXRVhJRF9FRWQta0JaTDE5REQzUllET2xNMnUxWVVB0gFPQVVfeXFMUFVGY1JBeURhQWtKV1VLMnZveHRROEg2QWVCZ1BHejYwMHIwUU51ZllTaERjN1JsME5FM2JxbU9fQS1rWHg3eFJBY1BFSUgzOA?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力 ダイヤモンド・オンライン",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T04:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "099d0e3cb46064a0",
+   "title": "リボ払いは残高が2倍になると手数料は約4.2倍に——仕組み・金利・分割払いとの違いを試算つきで整理した解説記事を公開",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FZEpESmQ4SHhDUm1aMjJ6Nm93aTZSSkhzal9YLU1FWDM0a2N0Q2kzalBqOFRIMDR5bWtxUGdGWEx1TE12U204dl9qSG9WbkE?oc=5",
+   "source": "アットプレス",
+   "summary": "リボ払いは残高が2倍になると手数料は約4.2倍に——仕組み・金利・分割払いとの違いを試算つきで整理した解説記事を公開 アットプレス",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-19T00:03+09:00",
+   "via": "@Press（決済）",
+   "company": "株式会社cielo azul"
+  },
+  {
+   "id": "736effd8e8ce2611",
+   "title": "「財布代わりです」無印良品の“190円ケース”に絶賛の声 「シンプルで大好き」「キャッシュレス決済の緊急時用に」 (ねとらぼ)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSTlUbUc0TFc0Y0xUaFRuLUE3SHRzMEhYcGtRSW05YjA1bVZpZ3o5VU1Oc2VoZTdCajVVejIyeFVHSm5fQ3FWWnhUMDlhZUdGcU1rRzdSanc0RVduem9hMUxnYlJjR2h0VW8yRzREa3JLenZ6bHhONEtYUmFOZ3pncG54RmJHaUxRLWl1Q2tR?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「財布代わりです」無印良品の“190円ケース”に絶賛の声 「シンプルで大好き」「キャッシュレス決済の緊急時用に」 (ねとらぼ) Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-18T15:20+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "e3ea235b392dc4c8",
+   "title": "「財布代わりです」無印良品の“190円ケース”に絶賛の声 「シンプルで大好き」「キャッシュレス決済の緊急時用に」（画像） | ライフ ねとらぼリサーチ",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96X1Y2NVI1Q2xsYlpDRWx5R05EQldBYnFDblV3NkdYVjNiS3VSdU96NjNnVldBRDBHM1NqZW1CbWlzWF80OG8zNDBUWFdJaGtpQzd1My1VYW82Z2RoRWRvNnhMbS1DM0xpSnc0?oc=5",
+   "source": "ねとらぼ",
+   "summary": "「財布代わりです」無印良品の“190円ケース”に絶賛の声 「シンプルで大好き」「キャッシュレス決済の緊急時用に」（画像） | ライフ ねとらぼリサーチ ねとらぼ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-18T15:20+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "87e68d1ecfbacc67",
    "title": "西鉄バスがクレジットカードのタッチ決済を順次拡大、福岡都市圏の全路線に…現在の８倍１３００台対応（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nQ2hEVDNNZFBBdUYtbl9aX1RoYUxiN2FYS1Y3STlFY2RKbmM3MWpTeGdNdTgzeTJyWEstRlVfSHl3WG5IaXluLTlTdW5RZlV0MHZqSHNfRTktOXBWem1IUDdxQ1VjNmozQk9paldDODVlaWV4ams2Ri1DSGxyRUk?oc=5",
@@ -57,6 +150,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "cb20af00813815ad",
+   "title": "生活困窮経験者の64.7%が生活必需品に後払い利用 携帯喪失につながる実態も",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ScTBOMk11bjQ0cFpqbGI1UEM3SHZrb1VOYjJmYVhQOVJpXzROU3JuZkhHMzBTN1EyS0FxbEtERnlmdHl2VVE?oc=5",
+   "source": "Dellows News",
+   "summary": "生活困窮経験者の64.7%が生活必需品に後払い利用 携帯喪失につながる実態も Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-18T13:29+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
    "id": "b1a2f589b83a2eb9",
    "title": "「娘と色違いで買いました！」 中川政七商店の“がま口財布”が大好評 「コンパクトになるのでキャッシュレスにちょうどいい」「軽くてお気に入り」（ねとらぼ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sdkFQQ3pSekE2bFRKZS1GZlQ1bkZxdEJxQjNtZWV2VmdsMHJ4cE9VbG9MalRSX295ZWVueGNnS2xhOW1OTWpqSThSZzd0RE5BdzZ1Qmd4YmtreUlEamFoT1ZKMFhBMV83QmgzeXFzelRYSWVYcU1RZ0VTY1hOa28?oc=5",
@@ -68,6 +174,19 @@
    "type": "news",
    "published": "2026-10-18T11:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "80c28da0cd2a77a0",
+   "title": "香典をQRコード決済のイメージ",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcFp1VWUxS3h6clg5cTJVeUNiSHUzcndjYVVXZWNyRDBfTk5FQlFVNEk3aHQ4ak95ZDFsemlDZUZadXcxRUVCYnlUMDhaT09OVmhqWFJzX2RWaXFuRGFxT2VlOEpWNVFERk5EUUdCcnRZaVdicWFrYlNXYUZFWTY2cXBoU21sZ3ZVZ0s4WVU4SmZFb0tHNlZBcUo5dEhEZldGTFE?oc=5",
+   "source": "産経ニュース",
+   "summary": "香典をQRコード決済のイメージ 産経ニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-18T10:01+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "7b62ef5a41f14a5d",
@@ -116,6 +235,20 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aV1puNGdYTjg1QUo4NHBwZGw4OEFOdktNa0NiN3pBcXlud0VXX0RhMTVEaTE3Y19fUzcteUVjZjVwUHFtbGRDN1BNc2MwRW80QWJEaGUzTmdUZw?oc=5",
    "source": "オリコンニュース",
    "summary": "画像・写真 | 香典をQRコード決済… 進むキャッシュレス化 寺では賽銭に独自の決済検討も 2枚目 オリコンニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-18T09:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "5a810ee472d068b0",
+   "title": "画像・写真 | 香典をQRコード決済… 進むキャッシュレス化 寺では賽銭に独自の決済検討も 1枚目",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82YWpRXy15U2k0US0td2FwWjU2ejVyemVvcVJnSXFkV1lTYlExbF9UT0VSWjNCVFFaSGdVVHgycEZEUmE5MjRmRC1FRS1qclFEYjRDV1lzUi1fUQ?oc=5",
+   "source": "オリコンニュース",
+   "summary": "画像・写真 | 香典をQRコード決済… 進むキャッシュレス化 寺では賽銭に独自の決済検討も 1枚目 オリコンニュース",
    "categories": [
     "cashless",
     "code"
@@ -241,6 +374,20 @@
    "type": "news",
    "published": "2026-10-17T16:23+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1bcc4397fa698f1f",
+   "title": "岡山県初！10月8日より、宇野バス全路線でクレジットカード等のタッチ決済による「クレカ乗車」サービスを開始します",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9USkIySDFiNkdOOEJVaEZ6Q3ZGeUJORC1YM3lJVXhTUXYxclZTaXlHR3J3M2pEQXdDX2tRRUItYlVZYWp6eDFWYTB1X3lGWlBrcXc?oc=5",
+   "source": "山陽新聞",
+   "summary": "岡山県初！10月8日より、宇野バス全路線でクレジットカード等のタッチ決済による「クレカ乗車」サービスを開始します 山陽新聞",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T16:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "b8f886d89b16bcc4",
@@ -602,6 +749,19 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKeE9TQkxTS01wdlc0UVJzcHRtWFZGS29TMV9jbXFOaUxTbjl2Umlzem9pY3VPWS1xTDJad21kZXlLVGN2MV8zdWFDdjR2U1JINl9zRTNzQU8weTJ4alpXeEpva0w5QU1sbko4RA?oc=5",
    "source": "日本経済新聞",
    "summary": "BASE子会社、2335万人の個人情報漏洩 209万人の一部クレカ情報も 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T22:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "53a4ee97ea69bf3f",
+   "title": "BASE子会社のEストアー、2335万人の個人情報漏洩 209万人の一部クレカ情報も",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKeE9TQkxTS01wdlc0UVJzcHRtWFZGS29TMV9jbXFOaUxTbjl2Umlzem9pY3VPWS1xTDJad21kZXlLVGN2MV8zdWFDdjR2U1JINl9zRTNzQU8weTJ4alpXeEpva0w5QU1sbko4RA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "BASE子会社のEストアー、2335万人の個人情報漏洩 209万人の一部クレカ情報も 日本経済新聞",
    "categories": [
     "credit"
    ],
@@ -987,6 +1147,58 @@
    "type": "news",
    "published": "2026-10-16T16:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "7395ac7beea140c9",
+   "title": "【2026年最新】クレジットカード最強の2枚は50代でどう選ぶ？おすすめ組み合わせ10選",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CeU53emtXSEFjUktXQmFDeVlLd1gxWnVNZXg3eGNtTlJnUmdSYmZjUW5VYVE3M2J4c2owczNZaUh3R0NIYjAwLThBVml3cWt2Ylp5bmNmNThsQUhjNml3bS1ybTliNU9GOG8zOUlUM1B0UQ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】クレジットカード最強の2枚は50代でどう選ぶ？おすすめ組み合わせ10選 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "05ceafa9088d06cb",
+   "title": "【2026年最新】家族カードのおすすめ人気ランキングTOP9！夫婦や子供にお得なクレジットカードを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xd21DM0U4aGRSemsxRW1XQ3FRczN3Ym8xenh1Y09zd1RqLS1UbjRaUkY4Nkl2UEtkRU1jd05YZlQteng4Qy1jU2FDZldJbWhFQlF2bHQ1d2FpUkNSeFZOM0lJODNndWtpd2c?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】家族カードのおすすめ人気ランキングTOP9！夫婦や子供にお得なクレジットカードを徹底比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "95f484db748c567c",
+   "title": "後払いアプリの最新おすすめ22選！審査なしでも利用できるバーチャルカードを紹介",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vMlIydW9PTzJkZTFCNUNYWVhYeVBHbmM0dk9xdnQzM19uWWc3VW8zVll1eW41azFmVEI2azZ1LTFPX1oyTFd1c1VtSUpuSEdRbWt1NGRYcURUYVIxbC1KeWF0ZDFubVl4aXJZZXRGbmNlRUJoMm5oc2pPc2U?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "後払いアプリの最新おすすめ22選！審査なしでも利用できるバーチャルカードを紹介 ペイメントナビ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d1ec5f0bd2311b43",
+   "title": "【2026年最新】Amazonでおすすめのクレジットカードランキング！還元率で選ぶお得な8枚を徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NLUJ0bU5hSE54UVI2UmpxczBQVUJCZ1NiOHpWS1FIT0poeTR6TVFTZUFfR1YzU2dxcjY1ZElnX2p3SDdUUzV5MGMycmJtWGNtaFZxVDVpUTM0bWJmZ2J1VUE5aG9lQmtlTEE?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】Amazonでおすすめのクレジットカードランキング！還元率で選ぶお得な8枚を徹底比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "437d4ea13fe4e3cf",
@@ -2082,6 +2294,32 @@
    "type": "news",
    "published": "2026-10-15T16:00+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "bb05b51b15975887",
+   "title": "ポイント還元率が高いクレジットカード16選｜3％以上の高還元クレカも比較",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PX19ZNFd4UUhWRHFXT1VZSHVqQm91dlVha2h2clJSZFZiWDl0VnJITGJ3SmV1OGl1MGo0eVViZk5WSEVXS0NNb0xYeEUxN2RQ?oc=5",
+   "source": "株探",
+   "summary": "ポイント還元率が高いクレジットカード16選｜3％以上の高還元クレカも比較 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0b191d75d7a1131c",
+   "title": "【2026年5月】クレカ不要ポケット型WiFi調査｜口座振替希望が64.6%",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWUdkb08zRjYtaG16SnNydm1xQ0ZHd0syTXBJWUZTV2VJN29KMHZ6dnY5d0x3THhWdGZBcGx5emZWOEwtdGM4aDVtWmo3RS1sOHhjOU9fQnlQOWt4TTEzcldxeTN6SmpPS1M1LVhR?oc=5",
+   "source": "株式会社ALL CONNECT（オールコネクト）",
+   "summary": "【2026年5月】クレカ不要ポケット型WiFi調査｜口座振替希望が64.6% 株式会社ALL CONNECT（オールコネクト）",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "5ca73fd4dc3bd5f2",
