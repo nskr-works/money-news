@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T06:57+09:00",
+ "updated_at": "2026-10-18T11:03+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,59 @@
  "topics": {},
  "items": [
   {
+   "id": "7b62ef5a41f14a5d",
+   "title": "香典をQRコード決済… 進むキャッシュレス化 寺では賽銭に独自の決済検討も（オリコン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zai1YQVVjMVRSSHkzeGRUbGtlN1l6WHlQSUZjTXd5R0NJajlxeVJhdVMzRmZmNXJzWDM4SUFWT3dCY01qblgxelFyQTdMd3licHN5ajhnQ3ExTUw4OXhuSDY3eDZPYUVqX2I4dHZfYVdmVmFGT2FzS1liRWpVVG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "香典をQRコード決済… 進むキャッシュレス化 寺では賽銭に独自の決済検討も（オリコン） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-18T09:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "86b1b8771952ac14",
+   "title": "葬儀の香典や寺の賽銭にもキャッシュレスの波、独自決済の検討も進む (2026年10月18日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sb1dwN2hPVk9JQnFleXZUS2Z3M0VrUlhVZkd4OERlUzhtQWFQVFhRUXc1eWdBeldGSE1BM0V0VmcxXzJCWkhSZmVMaEQ0bW5SRXJ3Ul9vYkR4ZWVKc2c?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "葬儀の香典や寺の賽銭にもキャッシュレスの波、独自決済の検討も進む (2026年10月18日掲載) ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-18T09:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "370d910e6ff8f028",
+   "title": "「12億円当選」を通知するショートメールが届き… 掛川市の20代男性、1万5000円分の電子マネー利用権詐取被害",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15RWRUZUxyWjlTa0FMcWhyaldyMEF0TU1wYnFvYk1nTHd4Z1hWLTRTRWFoY3psT2hYVTNXNFFBQmJlSWFJZ1B2c3JjRF91Zw?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "summary": "「12億円当選」を通知するショートメールが届き… 掛川市の20代男性、1万5000円分の電子マネー利用権詐取被害 静岡新聞DIGITAL",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-18T07:48+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "3e9bc9d439714a7b",
+   "title": "キャッシュレス推進とデータ利活用で包括連携協定（西鉄/ニモカ/三井住友カード）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wMEF2b1paOHlMQlBkQUtRNllIZkpxSUk1U3VzOHpUdEYwOEtHS3hSbWUydjFDMUZnQUtucVBoQ2xFY1pOd2psRTBwa3lqVU5SUTk5SVhoaTh5cTA?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "キャッシュレス推進とデータ利活用で包括連携協定（西鉄/ニモカ/三井住友カード） ペイメントナビ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-18T07:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "67ad081c3524d178",
    "title": "高金利ブラジル、クレカに悲鳴 多額債務、大統領選の焦点に",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4RlZ1Q1M5Q2Ewel9oZHM4cURNa0RYMUxwNkJHOFJfdGZzVGk5Q19UOHRvUGllMHlVOHlzTkF0MFNTQkxjSHgyUDBmSkhJcnZVNmlLbENEaHM2Y3pB?oc=5",
@@ -41,6 +94,19 @@
    "type": "news",
    "published": "2026-10-18T05:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "930e5dc41a424777",
+   "title": "ウェルネットがOEM電子マネーと地域マネーの提供を開始",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXd1VDVm85YzJham9qcFNqTXA3c1pva01mRUlFNC12dllYS19HV1lIeGxnQ2ZUSG00RUFaenI3ZTlwSU03TXJ3YW1ya1ctdUM4TDZZU0tsLWhsRTN6X3hNUw?oc=5",
+   "source": "Dellows News",
+   "summary": "ウェルネットがOEM電子マネーと地域マネーの提供を開始 Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-18T04:05+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "f0d315199a81126d",
@@ -2738,6 +2804,19 @@
    "type": "news",
    "published": "2026-10-14T16:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "15275352367f7748",
+   "title": "au PAYでのお買い物がお得！沖縄県宮古島で最大30％残高還元キャンペーンを実施",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92ZXowMEkxQ1RPZUMxNEJKb0R4TFltOTl3d1hEU0ZfNWVNMXRTQzVvUTZnRXU0SjBydlVaMnd3NW0zbnhyTWNoZUNwRkpTdnlnbVJpWVhR0gFbQVVfeXFMUDV6SkNfQ3Y4WmU5Y0xuLW1zNkFLVWtDcVhYdmM3cFpCQXN1Sjd2eThhR0hIbWJDXzJlaTJsQ01pT1ZmQ1doemROakpreHlYRVRURks0RENoX1NCMA?oc=5",
+   "source": "ウォーカープラス",
+   "summary": "au PAYでのお買い物がお得！沖縄県宮古島で最大30％残高還元キャンペーンを実施 ウォーカープラス",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-14T16:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "793733093ffef692",
