@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T10:14+09:00",
+ "updated_at": "2026-10-19T11:07+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,88 @@
  "topics": {},
  "items": [
   {
+   "id": "53b66e666c2e161a",
+   "title": "ワンバンク、カード決済が今年度1,000億円を超える水準に。家計管理からバンキング的サービスへ。",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMDcyR3Flc28tSDJ1aXEyYVZUNVhJeV9iU2xJc1JETUltMHlQMHA5RzIzX3hWSWEyN1ZnLWVNc0djVUVMMjJPbGNuWXNaVHJLTjJmd0I2Z0NZdk5faUhMeDg2UEdJdkdaTkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "ワンバンク、カード決済が今年度1,000億円を超える水準に。家計管理からバンキング的サービスへ。 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-19T11:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社スマートバンク"
+  },
+  {
+   "id": "42778a6025ee18c1",
+   "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地",
+   "link": "https://prtimes.jp/main/html/rd/p/000000005.000186424.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[INSPAY] ステーブルコインの発行・流通が拡大する一方、日常の買い物で利用できる場面はまだ限られている。こうした状況を踏まえ、自動販売機や店舗向けに決済端末と加盟店システムを提供するINSPAYは10月2日、東京・大手...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-19T10:40+09:00",
+   "company": "INSPAY",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "ba3d8891e95d062d",
+   "title": "越境EC支援のジグザグ、国際カードブランドJCBと共同で台湾キャンペーンを開始。 台湾発行JCBカードの利用で「日本に行かなくても、日本のネットショップから直接買い物できる」体験を提供",
+   "link": "https://prtimes.jp/main/html/rd/p/000000354.000018480.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ジグザグ] [画像1: https://prcdn.freetls.fastly.net/release_image/18480/354/18480-354-97895ab972f7e4d65cf2262d9dcb57ab-1280x672.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-19T10:40+09:00",
+   "company": "ジグザグ",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "e7b6290b47b9be3f",
+   "title": "skyticket、カード情報最大約6000件の流出が明らかに。データの保有はないがログに記録が残っていた 「ベネフィット・ステーション」利用のためのID・パスワードの流出も確認",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2149135.html",
+   "source": "INTERNET Watch",
+   "summary": "株式会社アドベンチャーは10月16日、同社の格安航空券比較・予約サイト「skyticket」における不正アクセスについての続報を公開。当初、データを保管しておらず影響はないとしていたクレジットカード情報について、最大で6140人分が流出していたことを明らかにした。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T10:40+09:00",
+   "via": "INTERNET Watch"
+  },
+  {
+   "id": "6a613451f1eb37ce",
+   "title": "ペイジェント、ビートレーディングと、BtoB決済領域で業務提携「ビートレ請求書カード払い」へ決済プラットフォームを提供し、企業の経理DXを支援",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aYlp3eWtCRGtYdl9ZTV9FazVXejY4T2xGbHc2WVRZOWFPeWFoSWtEYUg5b2tXQXlWX3pucmpvai1hTDlsODZaSEJfaklOZ2ZkZHNMVGVaSjliU1JUZS1EcmVOUmZzcVc1dmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "ペイジェント、ビートレーディングと、BtoB決済領域で業務提携「ビートレ請求書カード払い」へ決済プラットフォームを提供し、企業の経理DXを支援 PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-19T10:00+09:00",
+   "via": "Googleニュース「決済代行」",
+   "company": "株式会社ペイジェント"
+  },
+  {
+   "id": "a354a3911343c3a1",
+   "title": "QRコード決済に11月から手数料？ 財務省が偽情報と否定",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzT1VXVjZ4ZHg3NWc2SjZnWGwtaldmckhkYzBybk82UGMzRG1oWVkzazdaSlp3S1RNbUtPdmVaVTJ1Z0p5cTRnSy05RzdUMWszeF82clMxZGRTWFV6c2VtX2ZQMjJtV2tpSmdWMndzOA?oc=5",
+   "source": "mtown.my",
+   "summary": "QRコード決済に11月から手数料？ 財務省が偽情報と否定 mtown.my",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:50+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "02d8a20bc8df7141",
    "title": "外貨交換アプリ「Travel Wallet」のTravel Payカード、本人認証サービス（3-Dセキュア）に対応設定・再発行は不要。旅行の予約や準備のオンライン決済でも使いやすく",
    "link": "https://prtimes.jp/main/html/rd/p/000000005.000180601.html",
@@ -42,8 +124,7 @@
    "type": "release",
    "published": "2026-10-19T09:40+09:00",
    "company": "株式会社トラベルウォレットJAPAN",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "3d97023e0c9905ce",
@@ -57,8 +138,72 @@
    "type": "release",
    "published": "2026-10-19T09:40+09:00",
    "company": "フーリハン・ローキー株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "5dab6f757d90b634",
+   "title": "OneStore、Airwallexと提携 グローバル決済基盤を強化",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOW5XeDcySVF3SVh6QU1EaUNNNjNWd2R4Rm44MnN0QjV1VGFXOXdWc0s4N0tOT3IzQ0tqTEkxaU9JZEpvajNZZVFGQTR4WS1xdG83WEl6cEJDbDVLSnhoRk1ad1lVXzU0UFlwcnBDcW9xZnhGOW9PWEpwVVluV3B3NWFMQjVzcTZ6d3lBUnZTb3lhUE5KSm52QWhKWVV1YXJkTWV6bGZJNC12S1V6T0dvd2Fn?oc=5",
+   "source": "디지털투데이",
+   "summary": "OneStore、Airwallexと提携 グローバル決済基盤を強化 디지털투데이",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:27+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "2c72996a7e0665f7",
+   "title": "「攻殻機動隊 THE GHOST IN THE SHELL」の公式クレジットカードを提供（ナッジ）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSdFdrcU5RWkl2azk3MXM3b2xjeTF1RzRqQk5aSE9FUUdOekpZUEdBVGU5ZTVFVVNmOC1vUHk4N3hBbm80TmcxYXpzTlZQVFVMQ2N1dmRoa3dQVmc?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「攻殻機動隊 THE GHOST IN THE SHELL」の公式クレジットカードを提供（ナッジ） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T08:42+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "ebeedf1efde6ed3c",
+   "title": "クリエイター向けギフトサービス「Gipt」がPayPayに対応！ 銀行振込やカード情報登録も可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVMkJQcVlzWjRyV1c4ekRYdjVnbHNYMVFXU05QVl9CbG1IRTlndER0RHRuWnpuQTkwRjNpMkpqbUZxLTBDMGF6bFNNN2dHS1k4UUFxTXg2cXdacTRaaG5yT1JBNUthb0YyN2c?oc=5",
+   "source": "AppBank",
+   "summary": "クリエイター向けギフトサービス「Gipt」がPayPayに対応！ 銀行振込やカード情報登録も可能に AppBank",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T08:05+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "535945d052d7e76e",
+   "title": "「MICARD＋ THE ONE」発行開始、Visa Infiniteカード（エムアイカード）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95RjNQMzdsUmRXbDg2aHV0YXNEcGI0Z254MGY2eWpsQ1dpNWgyc0FITjdXMGFpTkk2NV8weU1rYkFUVTBGNTRXblpSWmVNUXNXSm5ZV2Z0aG5hVWs?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「MICARD＋ THE ONE」発行開始、Visa Infiniteカード（エムアイカード） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T07:40+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "c96d0e2752f0b86c",
+   "title": "「Cashmap」に「OLTAクラウドファクタリング」をAPI経由で組み込み（JCB）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPMHlRdElwcjRmOFRpRk1YWDVwSmQwZ1dhdXdocGFmSzJxOUpabGs2UGFPMGpoT2tvTE1KOV9Ec0xqTGVIVkgyWXVSQXpjNFFLVC14S0pJemZ2YnM?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「Cashmap」に「OLTAクラウドファクタリング」をAPI経由で組み込み（JCB） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T07:02+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
    "id": "537733f54b9ef75c",
@@ -287,6 +432,19 @@
    "type": "news",
    "published": "2026-10-18T09:00+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "a48ca2a1dfb29b79",
+   "title": "Mastercard、カード番号を守る時代から、なくす時代へ 利便性とセキュリティを両立する次世代決済とは？",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83VHRJV0dkM0c0V2d1YmstbzJ0WUlBNUJsZ3U4SVJNS3dmR1dNU0FYZ2prZ1NEUTNab2hOaW5veFFPbVNfbVlnd2Jwc3NSMXZlTi16aTFmc29LSlk?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "Mastercard、カード番号を守る時代から、なくす時代へ 利便性とセキュリティを両立する次世代決済とは？ ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-18T08:30+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
    "id": "370d910e6ff8f028",
@@ -1232,6 +1390,32 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "9ed5cc63e0bd8135",
+   "title": "【2026年最新】公共料金の支払いにおすすめのクレジットカードランキングTOP7！還元率で選ぶお得なクレカを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBYjNwdjZ5OXBPUmdmZThUQ1l1WURoY3JULW00UEJXdFJpVzhGaUFLMlAxbUszOFV6dUNXSVhNZm9HSVpDUm1EbTVyNXRHbkdPdC1DWU1FdDREa1l5Mm1SU3hQNF9ySUhZM0o1Rm9WTHljRlU?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】公共料金の支払いにおすすめのクレジットカードランキングTOP7！還元率で選ぶお得なクレカを徹底比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "96004fdfeb27d288",
+   "title": "【2026年最新】結婚式費用におすすめのクレジットカードランキングTOP8｜選び方と注意点も解説",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5cWVRdThRLVF3ZngzMEFNNS10LW9aR0pUdjdEUDFtSGczakw5bkVDVkFnOVNkajYxaEZoemx0cTJ4ZGNIYTg3N0JVY2laWS1wX3BVOFhjYUtXc3lQRzNoOTIxNldQM0V3TmhJ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】結婚式費用におすすめのクレジットカードランキングTOP8｜選び方と注意点も解説 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "437d4ea13fe4e3cf",
    "title": "西鉄、クレカ乗車を路線バスに拡大 Vポイントたまる新カード発行",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6OVhQUVNfdHM1d3NEaUUtTnBiOW5rb0M2MmFyZG16R21TYUxRWEhoNWNPUk9jM0d2YXFHVndvZjI5U0ltQ1pxdXkwYlhwNERESnhoaDg2ei1tQ21HR1AwQnlkQlZBVEdLUHBqMA?oc=5",
@@ -1443,6 +1627,19 @@
    "type": "news",
    "published": "2026-10-16T13:30+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "881c6c36e80e75ce",
+   "title": "三井住友カード、バス1300台にタッチ決済拡大へ 西鉄・ニモカと包括協定",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ic1JETlBOZ3k4VjVwOTdqTVBrYWo0Vnc5N0d2azFaZ0VZWXFJNlVITUR6a1RVR2RRUkpaVUprUXNid3g5dFNBT0drMHZGbmxTU3VqZHlR?oc=5",
+   "source": "ニッキンONLINE",
+   "summary": "三井住友カード、バス1300台にタッチ決済拡大へ 西鉄・ニモカと包括協定 ニッキンONLINE",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-16T13:24+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "78f08fb22e02e20c",
@@ -2808,6 +3005,19 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1YTdER2hIRmNuNWRoeTdVT21idXY5WEsyUDNuVWI1VEdlbUVVRWpTX2JObGpFWmM1RllzcC1PZWN4SzNZblpleGZLM2FwT29VUVhBYV9mc1BUT19KR2Q1UHFTZGVfZE1JWFh0UVh3bXpyY0VqNkhzaHpJc1g?oc=5",
    "source": "ライブドアニュース",
    "summary": "【画像】熊本県内のバス・市電などが「タッチ決済」で半額に -「熊本応援プロジェクト」10月29日始動 3/3 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-15T08:59+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "1118f3df19533da9",
+   "title": "【画像】熊本県内のバス・市電などが「タッチ決済」で半額に -「熊本応援プロジェクト」10月29日始動 2/3",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDTTk2LU5GeUUzWS0yWG5BUnBUU2VmMUhZamhOOGVMUUt1akdWajhadkNCQUROSGIwRGU3UGNNQVVUQk5CMlJXUVg3YWUwSVp4QVZRUkY3ZTJ0Y0FyMjNPemR2M1VHVDVyMjhUUnktVEdYS0UxRHNhU2xURFE?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】熊本県内のバス・市電などが「タッチ決済」で半額に -「熊本応援プロジェクト」10月29日始動 2/3 ライブドアニュース",
    "categories": [
     "cashless"
    ],
@@ -5193,6 +5403,19 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Bam1fMjJMOVF0SG02WmMzY1U4X0FMWUFaeU81VG5kR3h1WC1YQ3FsV1RHOWhXOEJVV3I1TDFwc3NMUkIyWEl3TVNvOUlqaHhEdWpRTzZfNnAwVWht?oc=5",
    "source": "号外NET 吹田",
    "summary": "【吹田市】万博記念公園がより便利に！入園券と駐車場精算でキャッシュレス決済が2026年10月1日（木）より導入スタート 号外NET 吹田",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-12T18:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "bd17c241015e5548",
+   "title": "【シーホース三河】2026-27シーズン ホームゲーム会場におけるキャッシュレス決済導入のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94d0IwLXd5VGZBdWNmNHJkODYyYXFhb0cwWVk2Z2I0eWFFMkk5cFJIRl9KdU94MkE2S2pGa3hmdlNCYnpqYTRuREc0QjVPVVJpVERnamwxTEEyNVZvSzg0QUl4VG9rZFEtb21odWkzUkh1NDg?oc=5",
+   "source": "スポーツナビ",
+   "summary": "【シーホース三河】2026-27シーズン ホームゲーム会場におけるキャッシュレス決済導入のお知らせ スポーツナビ",
    "categories": [
     "cashless"
    ],
