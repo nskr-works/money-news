@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T15:05+09:00",
+ "updated_at": "2026-10-19T17:15+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,45 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "d6cc573410a0e8bf",
+   "title": "宿泊税を活用！弘前城植物園の券売所でキャッシュレス決済の実証導入スタート 青森・弘前市（青森放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNkktd0sxVEhiM2ZrbXE3TmRORV90U19hVjR1RU0tMXFCMGJ3R0hXbXhaWnl1cllvdFV5WFUySmZnaGRZbGpGZVRsWEtrZ3l5T3ZWNmp3dTFNUkJNWndlTHdNLWVMTk0wcVQ5S0xwRFh4VjUwNG1IajZvNEFOeDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "宿泊税を活用！弘前城植物園の券売所でキャッシュレス決済の実証導入スタート 青森・弘前市（青森放送） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T16:40+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "47d83460b61e0e7e",
+   "title": "三菱UFJニコス、推しキャラを表示できるプリペイド決済アプリ",
+   "link": "https://www.watch.impress.co.jp/docs/news/2149281.html",
+   "source": "Impress Watch",
+   "summary": "三菱UFJニコスは19日、カードにアニメやゲームのキャラなどをデザインできるプリペイド式決済サービスアプリ「応援+カード(オウエンプラスカード)」の提供を開始した。15歳以上のユーザーが申し込める。発行手数料および年会費は無料。希望者には有料で物理媒体のカードを発行する。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T15:18+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "3791b83b2016c75d",
+   "title": "阪急・阪神百貨店も個人情報漏洩 予約サイト経由126万件 クレジットカード漏洩も調査",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5aTdQSk9GVWZnYnBMbWJveVpIVmZVYnJJeGN2OHFFUXJPUXpVUEU4SnNmbEpDNmdkMkVsQTFSR2o0dllyOG5DZk9tVHVOQmF5LTVmVTVYTHc3eFJSTkxvQnItMUlmQzlIM2RkcVc1T2diSXdzcXc?oc=5",
+   "source": "産経ニュース",
+   "summary": "阪急・阪神百貨店も個人情報漏洩 予約サイト経由126万件 クレジットカード漏洩も調査 産経ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T13:43+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "019ffb3aa943b153",
    "title": "ハッピーカーズが代表著書「フランチャイズ革命。」出版記念DJイベント「― Be Together with Happycars ―」を開催",
@@ -95,8 +134,7 @@
    "type": "release",
    "published": "2026-10-19T12:15+09:00",
    "company": "株式会社セブン‐イレブン・ジャパン",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "76d9dde7e835ec93",
@@ -194,6 +232,19 @@
    "company": "ストライプジャパン株式会社"
   },
   {
+   "id": "10411bf11e873380",
+   "title": "ヤマト運輸の後払い決済に不正アクセス 約531万件の顧客情報が流出",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PcDlYWVUxcjFCYkw3T0pSZG1IMWk4WjhMZldqMzdaZVRiRnFBX3kyYk4yNGhPZUpMVTBBMGQ4NF9Sck84Yncxbg?oc=5",
+   "source": "株式会社アクト",
+   "summary": "ヤマト運輸の後払い決済に不正アクセス 約531万件の顧客情報が流出 株式会社アクト",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T10:45+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
    "id": "42778a6025ee18c1",
    "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地",
    "link": "https://prtimes.jp/main/html/rd/p/000000005.000186424.html",
@@ -262,6 +313,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "ed9e59b2992a13a8",
+   "title": "決済業界、M&Aによる業界再編は新局面へ。キャッシュレス化の進展や異業種参入の潮流を分析｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lTm1JWm11a2huUlBUSEZqeUp0TG5pb3pxRVZZZlJuY19sQ182cTdxT3phSkcwY2RibHY2SjJSakd2X294a015ekN4OUNncndET2FtSmFVTlViWFBfTVBuYnVpRVBuc1Zvd3VoRkNUdnpPQQ?oc=5",
+   "source": "Infoseek",
+   "summary": "決済業界、M&Aによる業界再編は新局面へ。キャッシュレス化の進展や異業種参入の潮流を分析｜Infoseekニュース Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:45+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "02d8a20bc8df7141",
    "title": "外貨交換アプリ「Travel Wallet」のTravel Payカード、本人認証サービス（3-Dセキュア）に対応設定・再発行は不要。旅行の予約や準備のオンライン決済でも使いやすく",
    "link": "https://prtimes.jp/main/html/rd/p/000000005.000180601.html",
@@ -315,6 +379,19 @@
    "type": "news",
    "published": "2026-10-19T08:42+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "0b36cb035ecaf7e4",
+   "title": "【PayPay】岩手県平泉町で最大20%ポイント還元するキャンペーン - 12月1日からお得なクーポンを発行",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lS2xFU0VMa0FyanhOU2dEc3VRR2RrSXYwdkhwQTYzX1FZT29wSjRHbWRUWXJEY01fc09JSlNZMl9Pa0xILW9QNFZ5S0RGQ3FiOEdJaDdyTkZTVDY1?oc=5",
+   "source": "マイナビニュース",
+   "summary": "【PayPay】岩手県平泉町で最大20%ポイント還元するキャンペーン - 12月1日からお得なクーポンを発行 マイナビニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T08:30+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "ebeedf1efde6ed3c",
@@ -489,6 +566,21 @@
    "type": "news",
    "published": "2026-10-18T15:06+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d60829d2b09d5fd6",
+   "title": "メルカリのスマホ決済「メルペイ」が不正利用されている？自宅にいるのにゲーセンでの利用通知が止まらない→不安の声が集まるが通知タイミングの問題かも",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PNW0zRnVRN18yS1VZRUR3U2o0SmxpWERXR0VJd3VJcGtQRVN1RDNMXzNiNHk3SnphdmVfblBnQmg3cmYxYUE?oc=5",
+   "source": "Togetter",
+   "summary": "メルカリのスマホ決済「メルペイ」が不正利用されている？自宅にいるのにゲーセンでの利用通知が止まらない→不安の声が集まるが通知タイミングの問題かも Togetter",
+   "categories": [
+    "cashless",
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-18T15:00+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "7ec70119efc91746",
@@ -689,6 +781,19 @@
    "type": "news",
    "published": "2026-10-18T03:44+09:00",
    "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "d0fee38a6a416a1f",
+   "title": "名古屋の地下鉄で9月3日からサービス開始 クレジットカードを“タッチ”して乗車 VISAなど7ブランド スマートフォン設定でも",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEb252ZzhqMGZTODhNVEQ1YnJlSEdXZENDQktZUjdoQ2pjZ0t6WGI0cFdxblh1aDNrS3hhV0p1dnkwSi1WM21MMGRMdkc0blFwOHE1Wm5TZzF6TWdGTnZz?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "名古屋の地下鉄で9月3日からサービス開始 クレジットカードを“タッチ”して乗車 VISAなど7ブランド スマートフォン設定でも TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-18T01:33+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "b348c7dd90b17f63",
@@ -5029,6 +5134,19 @@
    "published": "2026-10-13T16:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」",
    "company": "インコム・ジャパン株式会社"
+  },
+  {
+   "id": "b88bad892e385895",
+   "title": "市税以外の公金も！便利なキャッシュレス納付がスタート！",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wR0ZlaDgzZFJ5d3J0QWpnZkVadmJsVm5VbG1hMUNVX0hhcEk1NVpSOTY0N3k4clhKaGNsaHNNQTNiSURJaWZ2RS01dWZXVDVialFVSU5uREhCa1ZzbGFTbldVVy1XZ1lE?oc=5",
+   "source": "北九州市",
+   "summary": "市税以外の公金も！便利なキャッシュレス納付がスタート！ 北九州市",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T16:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "69952769e924deef",
