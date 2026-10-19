@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T17:15+09:00",
+ "updated_at": "2026-10-20T07:04+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,180 @@
  "topics": {},
  "items": [
   {
+   "id": "74f90cf6bd9f9ed7",
+   "title": "［経済やわらかゼミ］決済代行、未払いで混乱",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSVdYamR3NmRkeE5SdXY1cmsweDhqaEpoSUlENlVkZFFra094T21McnRGdXRSbUIxQ1dLMTNISkhEUUtxeTFqdmc4VV8zTldqZEtBdzFEWm1NYmhuS2lyWg?oc=5",
+   "source": "愛媛新聞",
+   "summary": "［経済やわらかゼミ］決済代行、未払いで混乱 愛媛新聞",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:00+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "4cd6a7c8b2cf7d05",
+   "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか（ITmedia Mobile）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQ2tIN2YwMFA3eXloRTJLbzJxdzNHX3liX25oaGtsVXdwYUo4RW52ODBfdHAzWDJmWV9rRTFWLWJwY1lOV2c0REViVE8tejJoZkEwSTdCSW1HQXhjYmVxTF93aEhLSkZSZ1B0RE4teXE0Tm40OXpkMFBEMXBwWWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか（ITmedia Mobile） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T06:05+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "f5a5849553dedab6",
+   "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HUy1aT0ZqRERpVENfRk5TT1JPNFJGVWxNd0JGTHZzelRTamtWMDV5b2kxcGQ3UVdja0JjZ1E2aU5kVWVYWU9tVVdray1lRlpVVHR1VjB4NEZYWlIyUzBVQ0E4NE9uYXRvdFI3UjRYUdIBaEFVX3lxTFBfN3M0TWlXMmx1Z3pYcmhpMDBGQmVWRXF2TldIRm1ESFdQMmZKMTYwUllkN2lNRnVBUlhvTTZBWFh1RjlhVU5HLTdHOTNhdGZwcmZEYkpMUGROb2ZnVklTWUt2alE3QUNm?oc=5",
+   "source": "ITmedia",
+   "summary": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか - ITmedia Mobile ITmedia",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T06:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "dc9746c1eda73c2a",
+   "title": "VisaとMesh、暗号資産ウォレットを1億7,500万台の決済端末に接続",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cjRJTWFrQlVhNGpodU5NYndmMm5aaGY5eFg5VW5WTXVMVFlETE9mcmpLSjQzQ3lUWXhWdm8yUFA0LUpwNGdHd3NRVzVkV1IxVXNvM0QzeDk1bFh4VmVxMEd3bWl0SENUTVdnR1JpSkRxTnZQ?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "VisaとMesh、暗号資産ウォレットを1億7,500万台の決済端末に接続 BigGo ファイナンス",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-20T02:35+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "ce8198b83c7780f7",
+   "title": "本日提供開始！Suicaコード決済「teppay」",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ3BHVHUtSmItMldUbWUwSWE3bURvcXB1SlpWZ2dPbHdQYW1KS1I4OUlFMFdqbjNaV0JSUWw2bGJGLWl0N0Y4czZMejlzUmpfZjNid1hyVllaeHVSZXVOdHRDV3BmQUxLZEZDczVyZ0h0RWNmbFNrbEtXcWtOdw?oc=5",
+   "source": "Jetstream",
+   "summary": "本日提供開始！Suicaコード決済「teppay」 Jetstream",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T00:34+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "d58d578eaa2a6005",
+   "title": "「iPhoneのタッチ決済に150万の穴！？」Visa登録者は要確認！スマホUSB-Cの意外な活用法も",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LVG9JeVo5YUUtdklzanNGMlhrdUhSejdsNm1qVGkxOHk5eXE1RG1ta19hQkZrVHlHQ0xGWW9BWkpyU3FsUm9udXdxZVZhNEU?oc=5",
+   "source": "TRILL",
+   "summary": "「iPhoneのタッチ決済に150万の穴！？」Visa登録者は要確認！スマホUSB-Cの意外な活用法も TRILL",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T23:50+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "a37d60756aeb6994",
+   "title": "弘前城菊と紅葉まつりに合わせ植物園券売所でキャッシュレス決済を実証導入 弘前市",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oYU5LbUR6cE91c3NBWjFZWGNFcFhydGpjOUdFQ2tQdlJkYk1fUVJXaU8xeDVnYWQzRnQ1R3dYclk1NkFXRkhvQjB3NA?oc=5",
+   "source": "TVer",
+   "summary": "弘前城菊と紅葉まつりに合わせ植物園券売所でキャッシュレス決済を実証導入 弘前市 TVer",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T22:24+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "460a170c755e3fe9",
+   "title": "SelfPay、決済サービスと金融業界におけるパートナーシップの多様化に向け、ルーマニア国立銀行の認可を取得",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVRpMkk2WE1oYjEzU2pTM3NHZHBHMjhhU1JFd0VoUTEtS3A2LWhGX3BJMi0tRF9KQVBVSXcxLVBHUV80UVF0UVhHZXRVejFuSUJDTjdHNUdaREh5Wm9MdDFmT0pvYmFXNHB2WjdwU3Z0RWVyazAxTjRUbEJiQmYyalZ3ODNKME5XN05qQy1qSmRSUnZKWmhJNlVQRUFIRTA5UDY2NFlrOTZmQlNkQmk0ajZXa1F1ekdiTzd4X0JB?oc=5",
+   "source": "Informat.ro",
+   "summary": "SelfPay、決済サービスと金融業界におけるパートナーシップの多様化に向け、ルーマニア国立銀行の認可を取得 Informat.ro",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T21:38+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "fe8f03ea54a85b89",
+   "title": "タッチ決済からデータ利活用まで！西鉄と三井住友カードが切り拓く九州の新たなキャッシュレス体験",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tY1BBVHRWRUQ1ZGRhQlNLczduOWp5cFZEREpndk1NZmdHTVB4aThqUjd6MnI0LW5fSjhfOVJraDJWdjRUR2xLNnpCRHJmeG8?oc=5",
+   "source": "DXマガジン",
+   "summary": "タッチ決済からデータ利活用まで！西鉄と三井住友カードが切り拓く九州の新たなキャッシュレス体験 DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T20:42+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "6a6fd478391674c1",
+   "title": "刃物で脅迫する犯人、電子マネー買い求める客･･･ 強盗や詐欺の対処法学ぶ コンビニ５社と県警、鳴門市で合同訓練",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zTHVxRU5PVmFld1lQWVN6bVNUUnQ2OE1nMExzeFFXTHdhd0hxS2tQQUcxRXMzOXJuWGlhWjFPVnJQUzdmZS03MnZHYVZ4UDQ4NEZYLUVR?oc=5",
+   "source": "徳島新聞デジタル",
+   "summary": "刃物で脅迫する犯人、電子マネー買い求める客･･･ 強盗や詐欺の対処法学ぶ コンビニ５社と県警、鳴門市で合同訓練 徳島新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T20:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "34557282ab5c3b27",
+   "title": "専用レジ不要、スマホひとつで社内販売をキャッシュレス化。「ぱっとレジ」サービスサイトを大幅リニューアル",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wbXRvM0M4d3hXZVlWQ0xMaVh2MjlKRkxXdVhIX2c3NG5UeXFYTVpEa1hRS09IVGg2UE8xbWs0RzdiaWF6SmRiRUdacWJESUh2Z2puRk1yLTE3dDA?oc=5",
+   "source": "朝日新聞",
+   "summary": "専用レジ不要、スマホひとつで社内販売をキャッシュレス化。「ぱっとレジ」サービスサイトを大幅リニューアル 朝日新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T19:21+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "a42ccc5b092e1024",
+   "title": "弘前城植物園でキャッシュレス決済実験｜経済・産業｜青森ニュース｜Web東奥",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MeU5HdlJrbEZZRnIxUnUxNk1TT3paaXF4YXZhNGlXVTVxOUZET3FLWFctNjN4a3BSTzdUN2NsdmRBSVVONWpqV2RQZUlPdVprRnh4UjdoVUs?oc=5",
+   "source": "東奥日報社",
+   "summary": "弘前城植物園でキャッシュレス決済実験｜経済・産業｜青森ニュース｜Web東奥 東奥日報社",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T18:32+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "72af182cb39c3558",
+   "title": "弘前城植物園でキャッシュレス決済実験",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5T2FYeG4yeEtEckRWdjdZSXpuYlA5VUthYVNxNWxyY0hzY244QjZBNHVFVW1IV3lwelYycmR3Z21ibjllaUMxcU56dw?oc=5",
+   "source": "47NEWS",
+   "summary": "弘前城植物園でキャッシュレス決済実験 47NEWS",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T18:32+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "d6cc573410a0e8bf",
    "title": "宿泊税を活用！弘前城植物園の券売所でキャッシュレス決済の実証導入スタート 青森・弘前市（青森放送）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNkktd0sxVEhiM2ZrbXE3TmRORV90U19hVjR1RU0tMXFCMGJ3R0hXbXhaWnl1cllvdFV5WFUySmZnaGRZbGpGZVRsWEtrZ3l5T3ZWNmp3dTFNUkJNWndlTHdNLWVMTk0wcVQ5S0xwRFh4VjUwNG1IajZvNEFOeDQ?oc=5",
@@ -41,6 +215,32 @@
    "type": "news",
    "published": "2026-10-19T16:40+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "03252a84e394f581",
+   "title": "国際カードブランドJCBと共同で台湾キャンペーンを開始 台湾発行JCBカードの利用で「日本に行",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1pVOF9PM0s3cWFnTDR6TXdkRDlWa005TDBJOUkzZF9CU0JnMG1LT1M3bnNiTmhSVC1FcGNnd2dqbjFXTUhZT1ZsNWhleF9nd2JldnZHQllHbmhHUUppNnB1Wjdnbkh2ZkNzNUF6VHdhQnpxTmExRXlnUWZLdlNHMGVoZnROdVdIRjJldWZtMklCVkZwLVlrTGtGWTg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "国際カードブランドJCBと共同で台湾キャンペーンを開始 台湾発行JCBカードの利用で「日本に行 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T15:47+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "08718eba26780932",
+   "title": "ジグザグ[340A]：国際カードブランドJCBと共同で台湾キャンペーンを開始 2026年10月19日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wbkpxT25nMnAtNUZEVUwyQ2dyOUozdzVveTNvQjJYM0l2RFRyRENiMThYMllEb0tjRXdRM1llTXlEY0tSSHJ1WlhiaDNXMWRHdHg5S2xya09oUW5SdXZNTTBrWUFNN0d5VGc?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ジグザグ[340A]：国際カードブランドJCBと共同で台湾キャンペーンを開始 2026年10月19日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T15:30+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "47d83460b61e0e7e",
@@ -420,6 +620,19 @@
    "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
+   "id": "d624d240ad427dfe",
+   "title": "SP.LINKS、AEON Payの取扱いを2026年9月29日に開始へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4bU9vbXZNVzc5VVJqWm05NTBZM09mWHRkREJXdThuSW9meVZxQzlKWXFWVjA2S0RrSF84bnBWRVhid2hOR1BvaEcteVNTWDItVUZzN2NzX1lRMHNNcVFtSGh3SlJCdmJ6?oc=5",
+   "source": "Dellows News",
+   "summary": "SP.LINKS、AEON Payの取扱いを2026年9月29日に開始へ Dellows News",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T07:28+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
    "id": "c96d0e2752f0b86c",
    "title": "「Cashmap」に「OLTAクラウドファクタリング」をAPI経由で組み込み（JCB）",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPMHlRdElwcjRmOFRpRk1YWDVwSmQwZ1dhdXdocGFmSzJxOUpabGs2UGFPMGpoT2tvTE1KOV9Ec0xqTGVIVkgyWXVSQXpjNFFLVC14S0pJemZ2YnM?oc=5",
@@ -484,6 +697,20 @@
    "type": "news",
    "published": "2026-10-19T04:00+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "26dd9e0f47749a6c",
+   "title": "【画像】JR東の新コード決済「teppay」は何ができるのか？Suica、PayPayにないメリットとは",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aUlJXelR2ZnBSa1ZYQWlUay1uYlFNVXlmOE9xNTdjS0QtcWlPb1V6bUVJLVZCd0ZjbHVyVFpWTGJjTXdRcTk5NTVZWGgzSzYxWHZtYW1GT1lCYVNreWFsWnRCa2hzSDlWMS1INlh2NDZ0X0hhbEFwQUw2bVA?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】JR東の新コード決済「teppay」は何ができるのか？Suica、PayPayにないメリットとは ライブドアニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T04:00+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "a7b67f3dc85681f9",
@@ -702,6 +929,19 @@
    "type": "news",
    "published": "2026-10-18T09:00+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "f12b2dc8a67f95a9",
+   "title": "【画像】葬儀の香典や寺の賽銭にもキャッシュレスの波、独自決済の検討も進む",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBadGdYSjBxS2U0a2wtLW5BVktaX3hCd2VrU0ZfMWtvcmFiQzR0SEpqUjFoQzhfMXhqZDJWUWx1R09SbnlIZ1NNSWtFNzY1cHYtaVF3SGJERlFyTm9EaFZ2UTJ1Vzl1U0c2Rm5yOElvdVdnemFZYnFicFZlNnM?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】葬儀の香典や寺の賽銭にもキャッシュレスの波、独自決済の検討も進む ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-18T09:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "a48ca2a1dfb29b79",
@@ -1691,6 +1931,58 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5cWVRdThRLVF3ZngzMEFNNS10LW9aR0pUdjdEUDFtSGczakw5bkVDVkFnOVNkajYxaEZoemx0cTJ4ZGNIYTg3N0JVY2laWS1wX3BVOFhjYUtXc3lQRzNoOTIxNldQM0V3TmhJ?oc=5",
    "source": "新日本保険新聞社",
    "summary": "【2026年最新】結婚式費用におすすめのクレジットカードランキングTOP8｜選び方と注意点も解説 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b8a70f899dbde632",
+   "title": "【2026年最新】国民年金の支払いにおすすめのクレジットカードランキングTOP7｜ポイント還元でお得に",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vWVN4RFY1dXM4bjJUTTgxTDkwWUctdnhUY3loLW42M3BHQkEyNHFRQ29ONmotaWx0aWdEdGp5MkxyUWItb0Z1a3lkMEhmZUFuTVVQVzJxdTRxdk9kRXJzOTgxRTFNWU9WWVh1ZW93Qmd4RUVJRmNkaGZSdnNRRk0?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】国民年金の支払いにおすすめのクレジットカードランキングTOP7｜ポイント還元でお得に 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d89e424cfd0f019b",
+   "title": "【2026年最新】20代のクレジットカード最強の2枚はこれ！還元率で選ぶおすすめ組み合わせ10選",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPV3V5VDVKanA1am0wWVRRNWZEV2lyYldxeFJiUmdBNlpNdHdBQjQ2RU9VaHJzMFk1QlA3M0JabElxZEZCdGNoQ3dVbG1TR0ptbVJjUVFJcERNR21Ea2ozNkVIV1hnZ2c3SjdOTGcxaVFYZw?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】20代のクレジットカード最強の2枚はこれ！還元率で選ぶおすすめ組み合わせ10選 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5eddcbaeab063a73",
+   "title": "【2026年最新】ポイント還元率が高いおすすめクレジットカードランキングTOP10｜高還元の最強クレカを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KejRldlR1WDZfX1NlcmN2a01fSlpDQXNKcHhZc3R3WGE1c0VfSGU3N0lMVW5GYjBGSDZ6SFBUSDBJNVZaM3A1SjA4X1kzci1uT2tRYzljRkxsZ0VYYjc5V21pOWVHTnUwQ2NoVV9IZw?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】ポイント還元率が高いおすすめクレジットカードランキングTOP10｜高還元の最強クレカを徹底比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6978249fce432624",
+   "title": "【2026年最新】海外旅行保険が自動付帯のクレジットカードおすすめランキングTOP3",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92WDlxMXZvOEZDT2xhZkN4cU14NlpHQWRNX0lhVldpQkVkWFdlTWluM291RnZVaVRwRnNXUjgwWnpVdmczc2c3bHJCWEpaVDNZbnhRR0FZTGttOGFONFRoZGp6Ymt6U2F1eGpWeERvUUdueC1YQ0YtVzUxLXdhZw?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】海外旅行保険が自動付帯のクレジットカードおすすめランキングTOP3 新日本保険新聞社",
    "categories": [
     "credit"
    ],
@@ -2941,6 +3233,19 @@
    "via": "Googleニュース「後払い・BNPL」"
   },
   {
+   "id": "00584aae515c86c7",
+   "title": "コンビニで使えるおすすめクレジットカード12選！使い方と使えない支払いも解説【2026年最新】",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3YmNwN0ZKb3JLX012QmpJZzhXaE51NVZzWlhhWjY2ODUyWFpoai1hYmdvQUU5aWk1MUdQcVRQRHcyMi1rc1VrX1pBckYzLVBOXzliR0Rld2gwNVQ2bF92V0VSLXF0UQ?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "コンビニで使えるおすすめクレジットカード12選！使い方と使えない支払いも解説【2026年最新】 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T14:09+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "9de7e33c24332644",
    "title": "映画券名目で電子マネー詐取疑い 笛吹署が女逮捕",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xRGxhWThNODZZRVU4cFI0RTdRMnp1WEVIblZjeUtvSjc4Z0JrdG1wT0RsUm9lRlh4YmhJYjdEWjl5UUhWMmJ2b2VZTTJzbXRaZ251czFQODRnNmdZSE1lVUVodEs?oc=5",
@@ -3818,6 +4123,19 @@
    "published": "2026-10-14T15:15+09:00",
    "via": "PR TIMES（決済）",
    "company": "ストライプジャパン株式会社"
+  },
+  {
+   "id": "329eb0aa1e65732c",
+   "title": "コメント | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nVE92RW12bXBiYVczUXVwS254QlRwNlcza3lkeUE5RVZqNUZpblNvY3MyMy0yT2lic1JzYnNkYmtQSDk4cEJrX1VwRFh6ZklyYmstbUVXeXFlUQ?oc=5",
+   "source": "オリコンニュース",
+   "summary": "コメント | 松下奈緒、実際もアナログ派「タッチ決済で買えたことがほぼない」 “デジタルデトックス”も初めて聞く オリコンニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-14T15:01+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "6fbf7438059d703d",
