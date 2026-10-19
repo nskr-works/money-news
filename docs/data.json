@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T14:12+09:00",
+ "updated_at": "2026-10-19T15:05+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -82,6 +82,21 @@
    "type": "news",
    "published": "2026-10-19T12:25+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "9ccc2c1468d531a3",
+   "title": "抽選で最大10,000円分「えらべるポイントが当たる！プリペイドカード/スマホプリペイド/Apple Account チャージキャンペーン」を10月19日（月）より開催！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001272.000155396.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社セブン‐イレブン・ジャパン] [画像1: https://prcdn.freetls.fastly.net/release_image/155396/1272/155396-1272-b66ffb4857d7243050771bdba049c203-3900x1414.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bou.",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-19T12:15+09:00",
+   "company": "株式会社セブン‐イレブン・ジャパン",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "76d9dde7e835ec93",
