@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T06:58+09:00",
+ "updated_at": "2026-10-19T10:14+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,37 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "02d8a20bc8df7141",
+   "title": "外貨交換アプリ「Travel Wallet」のTravel Payカード、本人認証サービス（3-Dセキュア）に対応設定・再発行は不要。旅行の予約や準備のオンライン決済でも使いやすく",
+   "link": "https://prtimes.jp/main/html/rd/p/000000005.000180601.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社トラベルウォレットJAPAN] [画像1: https://prcdn.freetls.fastly.net/release_image/180601/5/180601-5-ec1dbd72465457a772f93a3d03596d80-2058x1098.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-19T09:40+09:00",
+   "company": "株式会社トラベルウォレットJAPAN",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "3d97023e0c9905ce",
+   "title": "決済業界、M&Aによる業界再編は新局面へ。キャッシュレス化の進展や異業種参入の潮流を分析",
+   "link": "https://prtimes.jp/main/html/rd/p/000000015.000142899.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[フーリハン・ローキー株式会社] 米投資銀行フーリハン・ローキー（Houlihan Lokey, Inc.／NYSE:HLI）の日本法人であるフーリハン・ローキー株式会社は、国内外のクライアントに対しM&Aアドバイザリーサービスを提供しています。当社では、グ...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-19T09:40+09:00",
+   "company": "フーリハン・ローキー株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "537733f54b9ef75c",
    "title": "PayPayがいるのになぜ？JR東日本が新コード決済「teppay」に乗り出すワケ",
