@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T13:10+09:00",
+ "updated_at": "2026-10-19T14:12+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,33 @@
  "topics": {},
  "items": [
   {
+   "id": "019ffb3aa943b153",
+   "title": "ハッピーカーズが代表著書「フランチャイズ革命。」出版記念DJイベント「― Be Together with Happycars ―」を開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000048.000126517.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ハッピーカーズ] 堀江貴文氏推薦！「フランチャイズ革命。」扶桑社の出版を記念して、ハッピーカーズが提唱する「これからのフランチャイズのあり方」と理念「Well-being」をテーマに、加盟店オーナーと共にシークレットゲストを...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-19T13:40+09:00",
+   "company": "株式会社ハッピーカーズ",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "dc59f82d939f7558",
+   "title": "三越伊勢丹、年会費7.7万円の招待制カード Visa Infiniteを百貨店初導入",
+   "link": "https://www.watch.impress.co.jp/docs/news/2149251.html",
+   "source": "Impress Watch",
+   "summary": "エムアイカードは、Visaの最上位ランク「Visa Infinite」を採用した招待制クレジットカード「MICARD+ THE ONE(エムアイカード プラス ザ・ワン)」を27年2月上旬に発行する。年会費は77,000円で、家族会員は4枚まで無料。国内百貨店業界でVisa Infiniteを導入するのは初。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T13:30+09:00",
+   "via": "Impress Watch"
+  },
+  {
    "id": "cb51176c0a97af8c",
    "title": "生成AIが選ぶ「クレジットカード」、1位は楽天カード（言及率63.0%）【2026年9月調査】",
    "link": "https://prtimes.jp/main/html/rd/p/000000016.000155520.html",
@@ -41,8 +68,86 @@
    "type": "release",
    "published": "2026-10-19T12:40+09:00",
    "company": "株式会社ブランディングワークス",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "8ab1588e9d8a0985",
+   "title": "レジで「えっ！現金だけですか？」はカッコ悪い…キャッシュレス全盛期に現金を持つ人たちの主張「スマホケースに1万円札」「スマホに集約が一番信用できない」（大手小町（読売新聞））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JVldwUktyVEI5VXZYT3FDbFplbVYzaGNfWkdzUl9VRTg4RjNRRnhOTWdUTlhxTFotUHFYMThtMzR5N2pmZHMyWl9lbktSam9KMmR6VEE2MVNWdHNBOXBMUEdoYW1tYVRxdEdxNEptQ29Yc05zRC1ObVN5b1J1bVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "レジで「えっ！現金だけですか？」はカッコ悪い…キャッシュレス全盛期に現金を持つ人たちの主張「スマホケースに1万円札」「スマホに集約が一番信用できない」（大手小町（読売新聞）） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T12:25+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "76d9dde7e835ec93",
+   "title": "スカイチケット、クレジットカード情報も流出 最大6,140名",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94Wlc5eFdSY2VIM3lwY0RiN3l6RE55NEpYdC1kN0xpM3ltZkU3TWlReEdHcUwzczVUYU1yOFljd3VfbHdZeE1J?oc=5",
+   "source": "TRAICY（トライシー）",
+   "summary": "スカイチケット、クレジットカード情報も流出 最大6,140名 TRAICY（トライシー）",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T12:08+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "fd4ec6152bd4ce39",
+   "title": "ペイジェント、ビートレーディングと、BtoB決済領域で業務提携「ビートレ請求書カード払い」へ決済プラットフォームを提供",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVGZtMkhiRS1JMjg5Z0JYSGhGMHhvNXpBZ1pmMXBXSXZWMTZJNTB3UU81SUl3ZDl0MXhjRUYxWlVjaHRHd05BcFpENFluMFhBVnE5anRhSWxiWXprRHd3LTlXbTRsTUE0VHM1a2NqMGlrUnZ6VDR1M1hHSQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "ペイジェント、ビートレーディングと、BtoB決済領域で業務提携「ビートレ請求書カード払い」へ決済プラットフォームを提供 ニコニコニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-19T12:00+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "05467f1373e4fb05",
+   "title": "「d払い」の利用限度額が11月から変更、18～19歳は最大1万円→3万円に",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2149170.html",
+   "source": "ケータイWatch",
+   "summary": "NTTドコモは、「d払い」と「docomoコンテンツ決済」の電話料金合算払いについて、設定可能な利用限度額の基準を11月1日に改定する。18歳以上20歳未満の利用者について、上限が最大1万円から最大3万円に引き上げられる場合がある。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T11:47+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "729dbce073ff146e",
+   "title": "BASE子会社の「Eストアー」、2336万人の情報漏えい",
+   "link": "https://www.watch.impress.co.jp/docs/news/2149147.html",
+   "source": "Impress Watch",
+   "summary": "BASE子会社のEストアーは16日、ECサイト構築システム「ショップサーブ」で8月に発生した不正アクセスによる情報漏えいに関して、一連の調査が完了したと発表した。最終的な情報漏えいの対象者は約2,335万6,000人、対象店舗は7,858店。また、約209万人については、クレジットカード情報の一部(カード名義、カード番号の一部)などを含んでいる。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T11:22+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "b6b14b0360039a10",
+   "title": "Travel WalletのTravel Payカード、3-Dセキュア対応でオンライン決済がより便利に進化",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6eDl4TXFVamJrSkFzcWJVMDZWNlYwR1ZEWGM3OF9NUDQzWkhPekV6dzRta0ZLTERLcXQ1bVpvSkhGNzg3R1Y1VVJ5eHN6VUdvWWRtMmNDU3NDUnBjSjJuUXh2cFZhSnhhOHdweg?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "Travel WalletのTravel Payカード、3-Dセキュア対応でオンライン決済がより便利に進化 ニュースメディアVOIX",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-19T11:09+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "53b66e666c2e161a",
@@ -57,6 +162,21 @@
    "published": "2026-10-19T11:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社スマートバンク"
+  },
+  {
+   "id": "6655eaef8e481c52",
+   "title": "Stripe インサイト：Stripe の数十億件のデータが示す地域別カード不正利用の最新動向",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DNE5KYWJzc0tfN25wcVh3N25FYTRtdHhCUS00N3lkM0V6ZlNMOGR0bnI5QV9QV183NVNReHJMcDZINE1MWFN5cmFuNGJNMlVlUUxIdVFjaDUzNVN5blJULVVMSkF3dW1sVHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "Stripe インサイト：Stripe の数十億件のデータが示す地域別カード不正利用の最新動向 PR TIMES",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-19T11:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ストライプジャパン株式会社"
   },
   {
    "id": "42778a6025ee18c1",
@@ -274,6 +394,20 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "a7b67f3dc85681f9",
+   "title": "【dポイント】初心者でもわかる簡単解説（キャッシュレス／dカード／d払い） Kyle Busch (ssidmuIw49)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWk9Cazh0YWh1aFNXWGdEeEdsTnJBXzdESXVIZUM4akVrTXZaX0I2czZoUjRpSXcwMXFZSk1qR0tXSFVUZ19Eb3h3eHFwRlpWMFdldXNpakRoUHJwV2xmTU9pb3VGNTdZcWFnOU9WQWd1Sk0tTEQwSUc5dmVNSVhMdGZR?oc=5",
+   "source": "Unisba Media",
+   "summary": "【dポイント】初心者でもわかる簡単解説（キャッシュレス／dカード／d払い） Kyle Busch (ssidmuIw49) Unisba Media",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-19T00:12+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "099d0e3cb46064a0",
    "title": "リボ払いは残高が2倍になると手数料は約4.2倍に——仕組み・金利・分割払いとの違いを試算つきで整理した解説記事を公開",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FZEpESmQ4SHhDUm1aMjJ6Nm93aTZSSkhzal9YLU1FWDM0a2N0Q2kzalBqOFRIMDR5bWtxUGdGWEx1TE12U204dl9qSG9WbkE?oc=5",
@@ -286,6 +420,20 @@
    "published": "2026-10-19T00:03+09:00",
    "via": "@Press（決済）",
    "company": "株式会社cielo azul"
+  },
+  {
+   "id": "36d393b10208b405",
+   "title": "コメント | 香典をQRコード決済… 進むキャッシュレス化 寺では賽銭に独自の決済検討も",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Wi0zRGt6d1VUWXhSMFpqZ0ZDMDNjSE9UOEJDQjdUNUEzTThnVG0yT0dwUEFUbGNJM1VpQTRNOVdGRS1HQmtOZXNfc2lWcl9ja2V0M3ZMdW9pdw?oc=5",
+   "source": "オリコンニュース",
+   "summary": "コメント | 香典をQRコード決済… 進むキャッシュレス化 寺では賽銭に独自の決済検討も オリコンニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-18T17:18+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "736effd8e8ce2611",
@@ -16690,6 +16838,19 @@
    "type": "news",
    "published": "2026-09-14T11:38+09:00",
    "via": "ケータイWatch"
+  },
+  {
+   "id": "ae0c6a33f57d8263",
+   "title": "Visa、インバウンド旅行者向けイベント「Enjoy JAPAN with Visa」をSHIBUYA109で実施",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Nd0E4ZU1CUTVkODJoVXV2R3BiV2xzeUdaTndVemNHdHdQSWtGR0JzWTlpbEF0anVtYjdwZXd0TDVVZF9BdE5sUTBDekNxOXNaZDc5Rm5LUllfZjQ?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "Visa、インバウンド旅行者向けイベント「Enjoy JAPAN with Visa」をSHIBUYA109で実施 ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-09-08T07:32+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
   }
  ]
 }
