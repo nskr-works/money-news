@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T07:04+09:00",
+ "updated_at": "2026-10-20T11:05+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,195 @@
  "topics": {},
  "items": [
   {
+   "id": "fb9d7a90087546ee",
+   "title": "JR東日本のコード決済「テッペイ」スタート 2万円超え決済などSuica拡張",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrX1RXcTg2NHh5QTA4TTVpQkNsbGlNa2Y2UmwySlhFRjU1OVF2bXpkUjE1Z1B0eUlvSUZWN2ZoaGhxdGU2VnJUUGo3U1VjcmNNekpPSHZSYnVJaWpqOUpNTEJpbEM?oc=5",
+   "source": "Impress Watch",
+   "summary": "JR東日本のコード決済「テッペイ」スタート 2万円超え決済などSuica拡張 Impress Watch",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "91eca9451b3c5d10",
+   "title": "会員管理・決済システム『会費ペイ』、スクール運営の事務負担を軽減する「クラス・スケジュール管理機能」をリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CYWJJSHdVWThPZFdmUGx2cTkyUzJjVVZ0Vl90MHM5bnJxdE1aZHZ6WmJzMnRPQWZJRFhDMWQ2S180SDVwWklLRTJOOVEyX1ZlVHhDZ1FRLVRnNDlRdmxwM0diS2xaZnF1aVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "会員管理・決済システム『会費ペイ』、スクール運営の事務負担を軽減する「クラス・スケジュール管理機能」をリリース PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-20T10:41+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ペイメントフォー"
+  },
+  {
+   "id": "be8cf0640c4a7439",
+   "title": "d払い・docomoコンテンツ決済の利用限度額の設定基準変更（NTTドコモ）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nYVJxcUVPMXBOUFgtOFNQcHpNMlZ5MEFpNC1ZZ3VKa1lCMnFfQTFSdU5YSFFYOEJJTERwVnl5Zk0zVWg4OVZwaGNWZmtfUHFWMWpGZ1pUUXUxcVE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "d払い・docomoコンテンツ決済の利用限度額の設定基準変更（NTTドコモ） ペイメントナビ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:40+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "aaef924556c2a294",
+   "title": "「ANA Pay」会員数200万人を突破、残高プレゼントキャンペーン実施（ANA X）",
+   "link": "https://paymentnavi.com/paymentnews/183652.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月20日10:40（JST） 【日本】ANA X（日本・東京）は、スマートフォン決済サービス「ANA Pay」において、累計会員数200万人を突破したと発表した。2023年のリニューアル以降、Visaのタッ […] The post 「ANA Pay」会員数200万人を突破、残高プレゼントキャンペーン実施（ANA X） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:40+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "21952da93da4016e",
+   "title": "VisaとMeshが提携、世界1億7500万の加盟店で暗号資産決済が可能に",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCOFlxWWFuWEZqZnVndTMtYjdWdlgwMXpfeU5jSDdDQnBObVlPWlQ0UXdRY050YXppV0loOEdBamY0NDg?oc=5",
+   "source": "nextmoney.jp",
+   "summary": "VisaとMeshが提携、世界1億7500万の加盟店で暗号資産決済が可能に nextmoney.jp",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:02+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "dcd82d7af12313ae",
+   "title": "新しい公式アプリを公開！クラブ独自のスマホ決済サービス『サンフレッチェPay』登場！",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrT1RyUGZqLVdSeU1EUU9YQk16LVpiR1RNREN2emRYN2lZSDE2Q2prbmNydlpIWU9sci16dUYzdzFzRlZ4Q2VrcXpuVEV6LVFuc0k3blZUWQ?oc=5",
+   "source": "サンフレッチェ広島 オフィシャルサイト",
+   "summary": "新しい公式アプリを公開！クラブ独自のスマホ決済サービス『サンフレッチェPay』登場！ サンフレッチェ広島 オフィシャルサイト",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T09:34+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "34ea835c798bc61d",
+   "title": "ネットプロテクションズ、後払い決済「atone」スマホアプリを刷新 UI/UXを根本から再構築（日本ネット経済新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wT0NKXzR6cGs3YnhuQ1VhZ1hhOWM3TjQzZ282bkI2LVRUX0wtVnE0bG1HdXF4bnlxdHpqZ0pTQ2JTR0dnWjR0d0FFYkZEN2dqbmhUQjBCem5aV25JeXNZVGtGblFFOXRoRWpoNFNUNElGYUp4a0RCOWxLZnhRWE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ネットプロテクションズ、後払い決済「atone」スマホアプリを刷新 UI/UXを根本から再構築（日本ネット経済新聞） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T09:00+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "0c51018399af3b8a",
+   "title": "「ワンバンク」のカード決済が今年度1,000億円を超える水準に（スマートバンク）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80UVNJSzBKdmZ3NmpVU29oeTJmbUM0SC00YktyRTFiQm80Y2VTZ0xjYXgyVU5zamQ2cUl4YTFORlRGdkMzUnRvQlZHQ25weldqMThNMWVDbUZfMlU?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「ワンバンク」のカード決済が今年度1,000億円を超える水準に（スマートバンク） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-20T08:18+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "cbbfa055240b850a",
+   "title": "弘前城植物園にキャッシュレス決済実証導入／青森県弘前市（陸奥新報）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90YnN0bFQzSWthOG9MTF95MkQ4eTFvbUhxR2VrSUFsX1BDSk82RkM5Ukh0OWMzQVJkaXBnQmYxT3lTNGlTWXJTWldKTlNTSHZ5RFdCbm5DMC1vWmMwcVB5c2ROdTJDTXZ5VnUzb21Kd0VGUk03SXd4QmRFZWdEU2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "弘前城植物園にキャッシュレス決済実証導入／青森県弘前市（陸奥新報） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T08:16+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "7ef7987f97455481",
+   "title": "JCBと共同で台湾キャンペーンを開始（ジグザグ）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BRzBoN0hwcm1vMjV3Zk0xWXpSY2h1a0MwWFFfOWVJcmFja2ptZW44Qklhd0xQNjBTRC02cERFcWNvLXRnQU5EYmdtUnNNZDl2Y1NHSUFvMmhnUWs?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "JCBと共同で台湾キャンペーンを開始（ジグザグ） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-20T08:15+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "f3f9038d7918a7c2",
+   "title": "地域別カード不正利用、APACが3-Dセキュア効果で全地域最低水準（Stripe）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9URkVmNjZRREU0YUExUm90endQYV9jR1REeFg0Q0p6Tl9jS2UyZW5NYlFlLVhpUDZYTThEN2cxUEVycFk5M05zTjlzLUVyLWd0T3N5dXgzTnRQekk?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "地域別カード不正利用、APACが3-Dセキュア効果で全地域最低水準（Stripe） ペイメントナビ",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-20T08:13+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "c2383bda82b22418",
+   "title": "かっこ、リンクと共同で「キャッシュレスセキュリティレポート2026」公開",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUFRtLUN1ekJ3ckxoLWVPT3ZRRGNaX25FOXkwcmJtMnVzelBvcE1SbjB6cWxqOE1qaTF6bHhjbDJUS0FaWHEzUGlmMjJWLWpTYlU2UktR?oc=5",
+   "source": "日本ネット経済新聞",
+   "summary": "かっこ、リンクと共同で「キャッシュレスセキュリティレポート2026」公開 日本ネット経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:31+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "0256a67161eb9947",
+   "title": "最大5000ポイント獲得！ Suicaの新決済「teppay」開始、20％還元キャンペーンの条件と注意点",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRZ3hXZlpNaXB3RzBZSktOMk1BeUhWUFRoVDZrUGNhRHdDaU1JblRCZWZUS0h3Z2h4Z0VxbWJrb0pwUy1EQWdlRnIzZzhaVk1pR3V6NFlLWUZmSEdvQVB6eXljVlROb0t0V2NrMGR6Qm9NZUE?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "最大5000ポイント獲得！ Suicaの新決済「teppay」開始、20％還元キャンペーンの条件と注意点 ニコニコニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:12+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "6ccaddbeaef3fe9f",
+   "title": "Suicaとどう違う？ 新コード決済「teppay」の使い方から加盟店まで、まとめて解説（ITmedia Mobile）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUTljbm9yUE43dlR6bGU1V2ZQOXB0OHhpYk9BT3pZcVRhbmVwQW5vNTBlbWV6QU0walExTDRsV2EyYXVXTXVrRG5PN1RnclFtTUV2MEFhRmhEbXBRU0RBbGI0VFVzcTN3Vmlfb3p5bDNjeFNRZGt0b0Z6N01ma1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "Suicaとどう違う？ 新コード決済「teppay」の使い方から加盟店まで、まとめて解説（ITmedia Mobile） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:05+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "74f90cf6bd9f9ed7",
    "title": "［経済やわらかゼミ］決済代行、未払いで混乱",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSVdYamR3NmRkeE5SdXY1cmsweDhqaEpoSUlENlVkZFFra094T21McnRGdXRSbUIxQ1dLMTNISkhEUUtxeTFqdmc4VV8zTldqZEtBdzFEWm1NYmhuS2lyWg?oc=5",
@@ -41,6 +230,21 @@
    "type": "news",
    "published": "2026-10-20T07:00+09:00",
    "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "111e0d65ca6e73fa",
+   "title": "Suicaとどう違う？ 新コード決済「teppay」の使い方から加盟店まで、まとめて解説 - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95cFJsZTkyOXl1OGFkNjJOQkJITUpjQ19DZlBrT05uTUx1NWdZTmExWXBBblZ4TXdhTllIRThDQmg0OU0wYWhreXg4VXFseG42QzVHY3NxcDFzaXpyeEI0d2NOeXhUd3Zo0gFoQVVfeXFMT3lwUmxlOTI5eXU4YWQ2Mk5CQkhNSmNDX0NmUGtPTm5NTHU1Z1lOYTFZcEFuVnhNd2FOWUhFOENCaDQ5TTBhaGt5eDhVcWx4bjZDNUdjc3FwMXNpenJ4QjR3Y055eFR3dmg?oc=5",
+   "source": "ITmedia",
+   "summary": "Suicaとどう違う？ 新コード決済「teppay」の使い方から加盟店まで、まとめて解説 - ITmedia Mobile ITmedia",
+   "categories": [
+    "cashless",
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "4cd6a7c8b2cf7d05",
@@ -69,6 +273,19 @@
    "type": "news",
    "published": "2026-10-20T06:00+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "27f4c1082669b226",
+   "title": "タイ財務省とタイ中央銀行、BNPL規制案で意見公募 限度額2万バーツ・金利込み年15%以下",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBucFBlYmJXQk9rVzZnVmtHZzAydVhEZDBMdW1YVlZ5UW9uQmZiNmwyYmVpTnY2Zkp6RTlzY25QcDdpTXFWLWw3VG43Sk1RUWdQZWpXRnlBWHpYNGlBdFVJOFF6REZEbWZwWkYwVE45ZnlkbFBV?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "タイ財務省とタイ中央銀行、BNPL規制案で意見公募 限度額2万バーツ・金利込み年15%以下 BigGo ファイナンス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T03:25+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "dc9746c1eda73c2a",
@@ -403,6 +620,20 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "8634d787f615b3df",
+   "title": "明治学院大学がペイメントフォーのオンライン決済サービスPaysysを導入",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lUjAyaEhwUEVOaEFSa2F4ZUFkUlFydXhaR0hxc0NNaDU1d0RVanRyQXUzcjJUZEl6WVVJeVp2YkhJd05wb3c?oc=5",
+   "source": "Dellows News",
+   "summary": "明治学院大学がペイメントフォーのオンライン決済サービスPaysysを導入 Dellows News",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-19T11:01+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "53b66e666c2e161a",
    "title": "ワンバンク、カード決済が今年度1,000億円を超える水準に。家計管理からバンキング的サービスへ。",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMDcyR3Flc28tSDJ1aXEyYVZUNVhJeV9iU2xJc1JETUltMHlQMHA5RzIzX3hWSWEyN1ZnLWVNc0djVUVMMjJPbGNuWXNaVHJLTjJmd0I2Z0NZdk5faUhMeDg2UEdJdkdaTkE?oc=5",
@@ -511,6 +742,19 @@
    "type": "news",
    "published": "2026-10-19T09:50+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "777539a7c9c7ddb0",
+   "title": "カード会社が売上金全額支払いへ 全東信破産、２万店に５４億円",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53RHpWSzl4NDMxZHFrX2NlOWUwdkhudlFZdXcwelJzSjIySkpjR2JxcE1XOUo3RUlJRVBFQVo0WHEzU05qcjk4dHFhY2ppXy1XeGc?oc=5",
+   "source": "山陽新聞",
+   "summary": "カード会社が売上金全額支払いへ 全東信破産、２万店に５４億円 山陽新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:50+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "ed9e59b2992a13a8",
@@ -1100,6 +1344,19 @@
    "type": "news",
    "published": "2026-10-17T16:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "8d1d5a7964a9e26f",
+   "title": "「skyticket」運営会社 約6000人クレカ情報流出（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uNVB5X1EtMFZ6a1VzaWs3clRIcExHcXBGWkRTQkFFV3JJSThxNEVFYzQ3SVFQcU1fTGxvaHBxUzAtRXBBeWhmdDZfRXE5TWV2TmVFR3VtRDRTaUsxMzdULW9RdFdpUFppOWVKaG1TOEk1cV96YWFNRjhudmJmdDA?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「skyticket」運営会社 約6000人クレカ情報流出（ABEMA TIMES） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T15:57+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "b8f886d89b16bcc4",
@@ -5665,6 +5922,19 @@
    "type": "news",
    "published": "2026-10-13T12:24+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "44c3173ae5c97c77",
+   "title": "ネットプロテクションズの後払い決済「atone」スマートフォンアプリを全面刷新｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GS2lOaGlnMGdUYmlRc3lkQzRrZVJtTUtZUW5pVXpzUy1mSDJMVkhBLUduX3ViRWdRSnV1UHJ3VG5BZGNWaWZvMnJweVVmcXQxOFlCOU0wS3ZidWZxSUsycEMzZlFKOUpyQmJPVUJTcEcxZw?oc=5",
+   "source": "Infoseek",
+   "summary": "ネットプロテクションズの後払い決済「atone」スマートフォンアプリを全面刷新｜Infoseekニュース Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-13T11:45+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "14c1fa68fd3c9805",
