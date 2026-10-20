@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T17:09+09:00",
+ "updated_at": "2026-10-20T20:05+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "1d32c5260197f7c1",
+   "title": "GMOペイメントサービス、「GMO掛け払い」のプラットフォーマー向けAPI連携機能を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000005596.000000136.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[GMOインターネットグループ] GMOインターネットグループのGMOペイメントサービス株式会社（※1）（代表取締役社長：村上 知行 以下、GMO-PS）は、BtoB取引向け後払い決済サービス「GMO掛け払い」でプラットフォーマー向けAPI連携機能の提供を...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-20T17:15+09:00",
+   "company": "GMOインターネットグループ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "86e79cb57be3ecb3",
    "title": "Suicaのコード決済「テッペイ」、開始記念で20%還元キャンペーン 11月4日から（Impress Watch）",
