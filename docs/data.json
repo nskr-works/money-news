@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T13:07+09:00",
+ "updated_at": "2026-10-20T14:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,226 @@
  "topics": {},
  "items": [
   {
+   "id": "93e4417cb231f66d",
+   "title": "新たなコード決済サービス「teppay」開始記念！teppay×NewDays「おトクパス」キャンペーン",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pMC03ZjlqLXROSG40Z1prdlVvU0hDLWxKYTlrbmZoOU9mTWlZT1hHa3ptNzNtaklzVGVZTk50bVBEdFUzRmlNTjJxeUVFaTJ6ZEp5M0hkOHRfWEZ6d181b181ZExhU3BsV3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "新たなコード決済サービス「teppay」開始記念！teppay×NewDays「おトクパス」キャンペーン PR TIMES",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-20T14:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "株式会社JR東日本クロスステーション"
+  },
+  {
+   "id": "63d4e62097bb0ae9",
+   "title": "熊本県のバス・市電・鉄道がタッチ決済で運賃半額。福岡行き「ひのくに号」は2500円→1250円（トラベル Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3o2Yzl4QjhadEsxX0cycXRuczJqV3NjeGtXdjBJcnBNTVVEWXV2dmNlVVg2UEw1bi01N0VaNlE1bjZFREZ1Ym5zWXF0UEd6QkNRTko0YkxqYUxVRnhpUnFnQ2pHaml4ekxQWFE2OHBkclV5SGlIb0FpejlXem8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "熊本県のバス・市電・鉄道がタッチ決済で運賃半額。福岡行き「ひのくに号」は2500円→1250円（トラベル Watch） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:56+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "1b3ff04b6872085b",
+   "title": "ＪＲ東日本－4日続伸 モバイルSuicaの新コード決済サービス「teppay」開始(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzJOMnpmWUFvLVU4OG1jVTJ4RVQzcXJmcjJpRXlfa1M0elA2WVdvdUNSZGJTcFhrdnBOMGRKRWNLZTlkWGZhUEpZb2Q2UG5jeVlkNnVsUnNQUTdyNGdtU1ZFd0dBM0lqZkE5ZDU4V0dWYVQyakJrUkhoakJIUlhja045X1RFQlk?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "ＪＲ東日本－4日続伸 モバイルSuicaの新コード決済サービス「teppay」開始(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:54+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "1845fd751a42b70f",
+   "title": "Suicaの新コード決済「teppay」開始。使ってわかったPayPayより一手間多い操作",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcEhPWWlvRTdmWlJPekJSNzRheF9wQlVyU2VaN0M5N3l2aFhONm5MWjN5bjVCVjd6cS10bWNXdGYyWDRFQnBxdDhvdm1EWEZ4TlVPLXdBM3dTNDI1Mmd3aUMwM0NkdFFoMEhmM3BReXZiSGtkSlAwbWdLY3RxV2F3cVFFdU5DZw?oc=5",
+   "source": "携帯総合研究所",
+   "summary": "Suicaの新コード決済「teppay」開始。使ってわかったPayPayより一手間多い操作 携帯総合研究所",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:44+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "1d12750cdbd1b3a2",
+   "title": "エポスプラチナ・ゴールド会員限定、マルイで10％OFF Apple Payなどスマホ決済は対象外",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tNk4zWWdQeUYzb1ViQWhUVTRLMUZtVjhHMnpxUVJhUWlaV2pCTG9adTIwVzJLSkNfU0xfNXpZVXl3eG93aHhyaFdOSThIQQ?oc=5",
+   "source": "ポイ探ニュース",
+   "summary": "エポスプラチナ・ゴールド会員限定、マルイで10％OFF Apple Payなどスマホ決済は対象外 ポイ探ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:39+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "c5658342a61426df",
+   "title": "JRE BANK、コード決済「teppay」チャージで「JR東日本 鉄道4割引優待券」がもらえる新条件を追加",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fSU5lLWNha0J3dGQySlVSVlBFYmNfYldTMlplSGtHYVZSZG1pMGk0bktvbWp4eWZ6bnNaamVtX0NFd3EtRHJDa2pDelBZLTVhTGlqbGZEY0hYa3BhQXpCSW1lcS1wdG8?oc=5",
+   "source": "ケータイ Watch",
+   "summary": "JRE BANK、コード決済「teppay」チャージで「JR東日本 鉄道4割引優待券」がもらえる新条件を追加 ケータイ Watch",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:36+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "0a602f25a82a9d93",
+   "title": "JR東日本、Suicaのコード決済teppay開始 定期券購入も可能",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zb0FyZXBmbEtHbkhxb1VhUzV5bjczd3pEVHR3emlGYlByazNHRktDZVhwbUE4ZThFNlB0ZGktVVdnSGRmVU1nRTBNR3JqQm1ZMjQ3dGZYTFlqQmNZZFRtdkl4Nms4T1ZOR0Njcg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "JR東日本、Suicaのコード決済teppay開始 定期券購入も可能 日本経済新聞",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:32+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "f43c413ec11ba481",
+   "title": "BtoB決済、サービス連携の現在～高いポテンシャル秘める法人の支払い分野は？～",
+   "link": "https://paymentnavi.com/paymentnews/paymentnews01/183696.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月20日13:30（JST） 【日本】クレジットカード会社や国際ブランド、関連プレイヤーが日本でBtoB決済の強化を進めている。法人決済用のカードは、中小企業、個人事業主、スタートアップなどに向けた「ビジネ […] The post BtoB決済、サービス連携の現在～高いポテンシャル秘める法人の支払い分野は？～ first appeared on ペイメントナビ .",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:31+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "efd9842d8968f749",
+   "title": "「弘前城植物園」でキャッシュレス決済を試験的に導入 観光客の利便性向上に向けて 「弘前城菊と紅葉まつり」が10月30日に始まるのにあわせ 青森県弘前市",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5icXlZLXIxSXBTMTg5a29neXRQWFhRZ0hRejlVMFhlbG54aFdfN2Qta0xBTkd2MEw2MWo2cHA3SGt1N19nd0VGa2hXMkNmdnZsLUhkYThBMXRJVFlULTFBRjF6V2E?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "「弘前城植物園」でキャッシュレス決済を試験的に導入 観光客の利便性向上に向けて 「弘前城菊と紅葉まつり」が10月30日に始まるのにあわせ 青森県弘前市 TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:25+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "adf00f6b8b1d924c",
+   "title": "JR東日本が新しいQRコード決済を開始 競争激化へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbk5UMW1ZaUJQV2JGNHE1Yk80TVpUUFNlYWF4X1hEVExlM013WTlaNTNaM3hPTTJjQXFoa1hQRGVRdWZYR25aYXVjUm5xZWRpQnVyYXQzMHRRRW9xS0hV?oc=5",
+   "source": "NHKニュース",
+   "summary": "JR東日本が新しいQRコード決済を開始 競争激化へ NHKニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:12+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "0f895653cc8366e2",
+   "title": "Suicaコード決済「teppay」提供開始",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82M2FvY3VxMmROTkRjUkF6MlNWenNIdk1xR2dRVGx0RWc3V1A3OXBER3NQLUJZZmlpMzROTjhidmRDSTQwVDRnb2JpaVlZUVFXcTF2MW1rSTNybUFvRE9tN0lQaWU3b1dacVZpdm54R2VhU0dBNFE?oc=5",
+   "source": "Jetstream",
+   "summary": "Suicaコード決済「teppay」提供開始 Jetstream",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:10+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "6af78ed0f2e070a9",
+   "title": "JR東日本の新たなコード決済サービス「teppay」へ「スマホＡＴＭ」を活用した現金チャージサービスの提供を開始",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE10VVZBVHE5TEYzWHNzLUpMMHZraW5vb3dSbGhGZThsNHdPcml2T3lDTmZWUUI5T2tHcV8tZFFMN0tpY00?oc=5",
+   "source": "Digital PR Platform",
+   "summary": "JR東日本の新たなコード決済サービス「teppay」へ「スマホＡＴＭ」を活用した現金チャージサービスの提供を開始 Digital PR Platform",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:02+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "869361142ad94a90",
+   "title": "【東京都のラーメン店における決済実態調査2026】ラーメン店で現金払いをする人の73.8％は“本当はキャッシュレスを希望”",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Rlp6TVlacktXRDBuY1ZIRGlpOGVrLVZwRTN1T2d3cE1FNzdrRHZONjh5bUYyVU92QlhGWmZNNjVvVDVyVW12Y0tRRFhsRTZwelNUVkl0NVRuTGIzQnpoSlI5UjBCNUJzYWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【東京都のラーメン店における決済実態調査2026】ラーメン店で現金払いをする人の73.8％は“本当はキャッシュレスを希望” PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-20T13:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」",
+   "company": "株式会社エム・ピー・ソリューション"
+  },
+  {
+   "id": "b010925e0108547b",
+   "title": "JR東の「teppay」で「NewDays」で使える“5％オフパス”を進呈、期間中5000円以上の利用で",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2149575.html",
+   "source": "ケータイWatch",
+   "summary": "JR東日本は、同社のコード決済サービス「teppay」について、同社グループの「NewDays」で「teppay」を利用すると何度でも使える「5％オフクーポン」を配布するキャンペーンを開始した。期間は11月30日まで。",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:53+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "9164e0839629d7ff",
+   "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFJaem4zeXFGSEpoU3dIRDJaUU5POXVHQ0N1WndfOXRGbGh2bkkyY0prRzFvVVgteFhIeWM3NldDcjNtMlZETzJmVDcyOUtHTU9kTm9GeUxSYzFyZ2U3Zmh6TnNqYkNPd244M3Y1UWZOLUk1dXFiMzI3Y3FjYzhwdEYtU2tBU2Q3bVV1NDNwaFNuUdIBlwFBVV95cUxNdEgzZ2ZwMU9BejhmVUpBSnFLNERWZ2JIQ2tLZ2l6RnkxWC1qQVFlaDh4YzhfQnVuUTNySk5KX2E0cW1PTjhtRFdXMldHd2E5S1c2TDlydU5BUW1zejZ1dms1SjZfRUh2NXh5alotc1RvSllibGVzd3BKT3Jsai1aZEdqR01LQUl3ZzZxUDU2eFN6cFBaR01Z?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた ｄメニューニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:51+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "7e7c058b899dc677",
+   "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWVnU2WDZTMmdQUTdmNEFWcnNIVnZ4NzhmbUlNbnREeWpBRHlOZHVvbzNOS19fSVpnRlBmTWs0MXpsNzByS2ZTZ0h5c3cxU1RzLW9UM3puRnptS3ZwLWdod0tZb0tTRHl1czFVaHQta9IBaEFVX3lxTFBuSEQyeUxBSzFhZWFjN3ZGbkFCZHJaOE1OTGJsV2EzOGgxOHgwS0ZsZWo3dXdxSE4xOU82eHFhUWFUSEdqQUo2MVFsMnhLajhaUkNTZlFBUmY3b1VpQ3NTeGJUc1NCQ2lj?oc=5",
+   "source": "ITmedia",
+   "summary": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた - ITmedia Mobile ITmedia",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:44+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "c1899482f49354a8",
    "title": "アクル、国内最大級のスキー場情報サイト「SURF&SNOW」リフト券販売サービスに不正検知・認証システム「ASUKA」の提供を開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000128.000035938.html",
@@ -41,8 +261,7 @@
    "type": "release",
    "published": "2026-10-20T12:40+09:00",
    "company": "アクル",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "d785522753e06934",
@@ -56,8 +275,7 @@
    "type": "release",
    "published": "2026-10-20T12:40+09:00",
    "company": "Mysurance株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "4f3295cc84be84ef",
@@ -71,8 +289,91 @@
    "type": "release",
    "published": "2026-10-20T12:40+09:00",
    "company": "有限会社アサミズカンパニー",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "0f7f40502764b752",
+   "title": "モバイルSuicaのコード決済サービス「teppay」スタート ユーザー同士で残高送金も可能に（2026年10月19日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WS1FPZGZkRkhpTWVaUklxc0RXLTF6dmVDendRcmVSbnM5MG1oRVYtdWhTVXZTX2JOb1M3MWpxdDN5bE81bjVUTWEtdDUxZlFVR0FFMVNhOG04S1FlbTdIdHdJYjZKcTFSbG5yTWVPa3M4eXFqZ2dyOFlqMGQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "モバイルSuicaのコード決済サービス「teppay」スタート ユーザー同士で残高送金も可能に（2026年10月19日掲載） 日テレNEWS NNN",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:36+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "4c4e7536e7fa7e8e",
+   "title": "モバイルSuicaに新コード決済teppayが登場、ユーザー間の残高送金にも対応 (2026年10月20日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtbkRyWUFUaFBaMWhsaTVNeW5JNkhXbnpGRXdDR3NoREZXVTlRTFhMa2d6bVczLTdFWXQ4b01mTlg0LTBpM2daTjIxakI4N1pub05wWGsyeDVObkZ3M0E?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "モバイルSuicaに新コード決済teppayが登場、ユーザー間の残高送金にも対応 (2026年10月20日掲載) ライブドアニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:36+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "715e272aa68111e0",
+   "title": "ビックカメラ、モバイルSuicaの新コード決済「teppay」対応 最大35％還元も",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yNlZSa3hRSGFUSXFTTVVnUlB4NkczMzNTeklRNUVXdG81dGZHYVg4LU1zejFVczAzNFhKekEzV2YxcHoybUVFSkw5YUhWQ2M5QXl5WGVyTGk2MExhRENYTHgyZnBhYU0?oc=5",
+   "source": "ケータイ Watch",
+   "summary": "ビックカメラ、モバイルSuicaの新コード決済「teppay」対応 最大35％還元も ケータイ Watch",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:32+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "de67edadf0c5e1bd",
+   "title": "JR東日本の「teppay」本日20日スタート、Suicaアプリのアップデートで使える新しいコード決済サービス",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JemZGTk1tRU9yRnFrVlJSSWtKbzVPTld0NUVMcUwzNmJTQ2NsUnFDVUhHWjJUSkhtTlBoMHRZT1VjVUNHVFNveFM0SHFLZ2s3bDkxYXh4WWIybUhsdXoyQjMxb2JFc28?oc=5",
+   "source": "ケータイ Watch",
+   "summary": "JR東日本の「teppay」本日20日スタート、Suicaアプリのアップデートで使える新しいコード決済サービス ケータイ Watch",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:31+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "3395c60d753916d4",
+   "title": "JR東日本が始めたコード決済サービス「teppay（テッペイ）」で決済のデモをする様子＝20日午前、東京都港区 - JR東が「テッペイ」開始 コード決済、スイカと連携 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yQ3A1T3Y1ampVZU5BYTVPOGgtNk96Y3pVUWRsOVExRmJ4WURhcUNmZkxPaWk2THMzX0RVbnZZZmVyS2NHUkN3ZjFCTXJFRmNXcTU2U3RuTQ?oc=5",
+   "source": "西日本新聞me",
+   "summary": "JR東日本が始めたコード決済サービス「teppay（テッペイ）」で決済のデモをする様子＝20日午前、東京都港区 - JR東が「テッペイ」開始 コード決済、スイカと連携 - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:01+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "19bb83e679048553",
+   "title": "JR東日本のコード決済「teppay」きょうからスタート モバイルSuicaのアプリ上でそのまま利用可能 激しい競争続く業界に新風なるか",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UckQ1ZmF1aVFQYm1UVllqVkJqSzJ6eWNiZGpGZ0pkTkVCZUE1bmxqV3ZVa0JYS1NjRExVX1ZfTWVmQXNnOTBDa0lianRxa2hVZ2pha2RBcw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "JR東日本のコード決済「teppay」きょうからスタート モバイルSuicaのアプリ上でそのまま利用可能 激しい競争続く業界に新風なるか TBS NEWS DIG",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:50+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "b6df46933dd1084b",
@@ -86,8 +387,74 @@
    "type": "release",
    "published": "2026-10-20T11:41+09:00",
    "company": "auコマース&ライフ株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "f563c8b1c6bd1bf7",
+   "title": "JR東が「テッペイ」開始 コード決済、スイカと連携",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GTWY4eEFTZl93bDFfRVN6aGJSb3VXd19ydVg1R1A0MUJaUW1WXzRucktKSTRuMGZFY1cxOUdFYUhKTkJqNWQzNE82STFzWEVyYzFIYzJrZ0l1MXNDbE5R?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "JR東が「テッペイ」開始 コード決済、スイカと連携 ライブドアニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:41+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "0c53e455b37096b6",
+   "title": "JR東日本の新コード決済「teppay」スタート 本人確認で上限額30万円に モバイルSuicaからワンタップで利用可能",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VbTNOZ0JnRTloeHdWdmdDWkJJbEFubTNXRUs5eXNrWWxLWmdNeGZIdndLTkczNy01VjVVV3hWMWk1bkZjelVGak1MbHA3QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "JR東日本の新コード決済「teppay」スタート 本人確認で上限額30万円に モバイルSuicaからワンタップで利用可能 FNNプライムオンライン",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:40+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "3a5b1389c7d8cd6d",
+   "title": "ララガーデン川口でSuicaやPASMOが使えるように！クレカのタッチ決済も。10月20日から。",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWWs5SW1oWjhuOEluQmxvSXpPc0oyVzJ2YXRxeE84bVctVzVSSDJfSEZGN1JxbEtmZldlVXRfeFQ3QmpxVXVzUjd2TzBWTmZzdXgtVWctdmE2QQ?oc=5",
+   "source": "川口マガジン",
+   "summary": "ララガーデン川口でSuicaやPASMOが使えるように！クレカのタッチ決済も。10月20日から。 川口マガジン",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:36+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "e7b4aeff079ff552",
+   "title": "【速報】JR東の新コード決済「テッペイ」開始",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HWnZLNDBfUk5FN3NBdFBIdTBuY0NGcGtrN1k0djd0V0JTWnhGX3NFMzE1Q3VCUFJNUHZ3THdhdGNTelM3c2VqUUZaTQ?oc=5",
+   "source": "47NEWS",
+   "summary": "【速報】JR東の新コード決済「テッペイ」開始 47NEWS",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:18+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "d24c25ec822a7e1f",
+   "title": "ＪＲ東の新コード決済「テッペイ」開始",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXeU45bko0LWdHQ0lBM3F2SHVybXBDU1NvVUF1VUVaZllOX3ROY1gxb1VFZU5PdXc1cmxhZHFNemVkUURDNnYzXzJfczRwaE9BcW1OZVhqQkJqMmx1M2c?oc=5",
+   "source": "沖縄タイムス社",
+   "summary": "ＪＲ東の新コード決済「テッペイ」開始 沖縄タイムス社",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:18+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "fb9d7a90087546ee",
@@ -117,8 +484,22 @@
    "type": "release",
    "published": "2026-10-20T11:00+09:00",
    "company": "JCB",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "b9c2361ddb5f8c3a",
+   "title": "「teppay」のテレビCMとキャンペーンが始まります！～モバイルSuicaの新コード決済サービス「teppay」が本日スタート～",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85T2dJT25hNi1CTmcxZVFhUkI5cTZiUm9xLXp1VDFoeTEzNUEzdVc2eXZvTkpHMGZZNEFaRHlBZEpLODZUTUdzQkdrNTlIRDF1UmI1NVExdFJETXJpaFdmZ0huNzdEY2J6anc?oc=5",
+   "source": "PR TIMES",
+   "summary": "「teppay」のテレビCMとキャンペーンが始まります！～モバイルSuicaの新コード決済サービス「teppay」が本日スタート～ PR TIMES",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-20T11:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "東日本旅客鉄道株式会社"
   },
   {
    "id": "91eca9451b3c5d10",
@@ -186,6 +567,20 @@
    ],
    "type": "news",
    "published": "2026-10-20T09:34+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "096dfcc0ee543ccd",
+   "title": "StarPayがJR東日本のコード決済teppayと接続 加盟店の申込受付を開始",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kQzgyQXVqWi1IUmtJM09pdVpwMmtEWUtQZVNva3c0RWxFWDIzbkJPWGhLWjdYSm82cEg4TERHLVZoNnd3UkE?oc=5",
+   "source": "Dellows News",
+   "summary": "StarPayがJR東日本のコード決済teppayと接続 加盟店の申込受付を開始 Dellows News",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-20T09:11+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
@@ -266,6 +661,20 @@
    "type": "news",
    "published": "2026-10-20T07:31+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "7c3b35154e8ebf5c",
+   "title": "VisaとMeshが提携、1億7500万以上の加盟店で暗号資産とステーブルコインの残高が利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ET1BsS3p0S20tY2dkbWpxWWZfNndKWjREUmZFd0xSM05vSEFudnZucGhGZUtVZTNuRXVF?oc=5",
+   "source": "Howl.link",
+   "summary": "VisaとMeshが提携、1億7500万以上の加盟店で暗号資産とステーブルコインの残高が利用可能に Howl.link",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:30+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "0256a67161eb9947",
@@ -2325,6 +2734,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "fe786ec6f7ddadaf",
+   "title": "【2026年最新】税金の支払いにおすすめのクレジットカードランキングTOP6！手数料負けしない高還元カードを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBSmR3dmdKZ2YxSUpkV01iOEY3X1lBT0tTUmVHVUdPMjlzWVJjZDA3em5lWnV1MmtYQWhKWnVyOGRGZml3djd5OGgwdWNWblhMYUtDcEdkQ01jbXh4b25UcGE1TC1qUQ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】税金の支払いにおすすめのクレジットカードランキングTOP6！手数料負けしない高還元カードを徹底比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "437d4ea13fe4e3cf",
    "title": "西鉄、クレカ乗車を路線バスに拡大 Vポイントたまる新カード発行",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6OVhQUVNfdHM1d3NEaUUtTnBiOW5rb0M2MmFyZG16R21TYUxRWEhoNWNPUk9jM0d2YXFHVndvZjI5U0ltQ1pxdXkwYlhwNERESnhoaDg2ei1tQ21HR1AwQnlkQlZBVEdLUHBqMA?oc=5",
@@ -2343,6 +2765,20 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6OVhQUVNfdHM1d3NEaUUtTnBiOW5rb0M2MmFyZG16R21TYUxRWEhoNWNPUk9jM0d2YXFHVndvZjI5U0ltQ1pxdXkwYlhwNERESnhoaDg2ei1tQ21HR1AwQnlkQlZBVEdLUHBqMA?oc=5",
    "source": "日本経済新聞",
    "summary": "西鉄、路線バスもクレカ「タッチ決済」 Vポイントたまるカード発行 日本経済新聞",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T15:57+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5d6fab228861d5ee",
+   "title": "西鉄、路線バスでもクレジットカード「タッチ決済」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6OVhQUVNfdHM1d3NEaUUtTnBiOW5rb0M2MmFyZG16R21TYUxRWEhoNWNPUk9jM0d2YXFHVndvZjI5U0ltQ1pxdXkwYlhwNERESnhoaDg2ei1tQ21HR1AwQnlkQlZBVEdLUHBqMA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "西鉄、路線バスでもクレジットカード「タッチ決済」 日本経済新聞",
    "categories": [
     "cashless",
     "credit"
@@ -3724,6 +4160,19 @@
    "published": "2026-10-15T12:10+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社メルカリ"
+  },
+  {
+   "id": "7d77b6af95c5aa82",
+   "title": "メルペイ、3回決済ごとに次回値引きのキャンペーンを10月15日より開始へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03dndIQXEtMVhqWEh1YkktMzhQajd2ME1RQWZISE5ocGxyTnRucVZtczBSREFQVGtPUEhRQURGZk1HMkZfR0E?oc=5",
+   "source": "Dellows News",
+   "summary": "メルペイ、3回決済ごとに次回値引きのキャンペーンを10月15日より開始へ Dellows News",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-15T12:10+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "ec4eb8987f125e50",
