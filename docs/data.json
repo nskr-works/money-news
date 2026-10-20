@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T11:05+09:00",
+ "updated_at": "2026-10-20T12:05+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "b6df46933dd1084b",
+   "title": "au PAY マーケット、店舗向けサポートサイト「au PAY マーケット Salon」リニューアルに加え注力施策説明動画を配信",
+   "link": "https://prtimes.jp/main/html/rd/p/000000433.000035663.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[auコマース&ライフ株式会社] auコマース＆ライフは2026年10月20日から、総合ショッピングサイト「au PAY マーケット」の出店店舗さま向けサポートサイト「au PAY マーケット Salon」内で、au PAY マーケットの今後の戦略や店舗さま向けの注...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-20T11:41+09:00",
+   "company": "auコマース&ライフ株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "fb9d7a90087546ee",
    "title": "JR東日本のコード決済「テッペイ」スタート 2万円超え決済などSuica拡張",
