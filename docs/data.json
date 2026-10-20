@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T20:05+09:00",
+ "updated_at": "2026-10-21T02:11+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,22 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "969b3ea65b8e6ec7",
+   "title": "ローソン銀行ATMから「teppay」への現金チャージが可能に",
+   "link": "https://prtimes.jp/main/html/rd/p/000000217.000038381.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ローソン銀行] 当行は、JR東日本と「ATMチャージ」※1の利用について連携し、全国のローソン店舗などに設置しているローソン銀行ATMで、JR東日本が運営するコード決済サービス「teppay」※2への現金でのチャージが2026年10月20日...",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-21T01:10+09:00",
+   "company": "株式会社ローソン銀行",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "1d32c5260197f7c1",
    "title": "GMOペイメントサービス、「GMO掛け払い」のプラットフォーマー向けAPI連携機能を提供開始",
