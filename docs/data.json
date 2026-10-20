@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T12:05+09:00",
+ "updated_at": "2026-10-20T13:07+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,51 @@
  "topics": {},
  "items": [
   {
+   "id": "c1899482f49354a8",
+   "title": "アクル、国内最大級のスキー場情報サイト「SURF&SNOW」リフト券販売サービスに不正検知・認証システム「ASUKA」の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000128.000035938.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[アクル] クレジットカード決済などの不正利用対策ソリューションを提供する株式会社アクル（本社：東京都港区、代表取締役社長：近藤 修、以下「アクル」）は、一般社団法人日本料飲外国人雇用協会（本部：東京都新宿区、...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-20T12:40+09:00",
+   "company": "アクル",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "d785522753e06934",
+   "title": "車、推し活、そして予約体験。キャンセル保険を旅行予約サイトに簡単に組み込める仕組み「Tag-in」が「2026年度グッドデザイン賞」を受賞",
+   "link": "https://prtimes.jp/main/html/rd/p/000000065.000076752.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Mysurance株式会社] 損害保険ジャパン株式会社（本社：東京都新宿区、代表取締役社長：石川 耕治）の子会社で、少額短期保険業を営むMysurance（マイシュアランス）株式会社（本社：東京都新宿区、代表取締役社長：清水 廣臣、以下...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-20T12:40+09:00",
+   "company": "Mysurance株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "4f3295cc84be84ef",
+   "title": "ＪＲ東日本のSuicaのペンギン、ＪＲ東海のＴＯＩＣＡのひよこ、 ＪＲ北海道のＫｉｔａｃａが【数量限定】ひざかけブランケットで、10月20日（火）正午から予約販売開始！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000179.000027598.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[有限会社アサミズカンパニー] [画像1: https://prcdn.freetls.fastly.net/release_image/27598/179/27598-179-da336bab2b58f402a73ba4d51b8fb236-3125x1042.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-20T12:40+09:00",
+   "company": "有限会社アサミズカンパニー",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
    "id": "b6df46933dd1084b",
    "title": "au PAY マーケット、店舗向けサポートサイト「au PAY マーケット Salon」リニューアルに加え注力施策説明動画を配信",
    "link": "https://prtimes.jp/main/html/rd/p/000000433.000035663.html",
@@ -57,6 +102,23 @@
    "type": "news",
    "published": "2026-10-20T11:00+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "3adb4d0ff8ea8a68",
+   "title": "JR東日本の「teppay」が10月20日(火)より全国のSmart Code(TM)加盟店で利用可能に",
+   "link": "https://prtimes.jp/main/html/rd/p/000001485.000011361.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JCB] 株式会社ジェーシービー (本社：東京都港区、代表取締役会長兼執行役員社長：二重 孝好、以下：JCB)は、JR東日本が2026年10月20日（火）にリリースした「teppay」について、JCBが提供するQRコード・バーコード決...",
+   "categories": [
+    "code",
+    "credit",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-20T11:00+09:00",
+   "company": "JCB",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "91eca9451b3c5d10",
