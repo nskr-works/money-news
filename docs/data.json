@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T19:08+09:00",
+ "updated_at": "2026-10-22T06:05+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "ea3f0ac52ef48bc6",
+   "title": "WasabiCard、Open USDパートナーエコシステムに正式参画",
+   "link": "https://prtimes.jp/main/html/rd/p/000000013.000189471.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[WSCD SOLUTION PTE. LTD] WasabiCardはOpen USDパートナーエコシステムに正式に参画しました。既存のUSDTおよびUSDCへの対応を基盤に、OUSDが提供するオープンな米ドル建て決済機能を、グローバル企業のカード決済およびクロスボーダー資...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-22T05:10+09:00",
+   "company": "WSCD SOLUTION PTE. LTD",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "616cc274b2096ee4",
    "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも",
