@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T16:21+09:00",
+ "updated_at": "2026-10-21T17:12+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,74 @@
  "topics": {},
  "items": [
   {
+   "id": "616cc274b2096ee4",
+   "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも",
+   "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002469/",
+   "source": "ITmedia NEWS",
+   "summary": "KDDIは10月20日、スマホ決済「au PAY」の店舗検索サイトに、一部加盟店の情報を本人の明確な認識がないまま掲載していた可能性があると発表した。対象は個人事業主最大45万8508人分で、うち最大4417人は個人名とみられる名称も含まれていたという。",
+   "categories": [
+    "cashless",
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-21T16:22+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "6f8151a0a2d679d8",
+   "title": "店内は混雑していたが 京都府宇治市のコンビニ「電子マネーで公共料金」に違和感、詐欺防ぐ",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sTm81bnl5Y1dicHJPN1VFbExLN1dyVjVnRnVoRzhOd1RqQ0JjNFg3SDIwdFJ0OFY0bUtobFgtQWdiY2pKSkpuTzBpUndmcTMzY0RxOGdIVzA?oc=5",
+   "source": "京都新聞デジタル",
+   "summary": "店内は混雑していたが 京都府宇治市のコンビニ「電子マネーで公共料金」に違和感、詐欺防ぐ 京都新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-21T16:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "271f36d4f4e59c7c",
+   "title": "2027年4月の食品消費税減税に備えよう！「ユビレジ×キャッシュレス おトクな導入キャンペーン」開催",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nR3FVdmJPaEFuOEQ3WFd4Z3hZWGk1aEVSNG5udG9GWVhKaWFUTTR5ODhjQVJNNVgxdE04c1MybEN4d0Z4elRUa3VXM2MwV1N6cHpOVg?oc=5",
+   "source": "ASCII.jp",
+   "summary": "2027年4月の食品消費税減税に備えよう！「ユビレジ×キャッシュレス おトクな導入キャンペーン」開催 ASCII.jp",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-21T15:57+09:00",
+   "via": "Googleニュース「キャッシュレス決済」",
+   "company": ""
+  },
+  {
+   "id": "80ca2a384405c199",
+   "title": "Checkout.comがリアル決済に進出へ 非対面のスピード、信頼性、テクノロジーを対面で発揮へ",
+   "link": "https://paymentnavi.com/paymentnews/184084.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月21日15:52（JST） 【米国】グローバル決済プラットフォーム大手のCheckout.com（チェックアウト・ドットコム）は、世界的な金融・FinTechイベント「Money20/20 USA」におい […] The post Checkout.comがリアル決済に進出へ 非対面のスピード、信頼性、テクノロジーを対面で発揮へ first appeared on ペイメントナビ ",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-21T15:53+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "c50310454191f773",
+   "title": "JR東日本がコード決済「teppay」開始 最大30万円に対応",
+   "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQdVVTanNsYnBjY0pPQk0wN081TmxLVXlZTGRDN09hQ2d2MWFjSHVMVmp1SVlxT2xqUHVNNzZuTWZWMzIzYzF5Sk42MjlDaVBfaU5NQlF1QzliRjI5YmttanBGNTNEVzVscks3RGF5a0RtcVJOMmwyNURaa01hNnBLTnpJSWlWZVpsZDhCbXZTNjE5QnZNckFGY1hRckRMMms5enFPcEl0dG5BUW1wbXc0U2hrR3BFcHpud1FhT0RIM2s2MlVRNzF5LTRTRktwb0R3ZHI4bV9HbHR2SVNvUTBmTTltc0lWUHQ0QUNLSGh3WUJ4YS1BQ0FYa1A3SlRnMGVVT0JPaUNoUDAxVWFXcmREY0NyWFA4TXdMalllalg4REFoUm5FaDFjUEZqcVd3ZXVDTG4xRUtXOEFlY09sQVdaa2FEZ0tkLUFDc0p4TlBPVmdaMmUxT3lvanBSZ3pBcThWeXlLNEdvdXVCLWJSX244RDIxeU0?oc=5",
+   "source": "SmartNews",
+   "summary": "JR東日本がコード決済「teppay」開始 最大30万円に対応 SmartNews",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-21T15:27+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "ba5d72fc5a020391",
    "title": "JCB、タイのKrungsriayudhya Card Co., Ltd.と新たなプレミアムカード「Krungsri JCB Ultimate」の発行を開始",
    "link": "https://prtimes.jp/main/html/rd/p/000001487.000011361.html",
@@ -41,8 +109,7 @@
    "type": "release",
    "published": "2026-10-21T15:00+09:00",
    "company": "JCB",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "a3d2c89e205ccec2",
@@ -56,8 +123,21 @@
    "type": "release",
    "published": "2026-10-21T15:00+09:00",
    "company": "株式会社ゼロアクセル",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "f3ffc43960b251b9",
+   "title": "VisaとMeshが提携、世界1億7500万加盟店で仮想通貨決済へ",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuRmctQ0daTHRONFdYVjBIS0QteU0xN05CSHNCLVdkYU1GRkp0Z1Bka05xYUpVWWpfV014bktQcC1rVjJOeXo2Nm9MckFDY1owbnF1cEMtcldLSll6bC1lWGRjS1BtUGlPWGxMVjQtbmhFZEJ1S3drUkUtMUg2dkHSAX9BVV95cUxQbkZnLUNHWkx0TjRXWFYwSEtELXlNMTdOQkhzQi1XZGFNRkZKdGdQZGtOcWFKVVlqX1dNeG5LUHAta1YyTnl6NjZvTHJBQ2NaMG5xdXBDLXJXS0pZemwtZVhkY0tQbVBpT1hsTFY0LW5oRWRCdUt3a1JFLTFINnZB?oc=5",
+   "source": "Coinspeaker",
+   "summary": "VisaとMeshが提携、世界1億7500万加盟店で仮想通貨決済へ Coinspeaker",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-21T13:21+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "05814061bfa3a96c",
@@ -222,6 +302,20 @@
    "type": "news",
    "published": "2026-10-21T10:40+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "2f74c855fe42b9c9",
+   "title": "KDDI、au PAY加盟店情報を同意なく掲載か 最大46万人分の住所など",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PbWJ4U3U3akl1RF9OM0YwS25Kc2JCNWpjZzdJVDB2Rml3MmVBYW5sWThuXzRuZmlJVDVsOTBjblB2NEFvUVpLTC1UMThZMDFOTURDbnNqMXZHdzhNT1NfMUJLWElqa1d4WmNKZA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "KDDI、au PAY加盟店情報を同意なく掲載か 最大46万人分の住所など 日本経済新聞",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-21T10:24+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "d4b5595980ac02a0",
