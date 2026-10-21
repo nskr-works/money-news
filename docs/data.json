@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T13:08+09:00",
+ "updated_at": "2026-10-21T14:09+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,21 @@
  "topics": {},
  "items": [
   {
+   "id": "05814061bfa3a96c",
+   "title": "名称なぜ「テッペイ」？ JR東、遅れすぎたコード決済参入の勝算（1/4 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KMzI3UUtaMVFzMG1DVDZOZXM4VXFtVE5ZM3RtZDV2UlBWUXFseWl3bElGbk00NllwRjFXRTRIRzA2eXJnOU9Pai1GMVVzVVZPRWhQY1E3QS1qNGR0T3FHMHlhNDlTNnd5dGc?oc=5",
+   "source": "ITmedia",
+   "summary": "名称なぜ「テッペイ」？ JR東、遅れすぎたコード決済参入の勝算（1/4 ページ） ITmedia",
+   "categories": [
+    "cashless",
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-21T12:42+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "69aa907c8897ad7a",
    "title": "トヨタファイナンスの加盟店デスクにおいて対話AIプラットフォーム「アイブリー」の商用環境における実証実験（PoC）を開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000296.000056805.html",
@@ -41,8 +56,114 @@
    "type": "release",
    "published": "2026-10-21T12:41+09:00",
    "company": "IVRy",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "a18d39087fc8222c",
+   "title": "電子マネー購入理由から詐欺察知 八幡浜署、コンビニ店員２人に感謝状",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBibzdNa0NZMW5SNWI3bTMwMHZEZkNHQnpaMFRqZXZBY29MSjduOHphYTAyUnpPVnFEUk1BUmN6Tm5Pczh5Z3g2Vk92b3NlODNuOFdsTkYyelp3WjFkMXphbg?oc=5",
+   "source": "愛媛新聞",
+   "summary": "電子マネー購入理由から詐欺察知 八幡浜署、コンビニ店員２人に感謝状 愛媛新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-21T12:33+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "2afb0a8c6fb8a767",
+   "title": "ネットプロテクションズ ベトナムがBVBankと提携し後払い決済サービスを拡充",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTi1GTGFhZHpJdmxXaTJGb0M1X2V0OWZ1TzNwUDBZZzVjTjY3bktpU2ctX0JWbWRuaXlHMEEweWxOU1JjSDNkTUwwbm16VEp5MEo0QjVUcG80OTdqWUpoV3lLM1dPTzgyeU9MckpQblRVQWtCUERpQ2VOUTNxX3c?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ネットプロテクションズ ベトナムがBVBankと提携し後払い決済サービスを拡充 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-21T12:23+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "82095086adf62ac0",
+   "title": "小田急バスが2029年度までに全台導入予定の「クレカ乗車」サービスによる完全キャッシュレス化の実現",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05b2Z4Q196bW5zb0prM1lfWG9UQXNLcXpqUi1zd3hFblp1R3BsVWlGQ0hTZ2F1MndocThZOU9WMXpkRnMySXlaSVJkc0RiTk5LVFZwTEdsYlRIOUk5MDFoLTNhN01ZTFVp?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "小田急バスが2029年度までに全台導入予定の「クレカ乗車」サービスによる完全キャッシュレス化の実現 ニュースメディアVOIX",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-21T12:23+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "0224382134014363",
+   "title": "「teppay」が全国のSmart Code加盟店で利用可能に！ オンライン向け「teppay JCB プリカ」も発行開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51WDJ1YmVEWVhCTWJZMUpnRTBBaFU0YWNscjlDb0c3dzlySjhZM3VtSmdOZnZoSW92NkxWWWhxcm1vY1g3T1h4dVhlLW1oTTQ3SHdFNDlBaGxxcGd1ZFBPZndqVHhFcTR2Znc?oc=5",
+   "source": "AppBank",
+   "summary": "「teppay」が全国のSmart Code加盟店で利用可能に！ オンライン向け「teppay JCB プリカ」も発行開始 AppBank",
+   "categories": [
+    "code",
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-21T11:51+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "ea426783e545ffe9",
+   "title": "他人のクレジットカードを登録し勝手に決済 大阪府の男(33)を逮捕 置賜地方の女性が被害に（山形）",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVmVZLThfbkNMc1lsX2ttbXZyc0pkb0JXQ184QXJVcDVoZVc0cVJrdGp1VWljWmM4ZmNCa3dYdnZTenR5YmNqRThkQ1JnVDdlWkR0LVlMa3AxQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "他人のクレジットカードを登録し勝手に決済 大阪府の男(33)を逮捕 置賜地方の女性が被害に（山形） TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-21T11:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1d046d8dba3e6f14",
+   "title": "刃物持った男が店に押し入り、現金奪って車で逃走する想定…長野市のコンビニで「防犯訓練」特殊詐欺防止へ、高額電子マネー購入の客への声がけ訓練も（ＳＢＣ信越放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03bmQ2MDVPUjZCaW1LRFJsZU5GT1Y1V3QtN3VrWDBnVDlwM2VHMDJqNmhLRzZjRDVaTmdhOVg4djlwcUdVODFIRTZNYXRYZEw3dTR4c3R3cVlENlhXSUlKbW4zTFI1MlVtWTUwZHU2NTAtVjUzWEpJUUlXMFhfUFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "刃物持った男が店に押し入り、現金奪って車で逃走する想定…長野市のコンビニで「防犯訓練」特殊詐欺防止へ、高額電子マネー購入の客への声がけ訓練も（ＳＢＣ信越放送） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-21T11:47+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "f45f5bb1a4f8d4ed",
+   "title": "刃物持った男が店に押し入り、現金奪って車で逃走する想定…長野市のコンビニで「防犯訓練」特殊詐欺防止へ、高額電子マネー購入の客への声がけ訓練も | SBC NEWS | 長野のニュース | SBC信越放送",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lWlBPTWxZS0VNbHo5NlZMZ0RrZkRTNzhNRjdNb0twei1nX3pueklTaW1ybDU5T3NWUHcxSUdyb2xaRktXNXhDVVBZWTExNnpfb0dGVXJhYlEydw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "刃物持った男が店に押し入り、現金奪って車で逃走する想定…長野市のコンビニで「防犯訓練」特殊詐欺防止へ、高額電子マネー購入の客への声がけ訓練も | SBC NEWS | 長野のニュース | SBC信越放送 TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-21T11:46+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "914a3db99037ae05",
+   "title": "JR東日本の新QR決済「teppay」とは?",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jQWFLcndFbzRIOUd0RWVVbjNNR3Y0dHFQc3B1SVFVZ05RNEp6bTZPdW5ON1RFNUl5WmJ6VjVzYnRtNF83WS0xSHRCWGxkeVU5NUVSNklLOGozQ2JPbXNlRC1yYXJVUHZXSzNuWlBoMmZLdE9HOEt5NWFwRHQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "JR東日本の新QR決済「teppay」とは? ニコニコニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-21T11:42+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "705f9f682c318071",
@@ -339,6 +460,19 @@
    "type": "news",
    "published": "2026-10-21T05:57+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "a87e657fdf86bbe9",
+   "title": "マスターカード、コインベース・ベースと提携 AI決済サービス開始",
+   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNlFIRFZzVHAzUVhGaXc5b29TMlJvZks0WU1HVWIwUHg1cHlaWlpGRjhrX3IzaVU1bnRfMXlDVy1UVGxkUUJjaENqdFFheGxaVm5SMmZJMmo3UG01QlEya202dHB1d09HUk91TGxTVGdoaXVUczZqQjFfTVY3cnRQVzJTVkM5SDdEa1U0aXRKalh3Y0RkSXJ5eWlZSVZ3UjlXOUVHNjJ4aHdnQUw1TlNHdjFLbG1BaFlUTkRBbVlrUW5kdnhPQy1UcHFfRnVRQnBCVHQzVERENXE0R0Y5SG9xU2RXbXZIMEQ4cW55YVl1SDBESzhVMHNXX01hczNVQUxSSlpaUXl3YlhNdEhZN3hmaHA3ZDZibTF5Rk1HZE5hUS1fX2ZEUWt6RHlEQ2l6T0JrTk8wZ29nYmZYM0ZFNHFLeW03c2FRU1RXZTJrN0p0X25RQ0E?oc=5",
+   "source": "Bitcoin News",
+   "summary": "マスターカード、コインベース・ベースと提携 AI決済サービス開始 Bitcoin News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-21T05:53+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "f26b220fd2d1bf45",
@@ -664,6 +798,19 @@
    "via": "ITmedia Mobile"
   },
   {
+   "id": "65edca930b48d3f1",
+   "title": "「くまモンのICカード」来年9月で終了 スマホ用の決済アプリ活用へ キャッシュレス決済の拡大狙う 熊本",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdHVfRWhkY01iMFVPOFpkWDZkaHJNT3h2QWFVMmkyMFJYdElIaVhkX3IyNFoxbi1qSEVOUUJySHBrbHUtU1czNGlVU1NHdE9aU0JHM1BsMDFMOXFBY2NF?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "「くまモンのICカード」来年9月で終了 スマホ用の決済アプリ活用へ キャッシュレス決済の拡大狙う 熊本 TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T19:06+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "22c1b20b4218ec4a",
    "title": "ＪＲ東、コード決済「テッペイ」開始 スイカのスマホ向けアプリと連携",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CTHpKY0hHOGs5MG9rd3A5WEFvc0N4dDhyMHJod1BnZWJ5NFN1RXp6VnhLZ1dxQ25rR0JjN09nTERYN3pvSjhUcmo4YWZqUjFwUERYMkRDdDRudVNtS2xGNjNNbkw4N0k?oc=5",
@@ -923,6 +1070,20 @@
    "published": "2026-10-20T17:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」",
    "company": "三井住友カード株式会社"
+  },
+  {
+   "id": "b84d4cc539c7abe8",
+   "title": "JR東日本の新たなコード決済「teppay」スタート 「Suica」と連携",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SeW1PdV9FT3NQTFRpQU90S0NkaDRLd0I3QjV2NVh5aEs5NGV2a0F5bG91UmpyVU9odW5ubkJrNW93S09HQjdwWEZ2bzcyR1RiUi1UZlBxVmFVcWtqa0E?oc=5",
+   "source": "テレ東BIZ",
+   "summary": "JR東日本の新たなコード決済「teppay」スタート 「Suica」と連携 テレ東BIZ",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T16:54+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "e2c8f6a22aa533f4",
@@ -2433,6 +2594,19 @@
    "published": "2026-10-19T12:15+09:00",
    "company": "株式会社セブン‐イレブン・ジャパン",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "e0c468ba4217c940",
+   "title": "愛知･長久手市に三菱UFJ銀行の新店オープン 現金扱わない“キャッシュレス店舗” 中部地区での新規出店は約20年ぶり 個人向けの資産形成など相談業務に特化",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsQmhwemdNSHV0SFZXV0tRUGY1Wl9TVHZSem1YRWhJcGJSN2ZyRGVaSzgxU0hmMG5JVmRPelJyUnU4V1lJbmtjdkxRQUE3RlNCMnVuaGxvOUNucDMtRzlLMHhuc2pjdVVnMHdHQ1J3?oc=5",
+   "source": "au Webポータル",
+   "summary": "愛知･長久手市に三菱UFJ銀行の新店オープン 現金扱わない“キャッシュレス店舗” 中部地区での新規出店は約20年ぶり 個人向けの資産形成など相談業務に特化 au Webポータル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-19T12:13+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "76d9dde7e835ec93",
@@ -5361,6 +5535,19 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWUdkb08zRjYtaG16SnNydm1xQ0ZHd0syTXBJWUZTV2VJN29KMHZ6dnY5d0x3THhWdGZBcGx5emZWOEwtdGM4aDVtWmo3RS1sOHhjOU9fQnlQOWt4TTEzcldxeTN6SmpPS1M1LVhR?oc=5",
    "source": "株式会社ALL CONNECT（オールコネクト）",
    "summary": "【2026年5月】クレカ不要ポケット型WiFi調査｜口座振替希望が64.6% 株式会社ALL CONNECT（オールコネクト）",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1b86bbba4b3476ca",
+   "title": "海外旅行におすすめのクレジットカード16選！海外で使える最強の1枚や学生におすすめのカードを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmSERKLS1XQWFlVjUyR2Jqdi1DVWNzYmg4UWJqRzYzWGtubzZOdG5BSmpTQUJrY0xWaXhNcTdvR0pzWnBJcUp6UXB4dER0WElUU05XUVhyeXFIYkRz?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "海外旅行におすすめのクレジットカード16選！海外で使える最強の1枚や学生におすすめのカードを徹底比較 投資情報のフィスコ",
    "categories": [
     "credit"
    ],
