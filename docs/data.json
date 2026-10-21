@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T14:09+09:00",
+ "updated_at": "2026-10-21T16:21+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "ba5d72fc5a020391",
+   "title": "JCB、タイのKrungsriayudhya Card Co., Ltd.と新たなプレミアムカード「Krungsri JCB Ultimate」の発行を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000001487.000011361.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JCB] 日本発唯一の国際カードブランド運営会社である株式会社ジェーシービー (本社：東京都港区、代表取締役会長 兼 執行役員社長：二重 孝好) の海外業務を行う子会社、株式会社ジェーシービー・インターナショナル...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-21T15:00+09:00",
+   "company": "JCB",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "a3d2c89e205ccec2",
+   "title": "【ココモーラ】クレジットカードジャンルに朝倉はるみ教授（淑徳大学）が加わりました！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000644.000117030.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ゼロアクセル] [画像1: https://prcdn.freetls.fastly.net/release_image/117030/644/117030-644-ca3e071e36533889322d27c97be21aad-1080x565.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-21T15:00+09:00",
+   "company": "株式会社ゼロアクセル",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "05814061bfa3a96c",
    "title": "名称なぜ「テッペイ」？ JR東、遅れすぎたコード決済参入の勝算（1/4 ページ）",
