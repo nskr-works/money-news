@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T00:10+09:00",
+ "updated_at": "2026-10-23T07:07+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,19 @@
  "topics": {},
  "items": [
   {
+   "id": "886288250e99c8a1",
+   "title": "7割弱が3-Dセキュア2.0の原則義務化以降も不正減少を実感できず？（DGビジネステクノロジー）",
+   "link": "https://paymentnavi.com/paymentnews/184160.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月23日7:00（JST） 【日本】DGビジネステクノロジー（DGBT、日本・東京）は、「ECサイトにおけるセキュリティ対策に関する調査」を実施した。 AIを活用したサイバー攻撃への警戒と防御策が叫ばれる中 […] The post 7割弱が3-Dセキュア2.0の原則義務化以降も不正減少を実感できず？（DGビジネステクノロジー） first appeared on ペイメントナビ .",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T07:00+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
    "id": "31cee6464c7968a2",
    "title": "エム・ピー・ソリューション、修学旅行生向けキャリア教育プログラム「東京学生エスコート」との連携による高校生向け金融授業を実施",
    "link": "https://prtimes.jp/main/html/rd/p/000000072.000030773.html",
@@ -41,8 +54,34 @@
    "type": "release",
    "published": "2026-10-22T23:10+09:00",
    "company": "株式会社エム・ピー・ソリューション",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "c28f4855fef051d0",
+   "title": "マイルがたまる「ANA Pay」200万会員突破 抽選でANA Pay残高500円分をプレゼント",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news078.html",
+   "source": "ITmedia Mobile",
+   "summary": "スマホ向け決済サービス「ANA Pay」が累計会員数200万人を突破。マイルからチャージできる金額の上限額を引き上げた他、抽選で4000人にANA Pay残高を500円分をプレゼントするキャンペーンも行う。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T18:58+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "d51e3401b5523be9",
+   "title": "モバイルSuicaの新決済「teppay」を早速試した 店員への伝え方や決済音は？ スムーズに決済できる？",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news079.html",
+   "source": "ITmedia Mobile",
+   "summary": "JR東日本は10月20日、モバイルSuicaの新コード決済サービス「teppay（テッペイ）」の提供を開始した。本記事では体験イベントでの実際の操作感や決済音の仕様についてレポートする。あわせて事前に知っておくべきチャージ方法やオフライン利用時の注意点を解説する。",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-22T17:00+09:00",
+   "via": "ITmedia Mobile"
   },
   {
    "id": "11406029f425a905",
