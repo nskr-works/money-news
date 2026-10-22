@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T11:08+09:00",
+ "updated_at": "2026-10-22T14:11+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,139 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "604f489e8e6e569f",
+   "title": "画像・写真：交通反則金のキャッシュレス納付導入へ：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MQ3pnNlZ4bGQ3a3ZQdTVuYlE1VEFKMWlpT1F5dVRqOHN5ZWh6bGRPWkMtRXRkeDFwTFBNcmZ6bjRfYjY1OW5hVkhDQ3BySDlSd2J5X2xpc1g1X0Y5dTV4Q21RM2E?oc=5",
+   "source": "時事ドットコム",
+   "summary": "画像・写真：交通反則金のキャッシュレス納付導入へ：時事ドットコム 時事ドットコム",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T14:03+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "b4ce66b97a1bf69b",
+   "title": "警察庁、青切符の反則金にキャッシュレス決済導入へ",
+   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNVm0xX2o5QXotVkRMZThuLUNjdnk3NHVSSldGempsUEVxUnpUMDVkRTRDU2RIbTJfVHVDdlhZUXBpLWhfejZjZTl1bUZxOTlhaV9LbnhrcTIwS0hQYVBFWEgyVklhdUR6S19rLU9hRUlUbVUzclp2bG5ETjJMMVM1ZGkxZXRIbFE3aWVhdmoxbjE1Z3R5al9mTm5leG5WZUYzZklqMnRRMnhNdmVNdkpZdDNoNDh4MTUyaThpT08zOFFIU0JoSWpQTEx5eVBnZUFrOGhoTXgtQ2VNeVdCTmYxYUFrcDY2RkJyd2JxTDQ2SVdCQzBsZVp6UGI3RHB1WVk3VHJ2akU2a3gyd2N4R3FEeEg4ZDR3NzFjXzdwLUNfNC1PYzBsVXU0UmFlZjVEeUJ1X3pxMkROQnZBc2RNWEVzNXBJUEc4UlN5MDh5MlhYWUZWbFZTMUpxX3lESkh1ZHZyWjB4Z2NQaGNXM21LU01xc0hyaS1VbTc5WG5QVEk2djFUSkhCbEJHMTgwNA?oc=5",
+   "source": "SmartNews",
+   "summary": "警察庁、青切符の反則金にキャッシュレス決済導入へ SmartNews",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T13:37+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d95cb878e2a632d9",
+   "title": "メルペイ、オンラインショップで使えるJCBブランドのカード番号を提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FZjR1bXV1V2pJSUNKVE5xR2dScTN0ZGdyRUQ0aFlGaXQ2UXRGTUc3T0RPUDhMVXB6Zk0xUUw5d2lTSlhVQlFrajBTTUxNd05OWExvaEJqWUxXY0RrNVI3S0lIQU8tMWV1Tmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "メルペイ、オンラインショップで使えるJCBブランドのカード番号を提供開始 PR TIMES",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-22T13:10+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社メルカリ"
+  },
+  {
+   "id": "c43ea8ddf2abdb9a",
+   "title": "交通違反の反則金納付 キャッシュレス決済を来年導入へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wVnZxbno4R01hekFMcTVVckpVajJLbjlvNzNxd3BGQ0g1cWM0QUxsVS1SSVg1Q0liY2FydDZuSF9fQ0ttQWpQWUZsYllHbWpjWWVMWXlXZDdOVkdZb0Fz?oc=5",
+   "source": "NHKニュース",
+   "summary": "交通違反の反則金納付 キャッシュレス決済を来年導入へ NHKニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T13:02+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "c091e1ed456a909b",
+   "title": "\"呪イ\"がコンセプトの７人組アイドルグループ「マザリ」の公式クレジットカードを提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHYWxHUzZvRlFsR1N0R1pPQzdrbHFQVzZKbmIyM243RHdkSTQxMnJsWFBRelVrcHRUTlZ0MzkwSG9LOGlHNVZCNkdNOTV1cG04VXhDdWRQNzR5WGMxTGUxTXlnTGUzekliTkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "\"呪イ\"がコンセプトの７人組アイドルグループ「マザリ」の公式クレジットカードを提供開始 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-22T13:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ナッジ株式会社"
+  },
+  {
+   "id": "6c45aa83b054be43",
+   "title": "Mrs. GREEN APPLEカードきせかえ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sYzlPbFFJSktTSW5RVmZ6bXVHbUdxTHB1a2FHdmRwX3c3QUtQM29MQTVYdXhJeEdPeWxrdkszVHM1M29hdVIxaTRjSmFWNlNSNjRqd3hMeEZNQ0oxYVE?oc=5",
+   "source": "PayPay",
+   "summary": "Mrs. GREEN APPLEカードきせかえ PayPay",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-22T12:42+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "2397b45c3a221229",
+   "title": "PHP欠陥 埼玉県内自治体も対応追われる 越谷市は電子クーポン決済サービスを停止（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tS3NRdlhLZ1V4TmxlZE5peGhZZUZSTERkVGEzblg1WHI5MkZ4YXY0OFFpV3ZXRTFwUHNEOU5pQTU0eVJCQ0c3T0VNaEdxaGZlR24zZVJvMkxCMVRSMUJqTUFnM0JHSkZxYWNKZlNEb19OYlVSdjhvSG9LaHRZTDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "PHP欠陥 埼玉県内自治体も対応追われる 越谷市は電子クーポン決済サービスを停止（産経新聞） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T12:23+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "d67a3f30eb7c6b48",
+   "title": "【ミニストップ限定】「楽天ギフトカードセレクト×電子マネーWAONキャンペーン」：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80bm5tRDRwM0J5bGwyYVo3QkxMdExxd2RLM0dNek1KRnRzOFlaZWg4SlE4aGtpeFRUU1FyWXNJaUQ1ekx0T0sxS2RqR21TLW5aZTQ4U2pFZkVBWEtXdzZ0QmlORlRZUDdSeEdB?oc=5",
+   "source": "時事ドットコム",
+   "summary": "【ミニストップ限定】「楽天ギフトカードセレクト×電子マネーWAONキャンペーン」：時事ドットコム 時事ドットコム",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T12:16+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "ae59f1eaf9bd7c85",
+   "title": "プログラミング言語「PHP」 デジタル商品券や電子マネー使えず 空港のホームページも閲覧できず 大分（TOSテレビ大分）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaWd3cGtuR2ZMM2pGeUQ1TnRhMjVwMUZyQVh4OGlNRklPUTJNeVJDZEhHSzUzaWg0cE11SDR1QnFyRWFsQ194WDlhdU1EMHJaQmRCcTdRS3JBZEZTWlZKZjkwS0JZclMyOTB0cE0zSFB4YzMycGtnMDhiOUZza1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "プログラミング言語「PHP」 デジタル商品券や電子マネー使えず 空港のホームページも閲覧できず 大分（TOSテレビ大分） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T11:53+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "c2bb31c8a64d1eb6",
+   "title": "【ベトナム】日系後払い大手、地場銀と連携し対象範囲を拡大（NNA）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TcExQNzJYN3N2RjloY05KWnFCX3RxeVd3V25meUVkeUg1dUFnb3B3MWo1STRuZ3diTHNtSmVGUDVvT1lmWmdTV1RzOVZjQWNNNzZsWFlQOW1wOXRyb1NJWElmclZSUzlwanR0T1FYVHZYZU85eGYyM3preXVWcWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【ベトナム】日系後払い大手、地場銀と連携し対象範囲を拡大（NNA） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T11:30+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
   {
    "id": "62a148be12c90f52",
    "title": "【ミニストップ限定】「楽天ギフトカードセレクト×電子マネーWAONキャンペーン」",
@@ -64,6 +197,19 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS0FSb1F4VHVRZGw2VURBWHh4am9PN01SX2VBUDBTZlp3VEF0cFNSZHJjaUhjZlJZMVZWdGVGSDdwU2RYUmlBMVFVU0tKVTJwYmhoTVNGb1MzRm83cTQwZTc3TGthR21oOU4yYmtnSVBMNHRBamxhVERoNXZsMzFSbNIBhgFBVV95cUxNM2NSTy1DMERIal9UVnRfTHZrS3FXVHBDdmdZMXpnX25jRGNURlY3SVVMYnFBMFV1WlF3bWJ4aURaOVNxc04zRjlyb1F1WVczYm9tckkxeFB1V3JqOGlTLTdVbHlOdWtTMG84NFVERGxZMUpsWmVOLWt6SjdsbzlnbW12TWxDdw?oc=5",
    "source": "ｄメニューニュース",
    "summary": "交通反則金のキャッシュレス納付導入へ ｄメニューニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T10:52+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "36aac4de210a153a",
+   "title": "◎交通反則金のキャッシュレス納付導入へ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfN2JfaUpNemhSV2RVZlN2eGcwT3QwUi1NdTVkRlh4QlBMZHJZc2N5emtKSTI0S1hlWnhfUkcwNk0wVnMxMGQ2VXR1UHBteGJtRlhzMg?oc=5",
+   "source": "時事通信ニュース",
+   "summary": "◎交通反則金のキャッシュレス納付導入へ 時事通信ニュース",
    "categories": [
     "cashless"
    ],
@@ -167,6 +313,45 @@
    "via": "Googleニュース「決済代行」"
   },
   {
+   "id": "4d94138d84b63627",
+   "title": "交通反則金のキャッシュレス納付導入へ クレジットや決済アプリで―来年７月から・警察庁",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zVHo5UVl0UDVOb0ZYTUg1M1RhdzAzSEo2OXljTXUzRl95QXozTlFnSWQ3TnlCdHZQRnh0d1FadEcxaW9hTHdRRHIxYWVRXzIyUDlPNVR5ZU4tdl9YcnBKV1BxWQ?oc=5",
+   "source": "時事ドットコム",
+   "summary": "交通反則金のキャッシュレス納付導入へ クレジットや決済アプリで―来年７月から・警察庁 時事ドットコム",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T10:19+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "cd7fcf041d9a0990",
+   "title": "青切符 キャッシュレス納付検討",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CQmY2RmNDbTAzaWdNdC1Bd1hLWk5hSGNuaUFQWkNUMkxSUzEtOFNGOTY3X1phUE5aRTJNcHhOMUNpVVRYRDNSSllDT3pwdjVxbVR3b3JZZlYzMVpiR1QtX3hJMy13OEx1T2lsQ1VaRjR1U0V6MlBmcDN5VQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "青切符 キャッシュレス納付検討 Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T10:16+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "5f2661d189c8d815",
+   "title": "青切符、キャッシュレスへ",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTZvbnYtQ1lwbk1LSUpnVEE0SHBGWklpWnU1WHlrYzFsaWtXVGZCWW4yV05ZUFBoYUdfWTBEZThQZkR2ZXl2OWZGUkxzSGVjRzNDcmVCYUw0QWs2RklXZ1pWLXV5ejFWaWc1UFRaQTZ3NnFyTXFYalM1ajBaMmRZb1pBbjLSAYQBQVVfeXFMT2U2b252LUNZcG5NS0lKZ1RBNEhwRlpJaVp1NVh5a2MxbGlrV1RmQlluMldOWVBQaGFHX1kwRGU4UGZEdmV5djlmRlJMc0hlY0czQ3JlQmFMNEFrNkZJV2daVi11eXoxVmlnNVBUWkE2dzZxck1xWGpTNWowWjJkWW9aQW4y?oc=5",
+   "source": "大分合同新聞",
+   "summary": "青切符、キャッシュレスへ 大分合同新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T10:15+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "2d2d1f66bf0469b0",
    "title": "青切符、キャッシュレスへ クレカ、コード決済も | | 全国のニュース",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ubHJOWFJCVGtya3FJeUhVVnRLTm1NVUltYTlFSG9QWWNYWlpwZzFBRHZuaEhEUXZaRzRLTlF4bGJDLS12Q19iMW1nczBwNXlFdFNFMk1n?oc=5",
@@ -248,6 +433,19 @@
    "published": "2026-10-22T10:04+09:00",
    "via": "PR TIMES（決済）",
    "company": "三井住友トラストクラブ株式会社"
+  },
+  {
+   "id": "1b21c9ce70e03f99",
+   "title": "交通違反「青切符」反則金、キャッシュレス納付可能に 27年7月から",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kUXlacWhfSkhzOS1XOGkwMDhMM0dxdmYtazNnejhFd3FNSjRoQTFkekhjUzk1RzBoZUVSSkdodjhtbkp2QUJpNVRoZmhDUWpvVTl2dWkxZWJxWTlXMDJ5LWdOVlk3LVp6alkzRQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "交通違反「青切符」反則金、キャッシュレス納付可能に 27年7月から 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T10:04+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "328319db83a5affd",
@@ -568,6 +766,19 @@
    ],
    "type": "news",
    "published": "2026-10-21T20:16+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "f48ebe053d2692fd",
+   "title": "いえらぶGROUP、不動産特化の決済サービス いえらぶカード払い を開始",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42QnBQWmxFbHprc2l0VDJRYnRxSnlhQmtvZkJiQUlNTjVSSjRfem5lRnhuX0FWSXVKYnFCRE9sb0p0WEhWNnY1eEpIanJ6SDNvZFlaenpVZjBxZEhxTjZnYQ?oc=5",
+   "source": "Dellows News",
+   "summary": "いえらぶGROUP、不動産特化の決済サービス いえらぶカード払い を開始 Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-21T19:44+09:00",
    "via": "Googleニュース「決済代行」"
   },
   {
@@ -4816,6 +5027,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "be0afb075afe5175",
+   "title": "他人名義の口座でクレカ作成し課金か 男女２人逮捕 １００件超の不正作成に関与の疑い 帯広市 HTB北海道ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwZTJGSVk1Ty1seWl2QmpVUzIxWnc5MnJFRFhkMnVlZFg4UFNGNmt4LW5hclNxTE5xQ0JzQzhYdzlzQTQ3b05yZDBmWnZQbEk5aW1BY0s4SEsxdw?oc=5",
+   "source": "HTB北海道テレビ",
+   "summary": "他人名義の口座でクレカ作成し課金か 男女２人逮捕 １００件超の不正作成に関与の疑い 帯広市 HTB北海道ニュース HTB北海道テレビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T18:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "8bbab60f5f604c06",
    "title": "西鉄が福岡都市圏の全路線バスに「クレジットカード乗車」導入へ",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SajkyZ1ItS01vUnlnOUZyMkhjQnFmWGxLVWxwNENyaFBELWJhTm5Dazc5dmducDZYdHFNNFlLZlZzNG5jWVlkSi1JYi15LUo4blFDSzNB?oc=5",
@@ -5192,6 +5416,19 @@
    "type": "news",
    "published": "2026-10-16T16:00+09:00",
    "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "79a3e466fa0f7a18",
+   "title": "口座振替対応の格安SIMおすすめ11選｜クレカなしで契約できる契約先を比較 | オールコネクトマガジン",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlSUYyc2pFMERCWjZzcTRZOXlXZ1FNcFBObnlVVTBFX0ZIRHJxbm0zaUlveFRFd3h1TXo2WWNRbUhaVExQaTlaQlhzQkM4cklSQ08wU3pUbHhVUXI4T1cxMW9fcnRaYTZTOU8xcw?oc=5",
+   "source": "株式会社ALL CONNECT（オールコネクト）",
+   "summary": "口座振替対応の格安SIMおすすめ11選｜クレカなしで契約できる契約先を比較 | オールコネクトマガジン 株式会社ALL CONNECT（オールコネクト）",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "437d4ea13fe4e3cf",
