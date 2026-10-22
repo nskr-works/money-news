@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T14:11+09:00",
+ "updated_at": "2026-10-22T17:13+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,87 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "11406029f425a905",
+   "title": "メルカリ、オンライン専用のJCBカード番号を発行",
+   "link": "https://www.watch.impress.co.jp/docs/news/2150424.html",
+   "source": "Impress Watch",
+   "summary": "メルペイは、オンラインショップで使えるJCBブランドのカード番号「オンライン決済用カード番号」の提供を開始した。「メルカリ」アプリから申込める。",
+   "categories": [
+    "code",
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-22T16:45+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "c78c79802b343e19",
+   "title": "全国のイエローハットで「AEON Pay」利用開始",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzWEdvSW15OTJnWUNTR3R0cURjd2dzY2xCei1rWFZrQlhxUm9OeFczbENFYU5DdFlVZElwX3kybzV3TThDRmhXWmJRN3FfUQ?oc=5",
+   "source": "アットプレス",
+   "summary": "全国のイエローハットで「AEON Pay」利用開始 アットプレス",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-22T16:00+09:00",
+   "via": "@Press（決済）",
+   "company": "イオンフィナンシャルサービス株式会社"
+  },
+  {
+   "id": "dcceb10574e1ca88",
+   "title": "「なぜSuica Payじゃない？」 新決済「teppay」ネーミングの裏側と話題のコピーの狙い - Page 2",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LX3JHMERZeUtFSWctXy1IZTNlRVR6NERoX0NtTWxTX2Z2WmhEaVV2aUNhaGRnY0hXSmJpQU9YT00xbWJPLTkwcHZ4UDlJaHlKUF9Qbi1GakV5eV9ld1VEZWNR?oc=5",
+   "source": "AdverTimes.（アドタイ） by 宣伝会議",
+   "summary": "「なぜSuica Payじゃない？」 新決済「teppay」ネーミングの裏側と話題のコピーの狙い - Page 2 AdverTimes.（アドタイ） by 宣伝会議",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T15:31+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "f8a4ed125cc1c3b0",
+   "title": "決済代行 未払いで混乱",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SdWxUMFJzdGZZZmNzTTlzd2ZBUTR3T3FaNTlGcUx5UXlFc3FjM3g3dHZqUlpTTm9tTHU5TWhMT25yUkFTM21PSU85VncydndFQmJfMEs0NjdYTU0?oc=5",
+   "source": "下野新聞社",
+   "summary": "決済代行 未払いで混乱 下野新聞社",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-22T14:47+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "237ac162d3ddea70",
+   "title": "チケット販売サービス「GETTIIS」でクレジットカード関連情報含む会員情報の約31万件が漏えい 不正アクセスを受け発表",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajRkTkFuUFRZUGdJYzNCNmtZQndBWTFadTlwMEg0VDdXdVFQNTJFcFpFcTF6VEhsbkN4dTg1QS04TkpXbmNhUEQ2VFFRd01yVWNIRHE2UFlGdGVSRll4MG45eXh2akQ0VnFhdmJGZmxfN2NfOS1Wd041dDNibGFvWnFSVXRxNDg?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "チケット販売サービス「GETTIIS」でクレジットカード関連情報含む会員情報の約31万件が漏えい 不正アクセスを受け発表 日テレNEWS NNN",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-22T14:32+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f2efa5d7f6c4d9fc",
+   "title": "青函フェリー ＷＥＢ予約と決済サービスを一時停止（2026年10月21日掲載）｜青森放送NEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTlmRC14Qk80VjA2N1FMRDR1OWxGempWdHFwcUY1QnhiR0R5NU9hdlFiNGlvNzJMdUlpMUFXV1dNX3hoQ3gzdFEyR1RLUmNQOXV2clRrQWZBcm1VRGpyZ2JRd21KeU5JQ1NTSWY0RndLZ0g1RTdMeURyeEl2ei13N1VsU1pCRms?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "青函フェリー ＷＥＢ予約と決済サービスを一時停止（2026年10月21日掲載）｜青森放送NEWS NNN 日テレNEWS NNN",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T14:19+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
   {
    "id": "604f489e8e6e569f",
    "title": "画像・写真：交通反則金のキャッシュレス納付導入へ：時事ドットコム",
@@ -96,6 +177,19 @@
    "published": "2026-10-22T13:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "ナッジ株式会社"
+  },
+  {
+   "id": "977edbc7a624cd39",
+   "title": "チケットレストランがマスターカードに対応！全国最大47万ヵ所以上で使えるスマホ決済とは",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYampQUkJ0b3p6bERrSjN6VFhpTmoxNTdremFnVUt0VDVubllJbGJ3MXgyanhxTWh0RW1rQWV4VFVMQ3IwbTJzd0I4VXE3ZFR3Y0NQQm1YUQ?oc=5",
+   "source": "株式会社エデンレッドジャパン",
+   "summary": "チケットレストランがマスターカードに対応！全国最大47万ヵ所以上で使えるスマホ決済とは 株式会社エデンレッドジャパン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T12:52+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "6c45aa83b054be43",
@@ -1899,6 +1993,20 @@
    "type": "news",
    "published": "2026-10-20T18:00+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "64cc49794bd8f771",
+   "title": "【画像】新コード決済サービス「teppay」、本日10月20日スタート",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mNURRTWZ1OGVpT0Nta204eHZkYWs3SnNuRDhneGpBd2hiN0xFU29TbTV0cUU5bEthZFEwTl9LcF82bW0yRWdieG96eDB0N19SMU5JemFJN2R2MHJqelRiVC1IMHBkRHZkT2ZydGNtRXRoQS0wSm9uT3dWbEk?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】新コード決済サービス「teppay」、本日10月20日スタート ライブドアニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T18:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "60b45113abd5413b",
@@ -5423,6 +5531,19 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlSUYyc2pFMERCWjZzcTRZOXlXZ1FNcFBObnlVVTBFX0ZIRHJxbm0zaUlveFRFd3h1TXo2WWNRbUhaVExQaTlaQlhzQkM4cklSQ08wU3pUbHhVUXI4T1cxMW9fcnRaYTZTOU8xcw?oc=5",
    "source": "株式会社ALL CONNECT（オールコネクト）",
    "summary": "口座振替対応の格安SIMおすすめ11選｜クレカなしで契約できる契約先を比較 | オールコネクトマガジン 株式会社ALL CONNECT（オールコネクト）",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "605cdfcd2a4d88ff",
+   "title": "【2026年最新】学生におすすめのクレジットカードランキングTOP6｜大学生でも作れる人気カードを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aN2F5RktNVXM0THhKbU1hcmVpY3BIWHF3X1RQd2hrNEV1WUg0U0o1bmdha1g0VG0wR0hob0JicDU5TFBERDQ1YU0xN09KUkpSQ3MzU2hfdlA2WUd4WWFPcTFsVlZsZ1NtR2lJ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】学生におすすめのクレジットカードランキングTOP6｜大学生でも作れる人気カードを徹底比較 新日本保険新聞社",
    "categories": [
     "credit"
    ],
