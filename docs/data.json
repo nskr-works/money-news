@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T16:21+09:00",
+ "updated_at": "2026-10-23T17:11+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,19 @@
  "topics": {},
  "items": [
   {
+   "id": "760b41be4c565b80",
+   "title": "teppay、本人確認はなぜマイナンバーカードだけ？ JR東に理由を聞いた",
+   "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002547/",
+   "source": "ITmedia NEWS",
+   "summary": "JR東日本のコード決済「teppay」は、本人確認に使える書類がマイナンバーカードのみで、運転免許証やパスポートには対応しない。その理由を同社に聞いた。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T15:56+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
    "id": "9bb6697644362086",
    "title": "Stripe と Anthropic、Claude Duet 内でビジネス運営を支援",
    "link": "https://prtimes.jp/main/html/rd/p/000000135.000077879.html",
@@ -41,8 +54,33 @@
    "type": "release",
    "published": "2026-10-23T15:45+09:00",
    "company": "ストライプジャパン株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "ad987c5c61791c2a",
+   "title": "JACCA第40回トークイベント：海外消費者の決済動向 2026 ～購入率を高める決済の工夫とBNPL（後払い）活用法～",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zalFrRVpmRVdpbkxsV0FydTNHbzBuVC1qNl9ITjBwRENVbm11al9udUloc1BvdHdSTk1pV0d1aEw2RHhWUWlUVEs0UEFmMXBmNEZB?oc=5",
+   "source": "ドリームニュース",
+   "summary": "JACCA第40回トークイベント：海外消費者の決済動向 2026 ～購入率を高める決済の工夫とBNPL（後払い）活用法～ ドリームニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T15:30+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "031cbd2169ed3cf7",
+   "title": "モビリーデイズに不具合 広島市中心に電車やバス、キャッシュレス決済できず（中国新聞デジタル）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mWUZHamlNS3pBQU55VjJHbFBvT2tYQ1pzWHNXdU1obDVsd1MwS3lhckNwaE51TEg0WlZHaGVpcGtkUzZyZTNyaFI0dmdlMXdtQ1lCVGxkTmNhUWZuQU4wTk54NGZHMXFmcmZHUDFEUlVjYUNKSWpTUXFNNlpxODg?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "モビリーデイズに不具合 広島市中心に電車やバス、キャッシュレス決済できず（中国新聞デジタル） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T15:09+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "ecbae2ca5e030929",
@@ -56,8 +94,7 @@
    "type": "release",
    "published": "2026-10-23T14:41+09:00",
    "company": "JR西日本",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "7c8882e2fd19dca9",
@@ -71,8 +108,34 @@
    "type": "release",
    "published": "2026-10-23T14:37+09:00",
    "company": "ヘラルボニー",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "33e891774ecbc67a",
+   "title": "15歳・高1の息子が「Amazonでクレジットカード」を発行し“数十万円”の買い物!? SNS投稿に「年齢詐称した？」「審査ガバガバ」の声も、なぜ“未成年”がクレカを作れたのか―「今後のクレカ発行」の注意点も確認（ファイナンシャルフィールド）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFJ4blNTaDNXQ3lBYWtJWi1FelNoeWF0djFKTVk4T2JDOEZDNzhKeXRfT2dac1FFREV4LTN6dS1zYzhhQWJWZE9TNmo1S1laZ3BjSlRVei1xY3Q1YVpmSXJUUlIwYTRUU0pSUVZHVmlHQnBya3pFdE1YWnhnTndBWHhBdjBZTnBX?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "15歳・高1の息子が「Amazonでクレジットカード」を発行し“数十万円”の買い物!? SNS投稿に「年齢詐称した？」「審査ガバガバ」の声も、なぜ“未成年”がクレカを作れたのか―「今後のクレカ発行」の注意点も確認（ファイナンシャルフィールド） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T14:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8f2d1c75f0ecb6c4",
+   "title": "【かたに商店】 一部店舗の「QRコード決済サービス」取扱終了のお知らせ。｜新着情報",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fWlh2UklRWVVLZWhOM3BTSzlYcEZDV0ZaeW1TY0dqUEFZODRqSkN2eXNseVpKb3JzeF9GWHlscDhLMzgxeGxIUTdaSHhqV0xCTmVQSDR6Z1c?oc=5",
+   "source": "株式会社ふじや",
+   "summary": "【かたに商店】 一部店舗の「QRコード決済サービス」取扱終了のお知らせ。｜新着情報 株式会社ふじや",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T14:20+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "6c9c13d0679a20f4",
@@ -276,6 +339,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "7abac182470236c3",
+   "title": "「クレジットカードの不正利用は何日前の分まで補償されるのか」補償期間は規約しだい「60日」過ぎて70万円が補償されなかった例も 被害の9割超は番号盗用。カードが手元にあっても、利用明細をこまめに確認したい | 概要 | LIMO | くらしとお金の経済メディア",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41N2Iyc2VQN1pfbzgteHc2dldyVXFzNlBONWlZQUVUMWppSm5iNGlUUW1LNVpsZUx5MzBLbXZWd084dWhHTXFPUURvSU0?oc=5",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "summary": "「クレジットカードの不正利用は何日前の分まで補償されるのか」補償期間は規約しだい「60日」過ぎて70万円が補償されなかった例も 被害の9割超は番号盗用。カードが手元にあっても、利用明細をこまめに確認したい | 概要 | LIMO | くらしとお金の経済メディア LIMO | くらしとお金の経済メディア",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T10:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "241f031c43505c57",
    "title": "元 Visa シニア決済専門家のマット・プライス（Matt Price）が WasabiCard に参画、グローバルパートナーシップディレクターに就任",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0dkFxa0djVmxpeW9ub2JMdWdBMGJJR2RUQkxRblY2djZUaHdfUzM4ZDV6WlJQRXpkdXcwckhWbVB6dFUtOTB1WEdubkx4Y3hpMDllYjVES09iQ042NFFLM1JRQUJFU0w1Z0E?oc=5",
@@ -327,6 +403,20 @@
    "type": "news",
    "published": "2026-10-23T07:50+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "6fa6fb76e185b217",
+   "title": "【PayPayカード】スマホでのタッチ決済ができてお財布いらず！ Patrick Bailey (ncZuyX63KY)",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnUW9GS0hqYmxhOVdnRlRuODdkTnBrU1k3REtLQTJMZ19xak0tQkQxRW5YaXF2SVJKNWh0RWdaQXg0alpNMG5faHp2bm9jMm9sMk9XdERLcVByQkxMSEVOOFEwTERnUQ?oc=5",
+   "source": "Unisba Media",
+   "summary": "【PayPayカード】スマホでのタッチ決済ができてお財布いらず！ Patrick Bailey (ncZuyX63KY) Unisba Media",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T07:41+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "300b8dc3d51cfdf9",
@@ -479,6 +569,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "3f3f633c99c18150",
+   "title": "【2026年最新】主婦におすすめのクレジットカードランキング7選｜審査・選び方も解説",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BNzBmS3owcE1ZRXFhZThoNEdFb3BqWExQamxCb0dfWmp6eGZmd05tY2ltSXN3NkwyOWRQN1liRUVjckhmRzhsVlc5V1VVWl9IVGlvT3VJYTVmTTZyalA0a0pJbGdzbGR0OTdlV3VR?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】主婦におすすめのクレジットカードランキング7選｜審査・選び方も解説 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-22T20:13+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "672a3966c0f2c05c",
    "title": "交通反則金、キャッシュレス決済が可能に…来年7月以降 クレジットカードやコンビニなどで（2026年10月22日掲載）",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtd3ZDWklMd0t0OFJabW5DTTAxTHVTSVFCY3RLNWdpUDhUazhGcHhtQ1pxSGtsSlVnbnBEeUFPa0gwSWtId2c3cVJic0JQaGplMVlrdlFiSU9rRDhYUVZ3SWxxRG1qNG5EbGZmU3BuSWZWN3l2WnQyc1FBdUQ?oc=5",
@@ -524,6 +627,20 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIUEdmcXZNSjRHQldHREdJdGRMT1ExTkl0N09YVEoxc29MTjl5QUkxLXZ5N0Q0WWdMdGRfbEV4c1lSRDZmdmtZd1Zhb3l1cFRMbi1tUDloTFJwZXd5OWtz?oc=5",
    "source": "Infoseek",
    "summary": "クレカ不要の決済サービス「Liberty Point」開始 銀行振込で最大6％上乗せ｜Infoseekニュース Infoseek",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-22T18:14+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "9d85c96a2ad1d42d",
+   "title": "クレカ不要の決済サービス「Liberty Point」開始 銀行振込で最大6％上乗せ",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtdjBKU25Za1dyd01xYVhMSVpoNGhfUFVBcWJoNl9nUlkwejc1UHQybml4Rmppbloxa3pPMnRiUXZ0bFZwTlI4UzdrcmViUQ?oc=5",
+   "source": "ポイ探ニュース",
+   "summary": "クレカ不要の決済サービス「Liberty Point」開始 銀行振込で最大6％上乗せ ポイ探ニュース",
    "categories": [
     "cashless",
     "credit"
@@ -1567,6 +1684,20 @@
    "type": "news",
    "published": "2026-10-21T21:53+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "380b1788cc9a8752",
+   "title": "PayPay決済サービス メンテナンスのお知らせ※10/23再開しました",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rcGVFU1N3bXpEdkowRWotYWh0VjN4bWdwWUgxSnRvUy1mS1RCZ3kycEFWaGtnYjVHSlNnd0toaVdGYmhzU0dueG1zNmhhU0RKdGxmZA?oc=5",
+   "source": "iFace",
+   "summary": "PayPay決済サービス メンテナンスのお知らせ※10/23再開しました iFace",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-21T20:17+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "44e3f6a5b79378e0",
@@ -4168,6 +4299,19 @@
    "type": "news",
    "published": "2026-10-20T00:34+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "60323e91d62d1af9",
+   "title": "【速報】ホテルの客室に無断でPC設置しフィッシングメールを約48万件送信か 他人のクレカ情報で買い物も…中国籍の夫婦を逮捕 兵庫県警（読売テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13eXRIYlBmZEg4eUlwUHdaVi1yU0NURnJPZlF4NW1FYkxUNUNxbHFUZjBwTXFESjZudDlUVkFfbVFXQWYyZmhWN3RET2N5V0RiYmZQZmdTZzRLUFo5Y1NmNUtzNV9LcUQxYTBlbXhPQ2NuRnVTcHNiMC0yQ0k5U1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【速報】ホテルの客室に無断でPC設置しフィッシングメールを約48万件送信か 他人のクレカ情報で買い物も…中国籍の夫婦を逮捕 兵庫県警（読売テレビ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-20T00:04+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "d58d578eaa2a6005",
