@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T15:05+09:00",
+ "updated_at": "2026-10-23T16:21+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "9bb6697644362086",
+   "title": "Stripe と Anthropic、Claude Duet 内でビジネス運営を支援",
+   "link": "https://prtimes.jp/main/html/rd/p/000000135.000077879.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ストライプジャパン株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/77879/135/77879-135-517062902719305f5603a2d561f68ddb-1024x512.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-23T15:45+09:00",
+   "company": "ストライプジャパン株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "ecbae2ca5e030929",
    "title": "『Wesmo!推しトクキャンペーン』11月1日～12月29日の対象企業のお知らせ",
