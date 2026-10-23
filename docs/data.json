@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T17:11+09:00",
+ "updated_at": "2026-10-23T19:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "a1b5dc654262529c",
+   "title": "モバイルSuica × ヘラルボニー キャンペーン",
+   "link": "https://prtimes.jp/main/html/rd/p/000001559.000017557.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[東日本旅客鉄道株式会社] 〇JR東日本グループは、勇翔2034で掲げる「すべての人の心豊かな生活」の実現に向け、誰もが自分らしく生きられる共生社会の実現に向けた取組みを進めています。その一環として、株式会社ヘラルボニー（本社：岩...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-23T18:40+09:00",
+   "company": "東日本旅客鉄道株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "760b41be4c565b80",
    "title": "teppay、本人確認はなぜマイナンバーカードだけ？ JR東に理由を聞いた",
