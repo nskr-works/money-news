@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T13:08+09:00",
+ "updated_at": "2026-10-23T14:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,72 @@
  "topics": {},
  "items": [
   {
+   "id": "6c9c13d0679a20f4",
+   "title": "全国のイエローハットでAEON Pay利用可能に コード決済なら1.5％還元｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JT0pmMElfQ292aFlrVVJZLWR1bzNOTnJ5VXFJMWlZUjJkTnBnRjRaRVd2bjhOb0stTlo1VkQwdkxBb3RuZHlEVDAxa3l1Z3MwUGp5TzdnOXRoa1VzTUsw?oc=5",
+   "source": "Infoseek",
+   "summary": "全国のイエローハットでAEON Pay利用可能に コード決済なら1.5％還元｜Infoseekニュース Infoseek",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T13:02+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "29245830ff0fc74b",
+   "title": "PayPay、本人確認はICチップのみに 来春の法対応を前倒し",
+   "link": "https://www.watch.impress.co.jp/docs/news/2150668.html",
+   "source": "Impress Watch",
+   "summary": "PayPayは、キャッシュレス決済「PayPay」の本人確認において、本人確認書類の「撮影」による申請を廃止し、「ICチップ」を読み取る申請方法に統一する。改正犯収法で求められる対応を前倒しで導入する。",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T12:59+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "fc594c92591763ed",
+   "title": "PayPay、「免許証画像で本人確認」廃止 ICチップ読み取りに統一",
+   "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002540/",
+   "source": "ITmedia NEWS",
+   "summary": "運転免許証かマイナンバーカードのICチップをユーザーがスマートフォンで読み取り、本人確認申請する方法に統一する。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T12:59+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "9032b39d7a7dc425",
+   "title": "ソフトバンク、最大2860円引きの「おうちスマホ割」開始 20周年の感謝企画",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2150639.html",
+   "source": "ケータイWatch",
+   "summary": "ソフトバンクは、モバイル事業20周年、ブロードバンド事業25周年、でんき事業10周年を記念した「SUPER ARIGATO YEAR」を開始した。スマートフォンの月額料金割引やクーポンの提供、PayPayポイントが当たる抽選会などが順次実施される。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T12:53+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "82b58ff8496f6aed",
+   "title": "お名前.comデスクトップクラウドで不正アクセス FXで不正利用も発生",
+   "link": "https://www.watch.impress.co.jp/docs/news/2150663.html",
+   "source": "Impress Watch",
+   "summary": "GMOインターネットグループは22日、VPSサービス「お名前.com デスクトップクラウド」において発生した第三者からの不正アクセスに関連して、顧客に対しパスワード変更およびログオフの実施を呼びかけた。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T12:46+09:00",
+   "via": "Impress Watch"
+  },
+  {
    "id": "2916b720e2368bb6",
    "title": "「新生『三井住友トラストクラブ』誕生」を伝えた統合広告が初の広告賞受賞 ～第75回 日経広告賞 コーポレート変革部門 優秀賞を受賞～",
    "link": "https://prtimes.jp/main/html/rd/p/000000021.000081043.html",
@@ -41,8 +107,7 @@
    "type": "release",
    "published": "2026-10-23T12:41+09:00",
    "company": "三井住友トラストクラブ",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "5bb2944a67435153",
@@ -56,8 +121,48 @@
    "type": "release",
    "published": "2026-10-23T12:41+09:00",
    "company": "株式会社こじま",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "acc52251c296e126",
+   "title": "「PayPay」、本人確認（eKYC）をICチップ読取に一本化へ",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2150671.html",
+   "source": "ケータイWatch",
+   "summary": "PayPayは23日、キャッシュレス決済サービス「PayPay」の本人確認（eKYC）について、11月上旬までにICチップ読み取り方式に一本化すると発表した。",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T12:38+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "4dcf9ac39473ddf2",
+   "title": "「セカイカート」が決済サービスとの連携機能強化：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SQ3hXSGdZYmZyMTM5U3dGa0JJM0R3bTlGNENkbklJcDFLbFVTVkl0Q1lWdjdCMHNoUWlnUnZzQkc4Mk4wUzkyQW52MURkYi16R0lPNWxHSzE3eHhaaU1HZ3J6aG9HYWJEN0tn?oc=5",
+   "source": "時事ドットコム",
+   "summary": "「セカイカート」が決済サービスとの連携機能強化：時事ドットコム 時事ドットコム",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T12:16+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "4bfae26a8044baf6",
+   "title": "「セカイカート」が決済サービスとの連携機能強化",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qNHI5My1RcU4xaWp2VVA1alpveUdpVFh3ZTR2Q3JadUtZRm9mdlIyUFpQUW9SWWFGRk5tSnplODc3RWtMTzJabmNiV0JfWEhfM0ctQ0g5ZHN4X3hVZ0hEdkJ5WXhEeGJ5clE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「セカイカート」が決済サービスとの連携機能強化 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-23T11:33+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ジェーエムエーシステムズ"
   },
   {
    "id": "8570506e3be59703",
@@ -98,6 +203,19 @@
    "type": "news",
    "published": "2026-10-23T10:31+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "8c277cb1ceef10c0",
+   "title": "金融委員会、与信専門金融会社の不動産融資規制を強化 カード会社にPG事業者のリスクの四半期点検義務",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYzBWYXQ5WmpwVGVpS2FXMzNaRVNFYmFpa0RBaWZHMmIwT3dTb1pQbkNyeDMwaDU5dVdhZHBZZC1iU0Z6dFQzUElGc3R0dTd4TVA3Ml91UGwxQzJTNHJfaFFIb2lTcEVPa2doUGFBTXlNTG5lbUozQ2hkNTlQMzRvMFU1Zm0ycE1mZWttbHJfUklrNHI2RkszVDIwQUhnMkNTcnhORkE2c1VCUEtyUjNYZzJnS3lRVlA0TkpNR3pNdkI5V3U4UjNOSWg5ZEgyVFFTMkdGQVNON1VVLTRITnJxNg?oc=5",
+   "source": "디지털투데이",
+   "summary": "金融委員会、与信専門金融会社の不動産融資規制を強化 カード会社にPG事業者のリスクの四半期点検義務 디지털투데이",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T10:19+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "fc070d241a798ab6",
@@ -205,6 +323,21 @@
    "type": "news",
    "published": "2026-10-23T06:35+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2e20d4850aa45101",
+   "title": "青切符、キャッシュレス納付追加へ 早ければ２０２７年７月 クレカやコード決済",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUGdCdW9sTXpwcFNRelJnbk5EQl8yRjd0UnJyMFR6LXVMdGl1dDlGck1oSHN6SUFuUC1MeGhMLTRxTnozckFWQnVjSUxPXzZzOFNka0V3OHhJSnpFZktXRGFGd3c2WHlRR2c?oc=5",
+   "source": "山口新聞 電子版",
+   "summary": "青切符、キャッシュレス納付追加へ 早ければ２０２７年７月 クレカやコード決済 山口新聞 電子版",
+   "categories": [
+    "cashless",
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T06:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "7ad30a0bac5537e4",
@@ -494,6 +627,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "b3cfea6b53dd0622",
+   "title": "お金を盗られたら戻るのか｜不正利用・不正送金・詐欺の補償の地図",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sSHV2WWRSWTRYMllMMXR2d3F6LWJpYTNDWUdFdzU2TzhVaF9xZVVMdWRueWVxQldBT0dYd0RaRTUySW5pUTRJalo5S1R3M1k4Z0k2SXpQakhVbWlKMTlZeWFTQUVsR0t3RUtKNUlNRVQtUk0?oc=5",
+   "source": "innovaTopia",
+   "summary": "お金を盗られたら戻るのか｜不正利用・不正送金・詐欺の補償の地図 innovaTopia",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-22T15:24+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "f8a4ed125cc1c3b0",
    "title": "決済代行 未払いで混乱",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SdWxUMFJzdGZZZmNzTTlzd2ZBUTR3T3FaNTlGcUx5UXlFc3FjM3g3dHZqUlpTTm9tTHU5TWhMT25yUkFTM21PSU85VncydndFQmJfMEs0NjdYTU0?oc=5",
@@ -544,6 +690,19 @@
    "type": "news",
    "published": "2026-10-22T14:19+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "d4a5be703a1392db",
+   "title": "430万円特殊詐欺 四日市の40代会社員 投資名目で電子マネー",
+   "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNMDZKcG9RdTZ0eGgtdG1YbEtuQktCOGRwYzFvSzd1RnQyZGFFMzFnNzdUVkZYZ3FLTy1SVE9uNHVSMUduQ3BtTVRSejVoRFF2N0FvcFJhdkJTdHVJeHpNeGwyOFV6TktWVnVWN2VSd3BYeW1vTGIwYk9GWEQ0Q0ctOVZUUUVPcXlhSDhnYW82OXdMUHlmQXRyYzh3cUNUOTlkQXNYSl81MXpBaENhUG5aUjI3TU1LalFtVlAxX2hqOGx1VkhDX2lZSlA4dWxZMFk1aWo2bTBtdTZtbFpRa21kTmtsMGRhaVlheDNWbk8yeWJPdzB1dHlvUnFXTDMwd2NZMFdwcy1BTUlXam5oRnBKUDFQM1VvNG5UOUs4dUMtV1J6ay1NdmNCRGV6QnNUaEV2NDluXzlmdnFyNUJIZWIwSnBaLXg1d0hrVHhaM0hoUXp6cWd5UnZQcA?oc=5",
+   "source": "伊勢新聞",
+   "summary": "430万円特殊詐欺 四日市の40代会社員 投資名目で電子マネー 伊勢新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T14:09+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "604f489e8e6e569f",
@@ -1377,6 +1536,20 @@
    "type": "news",
    "published": "2026-10-21T20:16+09:00",
    "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "3c3a14fe373f07c8",
+   "title": "JR東日本、モバイルSuicaで「teppay」提供開始 最大30万円のコード決済と残高送受信に対応",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iVUowcW40eWtrN1pEN1FMYV9WeGo2NmhsVlBFd2JlN2lzaUdZdHV0UkpZZ0FRQ3RJMXJTa1hDTi1lNVBFVFVPYUNYQWZ3NEswajE2dnVhNFlVNXpQNVk1S3h3?oc=5",
+   "source": "NOVAIST",
+   "summary": "JR東日本、モバイルSuicaで「teppay」提供開始 最大30万円のコード決済と残高送受信に対応 NOVAIST",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-21T20:08+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "f48ebe053d2692fd",
@@ -2864,6 +3037,19 @@
    "type": "news",
    "published": "2026-10-20T16:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "01a6ad91dd6a3e18",
+   "title": "ＷＢＳ【コード決済teppay、PayPayに挑む▼曲がる太陽電池実用化▼欧州で極右台頭】",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGFIM1V0bThNa2s3MWtkMmg3RzdlRnJSMEVKRkdFMm9icGVXYnBUbzZ5eDZhdm9aZnNwck9NQy02Rnl2SXY4bk84amJnTVJmSGI2dElrNERMQXY1ak9nV1BiSW1GU0kySVlSUWMyWmxOb2tMR045SFVNYWE3MTI3anphSEU4WXhEUktneDlIMA?oc=5",
+   "source": "テレビ東京",
+   "summary": "ＷＢＳ【コード決済teppay、PayPayに挑む▼曲がる太陽電池実用化▼欧州で極右台頭】 テレビ東京",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T16:00+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "91ae4bdc772fe40f",
@@ -4726,6 +4912,19 @@
    "type": "news",
    "published": "2026-10-18T17:18+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "bea89121ecd89b3a",
+   "title": "オーストラリアのクレジットカード納税禁止騒動：政府は7月に把握していたが、企業への周知は直前まで行われず",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTN0g0LWR6OC1ETDc5T0d1U2lhSU5KZGtDMG1za3FVcUwxUzZEYnV2eVA4cEZZM0U0T0hieWp0TjMwSXVETFVVR04ydjFjcXFEUzZ6elJwOW1admJ2eFpvM2RhbmJQX2FnMklTREpOMjU0MTh6?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "オーストラリアのクレジットカード納税禁止騒動：政府は7月に把握していたが、企業への周知は直前まで行われず BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-18T16:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "736effd8e8ce2611",
