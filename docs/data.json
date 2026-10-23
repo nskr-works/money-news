@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T11:09+09:00",
+ "updated_at": "2026-10-23T13:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "2916b720e2368bb6",
+   "title": "「新生『三井住友トラストクラブ』誕生」を伝えた統合広告が初の広告賞受賞 ～第75回 日経広告賞 コーポレート変革部門 優秀賞を受賞～",
+   "link": "https://prtimes.jp/main/html/rd/p/000000021.000081043.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[三井住友トラストクラブ] ダイナースクラブカード、TRUST CLUBカードを発行する三井住友トラストクラブ株式会社（代表取締役社長：山口 信明。以下、当社）は、日本経済新聞社が主催する「第75回 日経広告賞」において、コーポレート変...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-23T12:41+09:00",
+   "company": "三井住友トラストクラブ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "5bb2944a67435153",
+   "title": "【グループ店舗を育てる全体接客研修】働く人と加盟店が、ともに店を育てる仕組みづくり",
+   "link": "https://prtimes.jp/main/html/rd/p/000000071.000172503.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社こじま] [画像1: https://prcdn.freetls.fastly.net/release_image/172503/71/172503-71-4c8e7aaf633fd8301c70ed9a20cb1b6c-1671x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-23T12:41+09:00",
+   "company": "株式会社こじま",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "8570506e3be59703",
    "title": "電子マネー購入「待った！」 特殊詐欺被害を阻止、ローソン二戸福岡店に感謝状",
