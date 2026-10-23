@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T19:08+09:00",
+ "updated_at": "2026-10-24T07:04+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,58 @@
  "topics": {},
  "items": [
   {
+   "id": "6a59162116bba2e7",
+   "title": "（4）スマホ決済を家計管理に生かす方法｜今さら聞けない🉐スマホ決済利用術",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fbGgzdWpNTXczMXF3NXVfQnl5dDVBYjBaeFBCcG1EMzdWaGw2RVRMQWJQN2RsMzRRR05ic2FJcUY3LTZnSXhZVjAxOFRsWjlzWFJDTkVZRTBybXA4MjZQRC1iNmxEdw?oc=5",
+   "source": "日刊ゲンダイDIGITAL",
+   "summary": "（4）スマホ決済を家計管理に生かす方法｜今さら聞けない🉐スマホ決済利用術 日刊ゲンダイDIGITAL",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-24T06:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "2d2c8e56de019792",
+   "title": "HSBC初の香港ドル建てステーブルコイン「RedCoin」がPayMeに登場、330万ユーザーと10万加盟店をカバー",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EOGNySTNOVEV0TTNDbTN1MU9HOExwVllQd29HdDBJQ0p6LUowMTJFRjFHV2hjUDZrUG96cVBpclYzemVVVkdCWk1kNUxCTnB1VjIxMWVtcFVfSFM4OVViMldZNU5EbUZSSXJGTXp5N0tLNTN6?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "HSBC初の香港ドル建てステーブルコイン「RedCoin」がPayMeに登場、330万ユーザーと10万加盟店をカバー BigGo ファイナンス",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-24T03:25+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "12655b74c391c1ba",
+   "title": "「iPhone Duo」はLINEもポケモンGOも“黒い”余白だらけ？ 日本の定番アプリは未対応が多く",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news074.html",
+   "source": "ITmedia Mobile",
+   "summary": "10月23日に発売された「iPhone Duo」。LINEやPayPayなど日本の定番アプリの多くは、まだ内側の7.6型ディスプレイに最適化されていない。例えばLINEは、開いてもiPhoneと同じサイズのまま画面中央に表示され、周囲を黒い余白が囲む。対応が進むまで、当面は我慢が続きそうだ。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T23:55+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "9bc55a6af7504a98",
+   "title": "アンドエスティ不正アクセスで会員情報250万件など外部に流出の可能性 クレカ情報やパスワードは含まれず 会員ポイント使えない状態（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56ZVlmUUdxcjhVbkZab2NKV25Wc0dmR2tfbFh4eGNfRjlmcTkwTDdZLVltVFY1TTcwTzczTmtHcTViNVdIeElJeTZ3al9hMnZBQ01DLVYzTXZoWkttOWF1VC1yLTlCLVVGYUhwaDRrdHFzUEJYWFM3b09wYkozaU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "アンドエスティ不正アクセスで会員情報250万件など外部に流出の可能性 クレカ情報やパスワードは含まれず 会員ポイント使えない状態（TBS NEWS DIG Powered by JNN） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T20:44+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "a1b5dc654262529c",
    "title": "モバイルSuica × ヘラルボニー キャンペーン",
    "link": "https://prtimes.jp/main/html/rd/p/000001559.000017557.html",
@@ -41,8 +93,85 @@
    "type": "release",
    "published": "2026-10-23T18:40+09:00",
    "company": "東日本旅客鉄道株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "189d0b401b2a59df",
+   "title": "紅下区は「ストリート4.0 - キャッシュレス決済」モデルを導入している。",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMExVMEN4ZjFQYm1zN2QzTHpVcFJjVnNGOGhaWUVBOGd3TzYwbXRSMk5YR1FZVmNDdjQwWjJOdURzaExfa2ZpRG9OVEdkUFlOVXFBSExUUm1lOVZ0WEN1MUhMbXdfWWRYQlFfMlhHemhBdUNqTUtjOEpBMlljeVFlR1YxUFNhR19GeDJmWVlIa0xDcTBDdXNsRDJ6U1o4bDY3VFEwckxGQQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "紅下区は「ストリート4.0 - キャッシュレス決済」モデルを導入している。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:08+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "34b98628278043c6",
+   "title": "AIを活用したサイバー攻撃が急増。「3Dセキュア2.0」導入義務化後、不正の発生件数「増加した」が32％、手口は「クレジットカードのなりすまし利用」が最多（ネットショップ担当者フォーラム）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wZkhTSFJraGlMVWxQaXFsV25YOVV3aGY3YlJhTTl1cUJITkdCMFNoLVYxX2x0MW11Vy16WFVFQVFXZVM3UXI4RGJhR09wdmRzNERDaEVsQjg3ajJCVl8ydWdFbmhfOHc5eFpmajhLU3dJX3p6X2htdHNsMFVWRFk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "AIを活用したサイバー攻撃が急増。「3Dセキュア2.0」導入義務化後、不正の発生件数「増加した」が32％、手口は「クレジットカードのなりすまし利用」が最多（ネットショップ担当者フォーラム） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:01+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8470e1701c5054ad",
+   "title": "【2026年最新】韓国旅行におすすめのクレジットカードランキングTOP8｜手数料・保険で徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qSm9iZnhnT0pOMXRWRmRsT1ZYMWpCUERXSTlPSVBxb1hoNGRBbGFjbGxYTFUybXNWbG9vblRuWmwxTDlsemtudU5Rc0ViMkRLS2ozUHBQVUdYYXg3MlpYOERXeHhUZ1I0?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】韓国旅行におすすめのクレジットカードランキングTOP8｜手数料・保険で徹底比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T17:51+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7ac8ab09f2929bb2",
+   "title": "カード流出事件数・流出件数は2020年以降で最低水準 かっこ・リンク【キャッシュレスセキュリティレポート 2026】",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hOVNWcTNhZ0pvbjVaRzluZmJZX25fV0dQcko4QUdVVHZmazhDcUhvTER6WXVlSzN5bGExRDlNTXJEbkFnUUNBOUVRZjhpeGU1ZFp5Z01Ec0EwdFdVQzZWOElncWo?oc=5",
+   "source": "ECのミカタ",
+   "summary": "カード流出事件数・流出件数は2020年以降で最低水準 かっこ・リンク【キャッシュレスセキュリティレポート 2026】 ECのミカタ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T17:30+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "1f7fc06c66ee9b03",
+   "title": "キャッシュレス決済が！ 広島電鉄の「モビリーデイズ」に不具合 復旧見込み立たず 支払いは現金のみで（テレビ新広島）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MMm5QX3hEUU9jZ3BQMFY5cDFiZFNSaWhRREQ3VXpoVFhxMk9VZjJiUUZBSnQtYU9rcDlsQjRENUdISVlMYzNSUnROUjFSTDlzSlhWRDdjcWFYSGhFYVY5SF8yREJIZjdfMm9HSEVMT0pFeDVCQjJBQlEtLU9hcFk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "キャッシュレス決済が！ 広島電鉄の「モビリーデイズ」に不具合 復旧見込み立たず 支払いは現金のみで（テレビ新広島） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T17:25+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "6d00125e14b06235",
+   "title": "韓国のHana Financial Group、Upbitウォレット連携のステーブルコイン決済を実証…加盟店精算の「リアルタイム」化を推進",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1haXVMMGZmMnBXWUE0M2cxNXB4RWhNWmdpSk5seTZlRzR6VWo2YTdNckhiaVd4SHZiUEpJaEN0Y3JZTld6NWxiRzhZblJ6Y1hkWUZ5UUV1RElTNzFZM0xxdUFneVowcE02d3RBWXRzUGJOWEhw?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "韓国のHana Financial Group、Upbitウォレット連携のステーブルコイン決済を実証…加盟店精算の「リアルタイム」化を推進 BigGo ファイナンス",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-23T16:55+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "760b41be4c565b80",
@@ -85,6 +214,20 @@
    "via": "Googleニュース「後払い・BNPL」"
   },
   {
+   "id": "e9e56546d0536dfd",
+   "title": "Stripe と Anthropic、Claude Duet 内でビジネス運営を支援 | ストライプジャパン株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZWhoLXNKODZCSExIUVNmdy1LRkQ2TThkVC1fdnAzT3Z0Zjhaa0RBZXFUaWxEb1NJYkxWSHN5bjEyM1hxTXBZallvY0Jwdkd4eHJINzRkU21Pd0c4TUprZVBmdGVIb2J5OXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "Stripe と Anthropic、Claude Duet 内でビジネス運営を支援 | ストライプジャパン株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-23T15:30+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ストライプジャパン株式会社"
+  },
+  {
    "id": "031cbd2169ed3cf7",
    "title": "モビリーデイズに不具合 広島市中心に電車やバス、キャッシュレス決済できず（中国新聞デジタル）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mWUZHamlNS3pBQU55VjJHbFBvT2tYQ1pzWHNXdU1obDVsd1MwS3lhckNwaE51TEg0WlZHaGVpcGtkUzZyZTNyaFI0dmdlMXdtQ1lCVGxkTmNhUWZuQU4wTk54NGZHMXFmcmZHUDFEUlVjYUNKSWpTUXFNNlpxODg?oc=5",
@@ -124,6 +267,19 @@
    "published": "2026-10-23T14:37+09:00",
    "company": "ヘラルボニー",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "b6538103f6168014",
+   "title": "モビリーデイズに不具合 広島・廿日市・呉市の電車やバス、キャッシュレス決済できず 通信障害か",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UWFlzdmtwZ0xyWVRRT3BIOFNwVWFIeHgyNDNDZlk5VXpKeVRnOWd3N0JCVjhSUm5xdkNRNS1XZFBiOFFNS3I2VHFWWm02dW90WUNGdkEwZnlqdw?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "モビリーデイズに不具合 広島・廿日市・呉市の電車やバス、キャッシュレス決済できず 通信障害か 中国新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T14:37+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "33e891774ecbc67a",
@@ -288,6 +444,20 @@
    "company": "株式会社ジェーエムエーシステムズ"
   },
   {
+   "id": "fe578749aab91d3f",
+   "title": "「セカイカート」が決済サービスとの連携機能強化 | 株式会社ジェーエムエーシステムズのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qNHI5My1RcU4xaWp2VVA1alpveUdpVFh3ZTR2Q3JadUtZRm9mdlIyUFpQUW9SWWFGRk5tSnplODc3RWtMTzJabmNiV0JfWEhfM0ctQ0g5ZHN4X3hVZ0hEdkJ5WXhEeGJ5clE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「セカイカート」が決済サービスとの連携機能強化 | 株式会社ジェーエムエーシステムズのプレスリリース PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-23T11:33+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "株式会社ジェーエムエーシステムズ"
+  },
+  {
    "id": "8570506e3be59703",
    "title": "電子マネー購入「待った！」 特殊詐欺被害を阻止、ローソン二戸福岡店に感謝状",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BUUZKR3c4b0JLXzBMbW9hNUY1Tm1jYXJORUZWYlp1UmtNV3ZFWFBzakJyS3dlQmxTYmNpS0ZCRGFLTmZWcXNONy1JaVdSSlNENDdWeG1SbkYzNENBTUttLVZaLXFtMTA?oc=5",
@@ -326,6 +496,20 @@
    "type": "news",
    "published": "2026-10-23T10:31+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "4d1e939e72411b62",
+   "title": "「GMO後払い」、後払いからクレカ切り換えのオプション機能を提供（日本ネット経済新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fMWREWmg4Y1dSZW9hUlhqdExyaFFwNlJGZkxwcDhoaE1Dc0l6UV9WQ0RTbkNFd2d3azBBYno4RTZiN3h3b3RPb19neloydzI1ZEw1WTNrTmRYSEtHeTE5aWZxLXNaYjdLcnlqUU9zem84REpoQ1NWRzRWMXB0eGc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「GMO後払い」、後払いからクレカ切り換えのオプション機能を提供（日本ネット経済新聞） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T10:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "8c277cb1ceef10c0",
@@ -503,6 +687,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "4ce24dbd414aeed0",
+   "title": "警察庁が青切符のキャッシュレス納付検討 早ければ来年7月にも",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TS2MwMGNXenNITmw1QlRoNUt1RUJCQkoxM2ZhbnVoWmhTYWxVMnRWT2xzUG9NOEhZdXpfMW9Qb1RqR2wxMm5LLVEzT3dxLUY0S0x0X1JjT0FlRDJPQ0dodDgxRGZJV2d0TENBLXU0cERudzlSZXdpaQ?oc=5",
+   "source": "聖教新聞",
+   "summary": "警察庁が青切符のキャッシュレス納付検討 早ければ来年7月にも 聖教新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T05:04+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "e47d566633f3575e",
    "title": "青切符でキャッシュレス クレカやコード決済 警察庁検討、来夏にも開始",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BNkdaN0NPYlBiRGl3OU1tOGhhYWlHY0ZaQVYyY3Nkc2NsN25KVXgwVktuRVdqc0p5U2hsZExNQ09Wcm41dmRXTlVWQXJfa2d4c01zVlViNDZlc0FpV1E?oc=5",
@@ -516,6 +713,19 @@
    "type": "news",
    "published": "2026-10-23T05:00+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "29cb71df480ee3d1",
+   "title": "【2026年最新】年間100万円利用におすすめのクレジットカードランキングTOP10｜永年無料の条件も解説",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HOXZFcGJ6SjNzdUc3R09qX0hZM2FIV2Uyc3l4Nk00ZkNaUjRvTjNJXzN4M2VJc1Y1bVBXOXpxN3JhMXlnczVkSV9sSGVXYkZ3UnI3dC1KNHhyOXBlaFhGNjd6X21fMk5PUXVCUw?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】年間100万円利用におすすめのクレジットカードランキングTOP10｜永年無料の条件も解説 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T02:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "ae261a0d770fb001",
@@ -678,6 +888,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "99a6145e64fea6ec",
+   "title": "Xで女性になりすましか 性的な好奇心をあおるメッセージで9人の男性から電子マネーをだまし取った疑い 26歳の男を逮捕、送致 山梨 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ)",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81MXB0VHhUekR1NU55TmFkQ1N6WTBCU0NrYWswSFkwQmd4SFR0SkNDVzYtbG84dzhCMkxiX3h4NFNGQkJ0bTNGMUFjT0lMR29JZ1BpMEhyc25kT1hFLTFsUzdtMlVsT1k?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "Xで女性になりすましか 性的な好奇心をあおるメッセージで9人の男性から電子マネーをだまし取った疑い 26歳の男を逮捕、送致 山梨 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ) TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T17:55+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "7559d8b51ae16142",
    "title": "「中東の看護師」名乗りインスタで急接近…50代男性がロマンス詐欺の被害、電子マネー2万4000円だまし取られる 富山・上市町",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiYnEyRm4wYUhWcXBGMUxXNnlaQkJzSGM0R0NjM1BGRV9LTUxnV2YtWWoycGczNnVEM0FXbktyMHh6NmtPeFRvQ2hfZXpNY2lpQ1YtQU9fUVp5Zw?oc=5",
@@ -731,6 +954,19 @@
    "type": "news",
    "published": "2026-10-22T17:00+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "a48c426a51b30f38",
+   "title": "モバイルSuicaの新決済「teppay」を早速試した 店員への伝え方や決済音は？ スムーズに決済できる？ - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpejQ2Y1lQZmV4dld3N2hWT2dMTFJIWXpLb2dDQTBVTDU3MkFKVGozZk5OLXRtQmdRdGtMR1N2ZGFqeC02eXNuRm9WMG9SOFNRMGo0ODZhT21tZ2RNendoZk4wdnAyMGtsU3paLWhOMNIBaEFVX3lxTE5TZndQQk91cU5Tdnp1LWREWmZ3Z0EzZjQyZFljNUs5VTZIa3ZNOEZVdzkxU0RSOWZFd1hRcXFqY1d6d0FOQzBpUDQ3S1lVMjNfUkVYUVRMclc5ejVIbHl0ZEg0VzFHck5a?oc=5",
+   "source": "ITmedia",
+   "summary": "モバイルSuicaの新決済「teppay」を早速試した 店員への伝え方や決済音は？ スムーズに決済できる？ - ITmedia Mobile ITmedia",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T17:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "11406029f425a905",
@@ -1874,6 +2110,19 @@
    "type": "news",
    "published": "2026-10-21T16:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "0e8dde92f38a0eb8",
+   "title": "弘前城植物園でキャッシュレス決済の実証導入開始（2026.10.21）",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1I0b3hzbnFWdjFYU0hZZTdia1Q3OVl3WWZldzU1eFlyTk1IMW9vaDBJaE9nNHRZYnZhS28yMkQxTlFGazY2S1QwaWx2U0hHc003a0QtRzZwSmhKR2VSaDloSWkyM0UxRGI5Sk5vMUtpelJockwyek1zX29wVjRHZTFuZXpBdw?oc=5",
+   "source": "www.city.hirosaki.aomori.jp",
+   "summary": "弘前城植物園でキャッシュレス決済の実証導入開始（2026.10.21） www.city.hirosaki.aomori.jp",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-21T16:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "271f36d4f4e59c7c",
