@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T14:08+09:00",
+ "updated_at": "2026-10-23T15:05+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "ecbae2ca5e030929",
+   "title": "『Wesmo!推しトクキャンペーン』11月1日～12月29日の対象企業のお知らせ",
+   "link": "https://prtimes.jp/main/html/rd/p/000002421.000095753.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JR西日本] 西日本旅客鉄道株式会社（本社：大阪府大阪市、代表取締役社長：倉坂昇治）は、9月1日から開催しているJR西日本のスマホ決済アプリWesmo!のキャンペーン『Wesmo!推しトクキャンペーン』について、2026年11月1日（...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-23T14:41+09:00",
+   "company": "JR西日本",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "7c8882e2fd19dca9",
+   "title": "日々の移動にアートとの出会いを。作家のアートで彩るモバイルSuica限定カードフェイスが登場！先着5,000名本日10/23～エントリー開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000625.000039365.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ヘラルボニー] [画像1: https://prcdn.freetls.fastly.net/release_image/39365/625/39365-625-11a238f42a1d5039721dce7efd5ac838-1671x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-23T14:37+09:00",
+   "company": "ヘラルボニー",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "6c9c13d0679a20f4",
    "title": "全国のイエローハットでAEON Pay利用可能に コード決済なら1.5％還元｜Infoseekニュース",
