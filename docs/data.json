@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T12:04+09:00",
+ "updated_at": "2026-10-24T14:05+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -41,8 +41,20 @@
    "type": "release",
    "published": "2026-10-24T11:15+09:00",
    "company": "株式会社エブリイホーミイホールディングス",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "8d18e74fcc05ac08",
+   "title": "ポイント優先で選んだクレジットカード、引き落とし額に違和感 30代男性がはまった落とし穴【知る得】",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DR1RGWjdYaXpTbjNwcTJoSDY2WTQ5OG51Q05JQndYMlFKZlBQN2dLQm1HQ19VNUxaQ2VVclRmSVpZb1JxaDJSYUt4bkhBLTFfT19uRmhHVk4zd09udnc?oc=5",
+   "source": "福井新聞社",
+   "summary": "ポイント優先で選んだクレジットカード、引き落とし額に違和感 30代男性がはまった落とし穴【知る得】 福井新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "74786ab2508049a0",
@@ -96,6 +108,20 @@
    "type": "news",
    "published": "2026-10-24T09:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "ad3a9a46a24799f5",
+   "title": "東奔西走キャッシュレス(100) 現金還元を導入したnanacoクレジットカードの狙い",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aTGVrRTR1bERVcUwwQUtjU1FxY00yT0pXZ1VXWHNBeGRmR0tXWXJQOFNWY0c4dHEwUldySkpTdnl3d3pJenlGV2FQd0E0eDc1UmFGWXBFVXBYM1J4dkJjZzJB?oc=5",
+   "source": "マイナビニュース",
+   "summary": "東奔西走キャッシュレス(100) 現金還元を導入したnanacoクレジットカードの狙い マイナビニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T09:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "ccc11e0de9d7ba64",
