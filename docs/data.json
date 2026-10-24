@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T07:04+09:00",
+ "updated_at": "2026-10-24T11:09+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,85 @@
  "topics": {},
  "items": [
   {
+   "id": "74786ab2508049a0",
+   "title": "ソニーストア、11月4日からクレジットカードの請求タイミングを変更。分けて出荷する注文は、最初の出荷時に総額を請求。出荷まで期間がかかる注文は再与信あり。",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WZ09RVnRpLUNRSGdYYjB2Ty1ZRThWNFJVUmxydm1YZHN4NGp3VzZMeHpHVTduUTlIcTdkaXM1ajc2czhxQWJtRVpTQlNaenJMMjlQTDNuUzdjZ2M?oc=5",
+   "source": "ソニーが基本的に好き。",
+   "summary": "ソニーストア、11月4日からクレジットカードの請求タイミングを変更。分けて出荷する注文は、最初の出荷時に総額を請求。出荷まで期間がかかる注文は再与信あり。 ソニーが基本的に好き。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T10:14+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2cdffc1afa032a2f",
+   "title": "マッチングアプリで知り合った人物に電子マネーなどおよそ30万円相当をだまし取られる 静岡・富士市（静岡朝日テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tcnF1RWpyYVFmZnF3REtoSmVXR3B1anpaUFNadVF5SldwcklEeHZ6ZVdab2o2aEYwTUFNNGxGMHZyVjE5bVU3SVowN3ZyUzJ6RFdzNldBT0RpT1JIUzF6RWVPcGpKMWNuQjVSMXQ4VmlpczVjcWU3RGdORjFmSUE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "マッチングアプリで知り合った人物に電子マネーなどおよそ30万円相当をだまし取られる 静岡・富士市（静岡朝日テレビ） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-24T09:52+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "91aeff835fcc0743",
+   "title": "10年遅いだろ》JRコード決済『teppay』は「シェア獲得」「ポイ活」ともに絶望？見えてきた“リアル”な使われ方（週刊女性PRIME",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iSS0zSmh6VFVBM21wNlAtUlhyV2xrSjZFVW1tbmgtZG53YS1VVzFxSEh3dDIzMTNtWmhnSi1GeXdlZGRKbjduVDlGM2RIa2tkaTMtT1k3ZVE3VGZoWGQ4NE5KZWFxTW5xdFJrZGVoekx2SFJoV05ydHhqZlV5Zm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "10年遅いだろ》JRコード決済『teppay』は「シェア獲得」「ポイ活」ともに絶望？見えてきた“リアル”な使われ方（週刊女性PRIME Yahoo!ニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-24T09:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "1fac6aa4d4fd8826",
+   "title": "東奔西走キャッシュレス 第100回 現金還元を導入したnanacoクレジットカードの狙い",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Uek1COEhBUkJhWm5Pd3h1eWw0cGNHVFhCV1pZbEp1V2NkSU9wNE5OakdaeUdoQXdJMDVqQThRMGkxZXZvV01hUVVOZHU3Skk5WXhUNGV4SlU0UzJtT2ozV2ZtOHBlSUZBNnBIYm9n?oc=5",
+   "source": "au Webポータル",
+   "summary": "東奔西走キャッシュレス 第100回 現金還元を導入したnanacoクレジットカードの狙い au Webポータル",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T09:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "ccc11e0de9d7ba64",
+   "title": "松本四賀 ｢福祉100円バス｣キャッシュレス化に備え ICカードで乗車体験",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lZ09vQWJPckt5S1ZzaktMdmpKYVNJc0xraklKc2xKRi1ZMHJidkg4WTJjT29MOW5ZZU1uZ3lDWV9YT2NvcGxhZk9hb0NERkt5NHFMRy11MmpXWmNIRWl5SXBhdw?oc=5",
+   "source": "MGプレス",
+   "summary": "松本四賀 ｢福祉100円バス｣キャッシュレス化に備え ICカードで乗車体験 MGプレス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-24T08:48+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "e391b3c230b1094b",
+   "title": "アメックス、従業員5％削減 米クレカ大手、AI対応へ経営合理化",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTjlaNkc5SnFRUFNUb29PX1E4RUZ1Tl9rZnRFekdscTQxTjRFZ3F0VFhnX1BWcEIwWG5vb0t1R24tUWllZUNQb1ZMRW16OHlIQmVua1hCMUJydDQxZDNpcjFjOThQNWZpelBVSHV1TWdPMVBPTlE?oc=5",
+   "source": "産経ニュース",
+   "summary": "アメックス、従業員5％削減 米クレカ大手、AI対応へ経営合理化 産経ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T07:09+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "6a59162116bba2e7",
    "title": "（4）スマホ決済を家計管理に生かす方法｜今さら聞けない🉐スマホ決済利用術",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fbGgzdWpNTXczMXF3NXVfQnl5dDVBYjBaeFBCcG1EMzdWaGw2RVRMQWJQN2RsMzRRR05ic2FJcUY3LTZnSXhZVjAxOFRsWjlzWFJDTkVZRTBybXA4MjZQRC1iNmxEdw?oc=5",
@@ -54,6 +133,19 @@
    "type": "news",
    "published": "2026-10-24T03:25+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "197efc4eac3b2163",
+   "title": "アメックス、26年利益見通し上方修正 世界で5％人員削減へ",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTkttTUFYb0YybUtWRWJybjNZT2JpLWNUMFc3SzMzM2hQbENWMkhad01iZ05wbzVLaFhqX1RkanFrOG1QTjVYOU9rR0RET2l5T01nSEhsTldJMlU5M21CZjE1ZFdjLWk1SEFmZy1KdkNGZjVlWXdHNmhna2Q2UQ?oc=5",
+   "source": "Reuters",
+   "summary": "アメックス、26年利益見通し上方修正 世界で5％人員削減へ Reuters",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T00:36+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "12655b74c391c1ba",
@@ -510,6 +602,19 @@
    "type": "news",
    "published": "2026-10-23T10:30+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "96e7ecffdbebfd24",
+   "title": "【画像】プログラミング言語「PHP」 デジタル商品券や電子マネー使えず 空港のホームページも閲覧できず 大分",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGQ0Z1YWY2THBzUGVzd1FnV0hxb0xaOG9rTW1UR2VJVm1sRFlXRWFrYVZsN19Ock9seUd1aWlLV1QyY1BpUkk0TnlUS3FidEtVMmRLb3MwOGVNSG9TRElhelZOcnlhb2Uxc053Rjh2NjZsdkltdGVqM0g5WjI?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】プログラミング言語「PHP」 デジタル商品券や電子マネー使えず 空港のホームページも閲覧できず 大分 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T10:22+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "8c277cb1ceef10c0",
@@ -1027,6 +1132,19 @@
    "company": "イオンフィナンシャルサービス株式会社"
   },
   {
+   "id": "41c302a1f40c28d9",
+   "title": "空港ラウンジ無料のクレジットカード17選｜海外・同伴者も比較【2026年】",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiMUI4cWIxYTY5d2QzSG5NM0xKaXlBWi1JaDF5QWo2QkttVWxRR2lTN2FoMDJycjdGeVRrM0NMbExadk4yRGg2WUs2UUc0SlZocEUxcy15NmtoemFhM2JMOUZB?oc=5",
+   "source": "株探",
+   "summary": "空港ラウンジ無料のクレジットカード17選｜海外・同伴者も比較【2026年】 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-22T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "dcceb10574e1ca88",
    "title": "「なぜSuica Payじゃない？」 新決済「teppay」ネーミングの裏側と話題のコピーの狙い - Page 2",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LX3JHMERZeUtFSWctXy1IZTNlRVR6NERoX0NtTWxTX2Z2WmhEaVV2aUNhaGRnY0hXSmJpQU9YT00xbWJPLTkwcHZ4UDlJaHlKUF9Qbi1GakV5eV9ld1VEZWNR?oc=5",
@@ -1154,6 +1272,20 @@
    ],
    "type": "news",
    "published": "2026-10-22T13:37+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "f3357e0cb839d2bb",
+   "title": "メルペイ、最短30秒で発行可能なJCBブランドのカードレス決済を提供",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CajZCbVdaYTRla0dpTVZzZjdUSmVOejhCSU9nWldzeDRqWnFUZmNkdFRZUnhwQ2FTNlZnRXN6TlB0YXBnTFNpYXFvTXdFcUREWmNn?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "メルペイ、最短30秒で発行可能なJCBブランドのカードレス決済を提供 ニュースメディアVOIX",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-22T13:31+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
@@ -1871,6 +2003,19 @@
    "via": "Googleニュース「後払い・BNPL」"
   },
   {
+   "id": "8881ee9713813dd9",
+   "title": "JR東日本の新決済「teppay」初日の反響は？「決済音が楽しくて…」「交通系ICの残高を移せたら」意見飛び交う",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUUUs4eS0tbTVZVVQ4bXhXWG9lem9RajJGa1ZMaVI0dDB6LTgyczNKQ1FYdjZCZ3VQOTkzUHM1dUtHcUJGWU5SQzFTc3FwZlU?oc=5",
+   "source": "TRILL",
+   "summary": "JR東日本の新決済「teppay」初日の反響は？「決済音が楽しくて…」「交通系ICの残高を移せたら」意見飛び交う TRILL",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T01:05+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "e7ed26e00b5fab56",
    "title": "[みんなのケータイ]なぜ今までできなかった？ au PAY プリペイドカードがついにAndroidでのタッチ決済に対応",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04cnlCVE5EQjhzdVRNdzE2WFBOUHlWV1V5a2JSdmdWbG1vcmJHWDZLTHNDQWkwQnN2WUl1RXkzQzRLcnFZZmVpWU5iM1VwRjJlcERJRXhoeXRQVlduUDhTNGROd19pZ1NrcDNFZDF6Xzg1QQ?oc=5",
@@ -1896,6 +2041,19 @@
    "type": "news",
    "published": "2026-10-22T00:00+09:00",
    "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "895eb5b510be237b",
+   "title": "【2026年10月最新】JCBカードのキャンペーンを紹介！新規入会でもらえる特典は？",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVbXprNS1xbUtrTkh1M3ZtMkNNdlNXSVNuYnBob2FqVFEtMlg2NDZ5dGVOZmVvQ3MxUk1vMjV4LTJuQ1QtS2pkNg?oc=5",
+   "source": "マイベスト",
+   "summary": "【2026年10月最新】JCBカードのキャンペーンを紹介！新規入会でもらえる特典は？ マイベスト",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-22T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "f2c27ab6a9c1ab81",
@@ -2797,6 +2955,19 @@
    "type": "news",
    "published": "2026-10-21T02:00+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "752757cdf3cc3543",
+   "title": "【画像まとめ】JR東日本『teppay』始動 新たな“コード決済”続々と…参入する事業者メリットは？",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XMFEwVW5jRU1KcDVZTmZKOW1vbC1maTk2N2lfNjZCalJoTVVOZTMxTkVVRlJTdks5LVVpQ2k0UWxkNVI1VDNCVXh0Tk9ER1BrcmxrT3BmQkZQYWFPbk8zRFRGT1dXdnhSVWdZbUNuSjlBYnIwc3hvQk9KQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "【画像まとめ】JR東日本『teppay』始動 新たな“コード決済”続々と…参入する事業者メリットは？ テレ朝NEWS",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-21T02:00+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "2a908b161b21cb4d",
@@ -5711,6 +5882,19 @@
    "type": "news",
    "published": "2026-10-17T17:24+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "118de82787823856",
+   "title": "「skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明 最新の経済ニュース【随時更新】",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tSzFsbzV0Y1cxVGRQc0wzcGEtVGpsWnAwaVp0ajhhQW9tdG9Xa0RYcXlaWl9qdFdHT1N3WUNpQ1BJblJHeU5yc1JUN2dsOEVaNHVKZ3lNaU1JMDA?oc=5",
+   "source": "ABEMA",
+   "summary": "「skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明 最新の経済ニュース【随時更新】 ABEMA",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-17T16:34+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "e523bdd5f5ad02ca",
