@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T14:05+09:00",
+ "updated_at": "2026-10-24T17:02+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,32 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "822d0b916a4bc1f7",
+   "title": "熊本県内のバス・市電など、タッチ決済で運賃半額 10月29日から",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwOWppTDZkTXN3akFtS2tDMVNJamE3NmhYZURTcUZBekI5MllieHR0UUtudV91dU1DcW1WNHVYZEtld0g0aUxB?oc=5",
+   "source": "TRAICY（トライシー）",
+   "summary": "熊本県内のバス・市電など、タッチ決済で運賃半額 10月29日から TRAICY（トライシー）",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-24T16:20+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "d47656e63f31bdae",
+   "title": "米アメリカン・エキスプレスのクレジットカード（ロイター＝共同） - アメックス従業員5％削減 AI対応へ経営合理化 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjRVFqWEctMXFDeGRzZGVMZWJHdEpiR1pTLS02U1o1c193akFLRWoxZ0ZiRXpPYlVsV2VSMDFuSE1KVXVsU0lfcExpSGluVnlhRjdWWXJFSQ?oc=5",
+   "source": "西日本新聞me",
+   "summary": "米アメリカン・エキスプレスのクレジットカード（ロイター＝共同） - アメックス従業員5％削減 AI対応へ経営合理化 - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T13:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "84c8cdb2c1d0f6fa",
    "title": "「エブリカ・エブリイアプリ」利用停止のお詫びと、全てのお客様への「お買い物合計金額から5％OFF」実施のお知らせ",
@@ -122,6 +148,19 @@
    "type": "news",
    "published": "2026-10-24T09:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c91a43f63c706c9f",
+   "title": "JR東日本のコード決済アプリ『teppay』は「シェア獲得」「ポイ活」ともに絶望？PayPay・楽天ペイの現状から見えた“リアル”な使われ方",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wYkZOLUpscHczRTZVUjJ5bGNGd1JzYU5UM1hOcUpRZ2JhTV9YOU1pUnNlV0pyY05paFQ5TERuaV8xeHFGbElMQlBRaTN4T3hRZGdtM2FjbEIwekdv?oc=5",
+   "source": "週刊女性PRIME",
+   "summary": "JR東日本のコード決済アプリ『teppay』は「シェア獲得」「ポイ活」ともに絶望？PayPay・楽天ペイの現状から見えた“リアル”な使われ方 週刊女性PRIME",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-24T09:00+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "ccc11e0de9d7ba64",
@@ -616,6 +655,19 @@
    "published": "2026-10-23T11:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "エムディー株式会社"
+  },
+  {
+   "id": "4560cd33bc2c9523",
+   "title": "韓国金融当局、与信専門金融会社の不動産・建設融資に30%上限を新設…カード会社にPGリスク評価を義務化",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1bWhmWGhjekJDaGw2TWpDdjVXbEFNSjdFUVRsaWkzVGdVcks2bUpyYmZrblE0SzFmSjdYZngyRXhRa18xUU1CLVBYUkhialk5T0FrUllpUUFnaWsxVlZJREpLYW1RNkZEWlRYNlhGNU9xTHdl?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "韓国金融当局、与信専門金融会社の不動産・建設融資に30%上限を新設…カード会社にPGリスク評価を義務化 BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T10:55+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "a5cd6d54e3f3ce05",
@@ -2029,6 +2081,19 @@
    "published": "2026-10-22T05:10+09:00",
    "company": "WSCD SOLUTION PTE. LTD",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "9237a7e1db967e07",
+   "title": "決済代行 未払いで混乱 【経済やわらかゼミ】全東信破産 赤字でも金融機関融資｜朝刊・夕刊ニュース｜下野新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SdWxUMFJzdGZZZmNzTTlzd2ZBUTR3T3FaNTlGcUx5UXlFc3FjM3g3dHZqUlpTTm9tTHU5TWhMT25yUkFTM21PSU85VncydndFQmJfMEs0NjdYTU0?oc=5",
+   "source": "下野新聞社",
+   "summary": "決済代行 未払いで混乱 【経済やわらかゼミ】全東信破産 赤字でも金融機関融資｜朝刊・夕刊ニュース｜下野新聞デジタル 下野新聞社",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-22T05:00+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "5280f3936b3d8063",
