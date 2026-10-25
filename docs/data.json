@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T14:08+09:00",
+ "updated_at": "2026-10-25T17:02+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,32 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "afb11b994796cc91",
+   "title": "歌謡祭がデジタル化のトレンドを広めたことで、キャッシュレス決済は34％以上増加した。",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekxlR3ZRRUFUc0oySFhIN1pORGg4MG9sZ1F6NW1QWU5CM2NNME14QXNHczQ3Y3pIOTNHXzMtN0FwUDNNdTZFSlFXZVZubGZuRldPRzR4RzlCbXdfR0hzMzBBOE01NUNmcnNoVGZkZ3d6TjJEb3NYSVFZUFRRMF9KaGJ4NFFVMndrMjdUMWtGLXRIVTVHN1JlRTNNNl8tZw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "歌謡祭がデジタル化のトレンドを広めたことで、キャッシュレス決済は34％以上増加した。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-25T16:09+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "8702d0acb1d287d6",
+   "title": "若者たちがキャッシュレス決済のトレンドを牽引している。",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT19RUUVvRl9kWVVIOGZjdklONnNzTGVfdlZ4blV5UW5CUlBJMWJaQXR4YjNQTXBNVmM3Z3dLTVo4YklJeFpleGpIcG5Od0NNbmJtSlFaeU4zcV9MT1hPWld0NnZWbURnemdteFFTcVMtQ1pweldiTEg2U1NaZGZWY0xzVmV3UQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "若者たちがキャッシュレス決済のトレンドを牽引している。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-25T14:24+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "623d7b2096f90e8d",
    "title": "｢ドコモの銀行｣利用者が｢dカード｣でスマホ決済すると最大4.5％還元に！｢dカード｣の還元率がアップする特典や、年会費が“実質”無料になるお得な特典を解説！",
@@ -434,6 +460,20 @@
    "type": "news",
    "published": "2026-10-23T20:44+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c0209f1451d5c490",
+   "title": "当社自動販売機の一部決済端末におけるQRコード決済の利用停止について",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBySm9uU2ZtcG9sMDhpT1cteV90VkNRTTFKY0pCbDdCVFFTT2pkWExJQWZWZnZZcERYaThKc3BESE9BaVBpYVN2N3RlYw?oc=5",
+   "source": "伊藤園 企業情報",
+   "summary": "当社自動販売機の一部決済端末におけるQRコード決済の利用停止について 伊藤園 企業情報",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:46+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "a1b5dc654262529c",
@@ -5247,6 +5287,19 @@
    "type": "news",
    "published": "2026-10-19T16:40+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "93aae4852dad8db9",
+   "title": "公共料金等の支払いに係るクレジットカード決済業務について（公募）：関東森林管理局",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaWdyOTNIT3F5dGgwQ0FpXzlPYmQ4SnZiTkJmXzdLbVRNVDZvMFdJSndlZG5XQXM3QVhhWmJXZkJxb3hCMjFSekRPbmdTQ3FoNk9yTmlCemdtSWF3b1NrRWxtMWRYQ0tEX2ozYVB6Y2ZmSUpUdlBpdmZ0dFd5Y3VRdVhB?oc=5",
+   "source": "林野庁ホームページ",
+   "summary": "公共料金等の支払いに係るクレジットカード決済業務について（公募）：関東森林管理局 林野庁ホームページ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-19T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "03252a84e394f581",
