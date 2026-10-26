@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T15:08+09:00",
+ "updated_at": "2026-10-26T17:19+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,34 @@
  "topics": {},
  "items": [
   {
+   "id": "18bc9581fc637849",
+   "title": "アイフルがクレジットカード「aiカード」の発行を開始！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96MElKd0lyYldmU2F6NTBMN2Myb1ZZRUVNckRzYkkzcVNCMWpBVmloUlBmR1NES2NrOXNubE1tZVZMUXNqYzNMU296Y0haUFlaYmhnSU0tSDN1R1JILWM4cE9Gbm1KN2lCd2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "アイフルがクレジットカード「aiカード」の発行を開始！ PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-26T15:30+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ムニノバホールディングス株式会社"
+  },
+  {
+   "id": "757ae3923058eefa",
+   "title": "京都仏教会監修の寺院・神社専用キャッシュレス決済「おまいりPay®」、お賽銭、本堂修復などの目的別寄進でのキャッシュレス決済に対応 | ペイクラウドホールディングス株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JYW5ZTlFZYnpqalBVNTlYdFBTVFlDLXpsRG1xZGZ2V0c3Z2VvdTVlUWxRSXh2STNfUXR3czVkNm1kYVlXak53ZmpqanRZXy14QjRqdkd3R284X2pCQS1nWi1ublVhOV9Ha2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "京都仏教会監修の寺院・神社専用キャッシュレス決済「おまいりPay®」、お賽銭、本堂修復などの目的別寄進でのキャッシュレス決済に対応 | ペイクラウドホールディングス株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-26T14:50+09:00",
+   "via": "Googleニュース「キャッシュレス決済」",
+   "company": "ペイクラウドホールディングス株式会社"
+  },
+  {
    "id": "99763a2ff3ca2080",
    "title": "「ビューカードでSuicaチャージしようキャンペーン！」を実施します！",
    "link": "https://prtimes.jp/main/html/rd/p/000001560.000017557.html",
@@ -41,8 +69,20 @@
    "type": "release",
    "published": "2026-10-26T14:40+09:00",
    "company": "東日本旅客鉄道株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "c4c5a69b3c85e00c",
+   "title": "モバイルSuicaでヘラルボニー作家を支援 限定カードフェイス",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151117.html",
+   "source": "Impress Watch",
+   "summary": "JR東日本は、日々のSuicaの利用でアート作家を支援できる期間限定の「モバイルSuica×ヘラルボニー キャンペーン」を開始した。申込期間は10月31日までで、先着5,000名限定。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T14:23+09:00",
+   "via": "Impress Watch"
   },
   {
    "id": "2b02961f74acaa1f",
@@ -56,8 +96,20 @@
    "type": "release",
    "published": "2026-10-26T14:15+09:00",
    "company": "JR-Cross",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "46c2f58dbdc0f002",
+   "title": "病院料金のキャッシュレス決済を推進する。",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FWGZ6VEtXNUFFTVZsV3lSTWYyZk9VdnJHaWw1blNJc0VFbHhNQU9abjN5MFJwNnVWbWhvdnpQWk55UDR2QXZncDZhaWI4ZWw3M0ZILWpjUFlFbERxbXVDZHBFc2E5WGppWk1XT0FsNVVTTmpSNEFfb3QyS2lzV0k?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "病院料金のキャッシュレス決済を推進する。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:59+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "6607b104a08f8871",
@@ -84,6 +136,19 @@
    "type": "news",
    "published": "2026-10-26T12:55+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "4c07389ca8d237a0",
+   "title": "cotta（コッタ）、不正アクセスの可能性でクレジットカード決済を一時停止 Yahoo!ウォレットや一部Web機能も停止",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1dXbEpsdTVoRmdKdmdPQVN4QWFMbVVhWUNOdEhEQU5fZ0NyRVFGdGx5NU14NmtrNUFOenJEb1dYRHY0QlNZVFAzSUk2MDlQdzYteDU1QnpBaDVwMnU3SVFsZ0p2NHUwUG1yQ2Rzb3N0ZWwwX3FMLWNZTDhjMEJoQTJlbTNYVFRGdUFQYVFGSmh5b1NuTWxrek1NbGlwUDZ3V0NYQVZCbw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "cotta（コッタ）、不正アクセスの可能性でクレジットカード決済を一時停止 Yahoo!ウォレットや一部Web機能も停止 合同会社ロケットボーイズ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:16+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "932ea0ceb5f65612",
@@ -167,6 +232,20 @@
    "via": "ケータイWatch"
   },
   {
+   "id": "22980e37a4ee72a5",
+   "title": "モバイルSuicaの新コード決済「teppay」とは？使い方、キャンペーンまとめ",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fUjFPX0tpalVGOUZWcFlkcmNqZFZya1NSbmhCTzRHT0M4MHp3V0lmOW5nR2V3NlZWOXZraGpXQ1ZaMEZtZmxrc0FPWURDSEU?oc=5",
+   "source": "スマートモビリティJP",
+   "summary": "モバイルSuicaの新コード決済「teppay」とは？使い方、キャンペーンまとめ スマートモビリティJP",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-26T11:30+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "1963515771eace5b",
    "title": "【新宿フラッグス】プロクライマー楢崎 智亜選手と“新しいものを掴め”。 アパレル新作展開や「最大5％戻ってくる PayPayクーポンキャンペーン」など、秋冬企画を10月26日(月)から開催！",
    "link": "https://prtimes.jp/main/html/rd/p/000000309.000063373.html",
@@ -178,8 +257,7 @@
    "type": "release",
    "published": "2026-10-26T11:15+09:00",
    "company": "株式会社小田急ＳＣディベロップメント",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "6b4680f29feb6ec4",
@@ -386,6 +464,32 @@
    "type": "news",
    "published": "2026-10-25T21:49+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "642ff0af3aaaa1c2",
+   "title": "双葉町メールマガジンと同じアドレスから不審メール 実在するクレジットカード会社騙り金銭請求＜福島県",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kcG5tU0RGd00xT0FiRUlpNm9UM1VpN1NSemhQclhMdlh3V1lSUmg2V2FZRFlnOG0tSDVDdFFEUmk4VEtOZ0kwSkduZllqQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "双葉町メールマガジンと同じアドレスから不審メール 実在するクレジットカード会社騙り金銭請求＜福島県 FNNプライムオンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-25T20:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4fbfa37320f1e4d7",
+   "title": "双葉町メルマガ配信会社に不正アクセス クレカ会社装う不審メール配信",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9id2NucldqSm53SmFXUFE3Zzl0cGlNUU9wMW5zQm5zVm96Rk1EZU9Xd2Etc2daMXBiS2xxZ0Q0cGdVcGNnVS01aHZNcWc2QWs?oc=5",
+   "source": "福島民報デジタル",
+   "summary": "双葉町メルマガ配信会社に不正アクセス クレカ会社装う不審メール配信 福島民報デジタル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-25T19:37+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "ed38c17c4167c00e",
@@ -778,6 +882,19 @@
    "type": "news",
    "published": "2026-10-24T09:37+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "523cfecc38820cb6",
+   "title": "利用額に応じた限定特典付き！Nudgeが次世代クレジットカード「攻殻機動隊TGITSカード」を提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OV1N6dXhqSWJiR0ZjUkRnSXBWT01wRDMtMDcxVHNIY01jNGswVUpKNVU5MC0xb2E5SGVCMXNwYUFIWGJH?oc=5",
+   "source": "@DIME アットダイム",
+   "summary": "利用額に応じた限定特典付き！Nudgeが次世代クレジットカード「攻殻機動隊TGITSカード」を提供開始 @DIME アットダイム",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T09:01+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "91aeff835fcc0743",
@@ -1579,6 +1696,19 @@
    "type": "news",
    "published": "2026-10-23T07:00+09:00",
    "via": "ペイメントナビ"
+  },
+  {
+   "id": "30e835888d111eef",
+   "title": "不正入手のUSJチケット保管 佐賀県警、容疑で中国籍の埼玉県の40代男を逮捕 他人のクレカ情報で購入",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LODBOSmxrd0RoQWpna3RLWTZ1eWhYUVd4akxMcl9BNFNMMUtYTjZYNExIc0NCeW9BVDFXUTNQd0xBOEROcjhYMmRBaUs5ek9KRmlxYTZn?oc=5",
+   "source": "佐賀新聞",
+   "summary": "不正入手のUSJチケット保管 佐賀県警、容疑で中国籍の埼玉県の40代男を逮捕 他人のクレカ情報で購入 佐賀新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T06:45+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "ff6f5937a4779455",
@@ -3005,6 +3135,19 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "837d45debf604519",
+   "title": "田中道子、不正アクセスでクレカ被害「解決には半年以上かかりました」（日刊スポーツ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xejhrcWVCZThKeTRpSHRwZFhiYncxTzNZZk9tcE5PNG9sTVcwcGpVY2xpeG5XSlRnNjJ2aFZkZHRlVVdjN1Z3d2hKbU5oY0M1WE12SkNQT2VIaWx3bE5jNTI0UlVWOFhsWm84b2hiMlh2WXloVnM2SHpiT28xNnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "田中道子、不正アクセスでクレカ被害「解決には半年以上かかりました」（日刊スポーツ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-21T21:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "380b1788cc9a8752",
    "title": "PayPay決済サービス メンテナンスのお知らせ※10/23再開しました",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rcGVFU1N3bXpEdkowRWotYWh0VjN4bWdwWUgxSnRvUy1mS1RCZ3kycEFWaGtnYjVHSlNnd0toaVdGYmhzU0dueG1zNmhhU0RKdGxmZA?oc=5",
@@ -3047,6 +3190,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "c4a7bb74a623bed2",
+   "title": "一級建築士合格の俳優・田中道子、不正アクセス被害…生放送で告白 クレジットカードのアプリを「勝手にいじられ」「勝手に利用され」（オリコン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FYm56S29Ibl9lTDdsNFdpQTJrTjMtQlFBWnU1LUdEMGxnT2pQeFlBM0kweU55Q3VYT2NXdFdST2RRcUxWdldCV1h5MFBpVmdIN1FYbWZscHNpaGJYMkVCVmRuZXlqdVhWa3A2aUFDQmJaMEVwcmNHMVNfLXZMOTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "一級建築士合格の俳優・田中道子、不正アクセス被害…生放送で告白 クレジットカードのアプリを「勝手にいじられ」「勝手に利用され」（オリコン） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-21T19:52+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "f48ebe053d2692fd",
    "title": "いえらぶGROUP、不動産特化の決済サービス いえらぶカード払い を開始",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42QnBQWmxFbHprc2l0VDJRYnRxSnlhQmtvZkJiQUlNTjVSSjRfem5lRnhuX0FWSXVKYnFCRE9sb0p0WEhWNnY1eEpIanJ6SDNvZFlaenpVZjBxZEhxTjZnYQ?oc=5",
@@ -3084,6 +3240,20 @@
    "type": "news",
    "published": "2026-10-21T19:18+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d94df9998e18dd5f",
+   "title": "SuicaとPayPayじゃダメなの？ JR東日本「teppay」でできること、残念なところ（ギズモード・ジャパン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6T255M0FfajBNSlI1UGhaRy0ycDNtbUhkMy1zYmpoNVd6NU5sTlBUTmRQblR5d0FUTVZ2UWhLd1h0VFlzLTdHNXpsWmtELVdjVWxJbHFWOU1uaVZfajV5aDVndTJ3X01pWnVhbk5lWjZaX1lxM2VvTHUxS2hqYlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "SuicaとPayPayじゃダメなの？ JR東日本「teppay」でできること、残念なところ（ギズモード・ジャパン） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-21T19:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "9ada3b61973f942c",
@@ -5610,6 +5780,19 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WYTRhQ0o2dnd2V0dHYlg2Z1V3ekRiLWh5NjQ4bkFmZ1Nra0hxaVZ5T2xNR05pRkVVbVB3TFJOd2lpcGF1NGNmczFMTzJhaTRWbWdMZEZEcWZLejlzWGdmNXRPWjRWUFhDUkhKODlhOGk0UQ?oc=5",
    "source": "ITmedia",
    "summary": "阪急・阪神百貨店、126万件の情報流出 「クレカ情報の一部」漏えいの可能性も ITmedia",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8bd34c51dfbaf16e",
+   "title": "クレカの還元率が下がる時代、どれを選ぶ？ 「2％」と「1.2％」の2枚を使い分けたい理由（1/4） | 経済 ねとらぼ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKLXNkV2M1LU02YXlUcmNWb0lHYTluT2VXVWIwUy0taC03UGttcEdjNFdPbFVwWmRqdjZLRUk4dU1PcWEwWHliRi1POGFEUEJ5T1EycERaRTVEOUJNZmfSAWNBVV95cUxNQTZsOUdQT1dWaDJZMWV0Skdkcm5RVWVzNWxrVG5NQjl2bUZ0ZDRBdmk3YXFFTEdlVnRIT1pUVkFZcVBDRlo4RXcxcUVXaldGM2NpdktQQk03NVdPTGNwSXRnaHc?oc=5",
+   "source": "ねとらぼ",
+   "summary": "クレカの還元率が下がる時代、どれを選ぶ？ 「2％」と「1.2％」の2枚を使い分けたい理由（1/4） | 経済 ねとらぼ ねとらぼ",
    "categories": [
     "credit"
    ],
