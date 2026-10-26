@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T18:19+09:00",
+ "updated_at": "2026-10-27T07:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,189 @@
  "topics": {},
  "items": [
   {
+   "id": "209ef7311ab7d90c",
+   "title": "電子マネー決済が使えるスマートウォッチ15選｜PayPay・楽天ペイ・Suica対応表つき【2026年10月】",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1USVdMalo3LUN3UWVsdjdtNkhJdE1wdnl2WnQwZjVLM25IS1pKOElFYmdCRjlUMm1icG5kbHdKM0tEWHFjdEw5MkpZTmFnX24zYkMw?oc=5",
+   "source": "FUNQ",
+   "summary": "電子マネー決済が使えるスマートウォッチ15選｜PayPay・楽天ペイ・Suica対応表つき【2026年10月】 FUNQ",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-27T00:41+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "d88d3f9c988cfcee",
+   "title": "〈小4〜高2〉100人に調査！電子マネー利用率は57％。親はどんなタイミングで送金してる？",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIWmVXeHd4ZzdLSm1MZzJRc0psMWFlTE1YUVk5SzRMNzBIN2c0R1JXMXZiRmJXeDJ4ZnpLTHgxWk9SM2FJNEN6RTNBdjh0UQ?oc=5",
+   "source": "STORY",
+   "summary": "〈小4〜高2〉100人に調査！電子マネー利用率は57％。親はどんなタイミングで送金してる？ STORY",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T23:37+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "7ebe100719372790",
+   "title": "楽天トラベルに不正アクセス、２６０万件の顧客情報が流出か…３万６０００件はクレジットカード情報も",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oMGtjQ0E5cnQxdWpGZDZDNm9VWlliTHhDLTdiM3c2d1RtUmU4VEJ1VXhhb2t3Qi1aWkdMQURnQXctMUpLeFZORnd4ZmtjYTZaWlkwN09wbVpudGNZTGZaOVptY3BYZw?oc=5",
+   "source": "読売新聞",
+   "summary": "楽天トラベルに不正アクセス、２６０万件の顧客情報が流出か…３万６０００件はクレジットカード情報も 読売新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T23:22+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "31f493c827d44f0c",
+   "title": "楽天トラベル情報流出か 260万件、クレジットカードも（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53SkhlRHNKcWpXaFJDWnRJWXhoQXVTaGcxYmc0Vkc2bjNaZnJHVHlSYmtuMEJTZUpOeVZKMmZXTGJ0bFFQajMtbVlYZW8tb1Y3UHVKRngzb0o3anhPOW1ZaG1HdUsyODlnQ3ZvMnJFTTdxNWx5ZHFTa1pfYW9laDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "楽天トラベル情報流出か 260万件、クレジットカードも（共同通信） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T22:53+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "efdc3e89bfb2bebf",
+   "title": "楽天トラベル、最大260万件の個人情報流出か 氏名やメールアドレスなど…最大3万6000件のクレジットカード情報も",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10cEo1V012X0stUk80MHhtazB3ay1aVWRZZVJ6dXFqakNueklaT09FR2kyY0xmLUxZc19GUmdqcU01M0loanlCSGwwQUl4dmFvd1lUYm5rNlpqelFHZlE?oc=5",
+   "source": "新潟日報",
+   "summary": "楽天トラベル、最大260万件の個人情報流出か 氏名やメールアドレスなど…最大3万6000件のクレジットカード情報も 新潟日報",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T22:22+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7d4d945de74061e5",
+   "title": "京都仏教会監修の寺院・神社専用キャッシュレス決済「おまいりPay(R)」、お賽銭、本堂修復などの目的別寄進でのキャッシ",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBETzhTTnBTYmQ4U18tT3Y5dGlPZzJJa0Y1S3V2VnB6SXNBTWFEeTBJNjlSeGNBRjgzY1BHbWY2WkoySGV3NEgtcS1RcnQ3eDBlcnowRUZ2cE9fOWZYcWkxdG9GRDlVNk1QZTZ0TTMwbmdUaUhHbDFXOG1VWQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "京都仏教会監修の寺院・神社専用キャッシュレス決済「おまいりPay(R)」、お賽銭、本堂修復などの目的別寄進でのキャッシ ニコニコニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T22:15+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "700256f218bd5708",
+   "title": "楽天トラベルに不正アクセス クレカ情報含む最大354万件流出か [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oWlZFVTE0cjhPTlRRRUVkRGhrbkMxc1dsVjZsLWJXRGxkS0x6VGthNS1qdl80ZlJpZmJ2ZjFNUW5yRjYtQnNhV2xhMXV4cDI4WUh3eU9MNTk5Z1pxTWhIZTdZSVp3czA?oc=5",
+   "source": "朝日新聞",
+   "summary": "楽天トラベルに不正アクセス クレカ情報含む最大354万件流出か [情報漏洩・個人情報流出の最新ニュース] 朝日新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T21:27+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "89a0b0e4e2fe4180",
+   "title": "千葉日報オンラインのアドレスからクレカ利用確認装う不審メール、当面配信を休止…不正アクセス受けたか",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51REhIakFnWi1Fd3VZYlFRYUdET29INkJGQVBaSEM4V3lJVVBiMTZqaWRzZXpySUZCUW53Ni1yU3duWU9WeXdOelhYckVXWVRHdGZZUnEyVjZPTGRlS0Q2Xzk0VlItdXBrb3FySHlGNXgzLUhCSTFyZVd1eW1HeUU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "千葉日報オンラインのアドレスからクレカ利用確認装う不審メール、当面配信を休止…不正アクセス受けたか Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T21:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a983002e0db01920",
+   "title": "楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件 | ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14blBadEFZbDR2QVY3UHhDbjFXZDlIajdmR25BejJDMmVMY0lVbWlqX3BBUHBVVkxlVENRcFkxcGp4dVZCR0ZBQUtfS3luRHhUNHoyMVF2OG5wLWRzSS1nTG9majlEZ2dZdXRlTHFEMmZzeUs3UlJNWXllQ1RIZw?oc=5",
+   "source": "Reuters",
+   "summary": "楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件 | ロイター Reuters",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T20:31+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "12a0e731e736ec63",
+   "title": "楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pYm5TWUQ5NW40bGJuWlJVUVBERkJYS1owVlNWVU96NVlldVlxeGs4YVJrMWZmOEd2RHhMUUg3MmFORTFiZ2l1dUdJaDZBSGVNTXh5elZ0NGtSTVdJSlFSTVdwYnBCYXpJQi1oQUo0RWVtZjhJbnp5VEFrc2pmSGc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件（ロイター） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T20:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7f872f4a9b57a207",
+   "title": "神社キャッシュレス「おまいりPay」、お賽銭に対応",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBySldKWHd3ZDZQSS0xeDBRQ2taQjJNU2dHNVhGSzM5OWpUVEw3ZlAwZ3Vrd01XMF9qTGtqbnRRLVNfOThyNFRZSnB1MER2YlpYd2JXdmtPTWdWSEI4aHJtZGJSMG0?oc=5",
+   "source": "Impress Watch",
+   "summary": "神社キャッシュレス「おまいりPay」、お賽銭に対応 Impress Watch",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T20:30+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "4b8d5d59a78ebeb0",
+   "title": "楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UYlNUUFJiYkRqODFFUjRVUWdieVRaR0lFUE1uRjU4aGNnTDlodHdyczVicVpvR0prUjduWnFlMVpqR0VYNWRtdllrYm9Wc0dHZ1dzQXR3UXl4b19EYVBRQXNnTEVoY1p1OHhWUg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T19:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8d09746890e50907",
+   "title": "「不正アクセス被害に遭わないように」 エブリイがセキュリティー強化で電子マネーなど利用停止 広島（テレビ新広島）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRFdEbk15bWFWMnBnZWEtLXp5VXR5QWpYTVNlN3k3MzNGUmRpLVFwTlFxMkEybTYwd1E4cWlUYml6ZzFreHVaeEphbHliOHpWSm5DanVLRnc1emJxUUFhbXFHM3ZsWmg5T1RHOUhJYU5ieFZLTGU0WTVfNDJVQ28?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「不正アクセス被害に遭わないように」 エブリイがセキュリティー強化で電子マネーなど利用停止 広島（テレビ新広島） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T17:30+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "08d76b9f6db2cadc",
+   "title": "後払いサービス「Paidy」新社長に橋本知周氏。加藤龍司氏は会長 兼 CEOに",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94a3JnR0hqbGo2Tk93MTEyUDVsc3VNVG9kWW1IeXFWWlVYVjV4Y1U5YVcwYjlXeTBXNzl3VW96QW4temR5blRBbmI5T3ZPaHl6R0RpMU41RGFJUHN2WEFXaFBIYk5BWld0Sm80SQ?oc=5",
+   "source": "CoRRiENTE.top",
+   "summary": "後払いサービス「Paidy」新社長に橋本知周氏。加藤龍司氏は会長 兼 CEOに CoRRiENTE.top",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T15:36+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
    "id": "18bc9581fc637849",
    "title": "アイフルがクレジットカード「aiカード」の発行を開始！",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96MElKd0lyYldmU2F6NTBMN2Myb1ZZRUVNckRzYkkzcVNCMWpBVmloUlBmR1NES2NrOXNubE1tZVZMUXNqYzNMU296Y0haUFlaYmhnSU0tSDN1R1JILWM4cE9Gbm1KN2lCd2c?oc=5",
@@ -44,6 +227,20 @@
    "company": "ムニノバホールディングス株式会社"
   },
   {
+   "id": "f40c246a7872de69",
+   "title": "アイフルがクレジットカード「aiカード」の発行を開始！ | ムニノバホールディングス株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96MElKd0lyYldmU2F6NTBMN2Myb1ZZRUVNckRzYkkzcVNCMWpBVmloUlBmR1NES2NrOXNubE1tZVZMUXNqYzNMU296Y0haUFlaYmhnSU0tSDN1R1JILWM4cE9Gbm1KN2lCd2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "アイフルがクレジットカード「aiカード」の発行を開始！ | ムニノバホールディングス株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-26T15:30+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "ムニノバホールディングス株式会社"
+  },
+  {
    "id": "1120f3148e3e9a4c",
    "title": "京都仏教会監修の寺院・神社専用キャッシュレス決済「おまいりPay(R)」、お賽銭、本堂修復などの目的別寄進でのキャッシュレス決済に対応",
    "link": "https://prtimes.jp/main/html/rd/p/000000539.000004318.html",
@@ -55,8 +252,7 @@
    "type": "release",
    "published": "2026-10-26T15:15+09:00",
    "company": "ペイクラウドホールディングス株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "757ae3923058eefa",
@@ -71,6 +267,33 @@
    "published": "2026-10-26T14:50+09:00",
    "via": "Googleニュース「キャッシュレス決済」",
    "company": "ペイクラウドホールディングス株式会社"
+  },
+  {
+   "id": "d427a882b4f85231",
+   "title": "京都仏教会監修の寺院・神社専用キャッシュレス決済「おまいりPay®」、お賽銭、本堂修復などの目的別寄進でのキャッシュレス決済に対応",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JYW5ZTlFZYnpqalBVNTlYdFBTVFlDLXpsRG1xZGZ2V0c3Z2VvdTVlUWxRSXh2STNfUXR3czVkNm1kYVlXak53ZmpqanRZXy14QjRqdkd3R284X2pCQS1nWi1ublVhOV9Ha2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "京都仏教会監修の寺院・神社専用キャッシュレス決済「おまいりPay®」、お賽銭、本堂修復などの目的別寄進でのキャッシュレス決済に対応 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-26T14:50+09:00",
+   "via": "Googleニュース「キャッシュレス決済」",
+   "company": "ペイクラウドホールディングス株式会社"
+  },
+  {
+   "id": "e7ca7bac2228d9b7",
+   "title": "【電子マネーWAON チャージキャンペーン】10000Pが1500名 ※50000Pが100名（4日間限り） Wnba Games (pmvWRR3TEn)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZHJIUHFtS3MzRjI1OWlRVm9VZkZ2M21YTDZOX090YXVZVVZHclA1MTNnT1JmeVpmUnZacmwxZmljbVJCOGxFNnhYd2JUM2JxcU45Q2ZLY0dvNVM4SjVOcWIybFJBOXdVamV6U3B2Wm8wMW1LZnlZTjVEaDJtaktBQTF3?oc=5",
+   "source": "Unisba Media",
+   "summary": "【電子マネーWAON チャージキャンペーン】10000Pが1500名 ※50000Pが100名（4日間限り） Wnba Games (pmvWRR3TEn) Unisba Media",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T14:48+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "99763a2ff3ca2080",
@@ -218,6 +441,33 @@
    "type": "news",
    "published": "2026-10-26T12:04+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "5e7f14e86f4262dc",
+   "title": "PayPayが本人確認（eKYC）のセキュリティ強化 撮影廃止でICチップ読み取り方式へ統一 - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81WTNPNjkweEZSV0xaVkFCeTJsQ3pxQ3dLbU9WUjIzUkc5Y2xrYjY5T2trWVlobU41anJfZTNILS1iN2RLRDYzek01MnVwdjV6WGtKR1d2dUliTHRLT3Y2c3J1RXlmeWVySlFuTWJTUdIBaEFVX3lxTE10cDRRX2h6YWVkMWV3NU10NDJpQXN1Zk9adDg3N1pOam9tcEpWWnlUUF9JRGVyM0FHbUZJNjVvVjVyd2NIX1QwVXJWcWxLNjNxOG5fekpxQkE0cENWOXBHLVloaUhnLVU3?oc=5",
+   "source": "ITmedia",
+   "summary": "PayPayが本人確認（eKYC）のセキュリティ強化 撮影廃止でICチップ読み取り方式へ統一 - ITmedia Mobile ITmedia",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:04+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "ebdd80f8d9bb0b2e",
+   "title": "『パンダコパンダ』劇場公開55周年 アニバーサリープロジェクト第2弾発表 55周年ティザービジュアル解禁＆ 「東京クリスマスアドベント Sponsored by au PAY」との スペシャルコラボ決定！",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrc3FmOEFianJ5SzVwNDBscjczeEZ5VUtnQ3hJV3ZHMDY0VDduVUVZcTVoU3Fva2wwekItYUNoSTN4ZWlFaklmVEx0cmJuZw?oc=5",
+   "source": "アットプレス",
+   "summary": "『パンダコパンダ』劇場公開55周年 アニバーサリープロジェクト第2弾発表 55周年ティザービジュアル解禁＆ 「東京クリスマスアドベント Sponsored by au PAY」との スペシャルコラボ決定！ アットプレス",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-26T12:00+09:00",
+   "via": "@Press（決済）",
+   "company": "株式会社トムス・エンタテインメント"
   },
   {
    "id": "39127e9a3a1f043e",
@@ -570,6 +820,19 @@
    "type": "news",
    "published": "2026-10-25T12:17+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "4ca8642491c4643e",
+   "title": "転機のスマホ決済、手数料バトルが勃発",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMlIxZjJsX0RPcUZWTERXOWFSY1pva0Q1UklIMEVjQVplU05QM09wbk5uQUkzZlFvcm1FM0hhZE1BaXhkUzdNcWlrRlJySXZBdFFCMFNzYjlkWTVHNVhHREZGckllNWJwRU5ac19kOVRUWTgzS2VsSzQyWUJzUmtHcDFDbEVHbjdtQUxubkRTUmpOUlI0SVNEUUVFcExINzZxVmNfMEZwS1kyWWdBcHB5QTduNThrQkhsR2lKdHctMnctSmNBMW16amRkUXl3dw?oc=5",
+   "source": "日経クロステック",
+   "summary": "転機のスマホ決済、手数料バトルが勃発 日経クロステック",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-25T12:03+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "623d7b2096f90e8d",
@@ -1793,6 +2056,21 @@
    "type": "news",
    "published": "2026-10-23T05:00+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "5ac40dc52b10e6b9",
+   "title": "青切符 キャッシュレスへ 来夏にも警察庁 クレカやコード決済追加｜朝刊・夕刊ニュース｜下野新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZHhUeXVvWUlUd3pnaUFqUlB1RTJiQXdoTzFJQkFpY2E0blNkV3ZwRGNGcWNYUzI0NkwtdjZMMURWbkJza1V3QkhOVmN1U0t2NU9ucTBGRHFLYTQ?oc=5",
+   "source": "下野新聞社",
+   "summary": "青切符 キャッシュレスへ 来夏にも警察庁 クレカやコード決済追加｜朝刊・夕刊ニュース｜下野新聞デジタル 下野新聞社",
+   "categories": [
+    "cashless",
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T05:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "29cb71df480ee3d1",
@@ -3474,6 +3752,19 @@
    "company": "株式会社nowWnow"
   },
   {
+   "id": "0489004032d85ee5",
+   "title": "「d払い」システム開発（SDB023-2026）",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hRFpSVVJHVnN4UmhxSVNNYnRROE4tNkJmWkJWTGUzYmt3T2RZTl93NWRaeTJzeHZ5a1ZTS2FUaVB3aHJCOVI3cElfaHhuenNaakd3dk9JRE1nQlJsVHNVcjBWSQ?oc=5",
+   "source": "日経転職版",
+   "summary": "「d払い」システム開発（SDB023-2026） 日経転職版",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-21T13:50+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
    "id": "f3ffc43960b251b9",
    "title": "VisaとMeshが提携、世界1億7500万加盟店で仮想通貨決済へ",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuRmctQ0daTHRONFdYVjBIS0QteU0xN05CSHNCLVdkYU1GRkp0Z1Bka05xYUpVWWpfV014bktQcC1rVjJOeXo2Nm9MckFDY1owbnF1cEMtcldLSll6bC1lWGRjS1BtUGlPWGxMVjQtbmhFZEJ1S3drUkUtMUg2dkHSAX9BVV95cUxQbkZnLUNHWkx0TjRXWFYwSEtELXlNMTdOQkhzQi1XZGFNRkZKdGdQZGtOcWFKVVlqX1dNeG5LUHAta1YyTnl6NjZvTHJBQ2NaMG5xdXBDLXJXS0pZemwtZVhkY0tQbVBpT1hsTFY0LW5oRWRCdUt3a1JFLTFINnZB?oc=5",
@@ -4471,6 +4762,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "d1828bc372a8d498",
+   "title": "JR東日本、「teppay」でSuica上限超え30万円決済 170万店で利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWnBHY0RKMlg4UnhGekE5b3NQbFZlUnMzUlNOUkpzNFlEU1pGbTFRa1VCMnhtSFBZOVhYb2I3YmpDczJZM0pJZzBVR2czelNZU3Byd1lDUFdmRTRoeUVUNDlqWl9Mc0ZqcVMwY3BTY0Zic0w5?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "JR東日本、「teppay」でSuica上限超え30万円決済 170万店で利用可能に BigGo ファイナンス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-20T17:35+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "3bb6dd5aad3fea1e",
    "title": "JR東日本のteppayが全国のSmart Code加盟店で利用開始、便利な決済体験の提供",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adzJ4eGpqWlNxZkVHZFA2ZU52ZnhJNzh2NnFZeGFRQnhXcVlFbE1XMldCVDJqaXBMWXpLaHV1MlpZTDNydHNIQWRYcFFuaklBYXBwNG9YXzBiUlVLMjdWSm4tOXF0UQ?oc=5",
@@ -4685,6 +4989,19 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HdndjbzNtTDFQTExlaTRDblhNdWRlMnVnbHZROEpwLTlSaFdhMl9mZlJMY2NHS3gxMTJ1R2REUFQ4Zm43RkUtRHNiOVFoSHdEcWZTUU1wS0tGN2dLRHZ3WG9wYw?oc=5",
    "source": "時事ドットコム",
    "summary": "ＪＲ東日本、コード決済「テッペイ」開始 Ｓｕｉｃａに機能追加：時事ドットコム 時事ドットコム",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T16:37+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "7424ccdc0c1801d7",
+   "title": "画像・写真：ＪＲ東日本、コード決済「テッペイ」開始 Ｓｕｉｃａに機能追加：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa09SUFFHeWxEUmF5U29CN0phazdkWEJIcGZYUTZqd1E4d241d3ZjcEt0T1VEQjEyc1AxUC1UUFphaVo4X3RrQUVueVNVUFExWUFTbVJJdHgwVGhoUm01RWhHR3BUY2tMX1pnQVNNek9XekNOaTdmclV2eXQ1b0dCdmJn?oc=5",
+   "source": "時事ドットコム",
+   "summary": "画像・写真：ＪＲ東日本、コード決済「テッペイ」開始 Ｓｕｉｃａに機能追加：時事ドットコム 時事ドットコム",
    "categories": [
     "code"
    ],
@@ -5479,6 +5796,19 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXeU45bko0LWdHQ0lBM3F2SHVybXBDU1NvVUF1VUVaZllOX3ROY1gxb1VFZU5PdXc1cmxhZHFNemVkUURDNnYzXzJfczRwaE9BcW1OZVhqQkJqMmx1M2c?oc=5",
    "source": "沖縄タイムス社",
    "summary": "ＪＲ東の新コード決済「テッペイ」開始 沖縄タイムス社",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:18+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "e2468e6bb95979b6",
+   "title": "ＪＲ東の新コード決済「テッペイ」開始｜全国のニュース｜Web東奥",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuZzN3UFZKakFkbF9rYmRHT1hJY1lGX2FvTVZTbUpjUW5LZ1AySmxWaU1rR2NsWXl6UEswbG8yTVJkT1pTcFNERlVJb1RhbUZNcm9Hbi02R08?oc=5",
+   "source": "東奥日報社",
+   "summary": "ＪＲ東の新コード決済「テッペイ」開始｜全国のニュース｜Web東奥 東奥日報社",
    "categories": [
     "code"
    ],
