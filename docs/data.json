@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T13:11+09:00",
+ "updated_at": "2026-10-26T14:13+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,32 @@
  "topics": {},
  "items": [
   {
+   "id": "6607b104a08f8871",
+   "title": "ラーメン店でキャッシュレス決済希望する客が7割超と圧倒的に！【エム・ピー・ソリューション調べ】",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44MnlsSjdWbE50aEtON0tFSlM3RTBSenAySG55Wnk1ZkFOazc0Q3dER0R6emd6T0NYYXItdVlteE5VTUQtZWF3OFZR?oc=5",
+   "source": "株式会社外食産業新聞社",
+   "summary": "ラーメン店でキャッシュレス決済希望する客が7割超と圧倒的に！【エム・ピー・ソリューション調べ】 株式会社外食産業新聞社",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:56+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "a229cb4e8a676047",
+   "title": "20～30代限定の「ダイナースクラブ ゴールド」登場 スタバやスマホで10倍還元、「食べログプレミアム」が実質無料",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news057.html",
+   "source": "ITmedia Mobile",
+   "summary": "ダイナースクラブが20代・30代を対象とした新カード「ダイナースクラブ ゴールド」の発行を開始した。初年度無料で年間100万円利用なら翌年も無料となり、若年層の生活様式に即した限定特典を多数付帯する。新カードを契機に上位カードへ誘導する階層を整え、ハイステータスブランドの若年層開拓を本格化させる。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:55+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
    "id": "932ea0ceb5f65612",
    "title": "AnyFone JAPAN、羽田空港第2ターミナル地下1階に「プリペイドSIM自動販売機」と「eSIM販売機 / WiFi貸出機」を新設しました",
    "link": "https://prtimes.jp/main/html/rd/p/000000004.000190808.html",
@@ -41,8 +67,74 @@
    "type": "release",
    "published": "2026-10-26T12:15+09:00",
    "company": "GSM Rentafone Pty Ltd. 日本支店",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "ea83380bee4e8d6e",
+   "title": "LINEMO、料金プラン契約でPayPayポイントを最大8000円相当増額 契約事務手数料3850円も無料に",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2151085.html",
+   "source": "ケータイWatch",
+   "summary": "ソフトバンクは、オンライン専用ブランド「LINEMO」で、PayPayポイントを上乗せして還元する「PayPay増額キャンペーン」および「契約事務手数料無料キャンペーン」を開始した。「LINEMO5周年大週穫祭」の10月第4弾で、申込期間は10月24日～11月3日。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:14+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "5cc6a84060c84b68",
+   "title": "Xの「いいね」長押しで1ドル送金 マスク氏が“投げ銭”機能を予告",
+   "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002579/",
+   "source": "ITmedia NEWS",
+   "summary": "イーロン・マスク氏は10月25日（現地時間）、Xの「いいね」ボタンに、長押しで決済サービス「X Money」を通じて相手に1ドルを送れる機能を追加すると明らかにした。X Moneyは米国で提供中のサービスで、日本では現在利用できない。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:05+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "65974e23aba2e873",
+   "title": "PayPayが本人確認（eKYC）のセキュリティ強化 撮影廃止でICチップ読み取り方式へ統一",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news053.html",
+   "source": "ITmedia Mobile",
+   "summary": "キャッシュレス決済サービス「PayPay」が本人確認（eKYC）のセキュリティ強化を発表。11月上旬までに本人確認書類の撮影での申請を廃止し、本人確認書類のICチップを読み取った申請方法に統一する。",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:04+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "39127e9a3a1f043e",
+   "title": "「電子マネーを振り込めば500万円が当たる」来店客のスマホを確認…詐欺と見抜いて警察に通報 コンビニ女性店員に感謝状",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kU2JoNHFJOWJLZkxEQTNneklwejhTOW1tOS1KUWR1dkZzZ0FYeUx4Wkh0UVlSWXZzZ3loN1FpcWN6bjl3UTVlS0FaZVFuNEc5eno1RDhlUjB5blR2c1ZUVXZrMnBtbk1GTjdWamVlaGZORHFvZHFIOVFWdlJPemM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「電子マネーを振り込めば500万円が当たる」来店客のスマホを確認…詐欺と見抜いて警察に通報 コンビニ女性店員に感謝状 Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T11:58+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "90a703595b9dcc18",
+   "title": "ソフトバンク、「スーパーPayPayクーポン」11月はダイソーや松屋など",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2151087.html",
+   "source": "ケータイWatch",
+   "summary": "ソフトバンクは、「スーパーPayPayクーポン」の11月の対象加盟店を発表した。対象店舗はダイソーや松屋など。対象店舗でPayPay決済を行うと、PayPayポイントが還元される。",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-26T11:56+09:00",
+   "via": "ケータイWatch"
   },
   {
    "id": "6b4680f29feb6ec4",
@@ -208,6 +300,20 @@
    "type": "news",
    "published": "2026-10-26T06:13+09:00",
    "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "3d5917c1981755d7",
+   "title": "【今年最大】クレジットカード売上の早期決済代行サービス「全東信」が破産したことについて解説します Cbse 12th Result 2026 (bP4zEO4iSj)",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0S1VSczRudTFwVS0zZklHMFRHSm12SDFjYWhTdUxKVVBxNmg3VWZHZG1obFJjZDFURkY1UmJ2US1mT1Iwb2dibUw2Ti1zQkprWFpkYXV1b3pBTEg3R0NweFlxVXI1dw?oc=5",
+   "source": "Unisba Media",
+   "summary": "【今年最大】クレジットカード売上の早期決済代行サービス「全東信」が破産したことについて解説します Cbse 12th Result 2026 (bP4zEO4iSj) Unisba Media",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-25T23:16+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "0b2059d5af4f2a55",
@@ -378,6 +484,20 @@
    "type": "news",
    "published": "2026-10-25T07:00+09:00",
    "via": "ケータイWatch"
+  },
+  {
+   "id": "96557304c962ac43",
+   "title": "【クレジットカードが使えない店が出てきている】決済代行会社の「全東信」破産申し立ての影響 仙台・国分町で50年以上続くスナックでも...",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rWnBVell1aGMwRnlaZ3cxMG1FcDJrZUZHc3RGdVRSS0NlbWJFMEdqWkkwZGl5Wkk1ZEVFa1A1RFJnVVA2ekg4SXg5WDBzcmdiQkpyS0QwLXExeDNUUXhF?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "【クレジットカードが使えない店が出てきている】決済代行会社の「全東信」破産申し立ての影響 仙台・国分町で50年以上続くスナックでも... TBS NEWS DIG",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-25T04:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "6c6e724cd8c0663c",
@@ -1998,6 +2118,21 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FZjR1bXV1V2pJSUNKVE5xR2dScTN0ZGdyRUQ0aFlGaXQ2UXRGTUc3T0RPUDhMVXB6Zk0xUUw5d2lTSlhVQlFrajBTTUxNd05OWExvaEJqWUxXY0RrNVI3S0lIQU8tMWV1Tmc?oc=5",
    "source": "PR TIMES",
    "summary": "メルペイ、オンラインショップで使えるJCBブランドのカード番号を提供開始 PR TIMES",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-22T13:10+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社メルカリ"
+  },
+  {
+   "id": "e5d0ccacff6a092b",
+   "title": "メルペイ、オンラインショップで使えるJCBブランドのカード番号を提供開始 | 株式会社メルカリのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FZjR1bXV1V2pJSUNKVE5xR2dScTN0ZGdyRUQ0aFlGaXQ2UXRGTUc3T0RPUDhMVXB6Zk0xUUw5d2lTSlhVQlFrajBTTUxNd05OWExvaEJqWUxXY0RrNVI3S0lIQU8tMWV1Tmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "メルペイ、オンラインショップで使えるJCBブランドのカード番号を提供開始 | 株式会社メルカリのプレスリリース PR TIMES",
    "categories": [
     "code",
     "credit"
