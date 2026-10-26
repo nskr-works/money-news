@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T06:58+09:00",
+ "updated_at": "2026-10-26T10:24+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,22 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "b9eace4f5cab6ce0",
+   "title": "「Visa × 2026 MAMA AWARDS ご招待キャンペーン」、10月31日まで開催中",
+   "link": "https://prtimes.jp/main/html/rd/p/000000419.000006846.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ビザ・ワールドワイド] ビザ・ワールドワイド・ジャパン株式会社（本社：東京都千代田区、代表取締役社長：アルトゥーロ・プラネル、以下Visa）は、対象のVisaカードによるタッチ決済をご利用いただいた方の中から抽選で合計ペア265組53...",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-26T09:00+09:00",
+   "company": "ビザ・ワールドワイド",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "0b2059d5af4f2a55",
    "title": "タインホア省：山間部の住民にキャッシュレス決済を普及させる。",
