@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T11:14+09:00",
+ "updated_at": "2026-10-26T13:11+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "932ea0ceb5f65612",
+   "title": "AnyFone JAPAN、羽田空港第2ターミナル地下1階に「プリペイドSIM自動販売機」と「eSIM販売機 / WiFi貸出機」を新設しました",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000190808.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[GSM Rentafone Pty Ltd. 日本支店] 20年以上に渡り国内外で通信サービスを提供し、国内累計170万人以上の利用者を有するグローバル企業GSM Rentafone Pty Ltd.日本支店（ブランド名：AnyFone JAPAN）は、10月15日より、さらなる利便性向上と多様化...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-26T12:15+09:00",
+   "company": "GSM Rentafone Pty Ltd. 日本支店",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "6b4680f29feb6ec4",
    "title": "キャッシュレスが加速する今だからこそ必要な学びを伝える ダイナースクラブ、金融教育フェスでクレジットカードの授業を実施",
