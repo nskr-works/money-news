@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T14:13+09:00",
+ "updated_at": "2026-10-26T15:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "99763a2ff3ca2080",
+   "title": "「ビューカードでSuicaチャージしようキャンペーン！」を実施します！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001560.000017557.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[東日本旅客鉄道株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/17557/1560/17557-1560-b57d05194f819cf1032df46079ebcf1e-894x147.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-26T14:40+09:00",
+   "company": "東日本旅客鉄道株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "2b02961f74acaa1f",
+   "title": "25周年を迎えたNewDaysが、Suicaの誕生25周年をお祝い！「Suicaのペンギンキャンペーン」開催！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001265.000082978.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JR-Cross] [画像1: https://prcdn.freetls.fastly.net/release_image/82978/1265/82978-1265-b0fca3f54c7047af5509335f45086a43-1000x1000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-26T14:15+09:00",
+   "company": "JR-Cross",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "6607b104a08f8871",
    "title": "ラーメン店でキャッシュレス決済希望する客が7割超と圧倒的に！【エム・ピー・ソリューション調べ】",
@@ -135,6 +165,21 @@
    "type": "news",
    "published": "2026-10-26T11:56+09:00",
    "via": "ケータイWatch"
+  },
+  {
+   "id": "1963515771eace5b",
+   "title": "【新宿フラッグス】プロクライマー楢崎 智亜選手と“新しいものを掴め”。 アパレル新作展開や「最大5％戻ってくる PayPayクーポンキャンペーン」など、秋冬企画を10月26日(月)から開催！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000309.000063373.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社小田急ＳＣディベロップメント] [画像1: https://prcdn.freetls.fastly.net/release_image/63373/309/63373-309-1bd24676f877547c655c9f7eb611fcb0-530x754.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-26T11:15+09:00",
+   "company": "株式会社小田急ＳＣディベロップメント",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "6b4680f29feb6ec4",
