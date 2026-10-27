@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T17:16+09:00",
+ "updated_at": "2026-10-28T01:21+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "c7d1fe3bbcee70ef",
+   "title": "ヘルスケアスタートアップ「おいしい健康」NMOSD（視神経脊髄炎スペクトラム障害）を対象とした患者サポートプログラムを提供",
+   "link": "https://prtimes.jp/main/html/rd/p/000000185.000043855.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[おいしい健康] 製薬企業における患者サポートプログラム（PSP）を支援する株式会社おいしい健康（代表取締役CEO：野尻哲也）は、NMOSD（視神経脊髄炎スペクトラム障害）患者の療養支援を目的とした看護師向け冊子を、PSPの一環...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-28T01:10+09:00",
+   "company": "おいしい健康",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "b9d6fbd1e6235f01",
    "title": "東急線で「クレカ乗車」をご利用いただくと1件あたり1円（最大70万円）を「東急子ども応援プログラム」に支援します",
