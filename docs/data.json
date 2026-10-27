@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T16:25+09:00",
+ "updated_at": "2026-10-27T17:16+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,59 @@
  "topics": {},
  "items": [
   {
+   "id": "b9d6fbd1e6235f01",
+   "title": "東急線で「クレカ乗車」をご利用いただくと1件あたり1円（最大70万円）を「東急子ども応援プログラム」に支援します",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLbnk4SjNhZmRyUkwzd1NSenFxMlN2UjBVYVEzbzItamFTczBJWnc3VFVaM3FLVGUtNUJTUlNrRlJyOEwxLTNWMHEtNkJEY0tQNlJOT1VBNlRHaDRSN0pVR3RCM0tWYkxGVlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "東急線で「クレカ乗車」をご利用いただくと1件あたり1円（最大70万円）を「東急子ども応援プログラム」に支援します PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-27T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "三井住友カード株式会社"
+  },
+  {
+   "id": "ab2bc70335a88306",
+   "title": "ECモール「ツクツク！！！」 クレカ情報大量漏洩 セキュリティーコード含む約2万件",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sY0duZ3hCWkp6WUhVR1F5Vk1wQzBjZ0c3Q2xBY0daelhzT3hmX0loVHdCZ0E1bmhuOU8wcXp0a1F6SF9WZTB5OXhOTWVXcjB5M19taFk3bGFuSWhpT3JyMlVGNzFYN000andVX244TGxQUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "ECモール「ツクツク！！！」 クレカ情報大量漏洩 セキュリティーコード含む約2万件 テレ朝NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T15:45+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2c6f1369983a3f32",
+   "title": "京都仏教会監修のキャッシュレス決済「おまいりPay®」が寄進に対応する意義",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fWWl2T3ZhVTNMYkN5OFdnR1ZnM2RiMEF0LTRmUnJmalQyVHU0aDFITW1sSTcycmtJdmVZbmVlaW1uZnFEMGRqREFycW95M3JURWxDVDQ3THE3RURyTy1BM1huRS1KQl80WUE?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "京都仏教会監修のキャッシュレス決済「おまいりPay®」が寄進に対応する意義 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-27T15:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e45b1e9ad181bc52",
+   "title": "アイフルが新たに年会費無料のクレジットカード「aiカード」を提供開始する理由",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50UmxDem1oVHhzOVozdTNhdlZ0bmVWNWwwZDUzZU43NWxkVHNUa1gwN1pUQ3hvX1gxSmVLUF9PeDZqaG83YVJVLUlVNjBWeUJhOE0td3dJeTlWa2U0bHJv?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "アイフルが新たに年会費無料のクレジットカード「aiカード」を提供開始する理由 ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T15:09+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "d8ae4e29bdd01553",
    "title": "JRE POINTを使って、ポイントバックのチャンスまたはSuicaのペンギングッズが抽選で当たる！「JRE POINT全額ポイントバック祭り」を開催します！",
    "link": "https://prtimes.jp/main/html/rd/p/000001272.000082978.html",
@@ -41,8 +94,7 @@
    "type": "release",
    "published": "2026-10-27T14:10+09:00",
    "company": "JR-Cross",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "956259cb46a0b170",
@@ -1110,6 +1162,19 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nQjVHMmZ2WWJoa3BHMGQzRzBLQk9xVWVvRVAyel9pTFg4OWhSRXNBc2YwcGFyeFFtYzdqNEVBSGhPUDN5RHB5Nkl5SkRycXVYc0I4WTBCcmR6LXpRUmJqM2ZVMllaWnlvMVZjR3poOGVab3FBejFLRVR6dlpVcGM?oc=5",
    "source": "Yahoo!ニュース",
    "summary": "双葉町メールマガジンと同じアドレスから不審メール 実在するクレジットカード会社騙り金銭請求＜福島県＞（福島テレビ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-25T20:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b01db327e23574eb",
+   "title": "双葉町メールマガジンと同じアドレスから不審メール 実在するクレジットカード会社騙り金銭請求＜福島県＞：ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqVVY2OW5VVDhqZHB1U0NDMTRnXzBKTlgzZHZBSTE4dWNDbkpTbGNMMTA0bzJGU2NYc0ZmLV90b3VyQjA5YnpEaWpDYWc5WFcza2Q4LTJQOW1ScUhaNlBJejBwNEowZ25KYnVVSExzaWJralE2LWZQQkNR?oc=5",
+   "source": "FTV 福島テレビ",
+   "summary": "双葉町メールマガジンと同じアドレスから不審メール 実在するクレジットカード会社騙り金銭請求＜福島県＞：ニュース FTV 福島テレビ",
    "categories": [
     "credit"
    ],
@@ -4816,6 +4881,32 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04UFZuS2d2bzBQWklFV1Rvd3pfc1FYMllQSFgwS211NmY3OG1EOXlBN2cwWVlLTGVOVEgwZGpJZlBCMXlEU0RQNnVqdmthRHlPVElETTJWNGdjRURLTjJjenBDWUg?oc=5",
    "source": "読売新聞",
    "summary": "モバイルＳｕｉｃａのコード決済「テッペイ」始動、ビューカードひもづけで限度額まで決済利用可能に 読売新聞",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-21T05:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "2acb72a084255502",
+   "title": "ＪＲ東「テッペイ」開始 コード決済、スイカと連携｜朝刊・夕刊ニュース｜下野新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkMGdwLUloOWF6emZxdTM1SDJDamZ3My0wQ0NMTTJqSGZMbkw4b3YxWWs2eFVFSHYzak83cFFobWJjTW03VHdwWjhaWHNVRlRlVUFPcGQ0Z3dad2s?oc=5",
+   "source": "下野新聞社",
+   "summary": "ＪＲ東「テッペイ」開始 コード決済、スイカと連携｜朝刊・夕刊ニュース｜下野新聞デジタル 下野新聞社",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-21T05:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "b0c22b1cd7765bea",
+   "title": "コード決済「テッペイ」開始 ＪＲ東",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhVk5lYXNOeHFVbHRqTWpSOW9HZFhEbmNKX25taUlVTWdoZWc3UGpwWFdSNTJfN0hfT05vQ3lEclRxaFNTQ3RlZXNSeGpDQ3FibjlHem9R?oc=5",
+   "source": "岐阜新聞デジタル",
+   "summary": "コード決済「テッペイ」開始 ＪＲ東 岐阜新聞デジタル",
    "categories": [
     "code"
    ],
