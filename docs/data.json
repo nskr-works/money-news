@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T07:08+09:00",
+ "updated_at": "2026-10-27T11:11+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,85 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "5185d124f9c5f40e",
+   "title": "エクスペディアでPayPay決済が利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xMzJKY2MwQm03QVc0VzdselRYcU1DdWozWGNyY1JPZjdGSDRmSUl1ekJEUWpNSHFtdWgwWUkxVnVaQU1EUnloVWM1emp3bzQyTGd1d0Fzckh0WFlqMXJqZk1QY0VwZ0RlN3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "エクスペディアでPayPay決済が利用可能に PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-27T11:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "エクスペディアホールディングス株式会社"
+  },
+  {
+   "id": "f2d720b0a166d794",
+   "title": "エブリイがセキュリティー強化で電子マネーなど利用停止「不正アクセス被害に遭わないように」 【広島発】",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NckJPRDBoUC1BZzhOa3FHMk1ha2RHUzFna0tNcVpVRlJZcFp4YWdxVm53Vm00azM4MnZIQmFfZzRNa2w1NkdzX0dnLUpKZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "エブリイがセキュリティー強化で電子マネーなど利用停止「不正アクセス被害に遭わないように」 【広島発】 FNNプライムオンライン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-27T10:38+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "fe76e9c60f263380",
+   "title": "クレジットカード「aiカード」提供、カードローン契約後すぐに利用可能（アイフル）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTnRWNVd6ZTh6TWZMVkt5TUtPaVp0azhrUWRGVEdvaGtxUHNWaWQzN0h4aC1pQnY0RGwtVmZEN2o0RWFxZWJTNllnYko4VXdjWXBlTnVwaTluOGc?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "クレジットカード「aiカード」提供、カードローン契約後すぐに利用可能（アイフル） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T08:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e1781fa2f1e1d874",
+   "title": "「楽天トラベル」に不正アクセス 顧客情報最大約260万件など流出か 予約者約3.6万件のクレカ情報も",
+   "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002606/",
+   "source": "ITmedia NEWS",
+   "summary": "海外予約サイトの一部ページと、楽天グループが運営する多言語予約サイトが対象。最大約3万6000件の予約者のクレジットカード下4ケタや名義、有効期限などの情報が流出した可能性。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T07:44+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "f56b749efcf56060",
+   "title": "エブリイがセキュリティー強化で電子マネーなど利用停止「不正アクセス被害に遭わないように」 広島",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CMXlRU1lFZXQ4c1N0QnZPRTFiM0NuTnVCN2h6djhFaWZxeF9WTTV4aUR5eUdIRkJQTFZLMHRHZ0wzc2N4OTJnenZzWEpJTUtWMDE0UlJfQnczcHNnUEV2ZGtQdXlVV3JuSkZrOWNR?oc=5",
+   "source": "Excite エキサイト",
+   "summary": "エブリイがセキュリティー強化で電子マネーなど利用停止「不正アクセス被害に遭わないように」 広島 Excite エキサイト",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-27T07:42+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "b7157c7da726aff2",
+   "title": "「おまいりPay」が賽銭、本堂修復などでキャッシュレス決済に対応（バリューデザイン）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PRmxlcDZMTHNZRUlDc0JuNVp4b190ZFNSaGt6Yy1qa2FPcHVuR0dTcDBzSnVaSGJiZEtnR0diOFRkNEJvbXl2S3ExYjVBT25MS0FxVFFNTjJBeVU?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「おまいりPay」が賽銭、本堂修復などでキャッシュレス決済に対応（バリューデザイン） ペイメントナビ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-27T07:10+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "209ef7311ab7d90c",
    "title": "電子マネー決済が使えるスマートウォッチ15選｜PayPay・楽天ペイ・Suica対応表つき【2026年10月】",
@@ -75,6 +154,19 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53SkhlRHNKcWpXaFJDWnRJWXhoQXVTaGcxYmc0Vkc2bjNaZnJHVHlSYmtuMEJTZUpOeVZKMmZXTGJ0bFFQajMtbVlYZW8tb1Y3UHVKRngzb0o3anhPOW1ZaG1HdUsyODlnQ3ZvMnJFTTdxNWx5ZHFTa1pfYW9laDQ?oc=5",
    "source": "Yahoo!ニュース",
    "summary": "楽天トラベル情報流出か 260万件、クレジットカードも（共同通信） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T22:53+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6545b9f2cbfa254c",
+   "title": "楽天トラベル情報流出か ２６０万件、クレジットカードも | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01YzIxQnFLVXpUNVdsMzRlRTluX3UtMFBGVnUwRWlTSDduYmpHbEF6UDlicVJEdEM0R041TWJYUnJ1dEZZbk9sTC1pdzNOVF93MVFLaVg1clBISDExSnc?oc=5",
+   "source": "福井新聞社",
+   "summary": "楽天トラベル情報流出か ２６０万件、クレジットカードも | 全国のニュース 福井新聞社",
    "categories": [
     "credit"
    ],
@@ -348,6 +440,20 @@
    "type": "news",
    "published": "2026-10-26T13:59+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "2c7dd283067287ee",
+   "title": "JR東日本、コード決済「teppay」でSuicaの利便性アップ 未成年含めた幅広い既存接点強みに",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwdEZ4cWFBSWluOWFHN2Iwb0VVaXVYUHZOanRoUkFQVWNUVmU2bnpMOXRZRWo0cGpLWEhva3ZoMjNqMjVwVWNzZnFIcE5Nc0t1ZlE?oc=5",
+   "source": "激流オンライン",
+   "summary": "JR東日本、コード決済「teppay」でSuicaの利便性アップ 未成年含めた幅広い既存接点強みに 激流オンライン",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:06+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "6607b104a08f8871",
@@ -662,6 +768,19 @@
    "type": "news",
    "published": "2026-10-26T08:50+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "5f28b2711f7897f0",
+   "title": "飲食店での「ランチタイムは現金のみ」というのは厳密には決済代行会社との加盟店規約違反だが、薄利のランチで手数料を取られたくないのもわかる→様々な視点で議論に",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hQnpUX215VjlWTDNGVWtMeGQwRjlDU2pOQ0toRDJXMWJ5dW1yR0ZoSl9wenRyVjBXdXE3WVBUbFZVNVVXR1E?oc=5",
+   "source": "Togetter",
+   "summary": "飲食店での「ランチタイムは現金のみ」というのは厳密には決済代行会社との加盟店規約違反だが、薄利のランチで手数料を取られたくないのもわかる→様々な視点で議論に Togetter",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-26T08:42+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "d18830c92c9a0df3",
@@ -1005,6 +1124,20 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "90913b57228371b5",
+   "title": "JR東日本の新コード決済「teppay」はどれほど便利か…ポイント率・還元キャンペーン・Suica連携を検証してみた",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yU3RHZU9GUERfczNaVjJKNXRvdXJ0NnNqQlFVVjJzNW1TeEktTWdhWkNHZXZfVWZwX1BxZ25OSlR0aENZZ2ZWYzc0LXNBYmV6cTZIUnhSOE9FTUI3dkRGdGxoQWpzRGhoaHpjVjR3?oc=5",
+   "source": "au Webポータル",
+   "summary": "JR東日本の新コード決済「teppay」はどれほど便利か…ポイント率・還元キャンペーン・Suica連携を検証してみた au Webポータル",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-24T21:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "b828510b68289e6a",
    "title": "クレジットカード会社をかたる不審なメール 双葉町のメール配信サービス 町「絶対に対応しないでほしい」 福島",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU9neG1tOGpnTndVTmlEUXlhZlJRUXdtV0FJdnJVTDZhaU1hWUNJRmRqTUJZRDhjOGZWeGt3YXRQclB3REdNcTVGclFaai05VUJ3X0hmY2RvRVJuNXIwM2t2RUtxUC1WMlp4VHFDRnlYUWp6eEhwMUdQYVNqNTNNRWV6UlhQMUE?oc=5",
@@ -1123,6 +1256,20 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "55cb863e8ca6ef79",
+   "title": "モバイルSuicaの新コード決済「teppay」を店舗で使ってみた正直な感想 / 11月4日から20％還元キャンペーン",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ic1FzeWlSSklFNTRXaUFZUFhNWG0xWUpDNXFPSVFFTmpVSG5zMzlGWlRmT0NnX1prbWdRYVh1U3EtcUNWT1c3WFlwRVV2eTFuUzh6UjI2WdIBXEFVX3lxTE1OUVhPYWgwTnVpdTJ3anFzYTJ2bl83XzZmc1hyR0lFb20yYl95ck9aOU9YNzUxSGI2aU9jUnNpMXk3RWFERlV2NHJnVkY5TndKNEFSaXhzY0lGaEF6?oc=5",
+   "source": "ロケットニュース24",
+   "summary": "モバイルSuicaの新コード決済「teppay」を店舗で使ってみた正直な感想 / 11月4日から20％還元キャンペーン ロケットニュース24",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-24T11:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "74786ab2508049a0",
    "title": "ソニーストア、11月4日からクレジットカードの請求タイミングを変更。分けて出荷する注文は、最初の出荷時に総額を請求。出荷まで期間がかかる注文は再与信あり。",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WZ09RVnRpLUNRSGdYYjB2Ty1ZRThWNFJVUmxydm1YZHN4NGp3VzZMeHpHVTduUTlIcTdkaXM1ajc2czhxQWJtRVpTQlNaenJMMjlQTDNuUzdjZ2M?oc=5",
@@ -1229,6 +1376,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "cc49a084bd0f043e",
+   "title": "「起動バカ遅い」「10年遅い」JRコード決済・teppayに意見相次ぐ (2026年10月24日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUHpUdHZIMF85amlmdlg1dnJBbUZnZmExX1ZzMTB5RmtyLVh2bkxiZFVuakdua0U0ZEwtNmVCMEdDREc3SWpaOWtVcXRJMTdVS0E2YldfVS1iZ1Q3VWc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "「起動バカ遅い」「10年遅い」JRコード決済・teppayに意見相次ぐ (2026年10月24日掲載) ライブドアニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-24T09:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "ccc11e0de9d7ba64",
    "title": "松本四賀 ｢福祉100円バス｣キャッシュレス化に備え ICカードで乗車体験",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lZ09vQWJPckt5S1ZzaktMdmpKYVNJc0xraklKc2xKRi1ZMHJidkg4WTJjT29MOW5ZZU1uZ3lDWV9YT2NvcGxhZk9hb0NERkt5NHFMRy11MmpXWmNIRWl5SXBhdw?oc=5",
@@ -1318,6 +1478,20 @@
    "type": "news",
    "published": "2026-10-23T23:55+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "17cef7dda1b0e06b",
+   "title": "JR東日本のコード決済「teppay」開始。モバイルSuicaで最大30万円の支払い、残高の送金にも対応",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zamdCQlFySldJUzh3dnFHM1ZqVG00RjcwYkRiRVlrQ1VxN21IMVhpZm94SFhfOUt5QzhfcnJkUFpTcDB2OGV4cEY4dk9vbC02Zk1zenp5NTlmLVJ6Z3JwYnJwQV9aUVZJb0w40gFwQVVfeXFMT3NoRDJoZ21KX0Fyb2NGd3FqcS0zRm5ZM3ZXN0JYMjk4ZGpjTGRKLXIyVzdjcFdQYnE3QUFRNnNrcUt5SmI4OEtlbE1HTlJPTnMxc21mU2R2WUc5dmNRQTN2cHRVMUczY2dqUm5EX1MzbA?oc=5",
+   "source": "すまほん!!",
+   "summary": "JR東日本のコード決済「teppay」開始。モバイルSuicaで最大30万円の支払い、残高の送金にも対応 すまほん!!",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T23:30+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "5eeb3a754450ec71",
@@ -3389,6 +3563,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "790854547e264d01",
+   "title": "サムスン、スマホ決済で首都圏鉄道の乗車可能に",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1WGlfTDdCeUlnZWd1TFI5NHdUMUc4SDJxS1E2Sm9lSTVPTVhIZk5IV3VjbE9MU2laY0d3bExVVmhXVzlyX2c?oc=5",
+   "source": "NNAアジア",
+   "summary": "サムスン、スマホ決済で首都圏鉄道の乗車可能に NNAアジア",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-22T00:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "f2c27ab6a9c1ab81",
    "title": "富士急ハイランドに不正アクセス、一部の会員のクレジットカード情報も漏れた可能性",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90V0pFVmVEQm5BR3JFRUw3RkZUVEJBX2VDby0wSmdybGxFb3N3NU01Y241ZEJQcXo1Y2lZN0N6LWlOQ2VjM2Q5dS1nWXc4U0NoY2lWQ1VpcUg2MFVucHhvNTFnd2Y?oc=5",
@@ -5437,6 +5624,20 @@
    "source": "NHKニュース",
    "summary": "JR東日本が新しいコード決済開始 なぜ鉄道会社が？【Q＆A】 NHKニュース",
    "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:12+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "545f8c42ccb1a051",
+   "title": "JR東日本「モバイルSuica」に新しいコード決済サービス「teppay」開始 なぜ鉄道会社が【Q＆A】",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbk5UMW1ZaUJQV2JGNHE1Yk80TVpUUFNlYWF4X1hEVExlM013WTlaNTNaM3hPTTJjQXFoa1hQRGVRdWZYR25aYXVjUm5xZWRpQnVyYXQzMHRRRW9xS0hV?oc=5",
+   "source": "NHKニュース",
+   "summary": "JR東日本「モバイルSuica」に新しいコード決済サービス「teppay」開始 なぜ鉄道会社が【Q＆A】 NHKニュース",
+   "categories": [
+    "cashless",
     "code"
    ],
    "type": "news",
