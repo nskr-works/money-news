@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T14:11+09:00",
+ "updated_at": "2026-10-27T16:25+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "d8ae4e29bdd01553",
+   "title": "JRE POINTを使って、ポイントバックのチャンスまたはSuicaのペンギングッズが抽選で当たる！「JRE POINT全額ポイントバック祭り」を開催します！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001272.000082978.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JR-Cross] 株式会社JR東日本クロスステーション（所在地：東京都渋谷区、代表取締役社長：伊藤 敦子、以下「JR-Cross」）は、2026年11月1日から11月30日までの期間、「JRE POINT全額ポイントバック祭り」を開催します。 [...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-27T14:10+09:00",
+   "company": "JR-Cross",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "956259cb46a0b170",
    "title": "【子どもの電子マネー】必要な時に都度チャージするから総額が曖昧……「使いすぎ」防ぐ管理方法は？",
