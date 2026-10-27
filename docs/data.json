@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T11:11+09:00",
+ "updated_at": "2026-10-27T14:11+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,18 +30,114 @@
  "topics": {},
  "items": [
   {
+   "id": "956259cb46a0b170",
+   "title": "【子どもの電子マネー】必要な時に都度チャージするから総額が曖昧……「使いすぎ」防ぐ管理方法は？",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1SnA1ZnRxM2JiUHV0N0pnV3h2cXB4dVU0X2hKYTJfS0ZhQzFqT3RjYTFDbUN1UlhsUkNiRVlBZVR2RkRSLThDT2xwZlFmQQ?oc=5",
+   "source": "STORY",
+   "summary": "【子どもの電子マネー】必要な時に都度チャージするから総額が曖昧……「使いすぎ」防ぐ管理方法は？ STORY",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-27T14:01+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "b199bc110d439ad7",
+   "title": "【Visa】タッチ決済利用でK-POP授賞式「2026 MAMA AWARDS」に抽選で265組530名を招待 - 応募期間、条件は?",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CQ3B6NXpkY2thaVNiWTY3c0JCYmlON01iUnd5dV9lbVVzd0IwRGl5bGhON3VINzV5ZDU4RUwyUEZJU1JxV1R6WllQeVhMWXFVb0xmOXExMF8zQURH?oc=5",
+   "source": "マイナビニュース",
+   "summary": "【Visa】タッチ決済利用でK-POP授賞式「2026 MAMA AWARDS」に抽選で265組530名を招待 - 応募期間、条件は? マイナビニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T13:45+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5c8ee777b123bcdf",
+   "title": "サムスンウォレットマネーが中国の代表的な簡単決済サービスのウィチャットペイと連動する。 ▶10月14日A1·4面報道",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40ODU5S1N4b3B1eU94b21tVzlCUzRQUjVKODVwWjNaVzh5dmFmZURPdzVYNzFkTFNaVHU2dTVDX01PNndTcnpMc0xwQUNVZkU?oc=5",
+   "source": "매일경제",
+   "summary": "サムスンウォレットマネーが中国の代表的な簡単決済サービスのウィチャットペイと連動する。 ▶10月14日A1·4面報道 매일경제",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-27T13:32+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "fc787dea54f5a0c0",
+   "title": "d払いで「履歴からの残高送金」が利用しづらく、通常送金は利用可能",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xU2NweUk0aTVTQjZ6aUdJc0JMT1lzT0szRzY0MjZFWUc1YzU2cXd3U0ZtMTRVUHJsbUpSZ0lHNEllLVFPZWZLMG9RdlVDV0VyOGFEUk9pN2g4d2UzaXVR?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "summary": "d払いで「履歴からの残高送金」が利用しづらく、通常送金は利用可能 千葉テレビ放送株式会社",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-27T12:45+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "01b0a8a5fc249c84",
+   "title": "水卜麻美アナがやってる“カード不正利用対策” 専門家も推奨「不正に気づきやすい」",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1neUNNa0hhNU9IRFR1bFBMaVZzSW4wUU4xalZnSVlzUmNIcFJtNWp4c0hDak1YMm9CcURwdjlFYVRvNTV2aWxmMHVpZnRuc1RXTnctM3Bn?oc=5",
+   "source": "Sirabee",
+   "summary": "水卜麻美アナがやってる“カード不正利用対策” 専門家も推奨「不正に気づきやすい」 Sirabee",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T12:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c8f127f83fe0f470",
+   "title": "「SBPS請求書カード払い」手数料2.5％キャンペーンを、好評につき2027年1月31日まで延長（SBペイメントサービス株式会社）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jOU5kV3Fmam0wSndVVkNOMkJoNi1BTkdTbUlvME5INjYwZUluN0Z1MlVSRDJVejNNVjJULXFyQk51UmlkX0g1Rmkyem1rNUtaTTlpeVJGcDU0SWsxM2MzYlFIanZWSWdnd1RoUGtKOVJjRlRHengycFRvV1JzZ0E?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「SBPS請求書カード払い」手数料2.5％キャンペーンを、好評につき2027年1月31日まで延長（SBペイメントサービス株式会社） Yahoo!ニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-27T11:07+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "5185d124f9c5f40e",
    "title": "エクスペディアでPayPay決済が利用可能に",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xMzJKY2MwQm03QVc0VzdselRYcU1DdWozWGNyY1JPZjdGSDRmSUl1ekJEUWpNSHFtdWgwWUkxVnVaQU1EUnloVWM1emp3bzQyTGd1d0Fzckh0WFlqMXJqZk1QY0VwZ0RlN3c?oc=5",
    "source": "PR TIMES",
    "summary": "エクスペディアでPayPay決済が利用可能に PR TIMES",
    "categories": [
-    "code"
+    "cashless",
+    "code",
+    "psp"
    ],
    "type": "release",
    "published": "2026-10-27T11:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "エクスペディアホールディングス株式会社"
+  },
+  {
+   "id": "e2d5b08e9e41adc2",
+   "title": "「サムスンウォレット・マネー」で中国のQR決済サービスを開始…海外手数料無料",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ac01pdmdicXB4NmxmTnIwQ045Yk96UkwxQ0NTSm1tN25JRWNOX2xkWlFUX1BFcXhGWkRUbU1ZX2NST0pYd2hVLUhndXVIQVdnWmhn?oc=5",
+   "source": "매일경제",
+   "summary": "「サムスンウォレット・マネー」で中国のQR決済サービスを開始…海外手数料無料 매일경제",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-27T11:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "f2d720b0a166d794",
@@ -55,6 +151,19 @@
    "type": "news",
    "published": "2026-10-27T10:38+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "0e5c579a97b6c5a6",
+   "title": "「ツクツク!!!」でクレカ情報1万9115件が漏えいした可能性 セキュリティコードも対象",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IamtNMmJMcVV1VFQ4S3YxR0xoSVh3YWdDQkliQy00UGZWYm5na0l3MWZkd0U0RjBDQ0lVUjUtNXBJVTd4SUluTzZ6THphUQ?oc=5",
+   "source": "ポイ探ニュース",
+   "summary": "「ツクツク!!!」でクレカ情報1万9115件が漏えいした可能性 セキュリティコードも対象 ポイ探ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T09:34+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "fe76e9c60f263380",
@@ -96,6 +205,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "f0d68fa579fcf8be",
+   "title": "楽天トラベルでクレカを含めた情報漏洩",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VdUFvX0Z1amlfemI5RTRQdVhONjRPNWc0bVVzMXRSUUY0dE9BTFRHcWdqNEhjdXdKc0J1aGZ6TFF1OXktRUpjaFBtWHpzS0lIU3hJcUtB?oc=5",
+   "source": "村上知也",
+   "summary": "楽天トラベルでクレカを含めた情報漏洩 村上知也",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T07:27+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "b7157c7da726aff2",
    "title": "「おまいりPay」が賽銭、本堂修復などでキャッシュレス決済に対応（バリューデザイン）",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PRmxlcDZMTHNZRUlDc0JuNVp4b190ZFNSaGt6Yy1qa2FPcHVuR0dTcDBzSnVaSGJiZEtnR0diOFRkNEJvbXl2S3ExYjVBT25MS0FxVFFNTjJBeVU?oc=5",
@@ -121,6 +243,19 @@
    "type": "news",
    "published": "2026-10-27T00:41+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "a7f1586ffa5933a7",
+   "title": "楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fd3VYQWFxaVZnWlNVVXZDWUI1TVdxSUYxZ0VaWVo1RTgyTWRaTVE3bDhWcmtBYWxpcEJJSW05YWhYTmZBOTZZS0FzbzJYYnR4a1Y0d2VYNkxRTDB3M1kw?oc=5",
+   "source": "NHKニュース",
+   "summary": "楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出 NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T00:32+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "d88d3f9c988cfcee",
@@ -266,6 +401,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "f1f0b6395d642d49",
+   "title": "楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zSEZpUnBLOVNNbzg1TTdsZl9SeE5UUWg2SXcyd2hDcGdMcWVNSWwyd3ZHb29xZzFGNm5MNHpXSjFhclRqcTVEek9JWUFyTTZBeUl4ZmUxXzl6YWJrMEFBaFFLWnNDQkpmTUVDREVn?oc=5",
+   "source": "Infoseek",
+   "summary": "楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件｜Infoseekニュース Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T20:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "4b8d5d59a78ebeb0",
    "title": "楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UYlNUUFJiYkRqODFFUjRVUWdieVRaR0lFUE1uRjU4aGNnTDlodHdyczVicVpvR0prUjduWnFlMVpqR0VYNWRtdllrYm9Wc0dHZ1dzQXR3UXl4b19EYVBRQXNnTEVoY1p1OHhWUg?oc=5",
@@ -276,6 +424,19 @@
    ],
    "type": "news",
    "published": "2026-10-26T19:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d87c002fa8bbf718",
+   "title": "アイフルが年会費無料の『aiカード』発行開始！ リボ払い専用クレジットカード",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54eVZMTkpfd1FLQnRGT1Y0bXFjdnZWU1B2WXVxdHlDZk4xWlVlLVhWeWtUSlRYbnY3TUc5b0duUXpHS3puRDNjcjZVUGdtY1g3WS1TSEpFanFCQXJQazNLUkVVcFpId19oRUE?oc=5",
+   "source": "AppBank",
+   "summary": "アイフルが年会費無料の『aiカード』発行開始！ リボ払い専用クレジットカード AppBank",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T18:16+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -303,6 +464,19 @@
    "type": "news",
    "published": "2026-10-26T15:36+09:00",
    "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "7a0163f30916676a",
+   "title": "DLsiteの「みんなの銀行直接決済」取扱高1億円突破、クレカ会社“決済停止”の懸念受けない手段として注目（オタク総研）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRY3lveVlEbXZNajRxM2h2aFZTd2NQSGdJZ0xCT1VrX00wOVk1ZHloNzRHSE9lZmdwQWJfTk1ycWhvckJCYXkwSTlDcWhBZzY0Qk9qVkkxX3Awc08zczlNR3BoeUtwbXhDRFlNZjZUcVdwTVpCaC0tSERMT01WUXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "DLsiteの「みんなの銀行直接決済」取扱高1億円突破、クレカ会社“決済停止”の懸念受けない手段として注目（オタク総研） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T15:32+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "18bc9581fc637849",
@@ -442,6 +616,20 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "7150c9cff8d286cb",
+   "title": "メガネトップが楽天ペイ導入、眼鏡市場でのキャッシュレス決済が可能に",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93RXN3emNSa0ZJdFJXalZnaUR6UXNUQmNpU2R6eXpsb0RZZE4xbS1LTmZvNllQS2gxOFh0bHlhNU1NMkVkWE5pY2lXZjVBSDVXVlpwVkNQaGtmNEhYMlY0YUkzQ1RwbEJyU0M4VzNnc2Q?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "メガネトップが楽天ペイ導入、眼鏡市場でのキャッシュレス決済が可能に ニュースメディアVOIX",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:16+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "2c7dd283067287ee",
    "title": "JR東日本、コード決済「teppay」でSuicaの利便性アップ 未成年含めた幅広い既存接点強みに",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwdEZ4cWFBSWluOWFHN2Iwb0VVaXVYUHZOanRoUkFQVWNUVmU2bnpMOXRZRWo0cGpLWEhva3ZoMjNqMjVwVWNzZnFIcE5Nc0t1ZlE?oc=5",
@@ -454,6 +642,19 @@
    "type": "news",
    "published": "2026-10-26T13:06+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "2fdd6af53698fd78",
+   "title": "ダイナースクラブが提供する金融教育フェスで学ぶクレジットカードの重要性",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8taUc3R25rZC1KNXVIRVFybUNLLVZpSzZ4cXlMckFHSXE5VGwwRUNOYnJBX0RoQ2hMVGhXbkx6SVpscWZoVTRTazV2cG00b3F6T0stN2wtNS1ydklfN3pBQ2cxaWdqM2dLVHN0NEZXWmluSVJGUjdBVUx6LUI?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ダイナースクラブが提供する金融教育フェスで学ぶクレジットカードの重要性 ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:04+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "6607b104a08f8871",
@@ -480,6 +681,19 @@
    "type": "news",
    "published": "2026-10-26T12:55+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "3b227455be67043e",
+   "title": "20～30代限定の「ダイナースクラブ ゴールド」登場 スタバやスマホで10倍還元、「食べログプレミアム」が実質無料 - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DSTYyTDVyWU02SVFIektXRmltODM1clpxbU9GSlZmbjdTVkZFWlRBMG1tYWJOT0JNaHlFZTBTZUlFY24xaWxvRlpTSlpnLUhnTnltbUpvMzRtRjloUjhiNDUxbkxBSGtFTElXenZPa9IBaEFVX3lxTE5xUlBsU1IzbDFqN0xfbDhsZENzMDZBc0Uyd01lVUJhUHoyNHhkdHIzQUVZSERtTWpaNlVUalJQM29FaXgxZFVFOXhrTm51blZWbHhwdzB0YXRVRGRlelhTWnNWdEJSMXV3?oc=5",
+   "source": "ITmedia",
+   "summary": "20～30代限定の「ダイナースクラブ ゴールド」登場 スタバやスマホで10倍還元、「食べログプレミアム」が実質無料 - ITmedia Mobile ITmedia",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:55+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "4c07389ca8d237a0",
@@ -629,6 +843,19 @@
    "published": "2026-10-26T11:15+09:00",
    "company": "株式会社小田急ＳＣディベロップメント",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "51897e8576c75a14",
+   "title": "【韓流】東方神起チャンミンが激白 カード会社から確認電話が来るほどゲームに課金していた（日刊スポーツ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EUC1VVmRpZ2gwY0dRbkhGN2hkQUVILW4wLXVqSHp1S2RmcEtlNVBVY2h5MGliVkdDMEFkLVFYMm9LSW9jaWswSVNaZHRERnp0NkpxU2NOYXpmX1ZyX1NyTzNwTHlXRDNxQXhid0h0QXQxcWYwWDVHY3Fnd1d4RjQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【韓流】東方神起チャンミンが激白 カード会社から確認電話が来るほどゲームに課金していた（日刊スポーツ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T10:38+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "6b4680f29feb6ec4",
@@ -863,6 +1090,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "7688103585484c91",
+   "title": "双葉町メールマガジンと同じアドレスから不審メール 実在するクレジットカード会社騙り金銭請求＜福島県＞（福島テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nQjVHMmZ2WWJoa3BHMGQzRzBLQk9xVWVvRVAyel9pTFg4OWhSRXNBc2YwcGFyeFFtYzdqNEVBSGhPUDN5RHB5Nkl5SkRycXVYc0I4WTBCcmR6LXpRUmJqM2ZVMllaWnlvMVZjR3poOGVab3FBejFLRVR6dlpVcGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "双葉町メールマガジンと同じアドレスから不審メール 実在するクレジットカード会社騙り金銭請求＜福島県＞（福島テレビ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-25T20:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "4fbfa37320f1e4d7",
    "title": "双葉町メルマガ配信会社に不正アクセス クレカ会社装う不審メール配信",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9id2NucldqSm53SmFXUFE3Zzl0cGlNUU9wMW5zQm5zVm96Rk1EZU9Xd2Etc2daMXBiS2xxZ0Q0cGdVcGNnVS01aHZNcWc2QWs?oc=5",
@@ -873,6 +1113,19 @@
    ],
    "type": "news",
    "published": "2026-10-25T19:37+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "007324490b24c958",
+   "title": "【2026年最新】クレジットカード3枚持ちの組み合わせはこれ！軸・強化・補完で選ぶおすすめ12枚",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tcjhVMG5WXy0weDUxbFVqWTdjdkF6bWFvYnhITVJZeDk5N3k5ZjdDTjY0X0s1OWUtZkVQUXgwVUdiTUVjWUI1OXVSOWdoOFpwWGJmSlp4WnptdTMxdDVLMUdjQWV1YlRxcHU3anpsZjk?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】クレジットカード3枚持ちの組み合わせはこれ！軸・強化・補完で選ぶおすすめ12枚 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-25T18:17+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -900,6 +1153,19 @@
    "type": "news",
    "published": "2026-10-25T16:09+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "0d5c887eb67a6374",
+   "title": "【2026年最新】女性におすすめのクレジットカードランキングTOP8｜年代・目的別の選び方も解説",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WM1VRZHB6cDZybzhSbUVid1lmMmtWejhwdkRYVmtyUVZGTDQ3OUhhTi15R2V2bVdDZEdEbUhsajA1U2tDblVTSU02MG9URHJ6YU9KejlXWXhKczFwdF9yQzNvRFFYWk1U?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】女性におすすめのクレジットカードランキングTOP8｜年代・目的別の選び方も解説 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-25T14:55+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "d701e0f32b829ec5",
@@ -964,6 +1230,19 @@
    ],
    "type": "news",
    "published": "2026-10-25T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e74e8e9bfad63800",
+   "title": "【実録】怪しいSMSを無視したら続けて「不正利用」のメールが… 焦ってカード停止までした結果",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzR0ZHekY3UFlxbG84OVZmNTF3VmpaVnlRR3M4cjlfdEFxUEFhWllKdFJfUjRoNUNWWThOb01uNFc0ZmhJUGxPZXN5WnJvY0h6S21qY0NWONIBXEFVX3lxTE9BSmc3aXJzeEdUYjhKM2E3Nm10NDZoeGxqNU5Oa3NCUjNtdFp1M0ZUYmE2Ti1BcDJNemY1Wkxlc3lQLV9FZHBGLVlQNzRrLVJ5aUVRLVpSZzlIX183?oc=5",
+   "source": "ロケットニュース24",
+   "summary": "【実録】怪しいSMSを無視したら続けて「不正利用」のメールが… 焦ってカード停止までした結果 ロケットニュース24",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-25T10:00+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -1138,6 +1417,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "7fe5482e6988c6b3",
+   "title": "Mastercardのクレジットカードおすすめ12選【2026年最新】年会費無料・還元率・コストコ対応で比較",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16T3pRREFzanFadGo4QVlYZFlmUHJ1UTFrNTRIUGUtelRZSmRnaWg4d0NXQkJIMGhqUG5hV2pmbEZzNzE0aHBRVVIzVzBZMVdjUlF0SXpuY1gyZU1ZaXhLZ0wwNjVxcGZVd1B5N0RVWQ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "Mastercardのクレジットカードおすすめ12選【2026年最新】年会費無料・還元率・コストコ対応で比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T20:53+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "b828510b68289e6a",
    "title": "クレジットカード会社をかたる不審なメール 双葉町のメール配信サービス 町「絶対に対応しないでほしい」 福島",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU9neG1tOGpnTndVTmlEUXlhZlJRUXdtV0FJdnJVTDZhaU1hWUNJRmRqTUJZRDhjOGZWeGt3YXRQclB3REdNcTVGclFaai05VUJ3X0hmY2RvRVJuNXIwM2t2RUtxUC1WMlp4VHFDRnlYUWp6eEhwMUdQYVNqNTNNRWV6UlhQMUE?oc=5",
@@ -1169,6 +1461,19 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LSU51YnR2Q1o0RXY5RkVmZ2tuV2dYelZNR3RPajdBT3M3dm9fYjlwV0l5S3NWbFBGZ1ZleGZIMHgyYzZFMmFPX0ZFQU43RjdCTkVRMEQ0XzducktOR3hYMmkxVHVzNXk4M0VjME9GUkNoVE1FVXZfZQ?oc=5",
    "source": "新日本保険新聞社",
    "summary": "同棲カップルにおすすめのクレジットカード12選｜家族カードと共同口座で生活費をまとめる【2026年最新】 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-24T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ad88d2af2f623967",
+   "title": "【2026年最新】法人クレジットカードおすすめランキングTOP8！失敗しない選び方とニーズ別の徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZWFJQZXJLcnBiZVlMLVNsd0pCeFBPeG5rZ2VBaHJPbTVTNVAzRkdWVkt3amdBalJoby1aLW5oV2dIWFZqQVJjZkZOc3F6aWJRMXU1TkZ3ZkVKWkJOVm1nVXBrd3VENGRXZmpSOFJB?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】法人クレジットカードおすすめランキングTOP8！失敗しない選び方とニーズ別の徹底比較 新日本保険新聞社",
    "categories": [
     "credit"
    ],
@@ -1261,6 +1566,20 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ic1FzeWlSSklFNTRXaUFZUFhNWG0xWUpDNXFPSVFFTmpVSG5zMzlGWlRmT0NnX1prbWdRYVh1U3EtcUNWT1c3WFlwRVV2eTFuUzh6UjI2WdIBXEFVX3lxTE1OUVhPYWgwTnVpdTJ3anFzYTJ2bl83XzZmc1hyR0lFb20yYl95ck9aOU9YNzUxSGI2aU9jUnNpMXk3RWFERlV2NHJnVkY5TndKNEFSaXhzY0lGaEF6?oc=5",
    "source": "ロケットニュース24",
    "summary": "モバイルSuicaの新コード決済「teppay」を店舗で使ってみた正直な感想 / 11月4日から20％還元キャンペーン ロケットニュース24",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-24T11:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "54b57149062b31cc",
+   "title": "(付録) モバイルSuicaの新コード決済「teppay」を店舗で使ってみた正直な感想 / 11月4日から20％還元キャンペーン",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tbHpBNXM2VE9rbDFEMDBFdEFpWmx5MWI0M2xOVDZ2MFJMX2UxQXhmelRKQngxX3dSc0FGVWkxdmlTS2M5U1U3VHk3ZnBrSkxpZDJtdWhJcTdTeUZWODktMlNQaw?oc=5",
+   "source": "ロケットニュース24",
+   "summary": "(付録) モバイルSuicaの新コード決済「teppay」を店舗で使ってみた正直な感想 / 11月4日から20％還元キャンペーン ロケットニュース24",
    "categories": [
     "cashless",
     "code"
