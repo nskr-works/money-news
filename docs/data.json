@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T17:21+09:00",
+ "updated_at": "2026-10-28T23:27+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -441,6 +441,21 @@
    "type": "news",
    "published": "2026-10-28T11:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a194c5904aa4ae55",
+   "title": "熊本のバス・電鉄・市電で使える新共通定期サービス「ふらピッと」、2027年4月1日（予定）から提供開始へ",
+   "link": "https://prtimes.jp/main/html/rd/p/000001493.000011361.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JCB] 九州産交バス株式会社、産交バス株式会社、熊本電気鉄道株式会社、熊本バス株式会社、熊本都市バス株式会社、熊本市交通局、三井住友カード株式会社、株式会社ジェーシービーは、2027年4月1日（木）（予定）より...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-28T11:00+09:00",
+   "company": "JCB",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "cd28753404c0eb6c",
