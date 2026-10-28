@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T11:19+09:00",
+ "updated_at": "2026-10-28T14:17+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,85 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "108fb4abd5447292",
+   "title": "熊本のバス・電鉄・市電に共通定期「ふらピッと」 タッチ決済で月額上限",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wQnAyTUZ2bU1BaG1BVGp4NFB1aHNWd3U5TlkzVjlPY0UzUHNwZVFqTmw1cFp1dEtaa3RyZkdLb1g4T3VFak1LQ2VaZ1FEVGhNb2dYUThnOVFnUXpTc1pJVnl0ZEg?oc=5",
+   "source": "Impress Watch",
+   "summary": "熊本のバス・電鉄・市電に共通定期「ふらピッと」 タッチ決済で月額上限 Impress Watch",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-28T13:27+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "1fda084557e6898a",
+   "title": "「熊本応援プロジェクト」バス・市電・鉄道が半額！タッチ決済でお得に熊本旅行",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZV9SYWtvMWNxd0lWSWFZTjAzc3IySmlaZzQyeklPblRweFlPeWRPTER2LVR1MV9ReGVHVEtFZWZwY3dJNVJ4MWFfQW1ub1locmx4Y3BLS0M?oc=5",
+   "source": "トラベラーズナビ",
+   "summary": "「熊本応援プロジェクト」バス・市電・鉄道が半額！タッチ決済でお得に熊本旅行 トラベラーズナビ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-28T12:51+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "03ffdd2c3c171b1a",
+   "title": "セブン‐イレブンとPayPay、11月からおトクなキャンペーンを続々開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000001308.000155396.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社セブン‐イレブン・ジャパン] [画像1: https://prcdn.freetls.fastly.net/release_image/155396/1308/155396-1308-0ceac3048939f24a047abd2b9bab8871-1772x901.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=boun.",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-28T12:40+09:00",
+   "company": "株式会社セブン‐イレブン・ジャパン",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "bb45577d3aa75189",
+   "title": "PayPayとセブン‐イレブン、「セブンカフェ」半額など 11月1日～",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2151837.html",
+   "source": "ケータイWatch",
+   "summary": "PayPayとセブン‐イレブン・ジャパンは、全国のセブン‐イレブンで各種割引やポイント還元の施策を11月1日から順次開始する。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-28T12:39+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "6457a55dd109409e",
+   "title": "システム障害でカード決済が1日停止→客が取る行動は……スイス国立銀行が約2400店を調査",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002613/",
+   "source": "ITmedia NEWS",
+   "summary": "スイス国立銀行などに所属する研究者らが発表した論文「Cash saves the day: How cash infrastructure enhances resilience during a card payment system outage」は、小売店でシステム障害が起きてカード決済が使えなくなった場合における消費者の行動を分析した研究報告だ。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T12:00+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "6f255d98aac5fc15",
+   "title": "PayPay、6銀行からのチャージなど一時停止 10月30日23時から",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151810.html",
+   "source": "Impress Watch",
+   "summary": "PayPayは、金融機関の計画メンテナンスに伴い、10月30日23時～31日23時59分まで、一部の金融機関口座からのチャージと口座の新規登録を停止する。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-28T11:55+09:00",
+   "via": "Impress Watch"
+  },
   {
    "id": "81ade4c2ae12ad3b",
    "title": "野球日本代表･侍ジャパンの｢サイン入りユニホーム｣などが当たる｢JCBオリジナルシリーズ｣のキャンペーンを紹介！ 2027年1月末までに新規入会して申し込もう",
@@ -68,6 +147,19 @@
    "published": "2026-10-28T10:45+09:00",
    "company": "株式会社クレディセゾン",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "660bcb80e34ed431",
+   "title": "＜額面に対し20%OFF！＞コストコ限定のディズニープラス プリペイドカードが販売開始！​",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmU2QlNHeG1TOHlhdUhnbTRCMnNGMmxua2loY3RWOU5ITXgzY1JoNW40WkFjRFJqN3RZQ3pOZXBNSHpBUDlmTFVVQWlDN3pLMjE4QjNlZDJhd2FkNVZ3YWRJaHVPeUlDTEpPWWhxT1N2bzJQYlBtLXdLeVlIOG1vUnMwY2dnUW13?oc=5",
+   "source": "Disney Plus",
+   "summary": "＜額面に対し20%OFF！＞コストコ限定のディズニープラス プリペイドカードが販売開始！​ Disney Plus",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-28T10:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "a7143c704891a26c",
@@ -2659,6 +2751,19 @@
    "type": "news",
    "published": "2026-10-23T16:55+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "f3601b0c0802ae28",
+   "title": "JR九州、タッチ決済乗車サービスを本格導入 福北ゆたか線などでも利用可能に、久大本線などでは提供終了 画像（2/3ページ）",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5dktlWTBPM0x5TkdkOXpGSXBmRTRYdEhLaDJnVF9PVm5oZVJFQVNpRWJNLUZGcW5jTzFmbC1nS0YwdHFwSFp0RDhWTnFiQzdQeTA2U28tTThpWXBLdDBwUUFCMVpRVGtfUDM1MGZNd3FVZEMw?oc=5",
+   "source": "Tetsudo.com（鉄道コム）",
+   "summary": "JR九州、タッチ決済乗車サービスを本格導入 福北ゆたか線などでも利用可能に、久大本線などでは提供終了 画像（2/3ページ） Tetsudo.com（鉄道コム）",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T16:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "760b41be4c565b80",
