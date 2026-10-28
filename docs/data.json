@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T16:36+09:00",
+ "updated_at": "2026-10-28T17:21+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,207 @@
  "topics": {},
  "items": [
   {
+   "id": "5adfdad5f6e1f2d5",
+   "title": "エイチ・ツー・オーのクレカ子会社で情報漏洩の可能性 「ペルソナ」会員のメールアドレスなど2万8000件分 「ユミルリンク」不正アクセスの影響",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WV0FkUkJaZGFCbWFsWGo2QzU3NEoxQkxfUWJwZXNlWEFpNEVsSXhvME5vTDBQbUV6Tm5lM2NVV0RMdzBSQWxodFlNZFpmOFVlZjBZaktua0QtQk9CMDk4OU82ZTZVbjd3cU8xQ0V5T2w4QnNfU0RjMzlhNVNlc0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "エイチ・ツー・オーのクレカ子会社で情報漏洩の可能性 「ペルソナ」会員のメールアドレスなど2万8000件分 「ユミルリンク」不正アクセスの影響 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T16:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d5c776a8006fe088",
+   "title": "「お金がなくてもゴミ屋敷を片付けたい。」に応える。ゴミ屋敷片付けのハートスタッフ、女性スタッフが対応する「現金分割払い」を2026年10月1日より提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000193498.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社 ハートスタッフ] ゴミ屋敷・汚部屋の片付けを専門に手がける株式会社ハートスタッフ（本社：岡山県岡山市、代表取締役：大谷 唯）は、2026年10月1日より、クレジットカードがなくても利用できる「現金分割払い」の提供を開始しま...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-28T16:41+09:00",
+   "company": "株式会社　ハートスタッフ",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "ef2ff950f13ef9fd",
+   "title": "京王バス、路線バス全エリアで完全キャッシュレス実証運行へ 2027年1月16日から",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sbW1pQ2c4eGNqVXl4R3dqUmd6SUs1c0ZiNTAyMUkzaUdXOEN0bldaNjYtY2NpRG1qclhaRERxQkxpT0d4VFRZdGdvdG1tQ3NlQzROVk84N1FzMmM1cVg1T2RLTmpjQ25jWmc?oc=5",
+   "source": "AppBank",
+   "summary": "京王バス、路線バス全エリアで完全キャッシュレス実証運行へ 2027年1月16日から AppBank",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-28T16:22+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "ba22678014e30dd4",
+   "title": "熊本のバス・市電・電鉄でタッチ決済の新共通定期「ふらピッと」 2027年4月開始",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnUktiT0ItZ2Q5akx1RVdNeklhM1lLYnlkNDAta0lKVkN5cEo0dW1VeDM0NVVhMEtCRHNyNkJFdE5mZEVQN29id1c5dS12Uk80b1VBLVdQZXZTQzZNV2dR?oc=5",
+   "source": "Infoseek",
+   "summary": "熊本のバス・市電・電鉄でタッチ決済の新共通定期「ふらピッと」 2027年4月開始 Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-28T16:17+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "b2fc3dc9135053f1",
+   "title": "楽天カード、「Google Pay™」のタッチ決済に対応開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yMkwzd3FPeW56Q19xbkxBaW1QT1NRYkV2OWZsX05WNWZTejQwbi1tVFFROUxXQXVVajh5OHUxdWtneGdhVlFzNzg1UjBhNVpCYWhpQnFCRFJmekJHR29xRHh6cFRycmpzVnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "楽天カード、「Google Pay™」のタッチ決済に対応開始 PR TIMES",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-28T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "楽天カード株式会社"
+  },
+  {
+   "id": "e87b65e05b0c185f",
+   "title": "【Suicaのペンギン】新作アイテム9種類を発売！10月30日（金）12:00頃からGRANSTA MALL限定販売",
+   "link": "https://prtimes.jp/main/html/rd/p/000001280.000082978.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JR-Cross] 株式会社JR東日本クロスステーション デベロップメントカンパニー（本社：東京都渋谷区、カンパニー長：白田 義彰）は、運営するECサイト「GRANSTA MALL（グランスタモール）」にて、JR東日本のキャラクター「Sui...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-28T15:41+09:00",
+   "company": "JR-Cross",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "cb92d2f8efe0202b",
+   "title": "デジタルガレージの決済プラットフォーム「Cloud Pay」「Cloud Pay Neo」と \"遊べる電子マネー\"「PASELI」が連携",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5MHB3b1pvZC1HOVB3MW92SENGZlZvTW1MX2I2ZVdjZENkaXF1SHVUQmd1UHpCb2IyUWVhaVJrNHZYZ1VmMXBsSXNlclVZXzhTaTRqQ29lcDhScDEyNVB1bWNXaEx2ZmxEMnJFNHN6aklzUkl6eU5Ha3Eycw?oc=5",
+   "source": "KONAMI GROUP CORPORATION",
+   "summary": "デジタルガレージの決済プラットフォーム「Cloud Pay」「Cloud Pay Neo」と \"遊べる電子マネー\"「PASELI」が連携 KONAMI GROUP CORPORATION",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-28T15:30+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」",
+   "company": ""
+  },
+  {
+   "id": "33b9219041c6b7a9",
+   "title": "【情報漏えい】H2Oリテイリング子会社でも流出か クレカ発行時に登録した会員メルアド ユミルリンク提供のメール配信サービスに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SeVdIVGtRZEpqRVdwNWcxZUhka1lMYlpSVXJ4MlFfNzE2S0k0dVB1cGZQR2FDLUNxaV81VjRITGRDOGdHLUw3LV9HTEhpTXkxdVNZMFV5TVB3LU12d2hXMm9WWVc3ZVdiOXdzODFtZkJRRVpsUWxSc0dJSmJNdUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【情報漏えい】H2Oリテイリング子会社でも流出か クレカ発行時に登録した会員メルアド ユミルリンク提供のメール配信サービスに不正アクセス Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:28+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "554fb11028b57470",
+   "title": "楽天ペイメント、中日本エクシスのサービスエリアで楽天ポイントカードを導入開始",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oQmlMc1RxdlpPLTVJWHg5SDZ6MVdJT0p1UDZydk1nVlRfd1Q0N245ZThxd1Z0MkpCeWZWNHhwbnNaYWRyZkZ5d2RHMnItQnMwQlgxWTQ4U1hBVUZhMVd0SmpvM1ZYN1QxYUlrdUFlQkc?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "楽天ペイメント、中日本エクシスのサービスエリアで楽天ポイントカードを導入開始 ニュースメディアVOIX",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7bfa83b8695c8958",
+   "title": "アイフルがクレジットカード「aiカード」を発行 年会費無料だがリボ払い専用、手数料率19.8％",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdFNhQm04QXBvQnFtUC1XZGhGU3JsWFo5T0VtaW01d0kwaDhWSUpNRFBsWkRVa2ZYaHAwdTdndkxvNWFzb1NSWDJiSmdfWEJma2ZOcmxzWFlNVk9kSnpN?oc=5",
+   "source": "Infoseek",
+   "summary": "アイフルがクレジットカード「aiカード」を発行 年会費無料だがリボ払い専用、手数料率19.8％ Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a4350dedf0b82b8c",
+   "title": "京王バス、2027年11月に現金取り扱い終了を目指し完全キャッシュレス化を推進する",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55RzRDdWZ6UDJCY2w4SkJ1dWNKTXVwSXN3bGxLVVFqT2NGTUpWYTVrYU1BYWVtcl92TDRNa2k0MmF2SmIyVHZHR0dTaFRPU2RqX3ZQQ2tlUFV4ZHIzNXBoTHZ4eDdLTmVYMDNOYg?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "京王バス、2027年11月に現金取り扱い終了を目指し完全キャッシュレス化を推進する ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:17+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "3f6007bbf9d2c9c5",
+   "title": "東急線のクレカ乗車利用で子どもたちを応援する取り組みの拡大",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IMHRhM2NPVXlSMkUwU1kzZEkwXzNHNHZxZjhxYjJCYjVlSmNSRUpuUW9NdGJLaU9pSUd2SURiOUo5aFRuTEF1OFVpMENpOVhlZTI1elFpampPWUh2TDNTeU1UbUQ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "東急線のクレカ乗車利用で子どもたちを応援する取り組みの拡大 ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "60f8ae7b50be1dcc",
+   "title": "三井住友カードがVisa Infinite会員を「2026 MAMA AWARDS」へ特別招待",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HMXg4bUZYd0g4czAzc1R1NEJsRzlKQVRFRFpmS0tBVnZMaEdQRG1UajJ2b3lPYUFFRm1IQzF4S2czWkpkOVVNd0JZX0lFWkQtRUJNd21rV1JEN1g0RXZub205eE0ySXVOdl80?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "三井住友カードがVisa Infinite会員を「2026 MAMA AWARDS」へ特別招待 ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "9730e429d7e6ffb0",
+   "title": "サントリー「ジハンピ」自販機でMastercard決済の「チケットレストラン」が利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90blo4YjRkUGJ5Y0dkdk9iUjYtMkRfUUZFaWxzNFpZai1hT3U2OVk0VEFmXzZRdjN2aE1wdEo4VUFnVTJRTHJmbmZoVHFMTkx6djdObVk2LTRvM0J1clp6cmNsSGIyNHdHWWtWa3FRaWk?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "サントリー「ジハンピ」自販機でMastercard決済の「チケットレストラン」が利用可能に ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "3908ae852433e2bb",
+   "title": "「セブンならPayPay」へ カフェ半額や13週連続「おにぎり祭」",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151893.html",
+   "source": "Impress Watch",
+   "summary": "セブン‐イレブン・ジャパンとPayPayは、11月1日から3つのキャンペーンを順次開始する。セブンカフェなどの半額クーポンや、対象のおにぎり・寿司の購入者向けクーポン、毎月のポイント還元クーポンを展開する。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:01+09:00",
+   "via": "Impress Watch"
+  },
+  {
    "id": "c84348ac42359495",
    "title": "五反田ＪＰビルディングで、植物を囲み、学びと会話を楽しむ参加型イベント「PWグリーンセッション in 五反田ＪＰビルディング 26秋」を開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000065.000083972.html",
@@ -41,8 +242,73 @@
    "type": "release",
    "published": "2026-10-28T15:00+09:00",
    "company": "日本郵政不動産株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "2174915841df7d0c",
+   "title": "三井住友カード、東急線の「クレカ乗車」で1件につき1円・最大70万円を「東急子ども応援プログラム」へ",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyUVhJckJrVndpZnNrdWgyQjJMejI5QTlFZE1adUxSU2Jzb3prcjctVGdfaXRvVDBZbTUwckhQdmRIMktNQmY3MGhFNFJMdnM3WXJqa0l3UnZIN3U2Zm1jX0lwMncwaTVEbVZCbVl3?oc=5",
+   "source": "au Webポータル",
+   "summary": "三井住友カード、東急線の「クレカ乗車」で1件につき1円・最大70万円を「東急子ども応援プログラム」へ au Webポータル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "779405fc6f52c4b5",
+   "title": "JCB、韓国・新韓カードおよび西鉄グループと共同で「福岡インバウンドプロモーション」を実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtRVJobGU0Y0ZVb3Y0SXdfRk1kZ0xOaHo2dlBpbUthYTZoM2lpVHRZQmI5ZWNLcEZjd3lmbmhWZTVzLUlab21Sd2NZNDdGT1FlTGxsWFBXSFhESlZDcS1LY1lDQ3hkTS1uZWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCB、韓国・新韓カードおよび西鉄グループと共同で「福岡インバウンドプロモーション」を実施 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-28T15:00+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "1429bd5c67d7e85b",
+   "title": "アイフル、年会費無料のクレジットカード「aiカード」発行開始 - 契約後すぐに利用可能、利用明細や請求情報もアプリで管理",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXWlNFQ2JzWkt0M1Nqd0tZUFQ0UUVlTmdPazEwcWZyTWxUXzdnMi13dFoxMDJxYnJPOW02TDVzRmRqU1FHWXVnYUdpd1Zua0lsQ01PMWNLMHJTSkpFZWxyQTN0dmUtTm90aXlNLWVn?oc=5",
+   "source": "au Webポータル",
+   "summary": "アイフル、年会費無料のクレジットカード「aiカード」発行開始 - 契約後すぐに利用可能、利用明細や請求情報もアプリで管理 au Webポータル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T14:58+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "72589b55314dd33b",
+   "title": "寺院・神社キャッシュレス決済「おまいりPay」がお賽銭に対応、12月提供開始 - 文化財の保全など目的別寄進にも対応",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xaEpLbXhQNGk4QW5fVXpIWGZXSTAyYWlyRWdUSkRYZURGQ0dDZl9fYzRJdFZQaDZTY3J1aW83V0MzWnFLb2tFd2FyaVZlY3JQWWJfaFJ6Q1N6aDFfMWdENkhkdU85cVd6WnM1RVBn?oc=5",
+   "source": "au Webポータル",
+   "summary": "寺院・神社キャッシュレス決済「おまいりPay」がお賽銭に対応、12月提供開始 - 文化財の保全など目的別寄進にも対応 au Webポータル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-28T14:57+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "472813c741af3206",
+   "title": "ネットプロテクションズ、「NP後払い」に不正アクセス 謝罪と対応を公開（日本ネット経済新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lZzM2aFlfbG1pUGFMbnZBQ3hDSnZRSDZsOWNndVJkVDkxM3pGYVAzbm1nZmtYMnNHYkVaSUFOdlJkSkVRbnlZYUNlU1cyS21pZTU5M2dYUE52b2RXSnJoR1VOTnJINXhkLV9ubTA1YlhVYUJPcEhRWFkzRmx3bFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ネットプロテクションズ、「NP後払い」に不正アクセス 謝罪と対応を公開（日本ネット経済新聞） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-28T14:00+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "108fb4abd5447292",
@@ -96,6 +362,33 @@
    "type": "news",
    "published": "2026-10-28T12:39+09:00",
    "via": "ケータイWatch"
+  },
+  {
+   "id": "290c8fff5b15881f",
+   "title": "楽天トラベルにサイバー攻撃、個人情報340万件流出 クレジットカード情報3.6万件も",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUUGExbWlWLTExSG9JMFpEY3dVNW5zdHBvVnRNVnB1QU9fSWx5ektLLTlfLTJxN1dHcWZ4eENDU19aOTlBV0NiT0dJSXZsOGh4ZklXaW1iSm9FckdEOUl6X2dBVFZWRkNmWVA0eVNYMTdKUGFK?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "楽天トラベルにサイバー攻撃、個人情報340万件流出 クレジットカード情報3.6万件も BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T12:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "78835006dc864222",
+   "title": "デジタルガレージの決済プラットフォーム「Cloud Pay」「Cloud Pay Neo」、KONAMIの電子マネー「PASELI」と連携",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LUnhaUnlxN2MzNVBzbzhPTUVBQ1ZvYW1lbjRhUEcwV0pacnRPSi1oVkFTb3Q5Vk9IaUFGNkZBVUlDTVZnQTBqN0dwNWxCN0d3OGNGNGtibU5UQTg?oc=5",
+   "source": "valuepress",
+   "summary": "デジタルガレージの決済プラットフォーム「Cloud Pay」「Cloud Pay Neo」、KONAMIの電子マネー「PASELI」と連携 valuepress",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-28T12:20+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "6457a55dd109409e",
@@ -785,6 +1078,20 @@
    "type": "news",
    "published": "2026-10-27T11:07+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ed5b850fc0c3f8b0",
+   "title": "「SBペイメントサービス株式会社」のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wbFczekktVGNqOTVZdkoxWGZwQXRuVGhsaHYzRGQ5RXZmUW1EMFlQc2lJTVFFWXd3bGFQRXNBelNNRVkySjNvWk9FZThFYzg3QWN3SjdwZw?oc=5",
+   "source": "アットプレス",
+   "summary": "「SBペイメントサービス株式会社」のプレスリリース アットプレス",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-27T11:02+09:00",
+   "via": "@Press（決済）",
+   "company": ""
   },
   {
    "id": "5185d124f9c5f40e",
