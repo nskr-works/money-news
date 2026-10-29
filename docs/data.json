@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T11:23+09:00",
+ "updated_at": "2026-10-29T13:20+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -97,6 +97,21 @@
    "published": "2026-10-29T11:00+09:00",
    "via": "Googleニュース「決済サービス・加盟店」",
    "company": "SBペイメントサービス株式会社"
+  },
+  {
+   "id": "f6f24ea6707a6c89",
+   "title": "「Retty忘年会ネット予約キャンペーン」10月29日(木)スタート！PayPay連携してRettyのネット予約をすると、PayPayポイントが通常の2倍に！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000254.000004025.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Retty株式会社] 実名口コミのグルメ情報・予約サイト「Retty（レッティ）(https://retty.me/)」を運営するRetty株式会社（本社：東京都港区、代表取締役社長：平野 雅也）は、「Retty忘年会ネット予約キャンペーン」を2026年10月...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T10:40+09:00",
+   "company": "Retty株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "bc253268c16bb2ad",
