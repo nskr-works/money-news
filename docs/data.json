@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T14:20+09:00",
+ "updated_at": "2026-10-29T15:16+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "d5ce3c2c1cd13bc4",
+   "title": "「d払い」アプリおよび「dポイントクラブ」アプリで群馬クレインサンダーズのオリジナルきせかえデザインを提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000954.000118641.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社NTTドコモ] 株式会社NTTドコモ 関信越支社（以下、ドコモ）は、地域におけるスポーツ振興および地域活性化の推進を目的に、プロバスケットボールクラブ「群馬クレインサンダーズ」とサポーティングカンパニー契約を締結し...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T15:00+09:00",
+   "company": "株式会社NTTドコモ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "8d3a44fd6d1fd661",
+   "title": "11月開始の「dポイント」「d払い」キャンペーン",
+   "link": "https://prtimes.jp/main/html/rd/p/000000227.000141840.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社NTTドコモ dポイント] 株式会社NTTドコモ（以下、ドコモ）は、「dポイント」「d払い(R)」においておトクなキャンペーンを開催いたします。詳細は、下表のとおりです。 ＊キャンペーンには諸条件や注意事項がございます。詳細はキャンペ...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T15:00+09:00",
+   "company": "株式会社NTTドコモ dポイント",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "133d4bb9fa763247",
    "title": "クレカ番号全16桁、セキュリティコードまで漏えいの可能性ーグッドスマイルカンパニーの不正アクセス問題、対象となる2,800名に個別連絡（インサイド）",
@@ -183,6 +213,7 @@
    "source": "PR TIMES",
    "summary": "【PayPayほけん】インフルエンザの早期流行で「備え」も早期化PayPayほけん「インフルエンザお見舞い金」、わずか20日間で加入件数5万件を突破 PR TIMES",
    "categories": [
+    "cashless",
     "code"
    ],
    "type": "release",
