@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T13:20+09:00",
+ "updated_at": "2026-10-29T14:20+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,153 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "133d4bb9fa763247",
+   "title": "クレカ番号全16桁、セキュリティコードまで漏えいの可能性ーグッドスマイルカンパニーの不正アクセス問題、対象となる2,800名に個別連絡（インサイド）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RRzdEY0RhX01BRWNrODhKTlB0bW51YUQzYlcxbFFSYW8tY25saTYxb00zZmkyZ1RzbHpoU0tDaXl4bFo1MjRoaXhnX1FSRDN3NFI3R251WU50aDNzdkZXalp0SDFCWG9Cc1BSMDZQVnhxSXN0SlB4Q3N5Z1loalk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレカ番号全16桁、セキュリティコードまで漏えいの可能性ーグッドスマイルカンパニーの不正アクセス問題、対象となる2,800名に個別連絡（インサイド） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "33aa1f6f78d28932",
+   "title": "SBペイメントサービスがUCP活用の「AIコマースシミュレータ」を開発、エージェンティックコマースの実用性を検証",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3OHBGVERBUGgzNU00eDZLNnlqSk1Xem5sMUZYeUdyQ2hIaDhhUzRjTE5zeFcxS19sU29BaFdoVWxmUEJUSUdJd19fV09wSHhIUDFwY25Jbw?oc=5",
+   "source": "コマースピック",
+   "summary": "SBペイメントサービスがUCP活用の「AIコマースシミュレータ」を開発、エージェンティックコマースの実用性を検証 コマースピック",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:38+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "443a6a2aebdbda1b",
+   "title": "グッドスマイルカンパニーに不正アクセス、2800人分のクレカ番号全桁やCVCが漏洩の可能性 決済ページに不正プログラム仕掛けられていた",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96MXozQzRzZEk3SjVFTXZ3el9TQnB6dHVwejBHUW1oMlBmUUdzU0RBbFI4UDdCRF8tV295c0lOYXk1ZDBNWGM2ZnBKRE5MSEE1UWZTZUJsUHBNRE5YanZfWXRB0gFnQVVfeXFMT1E2M0NZa1VJdDZjUW9zQjkxaTRkYkwtWWhjRWFNX2w1WkUtc3lwQWxJd2dzcXFERlNEdlpkR1daOE1FTUpsNDhkbjl6ZF9aS1NiamF6SEp6NXhJMnFUbWN0b1FBVmkxaw?oc=5",
+   "source": "Infoseek",
+   "summary": "グッドスマイルカンパニーに不正アクセス、2800人分のクレカ番号全桁やCVCが漏洩の可能性 決済ページに不正プログラム仕掛けられていた Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:35+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "f339c0c4ba55364d",
+   "title": "グッドスマイルカンパニー、特定時間に利用したユーザーのクレジットカード情報が漏洩した可能性があることを告知",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6cWI4LXJrT2QxT1JnSlg0b2l0RTNtdWpHdy1wS2NrTnU3LVZmWjJuRWlubGxjYUtvWmd0NGVjeVBJdGxLYk9tVFN0cWxDakZLZmhIWWljeURuTHRWUGc2ckswVDdfTHc?oc=5",
+   "source": "hobby Watch",
+   "summary": "グッドスマイルカンパニー、特定時間に利用したユーザーのクレジットカード情報が漏洩した可能性があることを告知 hobby Watch",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "891ba3d455fed65f",
+   "title": "法人向け決済サービス会社を対象に「企業収益・事業成長支援パッケージ」を展開。加盟店・取引先企業の経営課題解決と新たな収益機会を創出",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YSklINl8xdFdZWFh3RXlEWjNlVFU1ajBMVk9PbGN0Wm5zUXJzdV9ieVF4OVpmMWl0SHhLRmE0UkVLeTBJalBWYTdVd2xvN3p6QWoyY0pOaUZWbjF2UWxwRkJZMjVZQ1pkSVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "法人向け決済サービス会社を対象に「企業収益・事業成長支援パッケージ」を展開。加盟店・取引先企業の経営課題解決と新たな収益機会を創出 PR TIMES",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-29T13:00+09:00",
+   "via": "Googleニュース「決済代行」",
+   "company": "株式会社ルミッション"
+  },
+  {
+   "id": "c3100cb4579819dc",
+   "title": "ベネフィット・ワンの委託先に不正アクセス セゾン会員向け優待サービスで約2.9万人分の個人情報漏えい",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002707/",
+   "source": "ITmedia NEWS",
+   "summary": "ベネフィット・ワンは10月28日、業務委託先のシステムへの不正アクセスで、クレディセゾン会員向け優待サービス「トク買」の会員2万9465人分の個人情報が漏えいしたと発表した。クレジットカード情報の漏えいはないという。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T12:40+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "1fb0ca62c7f7a855",
+   "title": "熊本ー福岡の高速バスは1250円!?タッチ決済でバスや市電の運賃が半額 キャンペーン始まる",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56LVEtLUowdFd6NDVzWmNheUFLa1VXZ3NqMWpiWXFVc21IUmNITXpyVVZ0TjZqWENqbk1WVHlnZklHdUdWOWo1Zi1Jd2M0clBVN2NzSGJnYkJraEd4UXR2Z0J5TDJLWGxkVGlOOTlPaWQ2U0ZoVW1LWHJNNGdPekU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "熊本ー福岡の高速バスは1250円!?タッチ決済でバスや市電の運賃が半額 キャンペーン始まる Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T12:13+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "dc58c4fde0c2e6ed",
+   "title": "運賃が半額に！ 「タッチ決済」で公共交通がお得 予算がなくなり次第終了 熊本",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44aVVtZ2JRNGFCTmx4MlE3SklCSkFid3F0enpfWGtmSmJ2VWNtQUJnaUl2d3BaOG9CWHE3Q201cHJ1eFB2QjRlOFB4NUVEM2xvZnYyTXlqbXl0QQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "運賃が半額に！ 「タッチ決済」で公共交通がお得 予算がなくなり次第終了 熊本 TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T12:04+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "9384434cd48752c3",
+   "title": "バーチャルシンガー「CIEL」の公式クレジットカードを提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBabXlJWWYwakZPUHBxdjJ1MTBtMHpwN1BxX1FuTmJTTTN4bEtsX0g4SDdxbTVOYkktWW1HcGtJZVY4NzcyZ09ZUzlrRzZIRG9wcldiS0Z0TVRQam5jR0NkTFlWQXJmTDBabXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "バーチャルシンガー「CIEL」の公式クレジットカードを提供開始 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-29T12:01+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ナッジ株式会社"
+  },
+  {
+   "id": "c8f6442480841c13",
+   "title": "楽天カードがGoogle Payのタッチ決済に対応、楽天ペイ版からの移行先に",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVFVbWZHWEJnclZVYzRkXzlXbmdKRHdEYXZ2MkM4MmJuVGduR2pxOS1JdWQwTDhrX05fLTNFUFJvZ2xtNnMzSzN3MzY1S2FuZDVNcm1md25Xb1c4RnhqdW5vSnlFVFhpeTJuU2Q4T2sxS2xBU056Q01aUngyUHlVUWJvcl9zT1JNNmc?oc=5",
+   "source": "オトクレ",
+   "summary": "楽天カードがGoogle Payのタッチ決済に対応、楽天ペイ版からの移行先に オトクレ",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T12:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "b99ce7019b005ec1",
+   "title": "エブリイnews｜アプリの電子マネー決済と通常ポイント付与を順次再開",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZVWJMNTNNYjRkQ28yZFdhdmJzRE12V1NkQ1UxQS02S00xMF9xa3p5UmpZUEFKNXF0RlJGem1udWV6eUo4TmI0ZDBhMGFfN3hFTzJWbA?oc=5",
+   "source": "流通スーパーニュース",
+   "summary": "エブリイnews｜アプリの電子マネー決済と通常ポイント付与を順次再開 流通スーパーニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T11:33+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
   {
    "id": "af12e5319bd8674a",
    "title": "【PayPayほけん】インフルエンザの早期流行で「備え」も早期化PayPayほけん「インフルエンザお見舞い金」、わずか20日間で加入件数5万件を突破",
@@ -99,6 +246,19 @@
    "company": "SBペイメントサービス株式会社"
   },
   {
+   "id": "42222d2901e80993",
+   "title": "プライオリティ・パス付帯クレジットカードおすすめ比較17選｜同伴者・家族が無料なのは？",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RdlRidzV1T1NsZEtjN1R4bHBRWFVsY0drQzZsMklHeWFlSjhNNzVyRkxEZi16amIzN0N6bmNyMUFVc0lvR1dyZEhfSVEzQ2MwUElpVWVyblU5Nm5WdnY3cw?oc=5",
+   "source": "株探",
+   "summary": "プライオリティ・パス付帯クレジットカードおすすめ比較17選｜同伴者・家族が無料なのは？ 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:59+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "f6f24ea6707a6c89",
    "title": "「Retty忘年会ネット予約キャンペーン」10月29日(木)スタート！PayPay連携してRettyのネット予約をすると、PayPayポイントが通常の2倍に！",
    "link": "https://prtimes.jp/main/html/rd/p/000000254.000004025.html",
@@ -110,8 +270,7 @@
    "type": "release",
    "published": "2026-10-29T10:40+09:00",
    "company": "Retty株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "bc253268c16bb2ad",
@@ -1987,6 +2146,19 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40RXU4ZTZ0Y3YwN2VNOG9XaUFRQUJPZnVRSkd0cFFaX05Hc2pRdVVhQVZ5b1h4UUtVSlR1Uk1fRVphYUdFVmVEag?oc=5",
    "source": "マイベスト",
    "summary": "【2026年10月】楽天ペイのキャンペーンまとめ！還元率アップの方法も紹介 マイベスト",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-27T00:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "7233ed40202c81f0",
+   "title": "【2026年10月】d払いのキャンペーンまとめ！dポイントをお得に貯めよう",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lS0NzS3dDbTNtU0lhcGhVN2VFTXRqbWJRMTJXeFRhMEE5d2FzZzY3M2VCNk8zRGkwZjl3Q3dXOUdwb0g4TFprVQ?oc=5",
+   "source": "マイベスト",
+   "summary": "【2026年10月】d払いのキャンペーンまとめ！dポイントをお得に貯めよう マイベスト",
    "categories": [
     "code"
    ],
@@ -3967,6 +4139,19 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JT0pmMElfQ292aFlrVVJZLWR1bzNOTnJ5VXFJMWlZUjJkTnBnRjRaRVd2bjhOb0stTlo1VkQwdkxBb3RuZHlEVDAxa3l1Z3MwUGp5TzdnOXRoa1VzTUsw?oc=5",
    "source": "Infoseek",
    "summary": "全国のイエローハットでAEON Pay利用可能に コード決済なら1.5％還元｜Infoseekニュース Infoseek",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-23T13:02+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "7c295635835d5f3a",
+   "title": "全国のイエローハットでAEON Pay利用可能に コード決済なら1.5％還元",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JT0pmMElfQ292aFlrVVJZLWR1bzNOTnJ5VXFJMWlZUjJkTnBnRjRaRVd2bjhOb0stTlo1VkQwdkxBb3RuZHlEVDAxa3l1Z3MwUGp5TzdnOXRoa1VzTUsw?oc=5",
+   "source": "Infoseek",
+   "summary": "全国のイエローハットでAEON Pay利用可能に コード決済なら1.5％還元 Infoseek",
    "categories": [
     "code"
    ],
