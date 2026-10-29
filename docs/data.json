@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T18:24+09:00",
+ "updated_at": "2026-10-29T22:37+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -701,6 +701,21 @@
    "type": "news",
    "published": "2026-10-29T10:30+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6c5376479e4cc5b8",
+   "title": "京都信金が運営する地域クーポンの加盟店が500店舗を突破！マップ＆特集機能追加でさらに検索しやすく",
+   "link": "https://prtimes.jp/main/html/rd/p/000000049.000086001.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[京都信用金庫] [画像1: https://prcdn.freetls.fastly.net/release_image/86001/49/86001-49-37960111c68213b22f13d0c19bb90e6f-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-29T10:10+09:00",
+   "company": "京都信用金庫",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "b47c8aff207d9bed",
