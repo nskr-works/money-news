@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T10:33+09:00",
+ "updated_at": "2026-10-29T11:23+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,170 @@
  "topics": {},
  "items": [
   {
+   "id": "af12e5319bd8674a",
+   "title": "【PayPayほけん】インフルエンザの早期流行で「備え」も早期化PayPayほけん「インフルエンザお見舞い金」、わずか20日間で加入件数5万件を突破",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XY3o4bGNFdWtURVhWTEdEOTZPTVdIUnpqUmpFYUdPMTZZUnl4UUZqY0NsUG1MUXh3dk9kVk41ZUxQRUhtS0NTdUhHVWtzSG1DSnBLQjlrMWMzTVR2R0RvQmZHTm1Odkg2RUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【PayPayほけん】インフルエンザの早期流行で「備え」も早期化PayPayほけん「インフルエンザお見舞い金」、わずか20日間で加入件数5万件を突破 PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T11:11+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "LINEヤフー株式会社（金融）"
+  },
+  {
+   "id": "ef877a6df4f86cfd",
+   "title": "ナッジとTISI、「クレカ as a Service （略称：CCaaS）」を活用したカード事業における協業を開始し、地域金融機関向けに専用メニューを提供",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02cFVSVVZwcDk0WTRMMWx2aVd1dXZvVnlCVENoR1NscmI2SF9heWpuY3NBTXRub045OE9Wc19NV0gwNW1KOGVia0U4aGdpYUlyamFiYmpHV2t0ZE45c3Zod2t6djdOZU5NYkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "ナッジとTISI、「クレカ as a Service （略称：CCaaS）」を活用したカード事業における協業を開始し、地域金融機関向けに専用メニューを提供 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-29T11:10+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "ＴＩＳＩ株式会社"
+  },
+  {
+   "id": "a559128fe281e382",
+   "title": "クレジットカードが定期券に、国内初のサービス「ふらピッと」熊本で来春開始…現行の定期券は廃止",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LRHBMUGZvUGlqVGpkTGUyMEtZTHQ3SDhSQ0pyUDlSd2pjb3FDaUZNVHlXRzdFLTFYeUZmek5aUUxYVWRKbUxURnR5Q2Rqd05GZjFja3ZiZk5vdEdPQ3AtUm5MWG8?oc=5",
+   "source": "読売新聞",
+   "summary": "クレジットカードが定期券に、国内初のサービス「ふらピッと」熊本で来春開始…現行の定期券は廃止 読売新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0f9f61f7d671a955",
+   "title": "【クレジットカード利用に関する調査】 初めてのクレジットカード、半数以上が「大学などの１・2年生まで」に作ったと回答 カード選びで重視するのは「年会費無料」「ポイントの使いやすさ」",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KNXh0R296MGk0UWFOcF9VbjlvdzlUUVRVU1hPWkU2dU9uMW5PSmpzbEhYemktWlBLUkhuX3NpYlJ5Y0FRc0hFYVdWRlotTFBOcE9wa2RZOVljQnRURE81dWFnQ25qLTBSLVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【クレジットカード利用に関する調査】 初めてのクレジットカード、半数以上が「大学などの１・2年生まで」に作ったと回答 カード選びで重視するのは「年会費無料」「ポイントの使いやすさ」 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-29T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "三井住友カード株式会社"
+  },
+  {
+   "id": "3772a388eb0406d5",
+   "title": "SBペイメントサービス、UCPを活用した「AIコマースシミュレータ」を開発",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wRkI1aVpsaUp1UE9VWWVXbTVhZXdBU0IwdmhZSTFTSENOSWlCV18yem56SDJlbGs3TFV0bm5EUjVEUmQya05fRGRwTkFIc0E?oc=5",
+   "source": "Newscast.jp",
+   "summary": "SBペイメントサービス、UCPを活用した「AIコマースシミュレータ」を開発 Newscast.jp",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-29T11:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "SBペイメントサービス株式会社"
+  },
+  {
+   "id": "bc253268c16bb2ad",
+   "title": "ゼウス、新規稼働加盟店が7000社を突破 売上機会の拡大などBtoB取引の課題解決を支援（日本ネット経済新聞）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWU4N05id2pYeVU2WE9BdUNxQmpsXzN3cWdUOHM3dVpEMkh1bVJ4OWVkMUNzTWdPMnc3MjFibElGMHNPQlRLelJrZzAyX3l1NU1wUFMyZExabGktQnozR0N1ZzVIVlNpZE1OTGxOamU3T2gtN0FtYWdzVHVWNU9LeDQ4TjExM2ppSEhJakJB?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ゼウス、新規稼働加盟店が7000社を突破 売上機会の拡大などBtoB取引の課題解決を支援（日本ネット経済新聞） Yahoo!ニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b47c8aff207d9bed",
+   "title": "きたひろキャッシュレス決済キャンペーンを実施します【北広島商工会】",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UN1NpMkZ6eDMzSWtRQmdmMWxQSFd0NS0tMGFCYVlxLTlxY3FMVVcybUNEMUdIZmN4TGMxekc2a2pySnUxVnJnZnBpdHJOa2g0Y1pNVzcybHc4VWhyT3BueE9MVXNBYkVnWXVUdHNnQUdvenVzU1NFdXhGQQ?oc=5",
+   "source": "北海道北広島市",
+   "summary": "きたひろキャッシュレス決済キャンペーンを実施します【北広島商工会】 北海道北広島市",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "49747c6eb6d77564",
+   "title": "全国のカフェ・ベローチェで「AEON Pay」利用開始",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxSEQ0SnktTXduMnlRTkliYVdVRkVqSGxvMmkyREdKVlVsaTgxeVltaV9fT29qVHZWSFBQWDVTRDhSVGtPRG1ENEQxak4xQQ?oc=5",
+   "source": "アットプレス",
+   "summary": "全国のカフェ・ベローチェで「AEON Pay」利用開始 アットプレス",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T10:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」",
+   "company": "イオンフィナンシャルサービス株式会社"
+  },
+  {
+   "id": "7d708114246c840f",
+   "title": "お買い物金額 \"全額タダ\"の大チャンス！ファミペイ史上最大のキャンペーンがスタート『45周年ファミペイ大感謝祭』11日間限定で開催 11月1日（日）から111万円相当のファミリーマート商品があたる！？",
+   "link": "https://prtimes.jp/main/html/rd/p/000002609.000046210.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ファミリーマート] 株式会社ファミリーマート（本社：東京都港区、代表取締役社長：小谷建夫）は、2026年9月に創立45 周年を迎えました。継続して取り組んできた5つのキーワードを土台とし、「いちばんチャレンジ」を合言葉に活動...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T10:00+09:00",
+   "company": "株式会社ファミリーマート",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "49f76e3d8da732e6",
+   "title": "【Pontaパス】「秋のPontaパス祭」開催、170ブランド以上の対象加盟店でポイント還元率が最大14倍に",
+   "link": "https://prtimes.jp/main/html/rd/p/000001315.000034485.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[KDDI株式会社] KDDIは2026年11月1日から11月30日まで、「Pontaパス」会員向けに、Pontaポイント（以下 ポイント）還元率を増量する「秋のPontaパス祭」（以下 本キャンペーン）を開催します。 本キャンペーンでは、au PAY（コー...",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-29T10:00+09:00",
+   "company": "KDDI株式会社",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "507c3c9b003a50f1",
+   "title": "ファミマ、11月11日は買い物全額還元のチャンス メロンパン40円も",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151994.html",
+   "source": "Impress Watch",
+   "summary": "ファミリーマートは、11月1日から11日まで、全国約16,500店舗で「45周年ファミペイ大感謝祭」を開催する。11月11日には、111円以上の買い物で購入金額相当のポイントが当たるキャンペーンを実施。また、お茶やパン、日用品の100円引きクーポンも配信する。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:00+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "1615de241d367874",
+   "title": "マレーシアの銀行アプリ、海外5市場でQR決済が可能に",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pei1RM0FRYndlU3B3ZTZXOXNIeUN0c1hOcVNMRDZrWWQyS25LaUlaZ3ZlODUxLVoxU29iUUxaUkV4N2RCRVZ2SDZLRlZOcmZacXJ3Y3hYVWYyazlhd2d0Y2F4RkV6SzNPSTMyNFdsVDdSZw?oc=5",
+   "source": "mtown.my",
+   "summary": "マレーシアの銀行アプリ、海外5市場でQR決済が可能に mtown.my",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T09:49+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "135bda398c6dc4ff",
    "title": "SMBC日本シリーズ2026優勝を記念して「ソフトバンクホークス 日本一キャンペーン」を開始",
    "link": "https://prtimes.jp/main/html/rd/p/000001106.000022656.html",
@@ -41,8 +205,7 @@
    "type": "release",
    "published": "2026-10-29T09:40+09:00",
    "company": "SB C&S株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "5047ef290a2ff8a4",
@@ -56,8 +219,116 @@
    "type": "release",
    "published": "2026-10-29T09:00+09:00",
    "company": "TechSuite株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "495d1e308e4db2bd",
+   "title": "BNPL特有の不正利用とFraud（詐欺・不正利用）の最前線（日本後払い決済サービス協会）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53MHVrVTRwLUFDR1ppc2JqY0g2M3VFZjJpekNqbzViUDdYcklwQTlkdHVlM2FLMGFiZnF4c3NBRDc2YzRSbXQyc1hoS1U2Ri1BMng5aDZYZVRXY0E?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "BNPL特有の不正利用とFraud（詐欺・不正利用）の最前線（日本後払い決済サービス協会） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T09:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "fcfd3007fa2822c3",
+   "title": "熊本のバス・電鉄・市電で使える新共通定期サービス「ふらピッと」提供へ",
+   "link": "https://paymentnavi.com/paymentnews/184388.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月29日8:35（JST） 【日本】九州産交バス、産交バス、熊本電気鉄道、熊本バス、熊本都市バス、熊本市交通局、三井住友カード、ジェーシービーは、2027年4月1日よりタッチ決済を活用した新共通定期サービス […] The post 熊本のバス・電鉄・市電で使える新共通定期サービス「ふらピッと」提供へ first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:35+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "e12c7ab8bb876478",
+   "title": "BtoB事業者向けクレジットカード決済の新規稼働加盟店が7,000社を突破（ゼウス）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdk96cEJkTVBwYTl4SXZNZVA0SkduNjdTM3ZUbTcycTFUTk5sR0dQMXNYSDhSRG56MnpTbFJTVjJjalhUOVVxQ2V1Q1VhRzhmVERIdmVoOHNnRms?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "BtoB事業者向けクレジットカード決済の新規稼働加盟店が7,000社を突破（ゼウス） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:24+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c017243f935c2106",
+   "title": "三井住友カード Visa Infinite、Oliveフレキシブルペイ Visa Infinite会員を「2026 MAMA AWARDS」に招待（三井住友カード/Visa）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYUtWbWFjM0EtcE5fZUJLWVNnR2w2VTJrcjVOS05VYm96MGprUXk1elBCQ1Ywb3VmU0FtVU5oWnBfYzBSWWNTZmNybGc0cktQd21uNnQtSC1sRTg?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "三井住友カード Visa Infinite、Oliveフレキシブルペイ Visa Infinite会員を「2026 MAMA AWARDS」に招待（三井住友カード/Visa） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:21+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "fa0f93cbe5c03de0",
+   "title": "新韓カードおよび西鉄グループと共同で「福岡インバウンドプロモーション」（JCB）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oM0h1aVYyNTVXWUotekpOU05iMWFiVm1xa2J3bVc0MTd2T2NLeUNBc2xMdlZCdUNpOVNlWmhWZUVjU1VQZGpJb1dBbVMxak5oWWVLT0JleGxfT1U?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "新韓カードおよび西鉄グループと共同で「福岡インバウンドプロモーション」（JCB） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:17+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "1ba19c6eaf8293f0",
+   "title": "「Cloud Pay」「Cloud Pay Neo」と電子マネー「PASELI」が連携（デジタルガージ/DGFT）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nRzVVSEJ5SDcwaEhMaHpEcEhrMVVqdmVxUEpBU2ptTEFsR01YREtBNEF0TlF3aFZDdFJwT2xjc1Z0eVYtc0xoLWhqdTc1R2JlLWVlTkNjLVdiVk0?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「Cloud Pay」「Cloud Pay Neo」と電子マネー「PASELI」が連携（デジタルガージ/DGFT） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:14+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "d67b8c23c1347001",
+   "title": "りそな「りそなプラス」、11月に位置情報によるクーポン検索機能を追加 JCBとの連携や地域金融機関への展開も視野に",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hY01JdVN0UmlNa0EwbTRkWDNyUkk2THRxMzhvMm5wVDlnaWtEa0N1Qlp6T1pOdXdTb2VISndZYjFnZk43R05iZ29VVWlLUGtxSU9DQ1BnN0VmXzg?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "りそな「りそなプラス」、11月に位置情報によるクーポン検索機能を追加 JCBとの連携や地域金融機関への展開も視野に ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:03+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "2c7d006127b673c1",
+   "title": "AIエージェント決済で主導権争い Stripeの仮想カードがVisa・Mastercardに圧力",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUdnSzQ5QllKSC1zWDE1aFlobFpBZjlwVEFmR3k1WkVKTExwVjNMSHRXY2dqRGp0SWR4RXZPUWE1akZDYW5Qdkg2X0ZYOGNnOHJQaGt0TDhuNWt3Vi1TN3p0cW1FbGtqVlZpRjlIdzhZLU4zb2Zzb3M5MGN6MU5Yc3BSVi13cEk1VnYzN0ZZTXpjeDNTNEkwSWppemQxSVRIV0d5ZE9B?oc=5",
+   "source": "디지털투데이",
+   "summary": "AIエージェント決済で主導権争い Stripeの仮想カードがVisa・Mastercardに圧力 디지털투데이",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-29T07:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "30c9d42263d59084",
@@ -308,6 +579,19 @@
    "type": "news",
    "published": "2026-10-28T17:50+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "826e837049ebb117",
+   "title": "JALとJTA、アマデウス不正アクセスで予約情報9.2万人対象 クレカやパスワード流出なし",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rcU5sbUl1Um1lcm54dDdnQVVkMC02Y0JfYmNiM1JfNFItUnpGaU1IQnlHZ2g2VHBRWFpEMHpPZTRuSFBYcWhZVWtTTndZbWE0TjhWWlhn?oc=5",
+   "source": "Aviation Wire",
+   "summary": "JALとJTA、アマデウス不正アクセスで予約情報9.2万人対象 クレカやパスワード流出なし Aviation Wire",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T17:43+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "b923e56dc72aceb9",
@@ -4078,6 +4362,21 @@
    "type": "news",
    "published": "2026-10-23T06:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "848a999146f14450",
+   "title": "青切符、キャッシュレス納付追加へ/早ければ２０２７年７月 クレカやコード決済",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUGdCdW9sTXpwcFNRelJnbk5EQl8yRjd0UnJyMFR6LXVMdGl1dDlGck1oSHN6SUFuUC1MeGhMLTRxTnozckFWQnVjSUxPXzZzOFNka0V3OHhJSnpFZktXRGFGd3c2WHlRR2c?oc=5",
+   "source": "山口新聞 電子版",
+   "summary": "青切符、キャッシュレス納付追加へ/早ければ２０２７年７月 クレカやコード決済 山口新聞 電子版",
+   "categories": [
+    "cashless",
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-23T06:00+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "7ad30a0bac5537e4",
