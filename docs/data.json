@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T22:37+09:00",
+ "updated_at": "2026-10-30T07:15+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,268 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "a149c414f4268238",
+   "title": "SBPS、加盟店のエージェンティックコマース対応を構想 AI購買の検証環境を開発、標準規格「UCP」活用",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45ZzlHQzRrWExYMlBIUlQ4Rk53bDB2YXhueEVZZkFxaGNQUTFrNlZUbm9JSHZCZlVSMUVDb2wxUm9xODlsM0RkcUY4WDhUZTd6Vl9yaEZB?oc=5",
+   "source": "日本ネット経済新聞",
+   "summary": "SBPS、加盟店のエージェンティックコマース対応を構想 AI購買の検証環境を開発、標準規格「UCP」活用 日本ネット経済新聞",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-30T07:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "b805fb5ea76fe6e5",
+   "title": "鉄道・バス・水牛車…広がるクレカ決済 交通系ICカードはどうなる",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jZjM2cmJ4MlhSZU9Jc05yTGpZV1hncXo0bDNJamE4ZTFyaF9Cek1FcVE1NWhNVHYxS045S2pPNXVDVXFnYWRPUXZUS0VOVmdpbTRuUElzM29ZU251eDFuOGFVRmZSZw?oc=5",
+   "source": "朝日新聞",
+   "summary": "鉄道・バス・水牛車…広がるクレカ決済 交通系ICカードはどうなる 朝日新聞",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T06:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a4e79925e2214c76",
+   "title": "JR東日本の新コード決済「teppay」の上限額はなぜ30万円なのか",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QNERXdW5LRE5BR2N0VVJWS1NqTzFHU3NQVDRRajMxUEtZam9yUnVtakhnY255dEduZVI2Qk9mMjlUVWtmM0swc2tyaHl0YXc1RHZOSkw0YnNRay02QmhfTXB6dnpfNl9OeVE?oc=5",
+   "source": "日経クロステック",
+   "summary": "JR東日本の新コード決済「teppay」の上限額はなぜ30万円なのか 日経クロステック",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-30T05:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "c036b235ec469337",
+   "title": "「グッドスマイルカンパニー」 顧客2800人分のクレジットカード番号・セキュリティコードなど流出の可能性 公式ショップサイトに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJMUpsRERqQzVGejN1a0Q4Vmo4aWlERm5RNGdjOVdRYVJrOS02M3REenRyNnlheFQtOXRzY0J0enVRaFlucHJsRnpydnZEak5HUlh0ZW1MYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "「グッドスマイルカンパニー」 顧客2800人分のクレジットカード番号・セキュリティコードなど流出の可能性 公式ショップサイトに不正アクセス TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T04:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d07b6615027b79d2",
+   "title": "JCBとハノイ・メトロ、都市鉄道へのタッチ決済導入で覚書［日系］",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TdE1uZkNFT2puUUVGV0ptVHF1TmVDMTBtLU1kbmlscEs1VEdjY05scUdGcnlCd1paN011Q0hmTHR0dzlTbHZsaTBqUUNQYkZ6WXBfZGdUY29IOTFqZWJYWWF1WQ?oc=5",
+   "source": "VIETJOベトナムニュース",
+   "summary": "JCBとハノイ・メトロ、都市鉄道へのタッチ決済導入で覚書［日系］ VIETJOベトナムニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T00:27+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "e08929fff3bd0543",
+   "title": "ＪＣＢ、首都鉄道にタッチ決済",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5cVBNQVFaS0hDRmhPdnNFWjdwdW9PT3QydDdVRmtEbll2UHdaRUxZX0ljSFdrNF9Vb2J2eGhxelEzUFVyeUE?oc=5",
+   "source": "NNAアジア",
+   "summary": "ＪＣＢ、首都鉄道にタッチ決済 NNAアジア",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-30T00:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "92a9d360ef80e443",
+   "title": "【画像】運賃半額！ 公共交通は「タッチ決済」がお得 初日の利用客からは歓迎と戸惑いの声も 熊本",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3SG8zOFpHRVlGVlRrbkhXTnE0NUNJWUpqcmVRd2VCdFYwRWxWX0h4X3R0R3ZtbXgtakxzWXNjdHBsRXZFV1RNYzh3NHlYSC1kWlpUNW5JSVBxd3pnaDZGVEpXZ1MwWl82WGtGTVJ5WEZ5NlU1MHJhQXRmb0I?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】運賃半額！ 公共交通は「タッチ決済」がお得 初日の利用客からは歓迎と戸惑いの声も 熊本 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T23:35+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "30e56110ae75d781",
+   "title": "ハノイの都市鉄道におけるキャッシュレス決済の推進。",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlVIWEQyaUZNX2hRMkFveGVoOTVNZkc1VDdlZFFGVlhEbDB4MzVxc2JmeU1keTRlUDlFa1NzUF95dE1ZU1liLWNSNnpHcjVzX1B1QV9PbGNOOUhmSWs0Rmc0eVRXQk83bFJZaWJyNzFnSHJiNl9neTdFbHVPcUk2eTBEWElWdmNHdjVJaU9UMVRkMXpJY2lnWkJ3?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ハノイの都市鉄道におけるキャッシュレス決済の推進。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T20:47+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "4d35dbf8af27889d",
+   "title": "運賃半額！ 公共交通は「タッチ決済」がお得 初日の利用客からは歓迎と戸惑いの声も 熊本",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XQm1oTENHMW5lUGdZM05sTVpCdnR2dXZaYTR3aHNkM1hPWkVpdjc0dzZqNWN1R29xaDBPRG5hMGhFR1pWUzFPVkpnaXJlYlRpeUpjeld1NnNGYVJBQWdr?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "運賃半額！ 公共交通は「タッチ決済」がお得 初日の利用客からは歓迎と戸惑いの声も 熊本 TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T20:43+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "baa7e9bdd3e02e3c",
+   "title": "タッチ決済を使うと運賃半額! バスや市電など利用促進や活性化を目指す取り組み始まる (2026年10月29日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56SkRJemxjRFdadzM2SkN2MmRmOWs2SHd0ZU5kN1hkRXNLaVhzMXFLZ2JER0NjMFBBNm41MTVkVEV0Z094YWFKVTl4c0IzaWk0UmE3eTdNR2QteURuRnc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "タッチ決済を使うと運賃半額! バスや市電など利用促進や活性化を目指す取り組み始まる (2026年10月29日掲載) ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T20:05+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "65c568214d1febf5",
+   "title": "クレカ情報2800人分 番号16桁全部も？（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQQ3c4eEpmVl9RZndnN0tHc3EzUFF5TXhEOGtRb3czcmJjaE1XdnZSU2NaQmFIbFowQy1FWGRndTZXUGV6c2wxOG5MZHl4QlAzanhtNm5NdW9vVG11Mi1Rb3VvRmlmcEhsa2pHYjYzTWdtMmx3UlZzRXFYVF9fTVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレカ情報2800人分 番号16桁全部も？（ABEMA TIMES） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T19:57+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d12af0487316cb9b",
+   "title": "グッドスマイルカンパニー クレジットカード番号や名義人名、セキュリティーコードなど漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XeXVmaUpmNmtrVklfdFJQaXlUVGdkR0VRWjI2cFd3S2FMeTRiZGNzWktWWC0xSHRGMU5LUFFtM0trdUYwSHRZM2dWc1ZuZ095WDdPNmkxN1UyUW1WTE44Mjd4MTVJT2ZSSmtWUWJTRlRqYVJfdVEtOURMbTA?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "グッドスマイルカンパニー クレジットカード番号や名義人名、セキュリティーコードなど漏えいか 日テレNEWS NNN",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T19:03+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "92317b0f2ba2a5fc",
+   "title": "バスや電車が半額に？タッチ決済のキャンペーン始まる【熊本】",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZREZCMVN3VkM2VUM1TXVZTE11UlpPdV9CSFpTZk9RV0tRM3VXZ1JzNnZTSlg1NWlDc0dlV3E5TVRNRExCMFJSejdEdTBNdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "バスや電車が半額に？タッチ決済のキャンペーン始まる【熊本】 FNNプライムオンライン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T19:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "d9056dbccbb33bcc",
+   "title": "タッチ決済を使うと運賃半額! バスや市電など利用促進や活性化を目指すキャンペーン始まる",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHRMam5VYVVRam1EVGVLSGtxWGhJTGhIRTJ5NHVIS1dfaExQY01UUzlNM2h6R0tTTWpJa3U0Z2NNdHR3SmNrX0JocGhHdG5WeTRmdW5uZm9jWVNGa1dDQmtsT045M09uUHVOZE05TmhCaU40ZWpBU2xLa0huX3pOWmd0cDI2dEU?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "タッチ決済を使うと運賃半額! バスや市電など利用促進や活性化を目指すキャンペーン始まる 日テレNEWS NNN",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T18:52+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "bb84f06a3a6ccc0c",
+   "title": "公共交通の利用促進へ「タッチ決済」運賃半額キャンペーン 新たな共通定期券「ふらピッと」とは",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kNFI0dklOeHBaM3c1QXE1enJ0TlZMQjluT2hZTW5PdVlRVlRzMFBqYVJ6U092R2dGR21lMmRwNTN2a1NBNG8zMXYzS1hyMHBmTUl0bHdn?oc=5",
+   "source": "KAB 熊本朝日放送",
+   "summary": "公共交通の利用促進へ「タッチ決済」運賃半額キャンペーン 新たな共通定期券「ふらピッと」とは KAB 熊本朝日放送",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T18:38+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "ad5984c06eb980eb",
+   "title": "「グッドスマイルカンパニー」クレジットカード情報2800人分流出の可能性 カード番号全16桁、セキュリティコードなど含む",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ENTE5NWhZMjAxWUZ4Q3A1SVZWWUp6V1UtNFg5c0JCdDlaZnNTc3pIbnZrbDZNV1pOekpMZGFwS3FhbVRQTGRYREF0WVMtbDNsNDczWnp5OA?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "「グッドスマイルカンパニー」クレジットカード情報2800人分流出の可能性 カード番号全16桁、セキュリティコードなど含む TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T18:07+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "818b26b9c3a38052",
+   "title": "農業関連企業はキャッシュレス決済に移行しつつあり、これにより資金の流れの透明性が向上している。",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3FuR0VaZzFsSFU5OG43Tnc5ZFZOWVZWd2Y2OFRkWkNKZzBmUmx6aGg5TUZ3bUJYUWNBbHVXSDFtcEFXSEV3WkZ4ZDBaY0VfU2ZNUVVHMVZCaGRJajhqb3FOajhtRXdFZEtkRmRPR2ZQOWtHTnpYS1g2MFR3dnhMaVpuU2JZcXQxU0x1TmlzS205Vy00cl96STctYlBXRG51V2oxWkYyVW5TN0pLbDdV?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "農業関連企業はキャッシュレス決済に移行しつつあり、これにより資金の流れの透明性が向上している。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T18:07+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "5215f3d8e94dc6f2",
+   "title": "熊本に国内初のタッチ決済定期「ふらピッと」、乗った分だけ月額上限まで",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWhEWS1KT3FWSXZPRTN4djVzSmVlQnN4WjFpYUVJV3BLQXhpR2hnNDNZRU1wNWJGTmFMZG9wbDlwSG1nWmRnVnU5SGcxTFZRbUtmalUxRFZTa1gzcUI3QWgtdGRPSGVvOWo0RldPX1Vkay1PeFFtWnZhbVRMSlZwc1RZWUlfOGhvWHNsWjRpQ2pVdw?oc=5",
+   "source": "オトクレ",
+   "summary": "熊本に国内初のタッチ決済定期「ふらピッと」、乗った分だけ月額上限まで オトクレ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T18:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "e0f795f0eee8cb15",
+   "title": "グッスマ、不正アクセスでカード情報漏えいの可能性 2800名",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152347.html",
+   "source": "Impress Watch",
+   "summary": "グッドスマイルカンパニーは、公式ショップへの不正アクセスによる情報漏えいについて第3報を発表した。不正プログラムが設置され、クレジットカード決済時の情報が盗み取られた可能性などについて報告されている。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T17:41+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "b9e21e4541f63d7c",
+   "title": "カフェ・ベローチェでAEON Pay利用可能に コード決済ならWAON POINT1.5％還元",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfbWpMaC1GSFhZUmZmaHFyX29HR1NoV3Y3WVJnd0ltbF9WME5jSGJtY1pqcjVCUWxFd0JJbzRzMFVRRWRMaXFqNUNzTGhCMFlQeUF5dWp0QWQtSjhuVWI4?oc=5",
+   "source": "Infoseek",
+   "summary": "カフェ・ベローチェでAEON Pay利用可能に コード決済ならWAON POINT1.5％還元 Infoseek",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T17:12+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
   {
    "id": "b9f1ceb64f6b3d0a",
    "title": "「グッドスマイルカンパニー公式ショップ」、決済ページの改ざんでクレジットカード情報を含む個人情報が漏えいの可能性",
@@ -68,6 +330,19 @@
    "published": "2026-10-29T17:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "JCB"
+  },
+  {
+   "id": "53839d7b100f22d1",
+   "title": "「キャッシュレス決済が普及し、現金を使わなくなったので…」52歳女性が買って後悔した“憧れ”のもの",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1STkp4SEZuWGhkTTBSTTkwQVo0a2tLQ0d0cTRsQ1BCQzFjTkpCbEVBYXNTR3NPNTZZRC15eEI3LWFEOWdBRS1kMDFob1c?oc=5",
+   "source": "All About（オールアバウト）",
+   "summary": "「キャッシュレス決済が普及し、現金を使わなくなったので…」52歳女性が買って後悔した“憧れ”のもの All About（オールアバウト）",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T17:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "5b4fff4da21c1734",
@@ -162,6 +437,19 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "813a79f168eacaef",
+   "title": "【更新中】ANA 予約システム委託先に不正アクセス…個人情報が参照された形跡 フィギュア販売会社では2800人分のクレカ情報漏洩の恐れ、全16桁の番号やセキュリティコードなども【情報まとめ】",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "【更新中】ANA 予約システム委託先に不正アクセス…個人情報が参照された形跡 フィギュア販売会社では2800人分のクレカ情報漏洩の恐れ、全16桁の番号やセキュリティコードなども【情報まとめ】 テレ朝NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "1de7462ac95c8b2d",
    "title": "グッドスマイルカンパニー クレジットカード情報漏えいか（日テレNEWS NNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rUkVpeFRlY0x3RFpiUnF6anJyS1oyc1Boa2g0UDRjQlJYbGFwMlM1M1pvRjRsQTczeThlaVA5dkR0OWMtcG1uRV9TNU1LbzVpQzVMeFBHdmtzRkg0NVkwN1Z4ZHNPLU5pcW5qNU5ELWhyMEFhMmg0elYxVDZndDg?oc=5",
@@ -187,6 +475,19 @@
    "published": "2026-10-29T16:12+09:00",
    "via": "Googleニュース「決済サービス・加盟店」",
    "company": "株式会社グローバルインフォメーション"
+  },
+  {
+   "id": "5b2afd33e74cdf4b",
+   "title": "グッドスマイルカンパニー クレジットカード情報漏えいか（2026年10月29日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51N0xWRlJWNjZwX2g4cV9iRGV4MmpPeV8tZHgwbDRqVmo3eFZGV2VjdjU5c2R4cXhPOFpKLWotQlVsZldnbjFPdTJGNm0ybk1xeXlWODdQSGhmMTJvczJjSkZrR0ZBS09OQUc0eXc2S0FSN2w3cHBmdzFCaV8?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "グッドスマイルカンパニー クレジットカード情報漏えいか（2026年10月29日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:12+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "cd12b8cad5a905af",
@@ -240,8 +541,7 @@
    "type": "release",
    "published": "2026-10-29T15:45+09:00",
    "company": "株式会社Photosynth",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "cefdcca19c51d59d",
@@ -270,6 +570,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "7342c3ca63974048",
+   "title": "熊本県で「タッチ決済で運賃半額」のキャンペーン始まる",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jQUszdjFoRFozUkl5ajk2dlVuYUNtc05aeUFQV1FoR1pTamZjYjRtcHNMa0M1VVUxUVRfck11VklpU3BHVW9TdTdrOVFFX3FhcmY2Nk1hbXRnOFpaNUdv?oc=5",
+   "source": "NHKニュース",
+   "summary": "熊本県で「タッチ決済で運賃半額」のキャンペーン始まる NHKニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:33+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "a94f87923ed3948e",
    "title": "「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？ PayPayに聞いた",
    "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
@@ -281,6 +594,19 @@
    "type": "news",
    "published": "2026-10-29T15:32+09:00",
    "via": "ITmedia NEWS"
+  },
+  {
+   "id": "a792d22b731135c2",
+   "title": "フィギュア製作のグッドスマイルカンパニー、顧客クレカ情報が流出か",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBN3JOZXp3TjFoOUhZZ1hTdHFjM2FiOUVQN2RJZ0NLWHA3cWNOdmpjc3R6Q011Y01mcmFHZHo5OFNITGV5UXc4UHVFNUd2NXNyUFNHOVNnLVpXd09BNktXSjZwVm52R28?oc=5",
+   "source": "朝日新聞",
+   "summary": "フィギュア製作のグッドスマイルカンパニー、顧客クレカ情報が流出か 朝日新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:19+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "8fdce2f5f00eb486",
@@ -308,6 +634,19 @@
    "type": "news",
    "published": "2026-10-29T15:04+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "5a57f6dca04446ca",
+   "title": "クレジットカードの情報2800人分漏えいか フィギュア販売企業",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjaVY4dzRPMnlVSVJVZm42S1BkcS1CVFk3ZWVFX01kcHUwWDVQQWNDZXFmaXRDRXR4bVlzLVFnTi1IV0RlM3pmdDlOTzE3U1lTT2hWNlJ4UU5JbWtaU0I4?oc=5",
+   "source": "NHKニュース",
+   "summary": "クレジットカードの情報2800人分漏えいか フィギュア販売企業 NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:01+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "d5ce3c2c1cd13bc4",
@@ -376,8 +715,7 @@
    "type": "release",
    "published": "2026-10-29T14:41+09:00",
    "company": "auフィナンシャルサービス株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "52771f1500bc0d5d",
@@ -391,6 +729,19 @@
    ],
    "type": "news",
    "published": "2026-10-29T14:15+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "1139853ade4b5a45",
+   "title": "【画像】運賃が半額に！ 「タッチ決済」で公共交通がお得 予算がなくなり次第終了 熊本",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSeXJibUFLTUdpbTlCMjdBdFhNUnExVk9rTWlvRHRlWlNSYWlrellGa1lWQVVoTm93X2JWSVQ1dGhIN3VYS3duSmNGMTQtU3VIc2tKVHo2Y2lHSjJkMkdGdW5EZmJwaVI1UWREdHgxamtaTzBrUlN0NU9ob3M?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】運賃が半額に！ 「タッチ決済」で公共交通がお得 予算がなくなり次第終了 熊本 ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T14:05+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
@@ -431,6 +782,32 @@
    "type": "news",
    "published": "2026-10-29T13:38+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "101ba9fcb9f70683",
+   "title": "グッドスマイルカンパニーの公式ECサイトに不正アクセス。10月21日〜23日の利用者はクレジットカード情報漏洩の可能性あり",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vV1J4TElSM3lCbjRpUVlBTVlpNVVDNmhLcWd5VHloZEhDUnlaZlJicVpFWnpfc2hIZGNjOHRiUnEwcUtrRXV4T2RhNlN6ZVA2dXlrYUJFLW9ZeTdNMExiZnl4RQ?oc=5",
+   "source": "4Gamer.net",
+   "summary": "グッドスマイルカンパニーの公式ECサイトに不正アクセス。10月21日〜23日の利用者はクレジットカード情報漏洩の可能性あり 4Gamer.net",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:38+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4ee98d7c994b3697",
+   "title": "グッドスマイルカンパニー、クレカ番号全16桁が情報漏洩か 該当者は2800人のユーザー",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OSzFGdFpEaHJlcjB2MHp2RVFCTWo5ZDZOVlFZVUFmZi1uWU5ha3JvMVUyTnFZcmZKaFpuSVNIT0d1MkYwMDltNQ?oc=5",
+   "source": "KAI-YOU",
+   "summary": "グッドスマイルカンパニー、クレカ番号全16桁が情報漏洩か 該当者は2800人のユーザー KAI-YOU",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:37+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "443a6a2aebdbda1b",
@@ -483,6 +860,32 @@
    "type": "news",
    "published": "2026-10-29T13:14+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "d17df382cc1cbd72",
+   "title": "クレカ積立のおすすめの組み合わせとポイントを効率良く貯めるコツ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3U2pyaE5LQy1laUxZb2dlc2dSQ21ZVll4dnNTTjNVRTlsMVZKUl9aa0xLVmY5WUZHNEk1Qk9Vc0pYdG9lQzdDZU1lNzB3V2VsRTBOQWlzMUJVTU1fcVI5RUtQVjBNZ19Ubl9iS2FpWHFkdw?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "クレカ積立のおすすめの組み合わせとポイントを効率良く貯めるコツ ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:14+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "f0e976e3f9ed979f",
+   "title": "クレジットカードの更新を機に、母が古いカードを処分することに。「半分に切って捨てればいい」と言いますが、期限切れのカードとはいえ、それだけで安全に処分できるのでしょうか？ (ファイナンシャルフィールド)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVRfSmdOdi1VYzYzY0FxVWV4WEZpNGdaYUNmemNkTmphNTl1Nm4xcHpmdnJtWEFDd0V5d2VEX09CSVRYeWxnamxIV3NSSzd0MW5MY0tBZlhLdE0tRnhYWk1zS3J2b01EN2ZuR3ZmSHB5cWlsVWFwcXZHejhEVXZkVTlZVXRjTjJCR081RzZn?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレジットカードの更新を機に、母が古いカードを処分することに。「半分に切って捨てればいい」と言いますが、期限切れのカードとはいえ、それだけで安全に処分できるのでしょうか？ (ファイナンシャルフィールド) Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "f339c0c4ba55364d",
@@ -608,6 +1011,20 @@
    "company": "LINEヤフー株式会社（金融）"
   },
   {
+   "id": "58245c211279594b",
+   "title": "【PayPayほけん】インフルエンザの早期流行で「備え」も早期化PayPayほけん「インフルエンザお見舞い金」、わずか20日間で加入件数5万件を突破 | LINEヤフー株式会社（金融）のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XY3o4bGNFdWtURVhWTEdEOTZPTVdIUnpqUmpFYUdPMTZZUnl4UUZqY0NsUG1MUXh3dk9kVk41ZUxQRUhtS0NTdUhHVWtzSG1DSnBLQjlrMWMzTVR2R0RvQmZHTm1Odkg2RUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【PayPayほけん】インフルエンザの早期流行で「備え」も早期化PayPayほけん「インフルエンザお見舞い金」、わずか20日間で加入件数5万件を突破 | LINEヤフー株式会社（金融）のプレスリリース PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T11:11+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "LINEヤフー株式会社（金融）"
+  },
+  {
    "id": "ef877a6df4f86cfd",
    "title": "ナッジとTISI、「クレカ as a Service （略称：CCaaS）」を活用したカード事業における協業を開始し、地域金融機関向けに専用メニューを提供",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02cFVSVVZwcDk0WTRMMWx2aVd1dXZvVnlCVENoR1NscmI2SF9heWpuY3NBTXRub045OE9Wc19NV0gwNW1KOGVia0U4aGdpYUlyamFiYmpHV2t0ZE45c3Zod2t6djdOZU5NYkE?oc=5",
@@ -714,8 +1131,7 @@
    "type": "release",
    "published": "2026-10-29T10:10+09:00",
    "company": "京都信用金庫",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "b47c8aff207d9bed",
@@ -785,6 +1201,20 @@
    "type": "news",
    "published": "2026-10-29T10:00+09:00",
    "via": "Impress Watch"
+  },
+  {
+   "id": "577ac6dcccbe9544",
+   "title": "カフェ・ベローチェでスマホ決済「AEON Pay」が利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iWVdJVWlJaXAxVW4xLVIxdklMR2NWcGJaUkZGRGhRLXg5bEwzbnlWVWQ0Q2JabzducjJVWDhvd25ZbldnMEFOeXJPR3A1QW1OWVctRDlwY2drU1g3QWRDRTYxTWt1VTFyQUE?oc=5",
+   "source": "J-CAST ニュース",
+   "summary": "カフェ・ベローチェでスマホ決済「AEON Pay」が利用可能に J-CAST ニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:00+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "1615de241d367874",
@@ -1280,6 +1710,21 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "6f0c3aa09920b707",
+   "title": "デジタルガレージの決済プラットフォーム「Cloud Pay」「Cloud Pay Neo」と \"遊べる電子マネー&qu",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTldrcUJkS3R4M05PNXFQQzc3S1R4SDViZm8yX21Ob3Y2LWg3SjhsbTFuRExJekU2MEVjbDFCdjVLZU9pMF84cFczb0xURVV1SWxqWUN4MWlPR1pmbFN2bmRrVm9Fek1JMFZ3TUdQellGX0l6U1dBTmNEdXRZZ0J1SDFiaHl1RFh6X3dfbWcyVnA?oc=5",
+   "source": "PR TIMES",
+   "summary": "デジタルガレージの決済プラットフォーム「Cloud Pay」「Cloud Pay Neo」と \"遊べる電子マネー&qu PR TIMES",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-28T16:20+09:00",
+   "via": "PR TIMES（決済）",
+   "company": ""
+  },
+  {
    "id": "ba22678014e30dd4",
    "title": "熊本のバス・市電・電鉄でタッチ決済の新共通定期「ふらピッと」 2027年4月開始",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnUktiT0ItZ2Q5akx1RVdNeklhM1lLYnlkNDAta0lKVkN5cEo0dW1VeDM0NVVhMEtCRHNyNkJFdE5mZEVQN29id1c5dS12Uk80b1VBLVdQZXZTQzZNV2dR?oc=5",
@@ -1598,6 +2043,20 @@
    "type": "news",
    "published": "2026-10-28T13:27+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "b0e03a1a25e1bf47",
+   "title": "フランスのモバイル決済：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95TktSa1IwXzJFU0NoTGppMlJfRmZLMGJfeWVKdkplMUtlMTZ4UTBRWjlFTmdKZHhXbTByMC15M1YtZTBiQnZfYVQwb1RQYzQ?oc=5",
+   "source": "アットプレス",
+   "summary": "フランスのモバイル決済：市場シェア分析、業界動向と統計、成長予測（2026年～2031年） アットプレス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-28T13:00+09:00",
+   "via": "@Press（決済）",
+   "company": "株式会社グローバルインフォメーション"
   },
   {
    "id": "1fda084557e6898a",
@@ -2650,6 +3109,20 @@
    "type": "news",
    "published": "2026-10-26T23:22+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6141762cb09b6405",
+   "title": "Visa、タッチ決済利用で2026 MAMA AWARDSへペア265組招待へ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UlpsUnQtR2VmbnZGOVhjM1dNSGNPV3o2elMycGZPTGhUa2RSUnRUS3dMNXF4TzFXTjkwOC1jR3d6UU1fbFp0d3lFRWRDYXd5TUN6TXhvNENUOTdTNkE?oc=5",
+   "source": "Dellows News",
+   "summary": "Visa、タッチ決済利用で2026 MAMA AWARDSへペア265組招待へ Dellows News",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-26T23:04+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "31f493c827d44f0c",
