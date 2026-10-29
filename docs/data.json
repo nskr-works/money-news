@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T16:38+09:00",
+ "updated_at": "2026-10-29T17:23+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,191 @@
  "topics": {},
  "items": [
   {
+   "id": "b9f1ceb64f6b3d0a",
+   "title": "「グッドスマイルカンパニー公式ショップ」、決済ページの改ざんでクレジットカード情報を含む個人情報が漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PZDlaZGc0ZEFLZUFKVUk5RGU5R2JOZ21aQmdDU05RTDk3N3pWUWFoZmdMZ1ppT3pXZ29vcnlSTXdZd3FwSmtLYThzLWpWZ1p4dWRlMENPbFczbFZoSE9OWnl2TlNnOGtqR0Fv?oc=5",
+   "source": "INTERNET Watch",
+   "summary": "「グッドスマイルカンパニー公式ショップ」、決済ページの改ざんでクレジットカード情報を含む個人情報が漏えいの可能性 INTERNET Watch",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T17:08+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "cc05e2825c0c93a7",
+   "title": "ドコモ「d払い/dポイント」11月はトイザらス山分けや資生堂＋7％還元など",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2152339.html",
+   "source": "ケータイWatch",
+   "summary": "NTTドコモは29日、11月に開始する「dポイント」と「d払い」のキャンペーンを発表した。トイザらス・ベビーザらス、みずほ銀行、セシール、資生堂オンラインストアが対象となる。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T17:07+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "40ac2a7b3e59ea13",
+   "title": "JCB、ベトナムのハノイメトロと都市鉄道における「クレカ乗車」導入に向けた覚書を締結",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pcm9wOUZ3RnFydTdqV1FySFJXNzB0UEtuQXliVnJCQkg5UHlUV1VRYjZDaERzWDllV1pqdk9XWVMzbElKS05OVnk1cnUtNXNvdWdncUw2cjBuZlZJWFVHcUREVmhBYnRNTEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCB、ベトナムのハノイメトロと都市鉄道における「クレカ乗車」導入に向けた覚書を締結 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-29T17:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "JCB"
+  },
+  {
+   "id": "5b4fff4da21c1734",
+   "title": "ドコモ「d払い」、11月は豊川市や町田市などで最大100％還元",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2152333.html",
+   "source": "ケータイWatch",
+   "summary": "NTTドコモ・フィナンシャルグループは、11月から、全国4つの地域・商店街で「d払い」キャンペーンを実施する。対象店舗で「d払い」を利用すると、抽選で最大100％のdポイントが還元される。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:47+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "70eaacf31359367b",
+   "title": "楽天カードが「Google Pay™」のタッチ決済に対応し、便利な決済体験を提供開始",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qdm8xZkdKVmhYNS11N0ZHN0JkT2hZc3hVZGo1M21hdHBsMHI3SnBaZ2taX05WZHo2MVFMQ1U0clk5MnpDWmFObXk3SlFjMVR3Y3UxbTRvR2FRc0xqMzBYaV9pajdPUTktRXg2Mw?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "楽天カードが「Google Pay™」のタッチ決済に対応し、便利な決済体験を提供開始 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:45+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "773a2a48683f1f32",
+   "title": "サントリー「ジハンピ」対応自販機でMastercard決済の「チケットレストラン」利用可能に（エデンレッドジャパン）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zQl9neml2VVhDMVpFVEwwbFdhMmNpNEE2R2ZiV2hMb3c1TXhaSmFXODlWdU1RZ2Rjc2JpbVF5dUMyemJTOFl4OXVjanhjeVJzUVo1bW5fenN5NVE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "サントリー「ジハンピ」対応自販機でMastercard決済の「チケットレストラン」利用可能に（エデンレッドジャパン） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:43+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "7025829a11fa9aa7",
+   "title": "エブリイ利用停止していた電子マネー ３０日から順次再開 プログラミング言語ＰＨＰの脆弱性に対応 広島",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZS0x0ZEFsWHR6U2VOeVN6aFFXNlhnQkFPMW5yWl9zeVp5c3RUZkVRSzJiT1VhcHlWcU5WV1VTb2ZTR3c3QjJVZF9MVmRweE5GU2hBZDVCTVl5UGY3dXNuZnYyZ2N3cFlaLV8zctIBckFVX3lxTE5vMXloWkcxamNGd3RzZlNMZk1ZUzF2WmZHZGZRcFB0d2UxSzBNLXFLN2tIWFFaMUwwelRzajBPa2NXclYxMVlPeUszMTBHazRWYU1zZnhySTViTy1DRDgtMFUxaks3czRrMVVLdjVWajRSdw?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "エブリイ利用停止していた電子マネー ３０日から順次再開 プログラミング言語ＰＨＰの脆弱性に対応 広島 ｄメニューニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:39+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "806cf80702d91855",
+   "title": "エブリイ利用停止していた電子マネー ３０日から復旧へ プログラミング言語ＰＨＰの脆弱性に対応 広島",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aVWNueHhkNzRsZWlpeU8xNmxybWlZVzhBbVlFU3ZYLTl3TzZEd3hQMk0tWE5fbkpPWTVKT0xDVGROdjY3UUx0a1ZTTWNKZWc4ZWRsSHZfNXpPQkF1dnQ0ZlpaMnRJaVhMSHh0R0FB?oc=5",
+   "source": "au Webポータル",
+   "summary": "エブリイ利用停止していた電子マネー ３０日から復旧へ プログラミング言語ＰＨＰの脆弱性に対応 広島 au Webポータル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:39+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "ad59103ada397b5f",
+   "title": "コナミとデジタルガレージが連携、遊べる電子マネー「PASELI」の利便性向上に向けた新サービス展開",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YUUVGZ2Rhd1ZXRzkzRTY5aGJNTGx5OUc3Y2hFWmZPLWEzREZNbENzQ1RYWFVLSHpKanVfdlRITWlYUWZ3Y2g0ZUtfS3gzakJ3VkdqWDAtRUlhMXByZDU0cVBxNFA0dnNsUk1BT2tTTVpUbFE?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "コナミとデジタルガレージが連携、遊べる電子マネー「PASELI」の利便性向上に向けた新サービス展開 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:24+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "80cbe044a86966b4",
+   "title": "ルミッションが法人向け決済サービス会社へ「企業収益支援パッケージ」を開始、経営課題解決の新たな道を提供",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaaVA0a2ZJdEtYd1UzYmxqbGpLSUNyRzBGbi1wNC1ZcEpzQTF4S2I4QmJVM0QxcmhucXZzQWVZN1NKZVVneWtyNVd1NlRtTTJBd0hOYmVsMVk0SHZtWnUtU096dVU3YUF1d3IwcG4wbXVlMzQ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ルミッションが法人向け決済サービス会社へ「企業収益支援パッケージ」を開始、経営課題解決の新たな道を提供 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:23+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "1de7462ac95c8b2d",
+   "title": "グッドスマイルカンパニー クレジットカード情報漏えいか（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rUkVpeFRlY0x3RFpiUnF6anJyS1oyc1Boa2g0UDRjQlJYbGFwMlM1M1pvRjRsQTczeThlaVA5dkR0OWMtcG1uRV9TNU1LbzVpQzVMeFBHdmtzRkg0NVkwN1Z4ZHNPLU5pcW5qNU5ELWhyMEFhMmg0elYxVDZndDg?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "グッドスマイルカンパニー クレジットカード情報漏えいか（日テレNEWS NNN） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:12+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "351a497e094da6c7",
+   "title": "車載決済サービス市場―2026年～2032年の世界市場予測",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kUzQ0dEp0WmIzOFdWcXhmZ1JtM2gxeDNCMjNJZDVJUEpXTGhPODhPdXM3Zmt2LXN0TXk4TjNHbXVySzBuS21EeTJZTllhNVk?oc=5",
+   "source": "アットプレス",
+   "summary": "車載決済サービス市場―2026年～2032年の世界市場予測 アットプレス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-29T16:12+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "株式会社グローバルインフォメーション"
+  },
+  {
+   "id": "cd12b8cad5a905af",
+   "title": "アジア最大級の観光産業展示会「ITB Asia 2026」の責任者に聞いた、旅行先選びは「国」から「体験」へ、AI活用や決済サービスにも新潮流",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqeFhEYmtCcC14VDJaN3k5ZVhhTmFvNjVQUWRlMFp3NW9Nc0dYaHAzN0V1R0dMbllzUDc0Ui14QkYtR0xOcFhCQ2FrdXIzeHlPLXJCNg?oc=5",
+   "source": "トラベルボイス",
+   "summary": "アジア最大級の観光産業展示会「ITB Asia 2026」の責任者に聞いた、旅行先選びは「国」から「体験」へ、AI活用や決済サービスにも新潮流 トラベルボイス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:04+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "7e5ef867d75fb637",
+   "title": "MM総研、「ポイント / 決済サービスの携帯キャリア別利用状況調査（2026年8月時点）」の結果を発表",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pRWhJUm55XzNwOGtiQkZjZ0xKYk9vbjNPSWVoN25Ua1p2cDdXMEZrTjRhOTd4V2gyVkl6S013TmVGU0ltaGIxamF3QTJDdV9Cc19CN2RQb2I4RTB5aXZhRUN4RmJiWFlVelRXSA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "MM総研、「ポイント / 決済サービスの携帯キャリア別利用状況調査（2026年8月時点）」の結果を発表 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:01+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
    "id": "be2fc63d68a418cb",
    "title": "ホテルのコインランドリーも完全キャッシュレスの時代！ホテルランドリー「wash+ Comfort」がAlipay+決済に対応",
    "link": "https://prtimes.jp/main/html/rd/p/000000247.000053641.html",
@@ -41,8 +226,73 @@
    "type": "release",
    "published": "2026-10-29T15:58+09:00",
    "company": "株式会社wash-plus",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "cefdcca19c51d59d",
+   "title": "三井住友カードが18～24歳対象にクレジットカード利用調査、半数以上が「大学入学前～2年生」で初カード作成",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94REFlYVA2YmQ0bUJUa0NHc2VhN1VIc25kSGl3OXg3QkNiQXZTaEs5QXRhYi12NjBGaUlKUDl5bS1iOHVOZks1ZjF0QmxxTXh1Z0FydDRBSQ?oc=5",
+   "source": "コマースピック",
+   "summary": "三井住友カードが18～24歳対象にクレジットカード利用調査、半数以上が「大学入学前～2年生」で初カード作成 コマースピック",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:39+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "882f7d2c8c05406a",
+   "title": "熊本県で「タッチ決済で運賃半額」のキャンパーン始まる",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jQUszdjFoRFozUkl5ajk2dlVuYUNtc05aeUFQV1FoR1pTamZjYjRtcHNMa0M1VVUxUVRfck11VklpU3BHVW9TdTdrOVFFX3FhcmY2Nk1hbXRnOFpaNUdv?oc=5",
+   "source": "NHKニュース",
+   "summary": "熊本県で「タッチ決済で運賃半額」のキャンパーン始まる NHKニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:33+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "a94f87923ed3948e",
+   "title": "「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？ PayPayに聞いた",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
+   "source": "ITmedia NEWS",
+   "summary": "ユーザーにできる対策としては、Google PlayやApp Store以外からアプリをダウンロードしないことや、スマートフォンを外部から操作できる権限を許可しないことが有効だ、と説明している。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:32+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "8fdce2f5f00eb486",
+   "title": "11月開始の「d払い」エリアキャンペーン",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQdl9GMVRlSl9ITFNhMDZFT1NMRm5XdE84Z2pkcmh3bjEzUFBJSDVFbHBtTzJ6dl9VT3FWTUdLeFVodUlod2hXaVNucW9GblRlT1p0V1RRNzNqbS1kV2VQN3RpbTRXS2syTHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "11月開始の「d払い」エリアキャンペーン PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T15:10+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社NTTドコモ・フィナンシャルグループ"
+  },
+  {
+   "id": "a7a9f3217af4afdc",
+   "title": "道南バスが11月10日から新たなキャッシュレス決済に対応",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oRkJuakh1eks4eWlHQS1RZHhjMzRfbzh6andVMERjWGFaaDFWRjl2U0tCVXU4Y3J2M2ZCZGJZWHNFYmFaQm1RcUZOVTJDUzJMX1J6blRyYlBEMU9RT0tabnRlNGY?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "道南バスが11月10日から新たなキャッシュレス決済に対応 北海道新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:04+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "d5ce3c2c1cd13bc4",
@@ -56,8 +306,7 @@
    "type": "release",
    "published": "2026-10-29T15:00+09:00",
    "company": "株式会社NTTドコモ",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "8d3a44fd6d1fd661",
@@ -71,8 +320,61 @@
    "type": "release",
    "published": "2026-10-29T15:00+09:00",
    "company": "株式会社NTTドコモ dポイント",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "1b28f86601ae8e5e",
+   "title": "キャッシュレス10％OFFキャンペーン中！「ぐるっと浅草クルーズ」",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUMHdqVGVJT2l6d0p2WnRpak9QX0xwclpHdDdBeHpxX3BfVjlmWGlVY2J0MFpFYTdkS0lFTEVqVU1vYlJzaWRqbGZPeG1iOVE?oc=5",
+   "source": "アットプレス",
+   "summary": "キャッシュレス10％OFFキャンペーン中！「ぐるっと浅草クルーズ」 アットプレス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-29T15:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」",
+   "company": "公益財団法人 東京都公園協会"
+  },
+  {
+   "id": "1b57ebe181b00ae6",
+   "title": "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か 下4桁は40万枚分",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
+   "source": "ITmedia NEWS",
+   "summary": "カード決済ページに不正プログラム設置され、顧客2800人のカード名義人名、カード番号（全16桁）、有効期限、セキュリティコードが漏えいした可能性があるという。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T14:56+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "52771f1500bc0d5d",
+   "title": "楽天カード、Google Payのタッチ決済に対応 楽天ペイの「カードタッチ決済」は終了へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40V1M5UTBhaXhFRDBQdjRGYzVydkxlS0EzMTJsc0ZQS1lfbWZ1WUtUcG9oUG5PR3diaXFUb3pKSEgwMHdHc085SUkzNlJxVG1zU2tsTWpqWmJURFZXWHpN?oc=5",
+   "source": "Infoseek",
+   "summary": "楽天カード、Google Payのタッチ決済に対応 楽天ペイの「カードタッチ決済」は終了へ Infoseek",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T14:15+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "dbba602110fbc74a",
+   "title": "フィギュアメーカー大手「グッドスマイルカンパニー」販売サイトに不正プログラム設置が判明 2800人のクレカ番号やセキュリティコードまで情報漏洩の可能性（KAI-YOU）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tN3lpM21EVjN0c2h3S1Bod2hSYkZQUmFSa2Zyam9zTmFrX1BRQTJmTkRoUW5GbV96bDd3RzBvQS1CdEZ1eVdIQWhtWk16bm5RTkMzUkt6ZEltVDJ5NG1ETWtwaWNPblNXcmNVSXJEUUdBYkk1YmU1SnloZHFhUm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "フィギュアメーカー大手「グッドスマイルカンパニー」販売サイトに不正プログラム設置が判明 2800人のクレカ番号やセキュリティコードまで情報漏洩の可能性（KAI-YOU） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T14:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "133d4bb9fa763247",
@@ -112,6 +414,45 @@
    "type": "news",
    "published": "2026-10-29T13:35+09:00",
    "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "9d2088e8b233f6b5",
+   "title": "グッドスマイルカンパニー、2800人分のクレカ番号全桁やCVCが漏洩した可能性 決済ページに不正プログラムが仕掛けられていた（オタク総研）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MUUtGVFRVNnRlbmZmUDA0UGk4Nk9pYTZ1MElIc0ZrVnRzTDBzM2FBVVdZQUZzdFQyZjRGWl9iQ3NqRG5EazVpLWpGbWNpWG41MFI3c3MzYkFWSEI1VXVOODdBMW1vdEZRUmxTNUJVSVRuMXJaM0tUWXBwT3JMTFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "グッドスマイルカンパニー、2800人分のクレカ番号全桁やCVCが漏洩した可能性 決済ページに不正プログラムが仕掛けられていた（オタク総研） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "bb32e13e63fdb3d8",
+   "title": "グッドスマイルカンパニー、2800人分のクレカ番号全桁やCVCが漏洩した可能性 決済ページに不正プログラム仕掛けられていた",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QS2FEZjlTYmVfRWozbUR6d2hxX29tUjB1dWNDc0EzVGJqbXFtMGdfcm5kdTBGTnNzN20wclFMVTRmU0F4Q21JUGxPRQ?oc=5",
+   "source": "オタク総研",
+   "summary": "グッドスマイルカンパニー、2800人分のクレカ番号全桁やCVCが漏洩した可能性 決済ページに不正プログラム仕掛けられていた オタク総研",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:35+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "3a964fb802f82ef9",
+   "title": "クレカ積立におすすめのクレジットカードランキング16選",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3U2pyaE5LQy1laUxZb2dlc2dSQ21ZVll4dnNTTjNVRTlsMVZKUl9aa0xLVmY5WUZHNEk1Qk9Vc0pYdG9lQzdDZU1lNzB3V2VsRTBOQWlzMUJVTU1fcVI5RUtQVjBNZ19Ubl9iS2FpWHFkdw?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "クレカ積立におすすめのクレジットカードランキング16選 ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:14+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
    "id": "f339c0c4ba55364d",
@@ -456,6 +797,20 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "cb98015a47f4aa6f",
+   "title": "インドネシアでQR決済が簡単に…信韓カード、決済サービスを拡大",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BZm9ZWXg2Y2pYUmJoVVEza2R4U2V6VndJcEg2S0R0bF9GMndBRzRWVi1VZ2t3NTJuT0l6STFFRzM5QmRHVWFiel80cEYtc1BUZXNERUhCUFFRclk?oc=5",
+   "source": "亜州日報",
+   "summary": "インドネシアでQR決済が簡単に…信韓カード、決済サービスを拡大 亜州日報",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:52+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "fcfd3007fa2822c3",
    "title": "熊本のバス・電鉄・市電で使える新共通定期サービス「ふらピッと」提供へ",
    "link": "https://paymentnavi.com/paymentnews/184388.html",
@@ -535,6 +890,19 @@
    "type": "news",
    "published": "2026-10-29T08:03+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "6032067f81ccbd02",
+   "title": "【dカード】VISAタッチ決済とiDは何が違う？どちらがお得かや効率よくポイントをためる方法など解説！ Asteroide (Spr6MZxubr)",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04LWx5aXVORHU0ejV1NEFwLTRoWnNOb2w3N3kzQm1Pc2tVTHphSktDUkNuVDhBdG9GSlU3bkcxbG5ZNWMzS1pzODFxQWZzNG1YcG53UjdOUHEyVng0Q0lPSFQydWNOZy1ZdGo0?oc=5",
+   "source": "Unisba Media",
+   "summary": "【dカード】VISAタッチ決済とiDは何が違う？どちらがお得かや効率よくポイントをためる方法など解説！ Asteroide (Spr6MZxubr) Unisba Media",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T07:37+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "2c7d006127b673c1",
@@ -3203,6 +3571,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "1175f9228ba573b2",
+   "title": "青切符の反則金がスマホで納付可能に、2027年7月からカード・QR決済に対応",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFl5bXJtVG1kb2RzbVNqX3ZmWWdkZVZ6aDNBZGNCdTlienByY2ZfMmZNQ3dJbzFFY1ZJVTdBYVlCTXZqbTNveHZIaHJtU3BkSmFoZFZSV2YyaXhkVVc0OFAtck5CZUtRUHdtVkdsOExnbEZ2ODc3NlRCV3lUN3ZVdmFwUk5tYTZrT01DVmNmdm5Sd1FIWlE?oc=5",
+   "source": "オトクレ",
+   "summary": "青切符の反則金がスマホで納付可能に、2027年7月からカード・QR決済に対応 オトクレ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-25T13:00+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
    "id": "873e834786262a3e",
    "title": "ベトナムにおけるQRコード決済は、過去5年間で20倍に増加した。",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYm5uR0tXekFZU3E1NGhGeUtwTVdSU2hvUGV0WVNaYzBzbm82X3RCdERaaFhydWUwTGppaFBJUV80aW1hcWdZZkVlS3AtbUlKM0E3TkhOVGdLTXJtSVJzZnRaUF85VXpwQldaWk9VT2cySFR5eVR6ZDlKbXRnZ2Q0elZzUVA4MWQtbkNEZy1EdGU2UQ?oc=5",
@@ -4019,6 +4400,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "a3f1d2fb2c4d54e3",
+   "title": "西武 タッチ決済乗車サービス 提供（2024年12月16日～）",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LUHczeDU4YVluWFNaWE1tYTBRcjFtN0djY1pYTF9YejJsUVFic3FLNzVVSFlWSVcxcWRycGo4bW82aFlGOGhfeHYtRlQ?oc=5",
+   "source": "Tetsudo.com（鉄道コム）",
+   "summary": "西武 タッチ決済乗車サービス 提供（2024年12月16日～） Tetsudo.com（鉄道コム）",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T16:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "760b41be4c565b80",
    "title": "teppay、本人確認はなぜマイナンバーカードだけ？ JR東に理由を聞いた",
    "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002547/",
@@ -4679,6 +5073,19 @@
    "type": "news",
    "published": "2026-10-23T05:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "76e1b39f133024d1",
+   "title": "青切符罰金納付 キャッシュレス 警察庁 来夏にも導入",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fYi13X0F4bzFNNDhPTUk0MnZTN1ZlNVh4Y0ZkSGI4SmxpYS10TG9SbVFnVzhZNXpGNXRoSFhaUENTN18xdXZBakpMdUo3ZVpETjVjNW9TckZhUVZiUFE?oc=5",
+   "source": "沖縄タイムス社",
+   "summary": "青切符罰金納付 キャッシュレス 警察庁 来夏にも導入 沖縄タイムス社",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-23T03:57+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "29cb71df480ee3d1",
