@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T15:16+09:00",
+ "updated_at": "2026-10-29T16:38+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "be2fc63d68a418cb",
+   "title": "ホテルのコインランドリーも完全キャッシュレスの時代！ホテルランドリー「wash+ Comfort」がAlipay+決済に対応",
+   "link": "https://prtimes.jp/main/html/rd/p/000000247.000053641.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社wash-plus] [画像1: https://prcdn.freetls.fastly.net/release_image/53641/247/53641-247-e621bd40e7bf919c2f641270bd5a830e-1060x530.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-10-29T15:58+09:00",
+   "company": "株式会社wash-plus",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "d5ce3c2c1cd13bc4",
    "title": "「d払い」アプリおよび「dポイントクラブ」アプリで群馬クレインサンダーズのオリジナルきせかえデザインを提供開始",
