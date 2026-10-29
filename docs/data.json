@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T17:23+09:00",
+ "updated_at": "2026-10-29T18:24+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -229,6 +229,21 @@
    "via": "PR TIMES 新着（直接）"
   },
   {
+   "id": "abd592330ab6c696",
+   "title": "Akerunとジム専用AIカメラ「GYM DX」がAPI連携を開始、「共連れ」の防止や不正利用を可視化",
+   "link": "https://prtimes.jp/main/html/rd/p/000000129.000011385.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社Photosynth] 株式会社Photosynth（本社：東京都港区、代表取締役社長：河瀬航大、以下フォトシンス）が提供する、スマートロックを活用したクラウド型の「Akerun入退室管理システム」（以下、Akerun）と、株式会社Opt Fit（本...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-29T15:45+09:00",
+   "company": "株式会社Photosynth",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
    "id": "cefdcca19c51d59d",
    "title": "三井住友カードが18～24歳対象にクレジットカード利用調査、半数以上が「大学入学前～2年生」で初カード作成",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94REFlYVA2YmQ0bUJUa0NHc2VhN1VIc25kSGl3OXg3QkNiQXZTaEs5QXRhYi12NjBGaUlKUDl5bS1iOHVOZks1ZjF0QmxxTXh1Z0FydDRBSQ?oc=5",
@@ -348,6 +363,21 @@
    "type": "news",
    "published": "2026-10-29T14:56+09:00",
    "via": "ITmedia NEWS"
+  },
+  {
+   "id": "518b87a56d5d0259",
+   "title": "au PAY アプリで「ちょいのせ入院ほけん」の募集を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000169.000020989.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[auフィナンシャルサービス株式会社] auフィナンシャルサービス株式会社（本社：東京都港区、代表取締役社長：長野 敦史、以下「auフィナンシャルサービス」）とau少額短期保険株式会社（本社：東京都港区、代表取締役社長：林 祐介、以下「au少額...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T14:41+09:00",
+   "company": "auフィナンシャルサービス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "52771f1500bc0d5d",
