@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T07:14+09:00",
+ "updated_at": "2026-10-29T10:33+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "135bda398c6dc4ff",
+   "title": "SMBC日本シリーズ2026優勝を記念して「ソフトバンクホークス 日本一キャンペーン」を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000001106.000022656.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[SB C&S株式会社] ソフトバンク株式会社 PayPay株式会社 SB C&S株式会社 PayPay銀行株式会社 ソフトバンク株式会社、PayPay株式会社、SB C&S株式会社およびPayPay銀行株式会社（各社とも以下「株式会社」の記載を省略）は...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T09:40+09:00",
+   "company": "SB C&S株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "5047ef290a2ff8a4",
+   "title": "【TechSuite株式会社】【業界特化調査 第28弾】AI検索パートナーズ、決済代行会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜上位2社が各58.3%で並ぶ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000197.000118298.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[TechSuite株式会社] TechSuite株式会社（本社：東京、代表：畠山夏輝）が運営するAI検索最適化（LLMO/AIO/GEO/AEO）支援サービス「AI検索パートナーズ」は、主要3つのAI（ChatGPT・Google AI Overviews・Microsoft Copilot）に対し、...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-29T09:00+09:00",
+   "company": "TechSuite株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "30c9d42263d59084",
    "title": "チャージから店舗・ネット・請求書の⽀払いまで「au PAY」をAndroidスマートフォンやiPhone&Apple Watchでつかいこなす基本＆活⽤術[Sponsored]",
