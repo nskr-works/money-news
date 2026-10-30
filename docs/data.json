@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T14:20+09:00",
+ "updated_at": "2026-10-30T16:37+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,22 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "b1a9ed5c1df20659",
+   "title": "操作レス連続決済端末「TMN Fast Gate Ticket」2026年10月提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000098.000064450.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社トランザクション・メディア・ネットワークス] 電子決済サービスの株式会社トランザクション・メディア・ネットワークス（本社：東京都中央区、代 表：大高 敦、グロース市場：5258、以下 TMN）は、定額での連続決済を操作不要で高速に処理できる決済サービス...",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-30T16:01+09:00",
+   "company": "株式会社トランザクション・メディア・ネットワークス",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "5520e1039f1e2a05",
    "title": "【1位は20,000Pontaポイント】au PAY決済でお得！「博多ラーメン好き、集まれ！Pontaポイント争奪キャンペーン！」を11月2日（月）より開催！博多一幸舎など対象8店舗で実施",
