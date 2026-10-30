@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T07:15+09:00",
+ "updated_at": "2026-10-30T11:21+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,168 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "e2356dca3b567866",
+   "title": "TISIとCARDNET、ステーブルコインによる店頭決済を実証、加盟店精算・経理業務を含む一連の運用性を確認",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HbFRTc2EtazU2dFFRdzROcXJISDlPbUNlQW1pc25Fblo3OG8wVE84V000Z0RsRE5rV3ZCenpsSDdTcHhTTkN2MWh0akxwYmVkMi1hS01Eb05QRzdIOS10YXdMVE9oLW1Rd2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "TISIとCARDNET、ステーブルコインによる店頭決済を実証、加盟店精算・経理業務を含む一連の運用性を確認 PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-30T11:10+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "ＴＩＳＩ株式会社"
+  },
+  {
+   "id": "b8c7d12aea5c3d82",
+   "title": "ネットプロテクションズ、NP後払いで購入者が注文後にクレジットカード決済へ変更できるオプション機能を加盟店向けに提供開始",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KbHJnT1V3Y2U4cHBwLTB3LVRpSFdCVEdfZ3BtQ0twMVc2Y1hiU29veTNzd2NOdUttX211VXotQUtDQjRwQTVpU0JFLTVVdW44cjVHc2d2dDctajF5YmVPbnh6Z3FHVUlKdnA1cw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ネットプロテクションズ、NP後払いで購入者が注文後にクレジットカード決済へ変更できるオプション機能を加盟店向けに提供開始 日本経済新聞",
+   "categories": [
+    "cashless",
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-30T11:02+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "26d2267a877c44cb",
+   "title": "ネットプロテクションズの「NP後払い」にクレジットカード決済を追加",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVG5LREo0akJDcDB5YUQ5VkxsSkU0VExTT3l4NWJYdEFUSm5pbFctbkdxTGM3Qk96TFlISkQxMDROT1pUUFNZZmIzVjlaUGhTSVJtbWRSV0k2RTFqMnpRMzRFYzg5cG04WWNr?oc=5",
+   "source": "時事ドットコム",
+   "summary": "ネットプロテクションズの「NP後払い」にクレジットカード決済を追加 時事ドットコム",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-30T10:46+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "c8aa4aab22a69adf",
+   "title": "「 SaaS の終焉」は本当か？ Stripe データに見る AI 時代に急成長する SaaS の特徴",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkxtbjhQdC1va1ZEd0x2dGplcWFsTmdqbTZyTmJvbk5TZ0NLZDhVSjRvb2g1UUM5U1E1RDlEcmNzYUxqb1l2SDJXTjU5RXB5cVFEVW1BOHF4ZDFXRTU3dmxJZWJRRGdYeERETmRFQzcwR2JGS24yZWV6RjRtbnRiZkc4aWpscExTRmJOUnhB?oc=5",
+   "source": "PR TIMES",
+   "summary": "「 SaaS の終焉」は本当か？ Stripe データに見る AI 時代に急成長する SaaS の特徴 PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-10-30T10:15+09:00",
+   "via": "PR TIMES（決済）",
+   "company": ""
+  },
+  {
+   "id": "aa0d02553014c85a",
+   "title": "UCPを活用した「AIコマースシミュレータ」開発（SBPS）",
+   "link": "https://paymentnavi.com/paymentnews/184462.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月30日10:03（JST） 【日本】SBペイメントサービス（SBPS、日本・東京）は、AIエージェントを介した新たな購買体験「エージェンティックコマース」への対応に向け、Universal Commerc […] The post UCPを活用した「AIコマースシミュレータ」開発（SBPS） first appeared on ペイメントナビ .",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-30T10:04+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "b350806d1073f2db",
+   "title": "株式会社セカンドライフパートナーズ、新サービス「身元保証・保証人紹介サービス」を開始 – クレジットカード決済と口座振替も導入し利便性を強化",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MOHhZM3hNdWwxeVp3d1VUSXBNeE9qbjliWEpiQndtaktGbmxrWExxVWs5SkhJTGRlYV8xeE1qa2ZqeWxIMzhBbGd6WGQ5S3NFQjltYWtteUNBU24xTDl6VVRNekc5M2xMcFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "株式会社セカンドライフパートナーズ、新サービス「身元保証・保証人紹介サービス」を開始 – クレジットカード決済と口座振替も導入し利便性を強化 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-30T09:54+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社セカンドライフパートナーズ"
+  },
+  {
+   "id": "97f868f8e66f277f",
+   "title": "アイリスオーヤマの通販サイトに不正アクセス 情報漏えいは「調査中」",
+   "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002737/",
+   "source": "ITmedia NEWS",
+   "summary": "現時点の調査では、クレジットカード情報の漏えいは確認していない。その他の情報については引き続き調べる。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T09:43+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "b62c42e8e8e70ce9",
+   "title": "フライトソリューションズ－大幅続伸 上期営業益を上方修正 決済端末の販売好調〔DZH 個別株情報〕(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1RJRDRkSjF4c1NOWGVzeEVDelZONnowWUVtbHBDRi1QQmI2NTZhbDR0a3ZmZ0ZFM1VQYWszMmpsb3NTQUc2NXRZTWpGejNJNHdicm1UeHd2aWtrVERRV3ZPYnZKM3R0OExpRWFORTZPZjVUejk5LTRLNXZvZGhkakNYMFRkNlk?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "フライトソリューションズ－大幅続伸 上期営業益を上方修正 決済端末の販売好調〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-30T09:27+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "2784a2e7d3ae1aff",
+   "title": "AIエージェントを想定した商品検索→購入・決済連携の購買フローを体験・検証できる「AIコマースシミュレータ」を開発、SBペイメントサービス",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFhrVDB6bXY4X2VHaVFhWkxfRGp5amVlZ2kzc0VMN1NGU1dXMjBMQWlET29WU3RWc2tOZTI2RGV0R2U5ZEQwRUtBS2dmM1FXNlctQzRyY2EtN09xLXZ5NS00T2ZvZ2ZYNHFiYmNycUhjRHVzWmNjTmlkMHdtUXh2QXlkaTVjQ2pGLTZDZVkyaHFlMDRUSkhSb0kteFdmWDlmRjhvMW1rdnE5MzVjQ1R30gG0AUFVX3lxTFA3bE9xWTVQSG80bHpScEZGdGdsNHFyUHRraklrbG1rellqNFNjWmhwa09zcnoyZmJFOUF3ejZNYmFoQTVaYlFMUHRiSGlBMjd4ZVRoZmd6M2NxVVFtcFJycVFYY0QxSUJwdDVrd1lSMXJlRjRPUUpzUFVIMnFjbFlwQmQ1eE1pQl9iM0JXMUJYZjBvMlhfZS1zSTlrUW5qdktkRC1aVG93NG9IZlJNSjlZXzd2Wg?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "AIエージェントを想定した商品検索→購入・決済連携の購買フローを体験・検証できる「AIコマースシミュレータ」を開発、SBペイメントサービス ｄメニューニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-30T09:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "0e191b9ae4e2931a",
+   "title": "クレジットカードを持っている学生は77.8% - 決済額は月いくら?",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hb3JGaEw4UUlRc051QWdIMzhtUEJjVW44ZEp4ODVHZGdpeWMyZDA2Um5RRzl0aHVoMnlabEV2R2ItWlhmcEI4cVdkZnJseUFKS1BSWUp5NW5FMTJH?oc=5",
+   "source": "マイナビニュース",
+   "summary": "クレジットカードを持っている学生は77.8% - 決済額は月いくら? マイナビニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T08:42+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "a2c899af936372fd",
+   "title": "「初めてのクレジットカード」をつくった時期はいつ? - 新社会人は6割が見直し意向",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03djdrdnBnaG9IZWx1SGdIOFVwV1hiVUYzNEJuTUFEdmhPYTFPMDlYNGRaNlhzeFEwZE1aNmtvaVRQTTV2cUtVSnl2eTN0SFZBRHZtV09FcmNBMy1Q?oc=5",
+   "source": "マイナビニュース",
+   "summary": "「初めてのクレジットカード」をつくった時期はいつ? - 新社会人は6割が見直し意向 マイナビニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T08:40+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "5c55ade107294821",
+   "title": "【エブリイ】停止していた電子マネーきょうから順次再開 プログラミング言語ＰＨＰの脆弱性に対応 広島",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MSk9EdzFfSVB5VUwyYU11NFVJLUNFT0NOekpuVzZMWDVhWFkwTU52MXpLVlRucU44a2JjY2hnb2c5T3o5ZUxJcjgwY04wZG1tWlBZUVhfT0tBdWZKN1c0RWVtZXlaVFJJTmE5LVJSRWhEd9IBckFVX3lxTE5MSk9EdzFfSVB5VUwyYU11NFVJLUNFT0NOekpuVzZMWDVhWFkwTU52MXpLVlRucU44a2JjY2hnb2c5T3o5ZUxJcjgwY04wZG1tWlBZUVhfT0tBdWZKN1c0RWVtZXlaVFJJTmE5LVJSRWhEdw?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "【エブリイ】停止していた電子マネーきょうから順次再開 プログラミング言語ＰＨＰの脆弱性に対応 広島 ｄメニューニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-30T08:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
   {
    "id": "a149c414f4268238",
    "title": "SBPS、加盟店のエージェンティックコマース対応を構想 AI購買の検証環境を開発、標準規格「UCP」活用",
@@ -2204,6 +2366,20 @@
    "published": "2026-10-28T10:45+09:00",
    "company": "株式会社クレディセゾン",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "60096e040bcd6805",
+   "title": "三井住友カード Visa Infinite、 Olive フレキシブルペイ Visa Infinite 会員さまを 「2026 MAMA AWARDS」にご",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczc5dDRBYzcyckppREN5UVEtdTF6ektsaFF6Q0tzbkRMZ2c1Tkl6bmdHYU1HTmxkQjRUSkhiazdIZDM2b2xmWnFBUGhQVjctbnEwenRaX1NwakZpelhhaVRIMGZiUDF3SnVKTjFoZFJnanRXRk5DUDctSWFTam9tck5ORllvZ3pEMjM4?oc=5",
+   "source": "PR TIMES",
+   "summary": "三井住友カード Visa Infinite、 Olive フレキシブルペイ Visa Infinite 会員さまを 「2026 MAMA AWARDS」にご PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-28T10:41+09:00",
+   "via": "PR TIMES（決済）",
+   "company": ""
   },
   {
    "id": "660bcb80e34ed431",
