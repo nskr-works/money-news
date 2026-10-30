@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T16:37+09:00",
+ "updated_at": "2026-10-30T17:24+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,112 @@
  "topics": {},
  "items": [
   {
+   "id": "4c387bce934661ab",
+   "title": "キャッシュレス順次導入 道南バス、来月１０日から運賃箱更新（苫小牧民報）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfdkpPTnVpWDFPMWhXTy1BTDA5YUl1YndFREpfYm5Renh1ZzAtRHlTS1otRFViOC10S2I0Z2N1YzUxVkFKVUx4V1VQSXpudFRpUl9JSU9GYU5NQUh4TkhkeHI4LU1lcWxyVGc2ajU1dzBhV0tiQUstNUJXQjBQOE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "キャッシュレス順次導入 道南バス、来月１０日から運賃箱更新（苫小牧民報） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-30T17:07+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "143e87724cee9937",
+   "title": "「詐欺ですよ」 コンビニ店長、電子マネー被害を防いで感謝状 千曲市",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUX2loTHdIUWUtZG92TE1OUHFkSENKWFdyNF81WUVQNjN3U0pqWjBVOG1HNVJmNWpfV09mOUgxR0U3TXFVTU1BRmZzYnd1eHVpekFvUGdpMmozOXlpTHd6RF9mU0oyYlJ1bGctMHBRcWU?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "summary": "「詐欺ですよ」 コンビニ店長、電子マネー被害を防いで感謝状 千曲市 信濃毎日新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:45+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "3ad2e856b10ab3af",
+   "title": "「みまもりCUBE」に不正アクセス クレカ情報190件が漏えいした可能性、セキュリティコードも対象",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNd1EyRnY3U1lnVURfNGJJeGJKQTZRNDVvMjVPa1NUMXVFZkR4YVR2VHVWQ1VZUVZQSjdBS3FGU1ZFMkNiZU1fdkx2NFNzOGczRnQwYjVMc2RZNE1XNE1F?oc=5",
+   "source": "Infoseek",
+   "summary": "「みまもりCUBE」に不正アクセス クレカ情報190件が漏えいした可能性、セキュリティコードも対象 Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:26+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8b837a7e037af102",
+   "title": "ベトナムのハノイメトロと都市鉄道で「クレカ乗車」導入に向けた覚書を締結（JCB）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LU01ERWlZMVZCRTZ0YUtQaEpqSFVLLTZENkZlMnFqdERnakVqVXExcVpjR2xfbi13c3I0VC12Rk9lekhKR1JoS2o5ZWVkaVNDVVhxaDQzenpLajg?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "ベトナムのハノイメトロと都市鉄道で「クレカ乗車」導入に向けた覚書を締結（JCB） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:24+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "953ab5829edf7a3f",
+   "title": "「インフルエンザお見舞い金」加入件数が20日間で5万件を突破（LINEヤフー）",
+   "link": "https://paymentnavi.com/paymentnews/184454.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月30日16:20（JST） 【日本】LINEヤフー（日本・東京）のグループ会社であるPayPay保険サービスは、PayPayが提供するキャッシュレス決済サービス「PayPay」内の「PayPayほけん」ミ […] The post 「インフルエンザお見舞い金」加入件数が20日間で5万件を突破（LINEヤフー） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:21+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "534885a00f89f198",
+   "title": "サイバー攻撃で問われる便利な世の中への不安……。はるな「クレカ会社からきた書面も疑ってしまう」",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00VDlWNDVtcEs5THh6dEFMTkxtTER4LXdpb3MxeC01LVVkQlMwNDY4YThzUFA1M3FuM0t5UFlGZjRsbS0xcVMxbjVSNFNhNVhNb0pPdVVR?oc=5",
+   "source": "文化放送",
+   "summary": "サイバー攻撃で問われる便利な世の中への不安……。はるな「クレカ会社からきた書面も疑ってしまう」 文化放送",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:17+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "74c281c390b9bca4",
+   "title": "ANAで約3.8万人の予約情報参照被害 パスワード・クレカは無事？現時点でやるべき対策（中山智） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd204Zm1JVThSVHpGczRoRjdWY1lZbmpaWGw0aDBDdnZuM1RGbms4Q3phN3dIU1hTazhpRUtQb2RvNE1rcWlJLXhRMDlKMUVISlU2d1dDZUVPUkY0MkNTYldLdzE1cEZCYVViN1huUHF0UGh1MjdKT3d4WlpDTHdlcjZKWDhmN2pi?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ANAで約3.8万人の予約情報参照被害 パスワード・クレカは無事？現時点でやるべき対策（中山智） - エキスパート Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "875ad9e28b7137ec",
+   "title": "「au PAY」で決済額ランキング始まる、11月は1位に2.5万ポイント",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2152672.html",
+   "source": "ケータイWatch",
+   "summary": "KDDIは、11月2日からau PAY加盟店での決済回数や合計決済金額などをキャンペーンごとにランキング化し、特典の対象順位となったユーザーにクーポンやPontaポイントなどを提供すると発表した。",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:07+09:00",
+   "via": "ケータイWatch"
+  },
+  {
    "id": "b1a9ed5c1df20659",
    "title": "操作レス連続決済端末「TMN Fast Gate Ticket」2026年10月提供開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000098.000064450.html",
@@ -42,8 +148,98 @@
    "type": "release",
    "published": "2026-10-30T16:01+09:00",
    "company": "株式会社トランザクション・メディア・ネットワークス",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "f1350623622ba315",
+   "title": "【学生のクレジットカード利用実態調査2026】人気のカードや、申込時の収入・困った経験とは？",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAycWRNakppY25fRlR5dGNGZVctYldoZVFYa0hyYUwxQzB3dy1XQnlxWjNIVy1hQ09lMkhFd1M5MDhRZmJjNmF4VGptUGNYVkZhdGFHc1d0d1J1dWFWdTY1ODZTQUV5YXg4dlFj?oc=5",
+   "source": "時事ドットコム",
+   "summary": "【学生のクレジットカード利用実態調査2026】人気のカードや、申込時の収入・困った経験とは？ 時事ドットコム",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-10-30T15:46+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d9733debcbf9461f",
+   "title": "背後に中国の犯罪組織か! 中国人男女を逮捕 他人のクレカ情報悪用し物品購入⇒フリマサイトで転売 転売の売り上げ7億4000万円 静岡県警（静岡朝日テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DVl9NQkpKQTJyMExGTXo1Rnd2OWVaZEM1Qms4MlNPQTNnX2wyQWFwTkxueDFfN19RdUVRNHNuRVhnSjN0QlFRVnZ3UVlSWHFlak4wVFJSOGhsY0I1UDl2eWZNR1RWb2tQcU52SEpJeHFsemtIb19aM0hLOFFqUVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "背後に中国の犯罪組織か! 中国人男女を逮捕 他人のクレカ情報悪用し物品購入⇒フリマサイトで転売 転売の売り上げ7億4000万円 静岡県警（静岡朝日テレビ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T15:28+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a2ce07b7ec420839",
+   "title": "3ヶ月ぶりに“クレカ明細”を見たら「身に覚えのない請求24万円」が！「カード会社に連絡すれば大丈夫」と思ったら、補償されるのは“9万円だけ”!? なぜ「15万円は自腹」なのか…注意すべき60日の期限とは（ファイナンシャルフィールド）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53d2twbDdWdVdGaEdZejVSTUxDeklWaVRabFpnVVdYc1A3amRnekNkWlJYSDIxNkx0blFMOThsblc5X01wR1lMWjFlcWVLNTEyd0R4Q0ZiTG9zRFJsVDVvUGNPWjdxU3RYZWpfVTBwVHRaVjNmN3UzTl9JZ1ExV1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "3ヶ月ぶりに“クレカ明細”を見たら「身に覚えのない請求24万円」が！「カード会社に連絡すれば大丈夫」と思ったら、補償されるのは“9万円だけ”!? なぜ「15万円は自腹」なのか…注意すべき60日の期限とは（ファイナンシャルフィールド） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T15:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "bb55ba075a37da7a",
+   "title": "日本クレジット協会、8月のクレジットカード動態調査集計結果を発表",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xdFkyb05sTjdZREdrMHlsaWFiTmxCcmNFQXU5WFRDREctX21XU1RmNXhtLV9BOUtMUjFDR2NEQWdodUJBcjNqTjdpdDVfLTVtS0xKMkJxdjZmS2lEM2FGZ0hFaVh0bGdBQ0xvVg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "日本クレジット協会、8月のクレジットカード動態調査集計結果を発表 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T15:00+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "7e453838deaacaf0",
+   "title": "au PAY、11月は岩手県野田村で最大20％還元キャンペーン",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2152632.html",
+   "source": "ケータイWatch",
+   "summary": "KDDIは、11月に実施される「あなたの街のau PAY キャンペーン」を発表した。岩手県野田村で最大20％還元キャンペーンが実施される。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-30T14:36+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "cefee5a37f5729bf",
+   "title": "偽のファンページ経由で注文したため、クレジットカードから約1億ベトナムドンが引き落とされた。",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcE5aeFJrUmkyclBBNldOdE12ckVfVWlwMDJ6Z042ZFdURzFmcHltNGhOXzdMZ1g1VVJJSnlHajhtczRoR3J0blhUdTI0b05xT1BrUE42ZU1YcGtmUlhLNXJNSTg4T04zZlZ1SGZOSHIyS3pLdTlKUHZ6WlVhXzVMS0JfdkVDenhyTFp2MnFkWkttRU9kRW9FWUc3QWg?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "偽のファンページ経由で注文したため、クレジットカードから約1億ベトナムドンが引き落とされた。 Vietnam.vn",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T14:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "89ef4cbcbe15b15f",
+   "title": "ワールドの個人情報流出か 子会社で120万件、住所や電話番号 クレカ情報は確認されず",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02MHhnSVV5WndzczM5bk52UVotN25fSE1YSmtrT1k3cHFiUmF1R21yeTRIRGlRcWU0cUZPbEhrLXJBZHZfaDAxakp0NVp6TzZKVmxYdXF3SlY2NzV5WHB3TVkyY0Z6U3VTSjNUeF9hdjFKazRKeUE?oc=5",
+   "source": "産経ニュース",
+   "summary": "ワールドの個人情報流出か 子会社で120万件、住所や電話番号 クレカ情報は確認されず 産経ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T14:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "5520e1039f1e2a05",
@@ -194,6 +390,32 @@
    "type": "news",
    "published": "2026-10-30T12:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1917ceb6a5d086a5",
+   "title": "クレカ番号全16桁流出か セキュリティーコードも フィギュア販売会社に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90TGNsX1dhY0VHNkIwU1A1RXBjdmIxZzZPRmVTcGR1YUtOeFNwTWlUUFBjYXpRTjNtVTVRTUxHZGZmVlFaTk93dmpDRkRoWExsZmZrMHpMdmtfUUdXekxFXzZkY0RHU3dDWFhfM21kSmR6Zw?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "クレカ番号全16桁流出か セキュリティーコードも フィギュア販売会社に不正アクセス テレ朝NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T11:59+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "800dbd00a4a7c908",
+   "title": "スマホ決済サービス アーカイブ",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY3I1NXJnN016bHBKcjhXN0xSMWROYzEyRkZKWWxqZjB1QkpUSDZNZE9Ud2ZyVV9POU8wcFI0cW1QZnE1LWxPUWlHeDJEcnVsa3p4MUhFdXdVTUpYR2pjd3hrakdrRDN1aWpha2JyTEx3ekw5cmxUdnVTb3IxQm5CS25yUkxFNnkzVFlUWjZieW0wYzQ1NC1yZm40andkdnZobVBvWUNSR1U1cDd0SXdJaDdtRQ?oc=5",
+   "source": "マイライフニュース",
+   "summary": "スマホ決済サービス アーカイブ マイライフニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-30T11:17+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "e2356dca3b567866",
@@ -1247,6 +1469,19 @@
    "via": "Googleニュース「決済代行」"
   },
   {
+   "id": "7292c0835dc136b5",
+   "title": "グッドスマイルカンパニー、クレジットカード情報が漏えいの可能性。特定期間中カード情報を入力した可能性がある2800名が対象",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BXzFtcjNYUUxnOEVwaC1mdk8weFNoOGZhWDIyb2FCaTQyZklFLU1oSEdRZ0t3TU1hWmlNT0R0cnA1TXRNQk1XM2VZdjRPdWpiSGIyMlR0bDdLUQ?oc=5",
+   "source": "電ファミニコゲーマー",
+   "summary": "グッドスマイルカンパニー、クレジットカード情報が漏えいの可能性。特定期間中カード情報を入力した可能性がある2800名が対象 電ファミニコゲーマー",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:29+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "3a964fb802f82ef9",
    "title": "クレカ積立におすすめのクレジットカードランキング16選",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3U2pyaE5LQy1laUxZb2dlc2dSQ21ZVll4dnNTTjNVRTlsMVZKUl9aa0xLVmY5WUZHNEk1Qk9Vc0pYdG9lQzdDZU1lNzB3V2VsRTBOQWlzMUJVTU1fcVI5RUtQVjBNZ19Ubl9iS2FpWHFkdw?oc=5",
@@ -1392,6 +1627,19 @@
    "type": "news",
    "published": "2026-10-29T11:33+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "a4a280e7027abca5",
+   "title": "【詐欺にあいました】ネット通販の罠「まさか自分が…」クレカ不可と怪しい振込メールで全額騙し取られた体験談",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xeWUtUDFXcnJoLW5mTnFKcGw1eU5mcFJQX1hMenp5WTRSMk82ZzRWT1NLTGJYbEJZWkc1LVoza3NfTmtMN1ZHQ0N6SFdFcHdvLTJPdnU0bUp0ZmVSV2Z2UmZYMThpbEwzNFpDekJ3NXNLMGlqYlRIWFk5MnluTHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【詐欺にあいました】ネット通販の罠「まさか自分が…」クレカ不可と怪しい振込メールで全額騙し取られた体験談 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-29T11:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "af12e5319bd8674a",
@@ -3093,6 +3341,19 @@
    ],
    "type": "news",
    "published": "2026-10-27T16:19+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4a736b146bedad63",
+   "title": "クレジットカードおすすめランキング【2026最新】人気クレカを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE41SkEtcFN6VzhYT1VteHZkcExsZkZEczlpRnRoSTJBY3ZsUHZYbTdoazlVTFdmcVdHaUh5MjNmX2ZQNkZ0?oc=5",
+   "source": "みんかぶ",
+   "summary": "クレジットカードおすすめランキング【2026最新】人気クレカを徹底比較 みんかぶ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T16:00+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
