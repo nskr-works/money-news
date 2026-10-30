@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T11:21+09:00",
+ "updated_at": "2026-10-30T12:19+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -57,6 +57,22 @@
    "type": "news",
    "published": "2026-10-30T11:02+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c20d017f791b6ad2",
+   "title": "「au PAY プリペイドカード」を Google Pay(TM) のタッチ決済で利用すると最大1,200円相当のau PAY 残高を還元するキャンペーンを実施",
+   "link": "https://prtimes.jp/main/html/rd/p/000000170.000020989.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[auフィナンシャルサービス株式会社] auフィナンシャルサービス株式会社（本社：東京都港区、代表取締役社長：長野 敦史）は、2026年10月30日から11月29日まで、キャンペーンページからエントリーの上、「au PAY プリペイドカード」を Google ウォ...",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-30T11:00+09:00",
+   "company": "auフィナンシャルサービス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "26d2267a877c44cb",
