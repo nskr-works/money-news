@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T12:19+09:00",
+ "updated_at": "2026-10-30T13:20+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "651885b992d0eb85",
+   "title": "「CHARGESPOT」アプリダウンロード不要！PayPayミニアプリからのレンタルで「最大全額戻ってくる！PayPayスクラッチくじ」キャンペーンを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000537.000033521.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社INFORICH] [画像1: https://prcdn.freetls.fastly.net/release_image/33521/537/33521-537-3c7ec54f4cd57f59386a4d57b32cd3da-1920x1280.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-30T12:00+09:00",
+   "company": "株式会社INFORICH",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "e2356dca3b567866",
    "title": "TISIとCARDNET、ステーブルコインによる店頭決済を実証、加盟店精算・経理業務を含む一連の運用性を確認",
@@ -86,7 +101,8 @@
    ],
    "type": "release",
    "published": "2026-10-30T10:46+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
+   "via": "Googleニュース「後払い・BNPL」",
+   "company": "株式会社ネットプロテクションズ"
   },
   {
    "id": "c8aa4aab22a69adf",
