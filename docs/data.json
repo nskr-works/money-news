@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T17:18+09:00",
+ "updated_at": "2026-11-01T07:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,99 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "527321e71315d15d",
+   "title": "熊本で開始「クレカ乗車で運賃半額」割引制度の今後を考える",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93Q25BSllMVUJ0NWczTF9icnBjY2p2RDFCUEREVkFXQk5nQ2dab0tvUk52OG1sUU53dWFVakE2TlFOWk9lRmc2MGRfMFVYeXpJaTYtTFZuc3pDV1EtR2x5Yi1ReXhKSlFEdVRvVThBcEVyWTladXJQcVpRUmNsNUE?oc=5",
+   "source": "毎日新聞",
+   "summary": "熊本で開始「クレカ乗車で運賃半額」割引制度の今後を考える 毎日新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-01T06:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "89aa69620d58e887",
+   "title": "青切符反則金、キャッシュレス化 来年７月以降、ＱＲコード読み取り選択",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QTFJhWEdpVjZqS0NBZWQ0TmlKTmpLUlFjUTVHNWZ5QWwxNHZ5R0FoOWF2RGZrX0J4OTlyaXByTkdjSEZMXzRvbVZmUEQ2MDBNeE5iVlppOHA2dDVv?oc=5",
+   "source": "朝日新聞",
+   "summary": "青切符反則金、キャッシュレス化 来年７月以降、ＱＲコード読み取り選択 朝日新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-01T05:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "437055e81dbc3135",
+   "title": "窓口でキャッシュレス決済ができるようになりました",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96cU12OE02VmFMS0hLaFR2WGdmaEdjdTJVa2ZxejFZd19nVXBxbGg3S3V4azVKeWJUV0tYcnN6RV9EWkpSY3g1dHlsZGdUdU1GTWVBT2hPNnVIQU4ya3dTZU01N3BuVGFSZmRrSktKT1NTWHc?oc=5",
+   "source": "大熊町ホームページ",
+   "summary": "窓口でキャッシュレス決済ができるようになりました 大熊町ホームページ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-01T00:21+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "a7c43a27c7d510aa",
+   "title": "クラブツーリズムでも約432万件の情報漏えい可能性 パスポートやクレジットカードは含まれず 詳細を調査中",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zbVB3bGRlUk1hWmlBSm93Q1BXdk0yZFFVTmRsc00tNXh1Z0o0d2hUR2l6VjdtTFVtdHFNRjNtMVV1UllqRzZoMnJZMHViVUVCaTNGYi1Qdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "クラブツーリズムでも約432万件の情報漏えい可能性 パスポートやクレジットカードは含まれず 詳細を調査中 TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-31T21:27+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f2a29c45840489bf",
+   "title": "楽天カードが「Google Pay」のタッチ決済に対応開始！ Visa、Mastercard、JCBブランドのAndroid端末での利用が可能に",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OT05MdHI4UHBVV2tib3M4cjFuWGVlS3VQdHlVRUJ3a1RoQThrX0ZieXE2Q0pzWTlTRmtyNmJQTzcxbzd5X2FDT200WUtNQQ?oc=5",
+   "source": "DXマガジン",
+   "summary": "楽天カードが「Google Pay」のタッチ決済に対応開始！ Visa、Mastercard、JCBブランドのAndroid端末での利用が可能に DXマガジン",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-31T19:02+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "8bd29c1cdc5f497b",
+   "title": "au PAYが加盟店別の決済ランキングを開始、11月は1位25,000ポイント",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXNTc3RYbHpoamxfZHB1WGU2WEtyQ3FWRTFNUnNnNmIzRUZZZ28ydVJfek9rRTNMVUdmcmdfeUgtaW83V2FoeFhJaHlTaW1pUjAxTEhqMnd6Y2p3Qm94NzVLanFtdGZ6TDdaeEpIS1d3MU5YUDFMWFRjUlY3NHZ3RTEycXZtbExpckdLdTRQay1KRDBoTE92VkZB?oc=5",
+   "source": "オトクレ",
+   "summary": "au PAYが加盟店別の決済ランキングを開始、11月は1位25,000ポイント オトクレ",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-31T18:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "d4dd66d95fa2ea05",
+   "title": "「teppay」×「ビックカメラSuicaカード」でお得！ 11月4日からキャンペーン開始",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2dHhMRVRxWF93VFNaaFppQ2RHT25iR3UtRl9WcThTbjA1VlBUem9ubWYwQWxBZjQ4cDl5S252U3Vlc0VxbnM4SGU5TG8yNHE4WkR0NEp6Q2RZaUJWTmFjaURBMmY?oc=5",
+   "source": "Excite エキサイト",
+   "summary": "「teppay」×「ビックカメラSuicaカード」でお得！ 11月4日からキャンペーン開始 Excite エキサイト",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-31T18:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
   {
    "id": "0f1d16f5f5b72c56",
    "title": "海外での支払いは現金・クレカでない「キャッシュレス」最新事情 【香港・中国編】（シカマアキ） - エキスパート",
@@ -440,6 +533,19 @@
    "type": "news",
    "published": "2026-10-30T17:30+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "9bf3bc9ef95ac3aa",
+   "title": "トランザクション・メディア・ネットワークス[5258]：操作レス連続決済端末「TMN Fast Gate Ticket」2026年10月提供開始 2026年10月30日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzRWo3T25lTHlCbEtCMWpUOGVuNGRyTVBHMjNHc21pSlplbmVLVTVNMmt6a0lLV3JRTlZ1T2JYOWdJUzQ0MnNobGFHTTc2MmRRbTdjX1FlZ054Tk9iZUlJRV9CdzNnU21Kb2c?oc=5",
+   "source": "日本経済新聞",
+   "summary": "トランザクション・メディア・ネットワークス[5258]：操作レス連続決済端末「TMN Fast Gate Ticket」2026年10月提供開始 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-10-30T17:30+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "4c387bce934661ab",
@@ -1680,6 +1786,19 @@
    "via": "日本経済新聞（Googleニュース経由）"
   },
   {
+   "id": "9b1a1420f9dc0fe3",
+   "title": "楽天ペイは最大10％、PayPayは実質最大20％還元！知ってる人だけ得する「QRコード決済キャンペーン」3選",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0weG1hdzZTLW5zRkZCaFBoeTdhVWZ2YnAxcGRwTXg4Y1c5cGdKV1o0eERsaFNSTkZsVHNPNXp0UGV2dw?oc=5",
+   "source": "女子SPA!",
+   "summary": "楽天ペイは最大10％、PayPayは実質最大20％還元！知ってる人だけ得する「QRコード決済キャンペーン」3選 女子SPA!",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:00+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "be2fc63d68a418cb",
    "title": "ホテルのコインランドリーも完全キャッシュレスの時代！ホテルランドリー「wash+ Comfort」がAlipay+決済に対応",
    "link": "https://prtimes.jp/main/html/rd/p/000000247.000053641.html",
@@ -1887,6 +2006,7 @@
    "source": "PR TIMES 新着（直接）",
    "summary": "[auフィナンシャルサービス株式会社] auフィナンシャルサービス株式会社（本社：東京都港区、代表取締役社長：長野 敦史、以下「auフィナンシャルサービス」）とau少額短期保険株式会社（本社：東京都港区、代表取締役社長：林 祐介、以下「au少額...",
    "categories": [
+    "cashless",
     "code"
    ],
    "type": "release",
@@ -2420,6 +2540,20 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "2bab289787f42cf3",
+   "title": "全国のカフェ・ベローチェで「AEON Pay」利用開始 | イオンフィナンシャルサービス株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxSEQ0SnktTXduMnlRTkliYVdVRkVqSGxvMmkyREdKVlVsaTgxeVltaV9fT29qVHZWSFBQWDVTRDhSVGtPRG1ENEQxak4xQQ?oc=5",
+   "source": "アットプレス",
+   "summary": "全国のカフェ・ベローチェで「AEON Pay」利用開始 | イオンフィナンシャルサービス株式会社 アットプレス",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-10-29T10:00+09:00",
+   "via": "@Press（決済）",
+   "company": "イオンフィナンシャルサービス株式会社"
+  },
+  {
    "id": "1615de241d367874",
    "title": "マレーシアの銀行アプリ、海外5市場でQR決済が可能に",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pei1RM0FRYndlU3B3ZTZXOXNIeUN0c1hOcVNMRDZrWWQyS25LaUlaZ3ZlODUxLVoxU29iUUxaUkV4N2RCRVZ2SDZLRlZOcmZacXJ3Y3hYVWYyazlhd2d0Y2F4RkV6SzNPSTMyNFdsVDdSZw?oc=5",
@@ -2687,6 +2821,19 @@
    "type": "news",
    "published": "2026-10-29T00:00+09:00",
    "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "2de6e0720c15e559",
+   "title": "【徹底比較】プリペイドカードのおすすめ人気ランキング【2026年10月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1hNnlYWGZQbHN3Mllta21hOW03QkZsNjVITE9LV1I5Z2JKUHZaUXhVSnZqbzFHQ3I3RDB5OWhn?oc=5",
+   "source": "マイベスト",
+   "summary": "【徹底比較】プリペイドカードのおすすめ人気ランキング【2026年10月】 マイベスト",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T00:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "1b65bfb22e4f0aae",
@@ -3259,6 +3406,19 @@
    "type": "news",
    "published": "2026-10-28T14:00+09:00",
    "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "9bf9ff406cb07118",
+   "title": "イオン銀、外部ECモールで情報流出か カード不正利用に注意喚起",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CNnRPMmM0R1hmVnU4TzBNeTlWd2dRaXhaVzV6SUtEbERFTm01TEgwSEg2bW5vRFlVdDYycjJWenVYdlVKVXdRQm05ZldhSnUxTTlLZ2FR?oc=5",
+   "source": "ニッキンONLINE",
+   "summary": "イオン銀、外部ECモールで情報流出か カード不正利用に注意喚起 ニッキンONLINE",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-28T13:52+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "108fb4abd5447292",
@@ -4010,6 +4170,19 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9veXZlTF9CbUtISTBJc1BIMFMzYWNqRHJMQ2k1NkpkeGVCT2xqLTJtM1V0YzVaV0lBNUxISlJqem5qSjN4RmtfYkNkaVpYTnRhcl80d0lHWC0?oc=5",
    "source": "QAB 琉球朝日放送",
    "summary": "ECモール「ツクツク！！！」 クレカ情報大量漏洩 セキュリティーコード含む約2万件｜Quebee キュエビー QAB 琉球朝日放送",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-27T15:45+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "656cf2b5bdf56dd6",
+   "title": "ECモール「ツクツク！！！」 クレカ情報大量漏洩 セキュリティーコード含む約2万件（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oOS1KUFNpUDU4bmthYk94MzRhaEtmVnpVM3AwQTktSTlOdmt4ajNrNW9EZGp4M1JFN2t2cmpUZzlLVXdKSTY0aXktb0FLMGplY3RVNVZ4dWlvbkdwWTBDVk1mWVVLUWpyRjNDdHZnbTVXNGJFSEpqcnZQWWFkNmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ECモール「ツクツク！！！」 クレカ情報大量漏洩 セキュリティーコード含む約2万件（テレビ朝日系（ANN）） Yahoo!ニュース",
    "categories": [
     "credit"
    ],
