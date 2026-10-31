@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T14:17+09:00",
+ "updated_at": "2026-10-31T17:18+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,33 @@
  "topics": {},
  "items": [
   {
+   "id": "0f1d16f5f5b72c56",
+   "title": "海外での支払いは現金・クレカでない「キャッシュレス」最新事情 【香港・中国編】（シカマアキ） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjRVeDJ6SmlyeG9UMkZyV3NEQzYwMkoyYjZWUGtLOTl5ei1SRG1memxvSW1xMjFxOWxqN1VGQ0hVRjVYN2lQX2s1MzNaRXJiUVpFSW5GVmk2bXRSdTU4cHRXVERyblFqVkpKLURqdjY2TjZwRGRjX001bVVYZkZxSTVnUHl0LWhL?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "海外での支払いは現金・クレカでない「キャッシュレス」最新事情 【香港・中国編】（シカマアキ） - エキスパート Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-31T16:49+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "fd4da08a8c04f1c3",
+   "title": "2027年11月の現金取り扱い終了に向け加速！ 京王電鉄バスが完全キャッシュレスバスの実証運行を全路線エリアへ拡大",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFekQ4cDQwdU1NRlRFV09pS2VFd3JnY2c0UXdTeE9pd0JrcXdqeDExdnhsQmhhSzExZlpoa0hsM1NEcE1hMkdwckdUZkh5Zw?oc=5",
+   "source": "DXマガジン",
+   "summary": "2027年11月の現金取り扱い終了に向け加速！ 京王電鉄バスが完全キャッシュレスバスの実証運行を全路線エリアへ拡大 DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-31T16:32+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "d71ad7beff9f2794",
    "title": "「au PAY プリペイドカード」×Google Pay タッチ決済で最大1,200円相当還元！ 10月30日から11月29日まで",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80bDF1b1B4U09Jc1g1dHVKWGFmdTdhNWZobkhocnNIbnhKT0Y5RGpQR1p0WXU4Y3o2TDRWQUJBLVViX2dfdFYwU0h2T0t3dlJmUzZwQzF6dWlvdU1zRnNpS2pQRFJjSldPVGc?oc=5",
@@ -55,6 +82,19 @@
    "type": "news",
    "published": "2026-10-31T12:16+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "1e89dddb0838d3b6",
+   "title": "青森みちのく銀行のカード会社2社が合併へ 経営資源を集約しサービスの向上を目指す（青森放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tNzRjcGlUYlRVRWFabW9JY294WUtFR0t2ZTd0eTJrd0xXNTdKWVBIOXFtdjJWSk5IbERBLWJSS2tJYmNGUnl6czlNMVVxbjZNbXRVR1AyTnVrYWdOTlExSE50ZVBoZjZkZUNJUWJFcmNvR1dCb2FuMUhPWTZXaTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "青森みちのく銀行のカード会社2社が合併へ 経営資源を集約しサービスの向上を目指す（青森放送） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-31T11:46+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "521c739d23b2371a",
