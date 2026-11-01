@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T17:20+09:00",
+ "updated_at": "2026-11-02T07:10+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,45 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "97ac2e3107ee4396",
+   "title": "異業種参入相次ぐコード決済 JR東が「テッペイ」をスタート",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tMlEyRW1hc01QQlNfa2p6Yk1Lc0dUMFVDNEFmLW9DbmJDZHppT1hMelNPNEczWkd4Y0x6YVlfSjVITTI2eWFvVWstOXhfVXdzU2RJaA?oc=5",
+   "source": "財界オンライン",
+   "summary": "異業種参入相次ぐコード決済 JR東が「テッペイ」をスタート 財界オンライン",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-02T07:02+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "3294d921268c4ecb",
+   "title": "独自ＱＲ、タッチ、交通系ＩＣ…キャッシュレス決済拡充 道南バス、運賃箱更新",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lTW1NbWxxblR1dVlRQ2hzVXdDOWdhVU1nMnB1RHZ3OWN2VVlxcFN2N185MHRWY2c4bTFubEMxN05wS3o0NkhKUUpVOA?oc=5",
+   "source": "47NEWS",
+   "summary": "独自ＱＲ、タッチ、交通系ＩＣ…キャッシュレス決済拡充 道南バス、運賃箱更新 47NEWS",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T06:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "6cc63d602a526824",
+   "title": "「子どもの電子マネーデビュー」いつからが正解？【お金の重み】を薄れさせないマネー教育のコツ｜STORY（magacol）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbHhJcnJYRFhOSjBQaDBfbk1fR0JSMWxGc05tRTdMMDhxeWFUZ3lCT3BBcTg4c3pOaERmZk9zUVdLTklmQ0NIMkQzMVY5Zks0R05maGpTaHFQaHoxSjdCUXBzRHpiRGhEVVgxMkdGcUxnWDBRQjFYRHY3cllxdVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「子どもの電子マネーデビュー」いつからが正解？【お金の重み】を薄れさせないマネー教育のコツ｜STORY（magacol） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-01T17:30+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
   {
    "id": "4023e3a422f0390d",
    "title": "北区で住民票や戸籍証明書などの郵送請求における「キャッシュレス決済・電子申請」はじまるみたい。",
@@ -3030,6 +3069,19 @@
    "summary": "【徹底比較】プリペイドカードのおすすめ人気ランキング【2026年10月】 マイベスト",
    "categories": [
     "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T00:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "52a779084f7c9f96",
+   "title": "【徹底比較】フリーターやアルバイトでも作れるクレジットカードのおすすめ人気ランキング【2026年10月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5zYzFER3MyejEtOEFrVWNEZ1dBM1JHLWVOZkkzN3BCalQ4LTN6UW9rLVRBQzF2VEdrV1RtOXZR?oc=5",
+   "source": "マイベスト",
+   "summary": "【徹底比較】フリーターやアルバイトでも作れるクレジットカードのおすすめ人気ランキング【2026年10月】 マイベスト",
+   "categories": [
+    "credit"
    ],
    "type": "news",
    "published": "2026-10-29T00:00+09:00",
