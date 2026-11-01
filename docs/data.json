@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T11:24+09:00",
+ "updated_at": "2026-11-01T14:24+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -71,6 +71,20 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "fb245136be218c04",
+   "title": "Global Blue、銀座にリファンドネットワークの拠点を追加",
+   "link": "https://prtimes.jp/main/html/rd/p/000000028.000022577.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[グローバルブルー・ティエフエス・ジャパン株式会社] 銀座エリア周辺の加盟店でのお買物分も現金払戻が可能に 免税ショッピングのグローバルリーディングカンパニーであるグローバルブルーの日本法人、グローバルブルー・ティエフエス・ジャパン株式会社（本社：東...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-01T09:51+09:00",
+   "company": "グローバルブルー・ティエフエス・ジャパン株式会社",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
    "id": "72f9d7eaeea5037a",
    "title": "コード決済「テッペイで」と言うのは恥ずかしい？ コード決済はサービス名を言わなくても使える（菊地崇仁）",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YMks1Y2dubGVsV0pMY0FLbl9ORWVRcFFkeEZDSUw5VkJ3Yk9mY1dyZ2NaVjhMQ2xkTmxWNU9VWDNxY25sQXg3RnVMZGNGckQtNUZ1M1pXUmhlaHotdG1z?oc=5",
@@ -121,6 +135,19 @@
    "type": "news",
    "published": "2026-11-01T06:30+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1c227cf335767a85",
+   "title": "「アナログナース」を見てデジタルを考えた…那須田灯の「AIを嫌い、タッチ決済を嫌い」が小気味いい",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52Z2dKVjdpekJHSjEwNmhCejc5UUlxZFpkUmRQLWVJRzRlRm9NbVozck82V2VkbjJ2RjRiNTEyeXBkb0M5eldUZHJYOXNrdkdUa3JqVnBScDlxMmRZbDdNM1pZenJVR3c?oc=5",
+   "source": "日刊ゲンダイDIGITAL",
+   "summary": "「アナログナース」を見てデジタルを考えた…那須田灯の「AIを嫌い、タッチ決済を嫌い」が小気味いい 日刊ゲンダイDIGITAL",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-01T06:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "89aa69620d58e887",
@@ -520,6 +547,19 @@
    "type": "news",
    "published": "2026-10-30T19:40+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "05e39ddae7e1cb8b",
+   "title": "道南バス、磁気式カード廃止 11月９日限り タッチ決済機導入へ",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmVpaU1sN3ZxaDZZcUlFMmVrbnpNeFhxTFNOODNoNjJPUjZYRXRpTi01cTdwSGp2eXh3NDNPQ29pWWNiSGhyOVd1bmFXdXVOcXh0dUx1NGJHcEtEYW05STF4MHdTamg1a1JXaDdKbGJQVUlFS2FfcExvS3Q5MkZ4dDBQQW1JOGd3?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "道南バス、磁気式カード廃止 11月９日限り タッチ決済機導入へ 北海道新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-30T19:32+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "cd97ede6f4afaae7",
@@ -1885,6 +1925,19 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqeFhEYmtCcC14VDJaN3k5ZVhhTmFvNjVQUWRlMFp3NW9Nc0dYaHAzN0V1R0dMbllzUDc0Ui14QkYtR0xOcFhCQ2FrdXIzeHlPLXJCNg?oc=5",
    "source": "トラベルボイス",
    "summary": "アジア最大級の観光産業展示会「ITB Asia 2026」の責任者に聞いた、旅行先選びは「国」から「体験」へ、AI活用や決済サービスにも新潮流 トラベルボイス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:04+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "96a3de85c18ced16",
+   "title": "アジア最大の観光産業展示会「ITB Asia 2026」の責任者に聞いた、旅行先選びは「国」から「体験」へ、AI活用や決済サービスにも新潮流",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqeFhEYmtCcC14VDJaN3k5ZVhhTmFvNjVQUWRlMFp3NW9Nc0dYaHAzN0V1R0dMbllzUDc0Ui14QkYtR0xOcFhCQ2FrdXIzeHlPLXJCNg?oc=5",
+   "source": "トラベルボイス",
+   "summary": "アジア最大の観光産業展示会「ITB Asia 2026」の責任者に聞いた、旅行先選びは「国」から「体験」へ、AI活用や決済サービスにも新潮流 トラベルボイス",
    "categories": [
     "cashless"
    ],
@@ -4920,6 +4973,19 @@
    "type": "news",
    "published": "2026-10-26T17:30+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "f7ee1a7af356428f",
+   "title": "eL-QR付き納付書で市税以外の公金のキャッシュレスができます",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JcUJ4SUI3b1l0RTByWFZpblVtZlJUYXdhVE1KdmlLWjk4cEt0S3IzbXNTMkR1M0l2WTJiY1R4a1BkckNPa3RPRkwyZVRKbE9KdzdCN2FYZW90YXBhRjhGSkd4UQ?oc=5",
+   "source": "加須市",
+   "summary": "eL-QR付き納付書で市税以外の公金のキャッシュレスができます 加須市",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "08d76b9f6db2cadc",
