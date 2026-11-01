@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T14:24+09:00",
+ "updated_at": "2026-11-01T17:20+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,33 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "4023e3a422f0390d",
+   "title": "北区で住民票や戸籍証明書などの郵送請求における「キャッシュレス決済・電子申請」はじまるみたい。",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Znd1WHlSWEpjYWtsclZ3WERfSmxmQXF6MlY4Z09QNm1hRGRVZlo3S0poU3BJdnJvNEpleGg2dy05ZXJVNUdFTWpvaWQ1el9Kcl8zcDZn?oc=5",
+   "source": "赤羽マガジン",
+   "summary": "北区で住民票や戸籍証明書などの郵送請求における「キャッシュレス決済・電子申請」はじまるみたい。 赤羽マガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-01T17:08+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "fbdef6d0b27e5be9",
+   "title": "「NP後払い」、商品到着後にクレカ払いへ変更可能に 定期購入は次回以降も自動決済",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aM3VLV2l5OTljZUtKeUFXNFNKUks2WkluMzhMVVE3QWxzQU1IQTk3MU9EYTVhUmJLMW9oSGphZEp3UmZhUnUwbTJsZUI5bTh4aUt5WkRscFNtRUdoc2dN?oc=5",
+   "source": "Infoseek",
+   "summary": "「NP後払い」、商品到着後にクレカ払いへ変更可能に 定期購入は次回以降も自動決済 Infoseek",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-01T14:35+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
   {
    "id": "c575bc7e260185d6",
    "title": "全東信が破産 カード決済代行、未払いで混乱 赤字でも銀行は融資継続【やわらかゼミ】",
