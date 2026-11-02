@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T17:42+09:00",
+ "updated_at": "2026-11-03T00:28+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "9c34a56583f37dee",
+   "title": "JCBゴールドおよびJCBプラチナに限定デザインが登場！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001497.000011361.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JCB] 株式会社ジェーシービー(本社：東京都港区、代表取締役会長 兼 執行役員社長：二重 孝好、以下：JCB)は、JCBゴールドおよびJCBプラチナのナンバーレスカードから限定デザインを11月2日より発行開始いたします。 ...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-03T00:10+09:00",
+   "company": "JCB",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "672c400f4be38338",
+   "title": "楽天カード、「【条件達成でもれなく最大2,000ポイント！】 Google Pay(TM) のタッチ決済をご利用でポイント進呈」キャンペーンを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000212.000035783.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[楽天カード株式会社] 楽天カード株式会社（以下「当社」）は、「Google Pay(TM)」のタッチ決済ご利用で最大2,000ポイントの「楽天ポイント」（注1）を進呈する「【条件達成でもれなく最大2,000ポイント！】 Google Pay(TM) のタッチ決...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-03T00:10+09:00",
+   "company": "楽天カード株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "0881516dfb95f297",
    "title": "楽天カード、Google Payのタッチ決済で最大2,000ポイント進呈！ 11月2日から12月31日まで",
