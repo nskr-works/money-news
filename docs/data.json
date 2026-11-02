@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T00:28+09:00",
+ "updated_at": "2026-11-03T05:19+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "3d6172d68787359d",
+   "title": "地方銀行初、銀行アプリとMyJCBアプリの連携によるカードレス型デビットサービス「おきぎんSmartデビット」の提供開始について",
+   "link": "https://prtimes.jp/main/html/rd/p/000001492.000011361.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JCB] 株式会社おきなわフィナンシャルグループの沖縄銀行（代表取締役頭取 山城 正保）と、株式会社ジェーシービー（代表取締役会長 兼 執行役員社長 二重 孝好）は、2026年11月4日（水）より、沖縄銀行の個人向けバ...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-03T05:10+09:00",
+   "company": "JCB",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "e630d04b60499527",
+   "title": "「楽天Edy」、感謝を込めて「楽天Edy25周年感謝祭！250万ポイント山分け！」キャンペーンを実施",
+   "link": "https://prtimes.jp/main/html/rd/p/000000808.000057042.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[楽天ペイメント株式会社] URL：https://r10.to/hPBEko 楽天ペイメント株式会社（以下「楽天ペイメント」）と楽天Edy株式会社（以下「楽天Edy」）は、「楽天Edy」のサービス開始25周年を記念して、日頃の感謝を込めて「楽天Edy25周年感...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-03T05:10+09:00",
+   "company": "楽天ペイメント株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "9c34a56583f37dee",
    "title": "JCBゴールドおよびJCBプラチナに限定デザインが登場！",
