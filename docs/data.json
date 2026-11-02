@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T11:27+09:00",
+ "updated_at": "2026-11-02T12:24+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -104,6 +104,7 @@
    "source": "PR TIMES",
    "summary": "「楽天ペイ」、「鈴鹿サーキット」「モビリティリゾートもてぎ」で利用可能に PR TIMES",
    "categories": [
+    "cashless",
     "code"
    ],
    "type": "release",
@@ -124,6 +125,21 @@
    "type": "news",
    "published": "2026-11-02T10:30+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "371e12b30f1b0189",
+   "title": "対象の方へもれなく500円分の「Visa eギフト」をプレゼント！冬のお買い物を応援するおトクな「バニラVisa／Visa eギフトキャンペーン」",
+   "link": "https://prtimes.jp/main/html/rd/p/000001307.000155396.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社セブン‐イレブン・ジャパン] [画像1: https://prcdn.freetls.fastly.net/release_image/155396/1307/155396-1307-78d607e119967f12826d36ba78a21e00-3201x1201.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bou.",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:30+09:00",
+   "company": "株式会社セブン‐イレブン・ジャパン",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "0c1df7298a8b9221",
@@ -177,6 +193,36 @@
    "type": "news",
    "published": "2026-11-02T10:00+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "ac2f854b7448e8c7",
+   "title": "11月3日～7日は「いいさかなの日」！サステナブルな漁業を推進するアラスカ産天然シーフードの限定新商品「銀だらの煮付け」が登場 ～30円引きファミペイクーポンで、おトクにさかなを食べよう～",
+   "link": "https://prtimes.jp/main/html/rd/p/000002620.000046210.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ファミリーマート] 株式会社ファミリーマート（本社：東京都港区、代表取締役社長：小谷建夫）は、2026年9月に創立45周年を迎えました。継続して取り組んできた5つのキーワードを土台とし、「いちばんチャレンジ」を合言葉に活動...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:00+09:00",
+   "company": "株式会社ファミリーマート",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "43232a9bfc9c101a",
+   "title": "＼フランチャイズ加盟店募集／はるやま発のセルフケア空間『ほっとひと息ステーション』を１１月２日よりフランチャイズ展開始動！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000775.000030981.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社はるやまホールディングス] [画像1: https://prcdn.freetls.fastly.net/release_image/30981/775/30981-775-4b65d6682d2de3b36044e19ccb55ca12-496x608.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am..",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:00+09:00",
+   "company": "株式会社はるやまホールディングス",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "1b2de828233b5244",
