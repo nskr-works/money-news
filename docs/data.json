@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T05:19+09:00",
+ "updated_at": "2026-11-03T07:18+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -41,8 +41,7 @@
    "type": "release",
    "published": "2026-11-03T05:10+09:00",
    "company": "JCB",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "e630d04b60499527",
@@ -56,8 +55,20 @@
    "type": "release",
    "published": "2026-11-03T05:10+09:00",
    "company": "楽天ペイメント株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "c9d021909665c31e",
+   "title": "「キャッシュレス決済2026年総括と2027年展望」と題して、山本国際コンサルタンツ代表／明治学院大学法学部講師 山本",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4ydEVpMl9mSzQ0X3F5b1NsNFIzX3o4TDVDME84YWg0a2xnV1hFaWhCOHR4akcxZzNmcWU2andZQ0VzSmJPYWNGTFNTbU9jNDlfY2JYSHR6UFlXZENGb0ZXcVhjRVh6REdfbnp2VC1kQlZ6em9PMkgxclBxZw?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "「キャッシュレス決済2026年総括と2027年展望」と題して、山本国際コンサルタンツ代表／明治学院大学法学部講師 山本 ニコニコニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-03T04:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "9c34a56583f37dee",
@@ -71,8 +82,7 @@
    "type": "release",
    "published": "2026-11-03T00:10+09:00",
    "company": "JCB",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "672c400f4be38338",
@@ -86,8 +96,207 @@
    "type": "release",
    "published": "2026-11-03T00:10+09:00",
    "company": "楽天カード株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "ac1056b29cdab472",
+   "title": "GMOペイメントゲートウェイで顧客情報69件流出、プリペイドカード番号も",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zTlVaXzlmdGNfSGJOY2trVnJpMnAzdExKdnp0akY1OXRyUzFTdW1uQWpXaXdOUk5OOG1RX1pCaWcyMFE4d2FVbDlrQXljcG5mYk1keC0xZ3hPR3RieU95cjIxVjVadnNuMlVtaVhGcEUwcDZt?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "GMOペイメントゲートウェイで顧客情報69件流出、プリペイドカード番号も BigGo ファイナンス",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-02T22:35+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "9377ac51d70797cb",
+   "title": "楽天カード「Google Pay（NFC）」最大2,000pt還元キャンペーン【2026年12月31日（木）まで】",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa0dRMWFtYlhWQmxKUkNOQjhzRXdNQTZTR2NqZzBVZ3VLdkhRNWpFNXFwMVFYRGhZTEkzNDhDZGRRVVA3M1N1dmJiUVdubFVxUkkyR19OWE9oS2o0RG5kMkdId3hlZ3RiWFdVdEg2OXJxcUI0aWVET20xM3RKLVF6dDFzdVlkSHgycXpEOEE5MA?oc=5",
+   "source": "Jetstream",
+   "summary": "楽天カード「Google Pay（NFC）」最大2,000pt還元キャンペーン【2026年12月31日（木）まで】 Jetstream",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T22:17+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "fe04a55d96c89179",
+   "title": "GMO系決済、プリペイドカード番号など69件漏洩 不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54QnI4SXoyT0RXVGNFZ3l3R0tBYkN5bHJPb0ttTzZPVzZ4UEdxTVk3S1o1V2tNNGFXdGhMbkc5NG1RV2FyanJWSGIzSHJJUG5FS0V1dnA2N0pHT3FWSjg2S2VMOEh3VlNvTEFMSw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "GMO系決済、プリペイドカード番号など69件漏洩 不正アクセスで 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T22:06+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "039db5c4225c1331",
+   "title": "香港、「転数快」年内に銀聯国際と接続 香港居民の海外QR決済、1億超の加盟店をカバーへ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lNmkyRmZfU0wtNkdDVXV5NzJhNWtpVmVvb1g0bFIwRDVqcFVuX29CajdUSmtEb2dtcXlNM1QtTGFkTVBfdXRzWVBmdWtuck5Yc3VmaTFuMFRmNkRCTl9EQUVFR0lXWWMxYTJkSjFNQlFJV0Yw?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "香港、「転数快」年内に銀聯国際と接続 香港居民の海外QR決済、1億超の加盟店をカバーへ BigGo ファイナンス",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-02T22:05+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "7fa067cd0bd9ae99",
+   "title": "クレジットカード高金利、米中間選挙の争点に－超党派で上限求める フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbURaVk8yMjRCMU40MFFvTlZqMFFLMGZYa2duaUhwQUFtbkhYcDJZMHVVZmJTdGxkSld2TjRyNzFPdXAxdUNpUEpVbFJWRG1XNnlCcVZMa0JFX2M2NTFYZ3VkUEI1TFdYTzhsUk1iUk9nblluaHlpU3hNcl9JaTFfLWJWajhqc3RwU3NfX1VRRFA0OVpvQllPanY2TDZORU5RNTV4ejVaMHd3T3BOVUhuZ21wY0pyZWQ0aTlYQnNCRXFXdmdxTHFDaUd2Q2F4WUpubFFSZUZrUWM2TTFsZXEzMDV4REE2TjRQZmJMTHVXOFhFQVY3d3BOVGQ1aXE3aFBXMGFPMkdlYm4?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "クレジットカード高金利、米中間選挙の争点に－超党派で上限求める フォトギャラリー | TBS CROSS DIG with Bloomberg TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T21:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "43d52229cb5c1e88",
+   "title": "GMOの決済代行会社、顧客情報69件流出 プリペイドカード情報も [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1teGE3c2RvNWE5TVFmNTVoUFZ6dGctalFZUHpZNklrelc5OE5lZkdtM3dmenVxT3lJa0hyZzFuVjhMZU1FN3FTeEl0dlF5aHBSM0p4dkVHVTAzaFlHMVc3VnZiZzJZYUU?oc=5",
+   "source": "朝日新聞",
+   "summary": "GMOの決済代行会社、顧客情報69件流出 プリペイドカード情報も [情報漏洩・個人情報流出の最新ニュース] 朝日新聞",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-02T21:19+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "edb409b238a23051",
+   "title": "GMOペイメントゲートウェイで顧客情報69件が窃取された可能性-GMOグループで相次ぐ不正アクセス・情報漏えい公表",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0d3Q1dVZW4zS3RjR1l0TnVMUk9GeUQ4V0VHd0xsRGE4aGxIRlhZd3FNMGJROFlMcHZtUHJMTUJRMklEX20zTU1nZGVxYmV0LVJkU2FmZXk4Q0tKaTJfNUhUQmdQeTRLWk5jX3ZqV0lQa2Ftd3NHSGNYZ0NfV080SEw2ckV5QXE4bzdVMmszZHg?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "GMOペイメントゲートウェイで顧客情報69件が窃取された可能性-GMOグループで相次ぐ不正アクセス・情報漏えい公表 合同会社ロケットボーイズ",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-02T21:16+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "70260f0a3618d026",
+   "title": "Startale、Visa提携のバーチャルカードを発行開始 USDSCで1億5000万加盟店での決済が可能に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBENnpfc2UzTG5RZ2tPNlpQanh2YzJBSDJIeEw3UmF3NFZkbnZDQlhQUG9CN2xHVlQyLXJYYUc0b20zLTRBLXlPRjN6LU5yVld1UWZXQW5LV2dCbXZVQm1ySnFHbHNJYjZ6VGpUMl92bTVZbXNr?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "Startale、Visa提携のバーチャルカードを発行開始 USDSCで1億5000万加盟店での決済が可能に BigGo ファイナンス",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-02T20:55+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "9f97e71e82322bda",
+   "title": "ノジマで個人情報700万件流出 クレジットカード情報は含まれず",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jM2wwdWw1VzlwazducFpVaWJfb0dZWGpuRnpNVmFqSmtSR1B6SEZQMlJxSEgya1JtNktHalV4a2cybTRaaVduX3gyeFl0Q2dMZHlMNEhhVQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "ノジマで個人情報700万件流出 クレジットカード情報は含まれず TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T20:16+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "cb4690a873744e2a",
+   "title": "肌質や髪質も…「＠cosme」で約300万人分の個人情報流出 クレジットカード情報は含まれず",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44Ykp2YjFNTVNXX1l3Z0NxX3FOX3h3NGFkdVlVbFlPekg3T3Z0X1F1aV8xZV9tWDZlbldleFVmdl9Ydk8tc2VNLUlDYWtZbEdaODNxN2FHamdMZk51QUo3T3dyTXh0STROMDQxRUg5S0t4RUtwU1BrZGNaWndPX2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "肌質や髪質も…「＠cosme」で約300万人分の個人情報流出 クレジットカード情報は含まれず Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T19:53+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "db7d32dd0151f978",
+   "title": "電車のタッチ決済で最大55％戻ってくる！JCBが新規入会者向けに驚異のキャッシュバックを開始",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02WTRWOTd1VU1Vczc2Zmo0eUtqMFBoVXNTczUzZk5MVzBlSl92bXU5dlVSY2ctek1EOVdzTlhzZ1lyTUItSUo4YmFTNHI?oc=5",
+   "source": "DXマガジン",
+   "summary": "電車のタッチ決済で最大55％戻ってくる！JCBが新規入会者向けに驚異のキャッシュバックを開始 DXマガジン",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T19:42+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "8ac1224ffc8c6c34",
+   "title": "〈小4〜高2〉100人に調査！電子マネー利用率は57％。親はどんなタイミングで送金してる？｜STORY (magacol)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdnBsVm1fNXA2TjdPM21EMXNIV1NrZWRUOFBiRkxUMVNjOHpBUUE4aHhTTTd2QjJFekpFMGhQVUF1TGdpLWpod1RCdHpobTliUXhsTk9hX1ltZjhZb0ZQdUVSSmpiZlJEcTUxQ3JlWFEtOXNZUFFsZmFPMnpMUkpoQXZvcVZhTDlZS2lIN0JR?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "〈小4〜高2〉100人に調査！電子マネー利用率は57％。親はどんなタイミングで送金してる？｜STORY (magacol) Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T19:37+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "bda19ced3d07cd31",
+   "title": "PayPayの地方自治体キャンペーン、12月以降は関東圏などで最大25％還元／最大1万5000円おトク",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news068.html",
+   "source": "ITmedia Mobile",
+   "summary": "PayPayは、2026年12月以降に実施する地方自治体と連携したキャンペーンについて発表。対象店舗の支払いに「PayPay」を利用するとポイント還元や、プレミアムが付いた「プレミアム商品券」（PayPay商品券）を提供する。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-02T18:46+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "e2d14e83ae65e658",
+   "title": "小4〜高2〉100人に調査！電子マネー利用率は57％。親はどんなタイミングで送金してる？｜STORY（magacol",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oUHlUU3FPdzRtQTg0M2RhV3JCdnBiZWZ3VXpNZkNEdnhONmt3WEF6QTdrTVl1UjRPNVI3d3h6aU1TdnJNWVEtLWZrRURET2cxeDliMWh1a0ViczluWGsyVjZGLXhVSkxHOGlwTVphR01QbmxxRkFOLV82dEtuRms?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "小4〜高2〉100人に調査！電子マネー利用率は57％。親はどんなタイミングで送金してる？｜STORY（magacol Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T18:30+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "58349d25190bb9c2",
+   "title": "「6000万円を援助する」青森県内の80代女性が電子マネー利用権21万円分をだまし取られる",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLTWR3M3FvOEVDdHNzSmZRVktiSXdjRDRSMnJHS3o4LTNnRGtyb21jYnVqR2x2dENjS0xHcDJmSVpPbW53QnBqUzRuczJ5UzdmaG8tUk5JSU1nSGdyd0ZsZ0h2SXUwZ19mWTlVMzE1ZGJaN3pmMWZZY0lwb9IBgAFBVV95cUxPeEgyRGlSUXpGdlpBRlRxUUs3REZJM0l5Vnc0RWFwV3p5NnlTTHBuaVVxOGhiWERRVWVUdnZqY2hYRlB1dHpaMmVoYnJGczA0bmZVdEVRcy0xVWhsaW9iREJockFkalJYMlJfNGRKVEppNlJ6ZnZqQTNva3JTRjhXSA?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "「6000万円を援助する」青森県内の80代女性が電子マネー利用権21万円分をだまし取られる ｄメニューニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T18:16+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "0881516dfb95f297",
@@ -198,6 +407,20 @@
    "via": "Googleニュース「後払い・BNPL」"
   },
   {
+   "id": "f86265df2874ba8d",
+   "title": "「キャッシュレス決済2026年総括と2027年展望」と題して、山本国際コンサルタンツ代表／明治学院大学法学部講師 山本 正行氏によるセミナーを2026年12月2日(水)に開催!! | 株式会社 新社会システム総合研究所のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5peUZMMzl6Sll0VHVxXzl2WDVRZ2VoV0xORjh5U1QxV1RsYjZ6aWpGdDljQjZLdERVc1ViaWZLS0RUbDd0SEdmYy1QaVhKcXQxN3NnTXJCcHJFOFpIWmVIWXUyN2RSSW9RdGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "「キャッシュレス決済2026年総括と2027年展望」と題して、山本国際コンサルタンツ代表／明治学院大学法学部講師 山本 正行氏によるセミナーを2026年12月2日(水)に開催!! | 株式会社 新社会システム総合研究所のプレスリリース PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-02T16:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社 新社会システム総合研究所"
+  },
+  {
    "id": "574b0703500cfd70",
    "title": "Wear OS、楽天カード「Google Pay（NFC）」タッチ決済対応",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdUtCMlU0bV9jSm8zUlVDWTlNWFJVQm5oTnhWeVFzc0h4VjBXYjk0VnZ2NG5sOHJQLUw2dG5TdXJrWXowa29MSWRtemdtYWtxMkF2bklIbkQtZHkxT3UyYlhocXNGS1lWMmQ3RlliRE1zREZPSDFVVTI0bjZkcWV3b0hzQlM?oc=5",
@@ -235,6 +458,32 @@
    "type": "news",
    "published": "2026-11-02T14:25+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c9ec64d90d7a0d6b",
+   "title": "Casap、カード不正利用対策にAIを活用するため5,600万ドルのシリーズBを調達",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOTRkb2xKSWYydnQ4cGtTUldjU2gycElCY0pTZnVLbWZZMERCTXlvbGtGS0hfSkxGaUpaMDdDWFhGWkdoTHJQZDJyaVI1QVRFZXZ0SmpnQUZEMUZDMFdKdHphY3k2SWI2ck9oLTBJRjJyTGNaLVo2dTlNbWE3cUdIa3NSTUxuUFV6anQ4TVNOWUNTeDNJSnVIbldOQ2NaSXdROW8xMjI3c2l6QVN4eG9jbHRfcEFKS0dhbm03dmtFVHctSHhL?oc=5",
+   "source": "news.lavx.hu",
+   "summary": "Casap、カード不正利用対策にAIを活用するため5,600万ドルのシリーズBを調達 news.lavx.hu",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T14:08+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "8de5f832bd965dd6",
+   "title": "「楽天ペイ」が鈴鹿サーキットとモビリティリゾートもてぎで利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrb2dmMkM5SnJScTRxR0trQmxwc2FYRjRSSHk0U3g2OVBYTk8tM2xURXZ2V2tIdVdwclZNTURGalZONEpfTG5kcTRZS2EwQ25VcC1OUjRXZVNHZlhsNVh1eHFRaWRIVE9fdnc?oc=5",
+   "source": "AppBank",
+   "summary": "「楽天ペイ」が鈴鹿サーキットとモビリティリゾートもてぎで利用可能に AppBank",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-02T13:42+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "e108636c74a9921f",
@@ -1559,6 +1808,19 @@
    "type": "news",
    "published": "2026-10-30T17:30+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "481898fa9d31b32b",
+   "title": "【画像】「キャッシュレス決済が普及し、現金を使わなくなったので…」52歳女性が買って後悔した“憧れ”のもの",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PV0UtZWFqRkJNSzZCNUdrQ1FQOWpiMHpIMFdYSUc2UTByN2NwQ00zMEFrYzVVS1pKSnBwLXdpRnVyRGJGVkNreXV6OE80LXg5ZWRMd0FoaWZBeVpMTGxzT3I5OHVrNEwtSWVUZDVnYUpWaHJtbVMxZlZ5cHY?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】「キャッシュレス決済が普及し、現金を使わなくなったので…」52歳女性が買って後悔した“憧れ”のもの ライブドアニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-30T17:20+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "4c387bce934661ab",
@@ -4046,6 +4308,19 @@
    "type": "news",
    "published": "2026-10-28T18:05+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a8d161784d03d48b",
+   "title": "ラーメン店のキャッシュレス非対応で入店断念が53.3％ 都内意識調査",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE14UlpFb2lrejhXVlNiS3p6aXkxbFlQNnQwSDgyNnlLa2poejdBOXY4cWhJMS1vcHNTTkJjMnBieXpCSi12dkE?oc=5",
+   "source": "Dellows News",
+   "summary": "ラーメン店のキャッシュレス非対応で入店断念が53.3％ 都内意識調査 Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-28T18:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "65daa2842eade288",
