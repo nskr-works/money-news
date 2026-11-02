@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T12:24+09:00",
+ "updated_at": "2026-11-02T14:35+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,128 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "5d580bf00f7738ea",
+   "title": "クレジットカード高金利、米中間選挙の争点に－超党派で上限求める",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmM4c0pXakRxUm9VTDZxc3d1cUlzcnhGakVyNzFQN01yUWdsdmcyRWZYdVY5ZEJlVTZ3MjdHSEFtOFBjd2w3WU9wZFBVUDYyWVZBWnZuZE9oRlYzWEstZ3BWMjgzVXRWT1FGN0pTQWFRUzdLbmJnNEhuaE9Fb2pzZ1o4ck5KTm12cF91OUJB?oc=5",
+   "source": "Bloomberg",
+   "summary": "クレジットカード高金利、米中間選挙の争点に－超党派で上限求める Bloomberg",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T14:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "86cc50aac94b992a",
+   "title": "JCBと三井ダイレクト損保、「J-POINTがたまる自動車保険」「J-POINTがたまるバイク保険」を提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXSEEtWURlX25Ud3VZa1pRQTg4TGREZlFxR3g4OElETEFLS2lfX3FILVJTV2xBQnF6Y2ZVVTVDcUVNTnpVcHZqbGp0YTVKRmdvQy1PVmZkTHFidDhTSU9zclU5NjVHdFYwclE?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCBと三井ダイレクト損保、「J-POINTがたまる自動車保険」「J-POINTがたまるバイク保険」を提供開始 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-02T13:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "5a89033a291fe9ad",
+   "title": "マッチングアプリの相手から 「会うなら電子マネー購入を」20代男性詐欺被害 /秋田（秋田朝日放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhRVZqUjFsVjJUMWlWaVdOVFA2STBrdkF1NTNqWW55S3ppY3dxbGlvT3doUXgtOFYtbklLTl8yRS1kRzZTWU42WEhvLUwxaERua0c3RjNFUUVDanhReXM5WmFxbEJtbHdBMnJFTVJSNUQyR1hlc1dtbWZQb0lrZGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "マッチングアプリの相手から 「会うなら電子マネー購入を」20代男性詐欺被害 /秋田（秋田朝日放送） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T12:40+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "5110d91dbcc176c1",
+   "title": "スマホをかざすだけで支払い完了！楽天カードがAndroidの「Google Pay」タッチ決済に対応",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jTFdaRV9tOUJYOWhsYXZZRkxBV3ZpY25zRHNzY0JTVnpmbXVzWF8wQzFFbTZ0WVlJLXN6LS04dHYwQjRuM3lEM3RHVHk?oc=5",
+   "source": "DXマガジン",
+   "summary": "スマホをかざすだけで支払い完了！楽天カードがAndroidの「Google Pay」タッチ決済に対応 DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T12:21+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "7c423ea5d4810a3f",
+   "title": "セブン‐イレブンで最大11％還元や“現金還元”も 新登場「nanacoクレジットカード」のお得度を検証する（ITmedia Mobile）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EMnFhLWpGY2JoOHU0aHg5d0dpWDVCdnlTaDgyRk55ckRKOHJ6aW1uWU5qV3BCbkZjQ0dfOW04WTRKa056ZTlnTHlUeklNTjN4VjZ1MmxOQmhleWVVbFEzcktnaHUzS1o2UGl6TnluSlVLaDFENlNjMnJHTW5xRFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "セブン‐イレブンで最大11％還元や“現金還元”も 新登場「nanacoクレジットカード」のお得度を検証する（ITmedia Mobile） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T12:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ab6f941e878076eb",
+   "title": "楽天カード、「【条件達成でもれなく最大2,000ポイント！】 Google Pay™ のタッチ決済をご利用でポイント進呈」キャンペーンを開催 | 楽天カード株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9paUw4WGMyOWJEbFNvUFc5YUZZMGcwUmZCcE5KN05Hc1VmdV90RmtFZDEzODhYSXpILUpoM0R4NkRZSXJoNVJ5TnRfd1FMS1Z2bHBfS2NMWFJFc1dIV3NPbGJRSU9naXM4U0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "楽天カード、「【条件達成でもれなく最大2,000ポイント！】 Google Pay™ のタッチ決済をご利用でポイント進呈」キャンペーンを開催 | 楽天カード株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-02T12:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」",
+   "company": "楽天カード株式会社"
+  },
+  {
+   "id": "be94ce55d4c1d9dd",
+   "title": "JCBゴールドおよびJCBプラチナに限定デザインが登場！ | 株式会社ジェーシービーのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wdG1XSG5FZXFDaHA2N0xsT0EwUzdZQ3NsQmFoU1RrU1FOMnR2X082NmRaQzZyeWk2N25XR0tvT2ZTcTJHbE40TG4tUl9CeU9fU3VESmRLb3EwSndja085MUlkS1JTazRBWnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCBゴールドおよびJCBプラチナに限定デザインが登場！ | 株式会社ジェーシービーのプレスリリース PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-02T12:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "02767a3c3347b152",
+   "title": "セブン‐イレブンで最大11％還元や“現金還元”も 新登場「nanacoクレジットカード」のお得度を検証する - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43VDJkb2dMU1FCaGJtUlJidlpqdlZxOXVqWTA1YVV5ZWV5MTZPRGtQam1SeWk0a1d0SThWMmxOaWhxV3R3RnFsMDl3OTBaUmtRb2hBOFNRRlZGQXA0MHNyWnNIamloczk2cWtIWGNfZ9IBaEFVX3lxTFBJT29zU2h1WFV0WjlIVEVISFBWVzV4UHN0S1ZyUFVSNC1xa19DOTJ4NU1MQlAtakJxTTN4M25qNnRNcktnbDkxZlRGU3RvY05FNTdCR044NXcyaW9vaU9xeG9wMnltYVR5?oc=5",
+   "source": "ITmedia",
+   "summary": "セブン‐イレブンで最大11％還元や“現金還元”も 新登場「nanacoクレジットカード」のお得度を検証する - ITmedia Mobile ITmedia",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T11:55+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0d342b238f0e28f4",
+   "title": "JCB、オリジナルシリーズ新規入会でクレカ乗車45％還元 11月30日まで",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2153008.html",
+   "source": "ケータイWatch",
+   "summary": "JCBは、鉄道のタッチ決済利用で最大45％を還元するキャンペーンを開始した。11月30日までの期間中、JCBオリジナルシリーズへ新規入会すると、対象の鉄道で最大3000円がキャッシュバックされる。",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T11:44+09:00",
+   "via": "ケータイWatch"
+  },
   {
    "id": "bfb29d42ecc7f45c",
    "title": "【情報漏洩事件】クレジットカード会社の人が教えてくれた「カード利用者にはわからない不正利用」の実態",
@@ -138,8 +260,7 @@
    "type": "release",
    "published": "2026-11-02T10:30+09:00",
    "company": "株式会社セブン‐イレブン・ジャパン",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "0c1df7298a8b9221",
@@ -206,8 +327,7 @@
    "type": "release",
    "published": "2026-11-02T10:00+09:00",
    "company": "株式会社ファミリーマート",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "43232a9bfc9c101a",
@@ -221,8 +341,20 @@
    "type": "release",
    "published": "2026-11-02T10:00+09:00",
    "company": "株式会社はるやまホールディングス",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "dc5da3057d43e710",
+   "title": "外食もサブスクもランクアップ！ 20代でも持てる“ハイクラス”なクレジットカード「ダイナースクラブ ゴールド」を使ってみた！",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYYjQ5RWtVVVc2OEducHhYYllrSkN1UjhmcE5FOG9qcjdVdU1wckU3LXFKc042a3NiVm5Yd1FGV19hTG5RWTRDUDVIa2tDUF81bUNsaA?oc=5",
+   "source": "MEN'S NON-NO WEB",
+   "summary": "外食もサブスクもランクアップ！ 20代でも持てる“ハイクラス”なクレジットカード「ダイナースクラブ ゴールド」を使ってみた！ MEN'S NON-NO WEB",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "1b2de828233b5244",
@@ -249,6 +381,19 @@
    ],
    "type": "news",
    "published": "2026-11-02T09:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d02f4f412872e222",
+   "title": "「年収500万円あってもクレカの審査に落ちる？」世帯の人数と住まい別に見た支払可能見込額を年収559万円でシミュレーション",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYkxta0t6NV90VWRmeFJpRmk5YWlrSGJ1eTBTQUNBb1RGX09NU0t0MzM1bFEzQkVjM3lBc1VPTTJyTVNQNFUzcFFWMFNPSjRVVy1uekh1MXlXOFpKZGhyb3dIb2hscE9YWDB2Q1o5alpXZlVXUDZwM08yVUwzNld6V2dLOWlIbHdh?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「年収500万円あってもクレカの審査に落ちる？」世帯の人数と住まい別に見た支払可能見込額を年収559万円でシミュレーション Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T08:45+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -461,6 +606,20 @@
    "type": "news",
    "published": "2026-11-01T14:33+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "949af2802df4baf3",
+   "title": "「北欧はクレカやスマホ決済ができない人を社会から排除する勢いが凄いらしい」店の多くが現金不可、現金を預けたり下ろす場所もほとんどなく凄い手数料を取られると聞いた",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8yQmtISEpvU0RIdUJmcS15cE9sQnZnQlVKdVJHU2RLWjZZWjVpeTdoZjZBS1VQYjdFUjFUOFprcFRmdEJEWlE?oc=5",
+   "source": "Togetter",
+   "summary": "「北欧はクレカやスマホ決済ができない人を社会から排除する勢いが凄いらしい」店の多くが現金不可、現金を預けたり下ろす場所もほとんどなく凄い手数料を取られると聞いた Togetter",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-01T14:31+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "c575bc7e260185d6",
@@ -1457,7 +1616,8 @@
    ],
    "type": "release",
    "published": "2026-10-30T13:16+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
+   "via": "Googleニュース「タッチ決済・電子マネー」",
+   "company": ""
   },
   {
    "id": "e763c265fd2a8aa3",
