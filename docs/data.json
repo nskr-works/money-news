@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T07:10+09:00",
+ "updated_at": "2026-11-02T11:27+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,262 @@
  "topics": {},
  "items": [
   {
+   "id": "bfb29d42ecc7f45c",
+   "title": "【情報漏洩事件】クレジットカード会社の人が教えてくれた「カード利用者にはわからない不正利用」の実態",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16VXlvSnU3aG1vc21mSWJjTU1xWnhQU3JzNmdVTlVZclNidXZLRWtBYUdlSFFESnQtMmR4NlJyd2tSbGVjRDJ3X2c5aw?oc=5",
+   "source": "ガジェット通信",
+   "summary": "【情報漏洩事件】クレジットカード会社の人が教えてくれた「カード利用者にはわからない不正利用」の実態 ガジェット通信",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "bd2fad616128dc6d",
+   "title": "JCBオリジナルシリーズの新規入会者限定、「クレカ乗車（鉄道限定）利用で45％キャッシュバックキャンペーン」を実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55LXNiRGRTUExtRWNwTWdaS3ZNQTJOSjRDZVluRWdkdTB1ODlMNHdPQTRfQTA0MThUd0lzYlZfUVgzWmRreFR6YXNzSy1zbDlRN241cHNMcXlRQXkwdE00aFNZeTh4QVJXVnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCBオリジナルシリーズの新規入会者限定、「クレカ乗車（鉄道限定）利用で45％キャッシュバックキャンペーン」を実施 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-02T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "0576e59aca907b8f",
+   "title": "キャッシュレス決済対応窓口拡大 県、新たに２６機関",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWT1pPa2xaSUpWYUg4U2VCamFZQUE2YlpQeGtlTXFQOG51NmtNbHk2LWpsTjZzQXZGYVFtcmJ0Y3ZRUHBJZXg2MFJaUQ?oc=5",
+   "source": "47NEWS",
+   "summary": "キャッシュレス決済対応窓口拡大 県、新たに２６機関 47NEWS",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T11:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "1d05f19d556f164c",
+   "title": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年11月版】〜PayPay、d払い、au PAY、楽天ペイ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFNiRWh5VzMwdDNKdHpUWHdWWm5KODdSbEF1N2R3ekVVellTRy11WUphV1Nrem5RSU1GQ2JELVZmaDJVLVlwWFZoMF9PWkdYRklGRS1XZGZYWVBmR05TNGd1Rms0WUs5Qm94dGtlb0pkLXFKak8zb2I5eEJUV1NlTnR4VzFDbkNsdW1vT1l5Z2d0QdIBlwFBVV95cUxQMzNGcDdXNkRSeW8xNGEtYVFDZ3lBSHhwU1JORWdTeWM5dEtFVlFJb0xpUVdnT2RjaWxQNTFlTkZFS0xtZlpIbmZ2NG1NZl9tLXhvdmdRWTFCY2NySWd0WmlxZmx6OUZkRzhGcnByYTNxczdWMnYtdU82VVpadnlxOVRjaWpQeWs2NDM0dEdETXc0eDlYTWQw?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年11月版】〜PayPay、d払い、au PAY、楽天ペイ ｄメニューニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:54+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "d6e928635158f4de",
+   "title": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年11月版】～PayPay、d払い、au PAY、楽天ペイ - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBQllOZXRWTWI2SUhLZk0xeFdXZlg4UnJrZ041M0NPSWhYd1hodFBic3E2WHJ3aUExQ2VHZWJ3bHQ2RExkOGY3ZDJyN241dy1NSmFpSU56TGpvTEFFdlFFWlZFeGdPRlhjeFdxY1B6SdIBaEFVX3lxTE13VHVNME80cVQxZG5hcXo4aG9Xcnp3X2tPcUtMa3JrVjd5WEItZzZiY25BZzFnMTY3ZThBbnJFRzV6R1htUmkxQXo1LU5mb0xtRVpNSlg0Uk10OGZFVUdVQUV1Nk8tQ25j?oc=5",
+   "source": "ITmedia",
+   "summary": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年11月版】～PayPay、d払い、au PAY、楽天ペイ - ITmedia Mobile ITmedia",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:30+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "4ec4740cd2e53ebd",
+   "title": "「楽天ペイ」、「鈴鹿サーキット」「モビリティリゾートもてぎ」で利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54WnlYTjhGRUhCdmd0ejdvWldYYTBNUURhc2FFMFk2bVVxNkIxRjVSdjlWVmxMT3ktZkpiYmxwTGZaa2JNOXdFZ1ZNdUZMOTVvdnF0V1FmXzBlX0pDQjlwRDkxTzc5a1cxQmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "「楽天ペイ」、「鈴鹿サーキット」「モビリティリゾートもてぎ」で利用可能に PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:30+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "楽天ペイメント株式会社"
+  },
+  {
+   "id": "71cce97b041fa2da",
+   "title": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年11月版】～PayPay、d払い、au PAY、楽天ペイ",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news030.html",
+   "source": "ITmedia Mobile",
+   "summary": "スマホ決済アプリには\"ご当地限定\"のキャンペーンがある。この記事では、「PayPay」「d払い」「au PAY」「楽天ペイ」が2026年11月に実施する地域限定のキャンペーンをまとめた。",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:30+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "0c1df7298a8b9221",
+   "title": "【条件達成でもれなく最大2,000ポイント！】Google Pay™ のタッチ決済をご利用でポイント進呈",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRGQxRDZaSE80R1g0SzAtelZ4dmUxTmJ3QnlHekdjb3VLeEpwYjNpdzZBRDBWbTdwVHhCVmpNRVBQOWhPSVpNQWE1dXUxckFGdG41UXQ3blNGNklxWFpqSE5lczRialdidTNYbg?oc=5",
+   "source": "楽天カード",
+   "summary": "【条件達成でもれなく最大2,000ポイント！】Google Pay™ のタッチ決済をご利用でポイント進呈 楽天カード",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:11+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "ef3db451ecb06bcb",
+   "title": "au PAY、決済額ランキング1位に2万5000 Pontaポイント 11月2日から新施策",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0a215XzNHUk9RczI3YXFOM1dpZnhuVW5qZVJVR2RyNzVDMjJCbUdaLUFZaldWal9GTmlPcGJHY3hodG9uS25XdHBrRnlpQQ?oc=5",
+   "source": "ポイ探ニュース",
+   "summary": "au PAY、決済額ランキング1位に2万5000 Pontaポイント 11月2日から新施策 ポイ探ニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:01+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "045b1e8794b047d7",
+   "title": "【焼肉きんぐ】最大10%ポイント付与！PayPayクーポンキャンペーン開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000001587.000044964.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[物語コーポレーション] [画像1: https://prcdn.freetls.fastly.net/release_image/44964/1587/44964-1587-5fab831834723f26b459b154cfe1eb28-1910x1000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:00+09:00",
+   "company": "物語コーポレーション",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "7252a4c4d2d6ea03",
+   "title": "d払い、dポイントのキャンペーンまとめ【11月2日最新版】 1万～10万ポイント還元のチャンス、ポイント交換で8％増量",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news039.html",
+   "source": "ITmedia Mobile",
+   "summary": "NTTドコモが実施する11月のd払い、dポイントのキャンペーンをまとめた。セシールでは抽選で1万ポイントを付与し、資生堂オンラインストアでは対象の買い物で7％分のポイントを追加で付与する。dポイント11周年の山分けや、対象ポイントをdポイントに交換すると8％分を追加で付与するキャンペーンも実施する。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:00+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "1b2de828233b5244",
+   "title": "au PAY、決済ランキング上位でPontaポイントやクーポンを提供！ 11月2日から対象店舗で開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KeE9aMXM5YVA3MVVQa3pYTzRNNmh1dFlDX255c0tYVGFPejRJaENSakgzYnVrOXNibThqbi1SS1U0N0lDWE5jZEdOeUtZOHJQS3phRGxpTzVuREhwalh3UktTMXljbjNfMlE?oc=5",
+   "source": "AppBank",
+   "summary": "au PAY、決済ランキング上位でPontaポイントやクーポンを提供！ 11月2日から対象店舗で開始 AppBank",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-02T09:41+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "b24391a9d0305fb6",
+   "title": "道南バス全128路線でクレカ乗車へ Visa・JCBなどタッチ決済、11月10日開始",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuZElHVkkwdW1ZaWd1cW1Jci1mV1ptS2NoYVhNdzFvTTZFc2M2SkRXd21NVzBpT1VuZUJsUUJTTTNfdlU2YzU4NlVHVGJjQQ?oc=5",
+   "source": "ポイ探ニュース",
+   "summary": "道南バス全128路線でクレカ乗車へ Visa・JCBなどタッチ決済、11月10日開始 ポイ探ニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T09:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "990ad452e7de7eef",
+   "title": "学生がメインで利用しているクレジットカードランキング、1位は? - 2位PayPayカード、3位三井住友カード(NL)",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WkU3cFVlLV9EcFR1ZS0zTnRhNEJWcDI2YThPR3hqV0JrVk8wUklHanFCcWE1VGkxSGJLNWpoeVEtMHcyb3J2NDc0aFhFU1Z0emdXLXhTaGJOeUs0U0UzNzRMNnhQVi1qR2w1VnVn?oc=5",
+   "source": "au Webポータル",
+   "summary": "学生がメインで利用しているクレジットカードランキング、1位は? - 2位PayPayカード、3位三井住友カード(NL) au Webポータル",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T08:43+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "06704c4618488378",
+   "title": "店員操作を省略し連続して決済処理できるシステム開発（TMN）",
+   "link": "https://paymentnavi.com/paymentnews/184531.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月2日8:38（JST） 【日本】電子決済サービスのトランザクション・メディア・ネットワークス（TMN）は、定額での連続決済を操作不要で高速に処理できる決済サービス「TMN Fast Gate Ticket […] The post 店員操作を省略し連続して決済処理できるシステム開発（TMN） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T08:38+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "2f30b25af4ef48b3",
+   "title": "タッチ乗車拡大、「Pass Case」による乗車券等の販売へ（道南バス等）",
+   "link": "https://paymentnavi.com/paymentnews/184533.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月2日8:34（JST） 【日本】道南バス（日本・北海道）、三井住友カード、ジェーシービー（JCB）、QUADRAC（いずれも東京）、北海道アトラス（北海道）、小田原機器（神奈川）は、2026年11月10日 […] The post タッチ乗車拡大、「Pass Case」による乗車券等の販売へ（道南バス等） first appeared on ペイメントナビ .",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T08:34+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "a4e567d60372fc20",
+   "title": "「チェンソーマン」キャラクターがコイン型電子マネー対応キーホルダーに（CyberZ）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5adE82S2RtTV9IWmdpLWlTOHdTVWhReEppcWN1VHlXZDNaYzdsUHA5eERqbjJnTENKMEppbF9MX1MzWVVOblN0WExCQ2VSWVJ5UnZsZFF6Y3pGZlE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「チェンソーマン」キャラクターがコイン型電子マネー対応キーホルダーに（CyberZ） ペイメントナビ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T08:24+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "d22344ae0f1e2b3f",
+   "title": "AIコマースとVisa（AIコマースとオンラインペイメント第2部目 第1回）",
+   "link": "https://paymentnavi.com/paymentnews/183442.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年10月7日8:05（JST） 和田 文明 プロフィール キャッシュレス、電子マネー関連のジャーナリスト/ライター、主に欧米、アジアのセキュリティを含むキャッシュレス情報、カスタマーロイヤルティプログラム情報を取 […] The post AIコマースとVisa（AIコマースとオンラインペイメント第2部目 第1回） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T08:00+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "cf91f61d5b4dd25d",
+   "title": "年収があってもクレジットカードの審査落ちはある？正社員の平均年収559万円なら支払可能見込額は単身で約469万円、4人世帯の賃貸でも約319万円。見られるのは信用情報 申込みの記録は照会日から6か月残る | 概要 | LIMO | くらしとお金の経済メディア",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WRm5IUGhOd1l0Q1M0Rm4zeHo0Yk9YT2JNdnY0Y2d2bjViM2VIVC0yd2RSVWQxVjVOSFAyeUNRUW9pT2dDWExOVWFnY18?oc=5",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "summary": "年収があってもクレジットカードの審査落ちはある？正社員の平均年収559万円なら支払可能見込額は単身で約469万円、4人世帯の賃貸でも約319万円。見られるのは信用情報 申込みの記録は照会日から6か月残る | 概要 | LIMO | くらしとお金の経済メディア LIMO | くらしとお金の経済メディア",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T07:17+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "97ac2e3107ee4396",
    "title": "異業種参入相次ぐコード決済 JR東が「テッペイ」をスタート",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tMlEyRW1hc01QQlNfa2p6Yk1Lc0dUMFVDNEFmLW9DbmJDZHppT1hMelNPNEczWkd4Y0x6YVlfSjVITTI2eWFvVWstOXhfVXdzU2RJaA?oc=5",
@@ -43,6 +299,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "da19a6ed6d1e5f79",
+   "title": "12月30日まで5％もらえる！京王電鉄、つくばエクスプレス、ゆりかもめ、江ノ電でVポイントが貯まる「クレカ乗車」を使ってみた",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBSV3FnRnNWcmlVMlY1SV9aNUs5M0VHV2g5elZSUWs4RmRWMEdocnJYZVM5N0NFZzlLV1pGbXFLdTBadlV3?oc=5",
+   "source": "@DIME アットダイム",
+   "summary": "12月30日まで5％もらえる！京王電鉄、つくばエクスプレス、ゆりかもめ、江ノ電でVポイントが貯まる「クレカ乗車」を使ってみた @DIME アットダイム",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T07:02+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "3294d921268c4ecb",
    "title": "独自ＱＲ、タッチ、交通系ＩＣ…キャッシュレス決済拡充 道南バス、運賃箱更新",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lTW1NbWxxblR1dVlRQ2hzVXdDOWdhVU1nMnB1RHZ3OWN2VVlxcFN2N185MHRWY2c4bTFubEMxN05wS3o0NkhKUUpVOA?oc=5",
@@ -54,6 +323,45 @@
    "type": "news",
    "published": "2026-11-02T06:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "936acc705338d037",
+   "title": "聖教電子版 クレカ限定キャンペーン 今月18日まで！",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yLXFEZld2WExDdlRmcUVoT1cxUFR4bEFmX0hPMVBINXBVLW4zUXFPOXNpdzlZYnJXbURKMjBCaGdqQTNaZ291TktfMjEySDRTOEYza1hrZG1DZlc0M1BNQ183RVVOR3VqUUo3NWQwZmZidmRFR2Rydg?oc=5",
+   "source": "聖教新聞",
+   "summary": "聖教電子版 クレカ限定キャンペーン 今月18日まで！ 聖教新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T05:17+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "493eeaf8df2b18a2",
+   "title": "【画像】【夫のツメって甘いのか？】家でコード決済？画面見られて焦り！【まんが】#ママスタショート 1/2",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sT3BONXpiOE5TWE5uakprU2x6OFlrRW5XOUpqMmVCMDR4akY1eWtOdlRYejktbTVGbHM3N2lyVkp0MXlBcF8wRUtQS2o0VWIza25KZ1hJYXo3M19YN1pfbW1JTFdtbktnMWhlVzFiVGFuNEdYRGwxMzRWN2k?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】【夫のツメって甘いのか？】家でコード決済？画面見られて焦り！【まんが】#ママスタショート 1/2 ライブドアニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-01T17:40+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "f390d3ba35cbdcb7",
+   "title": "「今日中に入金すれば間に合う」クレカ引き落とし日にATMへ駆け込んだ30代女性→後日、届いた“1枚のハガキ”に「一体なんで…」",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfNjlhakZXbG55OUdmRjQzQlpOMmctSkVic1RNR2lSWWk5Y0NDNU5MZmVKWWx2akJvNnhzMTUxcUZhLTM4S0ZBN1FYXzVZWVU?oc=5",
+   "source": "TRILL",
+   "summary": "「今日中に入金すれば間に合う」クレカ引き落とし日にATMへ駆け込んだ30代女性→後日、届いた“1枚のハガキ”に「一体なんで…」 TRILL",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-01T17:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "6cc63d602a526824",
@@ -94,6 +402,19 @@
    "type": "news",
    "published": "2026-11-01T14:35+09:00",
    "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "4b680126c67234f5",
+   "title": "闇サイトで日本への関心高まる クレカ情報は1件約3800円で取引か (2026年11月1日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kM1BPZkdScEhPNTBtQThvWHJsVVZlVC1TdGppMVYyT1NXakdUcU0tWnQ3RUFzM3ZRWmdvTHZXcUxsZncwQ2hCNE1XUGJqdWxMVjhlTjVjRWZ3LWxJTXc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "闇サイトで日本への関心高まる クレカ情報は1件約3800円で取引か (2026年11月1日掲載) ライブドアニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-01T14:33+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "c575bc7e260185d6",
@@ -227,6 +548,19 @@
    "type": "news",
    "published": "2026-11-01T05:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "2c6505b7b45686ec",
+   "title": "日本企業の弱さ露呈で「狙われやすくなった」…闇サイトで日本に高まる関心、「クレカ１件３８００円」で売買か",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XM3ZRVVRUY0dxblpicWE3bF9laDZsM2xENEVHazBjSWFfTW50a2l2WVhqTnd5eWw0cVdtLVh4UEFpRTEtdTNVOWhwb3Y0VEpVcGl5T0hoR01CYkdhQTllOTJYcHRnZw?oc=5",
+   "source": "読売新聞",
+   "summary": "日本企業の弱さ露呈で「狙われやすくなった」…闇サイトで日本に高まる関心、「クレカ１件３８００円」で売買か 読売新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-01T05:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "437055e81dbc3135",
@@ -893,6 +1227,19 @@
    "published": "2026-10-30T16:01+09:00",
    "company": "株式会社トランザクション・メディア・ネットワークス",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "c1eff5a55e86bdfa",
+   "title": "au PAY、決済回数や金額のランキング順位に応じてクーポンやポイントを提供",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DRGtCbm4zVjZCWTFZVGhLNmhzSUlFWC0zOGFjc1kwbFFOeDdEUGRpT2tYaUJESmZRU19xQmQ3THhvNmJuSFRjQXlkb2I1cUp2N3JYY25OWDk1bHJyTWc?oc=5",
+   "source": "au PAY magazine",
+   "summary": "au PAY、決済回数や金額のランキング順位に応じてクーポンやポイントを提供 au PAY magazine",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "07b9554df4ae39a7",
