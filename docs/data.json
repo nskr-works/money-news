@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T14:35+09:00",
+ "updated_at": "2026-11-02T15:33+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -41,6 +41,21 @@
    "type": "news",
    "published": "2026-11-02T14:25+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e108636c74a9921f",
+   "title": "ヘルスケアスタートアップ『おいしい健康』 医療現場での「ツナ」活用実態調査（第13回JADEC）",
+   "link": "https://prtimes.jp/main/html/rd/p/000000186.000043855.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[おいしい健康] 製薬企業における患者サポートプログラム（PSP）を支援する株式会社おいしい健康（代表取締役CEO：野尻哲也）は、はごろもフーズ株式会社（本社：静岡県静岡市、代表取締役社長：後藤佐恵子）と共同で、第13回JAD...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-02T13:40+09:00",
+   "company": "おいしい健康",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "86cc50aac94b992a",
