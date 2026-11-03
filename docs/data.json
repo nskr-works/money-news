@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T11:24+09:00",
+ "updated_at": "2026-11-03T14:29+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,46 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "4a5f2aeb12c1761f",
+   "title": "80代女性、電子マネー21万円分だまし取られる／青森署発表｜青森県｜青森ニュース｜Web東奥",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIdUlLeVA1M2N0UEdRcUU0SUN6OGJxRWZ1OEtiNWtPRGcwWnd4VGU3Sm5acVF5bnM1YlFNdHd4eE5qckh4MjFRR3g4TDNCNUJNRWNLb3hOT20?oc=5",
+   "source": "東奥日報社",
+   "summary": "80代女性、電子マネー21万円分だまし取られる／青森署発表｜青森県｜青森ニュース｜Web東奥 東奥日報社",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-03T14:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "22736d74cc331747",
+   "title": "80代女性、電子マネー21万円分だまし取られる／青森署発表",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HUDg5V0cwZXA0cS1KZlY4YjRLbm13YXNfU1g1WVlBcWNjWDUtNW9FSVA3YVRSNm5ibktoaEhGRWVQdDh4R0dYZUhZSE1PaFMzckJ5dVphRU5xMnRQejFKTm5nV3FOY0xNQjhRbXlB?oc=5",
+   "source": "au Webポータル",
+   "summary": "80代女性、電子マネー21万円分だまし取られる／青森署発表 au Webポータル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-03T14:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "63fe870e40be8e50",
+   "title": "「au PAY プリペイドカード」をGoogle Payタッチ決済で利用すると最大1,200円相当のau PAY 残高還元（auフィナンシャルサービス）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84QlhSaUswOHU3U1I4bE45YnI1cjJwRkg1a2tTcksyVnpJaVNyVXdHbWw1QURXd3ZtY3ZheTdScVhGbk55ZmQyQ1ktbXVCZ0RfU3FOQlRQQXBaa2s?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「au PAY プリペイドカード」をGoogle Payタッチ決済で利用すると最大1,200円相当のau PAY 残高還元（auフィナンシャルサービス） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-03T13:53+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
   {
    "id": "fa0a7168bd32a30f",
    "title": "au PAYとPontaのキャンペーンまとめ【11月3日最新版】 抽選で10万ポイント還元、ECサイトで最大34％還元あり",
@@ -471,6 +511,19 @@
    "published": "2026-11-02T16:15+09:00",
    "company": "九州旅客鉄道株式会社",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "f7b2fb7f4f78908c",
+   "title": "アララ流出、約7,700万件に拡大…最大380社に影響、カード会社装う不審メール713万通（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTWtKVGpTaEZ6UUFnUk13alZtWmZfQ2tLQzhlMGYwSlY3YTR1c0JPaGxmTGxrTGZvMElzMXpnN1ZTbEpQblhiaTU0ZWJha0l6N1BHc1hLQWFxN3NFc241N0ZIbWlEZ2tHSVdlNjBtbFplWV84YWV5SHJXeFZ1QUU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "アララ流出、約7,700万件に拡大…最大380社に影響、カード会社装う不審メール713万通（ビジネス＋IT） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T16:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "44ff956391fc455c",
@@ -2275,6 +2328,19 @@
    "published": "2026-10-30T13:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "インタセクト・コミュニケーションズ株式会社"
+  },
+  {
+   "id": "4066922fa36a1d7b",
+   "title": "お得で便利なクレジットカードの上手な使い方と注意したいこと：写真",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtNE83TTBIUkxiZFFZYy1TMGRJYzg3SDRIVkY5SDhFX01qUTBCaEVWcnU0WHh5OG1Qd1lrSWFnRWd4cUZGRWVpSHpHVGJRZExnWTg2Vkp5WjVYcGdYTndTMWt5dHVDUi1BSWc?oc=5",
+   "source": "読売新聞",
+   "summary": "お得で便利なクレジットカードの上手な使い方と注意したいこと：写真 読売新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-10-30T13:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "2009e54a99af980e",
