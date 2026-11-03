@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T14:29+09:00",
+ "updated_at": "2026-11-03T17:32+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,59 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "57d2d15d07c857e0",
+   "title": "韓国決済代行会社PayHubもハッキング被害、加盟店精算資金2億ウォンが不正送金",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SUldZU0lKT01PVmJzdThIUW4td2t5bXpoYXdTX1FKU3ZJMXdWLUs0UmpjbDhZM0dFeG4zN0g3a0hOZWp3aEpOalo5elZtSnNtYUYzWk9RczEwN1hsZ2NoTzduVzZZdFlpM2hQSFRNRndlWkJ6?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "韓国決済代行会社PayHubもハッキング被害、加盟店精算資金2億ウォンが不正送金 BigGo ファイナンス",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-03T17:12+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "0f2167d4b8f6dd2f",
+   "title": "ビックカメラGの顧客アドレス約1490万件漏洩か クレジットカード情報などは被害なし（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NY21LSkdfaUF1TnV3cDNfb3RCXzdQamh3TWhacGI3bW42VzBtMmZISkpsbVE0elVKVG81M3FncHFuSU4yT3d6OWp2NHROWURTWl83WDdpdUh1Vmp0azhibkZ3WGpOb0tQeUh1S3V0dC0zdDZGZHJTeUdGT3VxT3c?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ビックカメラGの顧客アドレス約1490万件漏洩か クレジットカード情報などは被害なし（テレビ朝日系（ANN）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-03T16:49+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1c984d4f6e0bb662",
+   "title": "ビックカメラGの顧客アドレス約1490万件漏洩か クレジットカード情報などは被害なし",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nX0VybUNMTWdHUjdHOS04UUI2clEtenlwZDRaNFY5cDB5ZHVjYVlCS0E2T3BBM1ZXYlNlZTJxamN3OGxmQ3VFdHl5RnV5M2lLVjBESW1MVjFlVndSN19IWE9xX082NWMxT0g5MGxjbkNSZw?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "ビックカメラGの顧客アドレス約1490万件漏洩か クレジットカード情報などは被害なし テレ朝NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-03T16:46+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "11e388304b215267",
+   "title": "楽天カード、Google Payのタッチ決済で1回200ポイント 最大2000ポイント、Visa・Mastercard限定",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4XzNmMEFJWkcza0hTRGViRkJ6RHhRUGRiOXZEdDJXdXd4LUFNcUZCNmhTSWNuVGNvbEtWNkdQSzFhRXRqbEJfNzNDZzBKVlpOY1U3SG1qVk40Q2xMU0RV?oc=5",
+   "source": "Infoseek",
+   "summary": "楽天カード、Google Payのタッチ決済で1回200ポイント 最大2000ポイント、Visa・Mastercard限定 Infoseek",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-03T16:19+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
   {
    "id": "4a5f2aeb12c1761f",
    "title": "80代女性、電子マネー21万円分だまし取られる／青森署発表｜青森県｜青森ニュース｜Web東奥",
@@ -97,6 +150,21 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "7fcab1fb4c457831",
+   "title": "【写真・画像】青切符、キャッシュレスへ クレカ、コード決済も | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xZUMzNkI0bXVzU1JCMmR6WDdLWWJJWGJLRm5faWl0NE5zaW1EWGI1NG51YmtfOGI0RUFFcTZsVDV3MVlLY3c5MVN0RkdsV1FIci1oUkxQb0Zkc2c3VEZTNHhoT3c?oc=5",
+   "source": "佐賀新聞",
+   "summary": "【写真・画像】青切符、キャッシュレスへ クレカ、コード決済も | | 全国のニュース 佐賀新聞",
+   "categories": [
+    "cashless",
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-03T08:52+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "45f5b54364816f2e",
    "title": "JCB、「枯山水」デザインのゴールド/プラチナカード",
    "link": "https://www.watch.impress.co.jp/docs/news/2153186.html",
@@ -108,6 +176,19 @@
    "type": "news",
    "published": "2026-11-03T08:30+09:00",
    "via": "Impress Watch"
+  },
+  {
+   "id": "efa3f04f76ef18ae",
+   "title": "「クレジットカードの不正利用が心配…」身に覚えのない請求に備えて確認したい「補償の対象になるか」の線引き一覧 (LIMO)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWldKVkJnV0RHLTFWSUVQXzM2Z3pNSXU1M2RrOVhOakdxXzk3VG5qeDMzaTJvTkVtZGVqZUZjQVJweTNRLUFwR05lazF3VTFWbS1ZaV9YV0dUMTMyMXpkcUs3S3ZCN0I1TnBQNWtyaFZJb2VqSUJ4WHVCNlVJc2dlYnpjbzlQalU1eEUtdk9R?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「クレジットカードの不正利用が心配…」身に覚えのない請求に備えて確認したい「補償の対象になるか」の線引き一覧 (LIMO) Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-03T08:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "3d6172d68787359d",
