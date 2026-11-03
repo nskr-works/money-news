@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T07:18+09:00",
+ "updated_at": "2026-11-03T11:24+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,46 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "fa0a7168bd32a30f",
+   "title": "au PAYとPontaのキャンペーンまとめ【11月3日最新版】 抽選で10万ポイント還元、ECサイトで最大34％還元あり",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news013.html",
+   "source": "ITmedia Mobile",
+   "summary": "11月も、さまざまなスマホ決済キャンペーンが更新されている。KDDIなどが実施している、au PAYやPontaでのポイント還元施策やキャンペーンをまとめた。毎月3／13／23日の三太郎の日も注目だ。",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-03T10:00+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "fbadb3cbfd638c21",
+   "title": "沖縄銀行、スマホでデビット決済 JCBとアプリ連携 「おきぎんスマートデビット」11月4日開始",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lV0Q4enRYamZCT3g4UDdLT19HLUhRUTJFNXRVLTg0TGFmYlMyTExWd3Bna3BEdGFjM0w5SEZtNWdhalh3Ynh3dVNuWG5VUXZ0dndHUWRwUXlRX3RtVDlhaHhKYU8ta2FuTXZHU21MX1hEVTJVdjYyVw?oc=5",
+   "source": "Infoseek",
+   "summary": "沖縄銀行、スマホでデビット決済 JCBとアプリ連携 「おきぎんスマートデビット」11月4日開始 Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-03T09:16+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "45f5b54364816f2e",
+   "title": "JCB、「枯山水」デザインのゴールド/プラチナカード",
+   "link": "https://www.watch.impress.co.jp/docs/news/2153186.html",
+   "source": "Impress Watch",
+   "summary": "JCBは2日、個人向けクレジットカード「JCBゴールド」(年会費11,000円)および「JCBプラチナ」(同27,500円)に数量限定デザイン「枯山水」を追加し、発行を開始した。在庫限りで発行を終了する。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-03T08:30+09:00",
+   "via": "Impress Watch"
+  },
   {
    "id": "3d6172d68787359d",
    "title": "地方銀行初、銀行アプリとMyJCBアプリの連携によるカードレス型デビットサービス「おきぎんSmartデビット」の提供開始について",
@@ -71,6 +111,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "8d4a856da5dd9c1c",
+   "title": "カード決済＆リテールサービスの強化書2027",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSS3otUl82aWg2aTN2NnVXTzY0MVZmN0k2N09KN3FQQVIxN0Jjb3B5RUgtOXhvMEFyb1U3cUlPbDRJQWpsaWpTYlB0ang5dDd2cWNLaURTU3E?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "カード決済＆リテールサービスの強化書2027 ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-03T00:28+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
    "id": "9c34a56583f37dee",
    "title": "JCBゴールドおよびJCBプラチナに限定デザインが登場！",
    "link": "https://prtimes.jp/main/html/rd/p/000001497.000011361.html",
@@ -97,6 +150,19 @@
    "published": "2026-11-03T00:10+09:00",
    "company": "楽天カード株式会社",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "e681ccc9fdc52de6",
+   "title": "GMO-PG、取引システムへの不正アクセスで顧客情報69件に漏洩の可能性",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWV2QUJXQ1p2XzFPdGdqZ2RRWjNjSWczZnd4V1lyNjVBZ1RyTW5zalp2bTBIaWhVZWhvekRpUWl3dElSMjkyNnJ3am5rWTdEekxfclIxaXppWXBYZjliVVR4R0hVZVhVME9WeEktYTJGdVJDUWtZUjhFWTdLb3N6bGhDcFI?oc=5",
+   "source": "Traders Union",
+   "summary": "GMO-PG、取引システムへの不正アクセスで顧客情報69件に漏洩の可能性 Traders Union",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-02T23:08+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "ac1056b29cdab472",
@@ -299,6 +365,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "c3b7e001edf571ed",
+   "title": "「6000万円を援助する」青森県内の80代女性が電子マネー21万円分をだまし取られる",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLTWR3M3FvOEVDdHNzSmZRVktiSXdjRDRSMnJHS3o4LTNnRGtyb21jYnVqR2x2dENjS0xHcDJmSVpPbW53QnBqUzRuczJ5UzdmaG8tUk5JSU1nSGdyd0ZsZ0h2SXUwZ19mWTlVMzE1ZGJaN3pmMWZZY0lwb9IBgAFBVV95cUxPeEgyRGlSUXpGdlpBRlRxUUs3REZJM0l5Vnc0RWFwV3p5NnlTTHBuaVVxOGhiWERRVWVUdnZqY2hYRlB1dHpaMmVoYnJGczA0bmZVdEVRcy0xVWhsaW9iREJockFkalJYMlJfNGRKVEppNlJ6ZnZqQTNva3JTRjhXSA?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "「6000万円を援助する」青森県内の80代女性が電子マネー21万円分をだまし取られる ｄメニューニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-02T18:16+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "0881516dfb95f297",
    "title": "楽天カード、Google Payのタッチ決済で最大2,000ポイント進呈！ 11月2日から12月31日まで",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBNWFjdGd2ajIxdGQwcnBfSzlEbG8tWl9OVjdQQVU5NGRFbnhQZzNSSVE5Z094U1pFZ3ItbS1jRmhEV243X0o5ODFQb0VWVmo2bXg5ZzhiUVVMQy1tYmdCa1g1bndPRnZRU1E?oc=5",
@@ -419,6 +498,19 @@
    "published": "2026-11-02T16:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社 新社会システム総合研究所"
+  },
+  {
+   "id": "2caa1160f6548eb3",
+   "title": "企業向けメール配信「アララ」、メルアド７７００万件流出…クレカ会社装う不審メール７１３万通送信も（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxc0VPdDFrZEtCTGtvUXJjZzl0YkRxU1V6Tmx4d0FpR0Q2TWpZcURGdERYeC1jZmxmX0xIZkI2ZHFEQ2FreEkteFpiT2RVZUx5QmJQR1puWF9WQ1BBLXJxYU5BRkdNc0s3UklIVzJfd3hrNHNzMmVQdTd0TncwQms?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "企業向けメール配信「アララ」、メルアド７７００万件流出…クレカ会社装う不審メール７１３万通送信も（読売新聞オンライン） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-02T15:38+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "574b0703500cfd70",
@@ -839,6 +931,20 @@
    "type": "news",
    "published": "2026-11-02T10:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6e746b03b5e5ee43",
+   "title": "【焼肉きんぐ】最大10%ポイント付与！PayPayクーポンキャンペーン開催 | 株式会社物語コーポレーションのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kY2xLd3hWLW5yWWdBM0ZDcDJXelU4MVNKNGVfUlZiWXY2cHgySm9weEVITk8tbms3UzNwMnBHM2xVVk0xZ2wzRTNYQnZRdnZHTnppcXNRdk9Cdm93UDdKdU1ZbExiVlB0Snc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【焼肉きんぐ】最大10%ポイント付与！PayPayクーポンキャンペーン開催 | 株式会社物語コーポレーションのプレスリリース PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社物語コーポレーション"
   },
   {
    "id": "1b2de828233b5244",
@@ -1397,6 +1503,19 @@
    "type": "news",
    "published": "2026-10-31T16:32+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "58bc49e5e84d7c6e",
+   "title": "１人２万円分の電子マネー給付 吉備中央町 物価高騰対策",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuTy1VSHpMSDlRYjZtMEx3azZ2dDdra1d2c2N2Ui1yRk1VdFVlejg5Z1VLaE9nX3ptZ2VhOW5XSXNIMmVqXzhXblRWRk00dUNWbUE?oc=5",
+   "source": "山陽新聞",
+   "summary": "１人２万円分の電子マネー給付 吉備中央町 物価高騰対策 山陽新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-31T16:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "d71ad7beff9f2794",
