@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T17:32+09:00",
+ "updated_at": "2026-11-04T11:40+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,37 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "0ea5187063c1f67c",
+   "title": "StoreProとJMS、読者限定キャンペーンを開始。Tap on Mobile新規加盟でJCBギフトカード3,000円分を進呈",
+   "link": "https://prtimes.jp/main/html/rd/p/000000049.000080608.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社Textrade] [画像1: https://prcdn.freetls.fastly.net/release_image/80608/49/80608-49-47d34f6199278fcb643279ccc2d66e1d-1500x1000.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-04T10:45+09:00",
+   "company": "株式会社Textrade",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "9177b4159c6ac571",
+   "title": "「楽天ペイ」、「全国どこでもクーポン」を初めて配信！「楽天ペイ 超トク還元祭 第2弾」を実施",
+   "link": "https://prtimes.jp/main/html/rd/p/000000807.000057042.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[楽天ペイメント株式会社] キャンペーンページ：https://r10.to/hkdWxg 楽天ペイメント株式会社（以下「楽天ペイメント」）は、キャッシュレス決済サービス「楽天ペイ」において、「楽天ペイ 超トク還元祭 第2弾」（以下「本キャンペー...",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-04T10:00+09:00",
+   "company": "楽天ペイメント株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "57d2d15d07c857e0",
    "title": "韓国決済代行会社PayHubもハッキング被害、加盟店精算資金2億ウォンが不正送金",
