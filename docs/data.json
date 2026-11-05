@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T16:18+09:00",
+ "updated_at": "2026-11-05T17:27+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,151 @@
  "topics": {},
  "items": [
   {
+   "id": "fbdc03c4ad01dbad",
+   "title": "モバイルSuica定期券、JR東海エリアまたがり対応へ 27年3月",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2154031.html",
+   "source": "ケータイWatch",
+   "summary": "JR東日本は5日、モバイルSuica定期券の発売範囲を、2027年3月よりJR東海のTOICAエリアにまたがる区間へ拡大すると発表した。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T16:48+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "26af4cd129e68064",
+   "title": "MastercardのAPIと連携した「Natic CaFPS」を提供（双日テックイノベーション）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rZ2dGU0tOeERfcHF3UmtlWXlUVVpRODBsSWJMWEd5UGRmeW9XTzFwUWJMNlNwaDhNS1FFV2lwN2VJYmxHNzZ5d29CdGo1ZXZhN08zWGdaZzFsSkE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "MastercardのAPIと連携した「Natic CaFPS」を提供（双日テックイノベーション） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T16:36+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ec053409aef4702e",
+   "title": "なんばエッセ歯科・小児歯科クリニックが「ささっとPay」を導入 診療後の会計待ちを軽減",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000150894.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[なんばエッセ歯科・小児歯科クリニック] 医療法人エストリナが運営する「なんばエッセ歯科・小児歯科クリニック」（大阪市浪速区、理事長：新原拓也）は、患者さまの会計時の負担を軽減するため、キャッシュレス決済サービス「ささっとPay」を導入しまし...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-05T16:04+09:00",
+   "company": "なんばエッセ歯科・小児歯科クリニック",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "0e13f537122f00b8",
+   "title": "JR東日本、2027年3月に「みせるモバイル定期券」を提供開始",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2154004.html",
+   "source": "ケータイWatch",
+   "summary": "JR東日本は、スマートフォンの画面で定期券を表示する「みせるモバイル定期券」を2027年3月に提供すると発表した。Suicaなど交通系ICカードに対応していない駅でも、スマートフォンの画面を定期券の券面として提示して利用できる。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T16:03+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "c33a95b3318edc05",
+   "title": "無印良品でクレジットカード番号流出か ビックカメラはメールアドレス1490万件",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LcDZPNzVlWTd1RWFzWVBZaUFpTGRVNUU3eUstNXRraFpMMVdmNFdreTUxWW1pV01DQ2QycFpJYm5uLUJvcHZQYW14ZV9DN1pfMTN0OV9uX1A3UQ?oc=5",
+   "source": "上毛新聞電子版",
+   "summary": "無印良品でクレジットカード番号流出か ビックカメラはメールアドレス1490万件 上毛新聞電子版",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "9a4348284da6a467",
+   "title": "「娘の同棲相手が娘のクレカを使い込んで100万円以上の借金…」返済義務は誰にある？ 弁護士は「娘さんに責任があるのは当然」「知らなかったとしても免責されるのは困難」",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LaHhlYUdUSWMxS3AwX2haSWlKZ2VGLXFRVnBscWprTlFydzdMZy13Q25ScGo2ZFM3TDJnYjNMOTNEMVBzWEVj?oc=5",
+   "source": "マネーポストWEB",
+   "summary": "「娘の同棲相手が娘のクレカを使い込んで100万円以上の借金…」返済義務は誰にある？ 弁護士は「娘さんに責任があるのは当然」「知らなかったとしても免責されるのは困難」 マネーポストWEB",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "83ba48394c12a5f4",
+   "title": "IIJの個人向けサービス IIJmio、契約者のメールアドレス98万3,458件が情報流出 アララへの不正アクセスが波及、クレジットカード情報は対象外|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmc0ZVltN1JTeno5c0tLTlVCNDNhVWJqd19ZSHJ3dlhhOGUwQmtGQWJGSWNNYzJkUzFIaVJpX3gzZDVsTTk0U1VqTG9GRXEwTWc2QzhMRTdiY0NEalB2dmpHclVZOFkteW9QUnBDTlZ0NEJEdHNWd3FfRW1wN3pvaXVqeW1OWnJWVFlCQV95NkpVdw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "IIJの個人向けサービス IIJmio、契約者のメールアドレス98万3,458件が情報流出 アララへの不正アクセスが波及、クレジットカード情報は対象外|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T15:03+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c7ee4363ed638822",
+   "title": "GMOイプシロン、加盟店のメールアドレス24,645件が流出 アララ「repica」への不正アクセスが波及、決済サービスに影響なし",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzl3WUstblp4WVBJOFRkQTF6ajE2X3NZQkROTUdjZS1oaEdWSHNXdnp1OS1BcVozYlpJa1ozWERlMW5FbGhkOF9KQV9IVE5xX19jRjdsS1Q3TXJBa3pFNGdnY3lTNlpqajZyZHJPcE1VczR0R0NkX1FORjBNVVhiVFVQTm84VDNoT2tpVGZCNVNWLTRNTEdLMnRQRWJpZ0pE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "GMOイプシロン、加盟店のメールアドレス24,645件が流出 アララ「repica」への不正アクセスが波及、決済サービスに影響なし 合同会社ロケットボーイズ",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-05T14:48+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "c80e5e4a25df0548",
+   "title": "スマホだけで銀行口座から払える決済サービス「Pay2o」を提供するPay2o株式会社がシードラウンドで総額1.7億円の資金調達を実施",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uN0ZqeVExbGc2dXA5ZEJlREVyaXJzcDdoRE1OSklXdTNzY0l2VloyeDBfZ3dkeWlqbGlCLXFPWGZld0t3OHhaUGpIVGFmMGs?oc=5",
+   "source": "STARTUP LOG",
+   "summary": "スマホだけで銀行口座から払える決済サービス「Pay2o」を提供するPay2o株式会社がシードラウンドで総額1.7億円の資金調達を実施 STARTUP LOG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T14:28+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "25d18a361de86359",
+   "title": "JR東、「みせるモバイル定期券」27年3月開始 JR東海エリアでも定期・グリーン券",
+   "link": "https://www.watch.impress.co.jp/docs/news/2153954.html",
+   "source": "Impress Watch",
+   "summary": "JR東日本は、2027年3月から「モバイルSuica」で購入できる定期券とSuicaグリーン券の発売範囲を拡大する。従来、磁気定期券でしか購入できなかった発着駅にIC非対応駅を含む定期券を、新たな「みせるモバイル定期券」で購入できるようになるほか、モバイルSuica上で、JR東海にまたがる定期券、Suicaグリーン券の発売も開始する。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T14:28+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "610f1e7a71231ce8",
+   "title": "無印良品でクレカ番号「全桁」漏えい可能性 「ポイント付与のため」21年入会分まで保持...「十分な保護がされず」不備認める",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GY3IzLW1ncktMVk1vWmlGa0FIWERVWm0wc3J0bndvMzBUdVlnNjhVQ043VnFyakxQMkFPc2ZXaUR0Wm14dVotVk5VcHRrb3ExdmVsNzVhRW90Tngzc2o3WHlsSElqRDdERzJjb3JocUw5OGg5MU1KQ3d4c2hnWFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "無印良品でクレカ番号「全桁」漏えい可能性 「ポイント付与のため」21年入会分まで保持...「十分な保護がされず」不備認める Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T14:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "db3b732c3c9e26ae",
    "title": "JR上野駅「エキュート上野」25年分の「ありがとう」を込めた感謝フェア『Suicaのペンギンのサンクス便』を開催！",
    "link": "https://prtimes.jp/main/html/rd/p/000001285.000082978.html",
@@ -41,8 +186,7 @@
    "type": "release",
    "published": "2026-11-05T14:00+09:00",
    "company": "JR-Cross",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "5accc5a77954ac26",
@@ -56,8 +200,7 @@
    "type": "release",
    "published": "2026-11-05T14:00+09:00",
    "company": "東日本旅客鉄道株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "3e19ffd879a0e6ec",
@@ -71,8 +214,126 @@
    "type": "release",
    "published": "2026-11-05T14:00+09:00",
    "company": "STORES 株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "fee65b50bb2d8b1a",
+   "title": "プレスリリース：ミガロホールディングスのグループ会社DXYZの顔認証決済サービス「FreeiD Pay」三井住友カード「stera market」でβ版の提供を開始（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtTUZrUEFCLWZKYkVHRXBBTmVrRFVsZEhOdldnWEtDZkNYSEY2MDFJZG9jZWVPUjFENFpmUnh6OXd0ZEVUTEdRTHcyTmJvUmNSUXJEa2FzenFuTFB2T29jVHpPMDZ4cWp5?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：ミガロホールディングスのグループ会社DXYZの顔認証決済サービス「FreeiD Pay」三井住友カード「stera market」でβ版の提供を開始（PR TIMES） 毎日新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T13:53+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8d2aa6db6d8286e1",
+   "title": "クレカ選びで重視するのは「還元率」か「年会費」か? 20代と50代で大きな違いが明らかに",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EZG5aRTZ3TmhlQ1lWaWprQ1JaR2U4RjNMSV9nREk0Y2dwSzZOYWVtaklFY2tRTVNhb2JtX1JSei1LZnN6Y0I5WDJQNV9sMEt3QWctX25TODV2YS1PQmhJWWd6RGlBd0loYjJMNF9B?oc=5",
+   "source": "au Webポータル",
+   "summary": "クレカ選びで重視するのは「還元率」か「年会費」か? 20代と50代で大きな違いが明らかに au Webポータル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T12:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8a6385d71904c2b1",
+   "title": "良品計画、クレカ番号流出 当初「含まれてない」と発表 外部からのアクセスか",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jcEI1bEI1ZFV6cFlYOUZnQi1PNUJkRHN0aUJ2VW5qQVEwNmFrZkJTQWlJUEcxQnkyTm9IalAzUXZ4Zzlob2g2X3Z4bnFJR2EwVXhCbW5hYXNmeHlxWnNKTW9weDdaeTlRMk9EVFRaWlNidw?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "良品計画、クレカ番号流出 当初「含まれてない」と発表 外部からのアクセスか テレ朝NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T11:59+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ddfb30a90b413a64",
+   "title": "PayPayとセブン‐イレブンがおトクなキャンペーン実施中 3～10％還元、11月はカフェ半額クーポンも",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news062.html",
+   "source": "ITmedia Mobile",
+   "summary": "PayPayとセブン‐イレブン・ジャパンは、11月から3つのキャンペーンを順次開催。11月は対象のセブンカフェの半額クーポンを配布し、12月はセブンカフェ スムージーの半額クーポンを配布する。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-05T11:55+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "9f3826bb7ed3e5ff",
+   "title": "ミガロHD、三井住友カードの決済端末で顔認証決済のβ版提供を開始",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50NFczMjZnU0RvWDl1NnJJQ0JCVExWRnFtZF8xVEtqMEhUWk5hdHB6aWM1TGVHbHlwci1RVURRc0F3WGN1Y0NzNmlGTEMwejVlOUlV?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ミガロHD、三井住友カードの決済端末で顔認証決済のβ版提供を開始 ニュースメディアVOIX",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-05T11:31+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "84cad5f5d3c6956a",
+   "title": "クレカタッチ決済拡大 佐世保・西肥バスなど利便性向上へ…九州ＭａａＳと三井住友カード協定",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeGphMFNMWFFwczBGbFNxQjhHcU11cjBJcmVmZTJCcFVMLThjT0MwQWVza3BoTlFvTjdhRE9TSFRFeUpCejU0SG1vdl9ON3hzMDRLR2hOQlJkMnhnWFZHVmFob0xQNkNhSGRCOU5IaDhtUkxXVGhYQ1J3VEhBalR0LURB?oc=5",
+   "source": "長崎新聞ホームページ",
+   "summary": "クレカタッチ決済拡大 佐世保・西肥バスなど利便性向上へ…九州ＭａａＳと三井住友カード協定 長崎新聞ホームページ",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T11:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "9a746f7b0fdc768f",
+   "title": "高速バス「VIPライナー」、サイバー攻撃でカード情報6,949件が漏えいの可能性 セキュリティコードも対象、不正利用の相談も",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTZPQjRNSmIxMFBZdndEa3Y4amhFb0FxalB3dmZuZWh3SmJQMFh3UE1xN1VMc3lyNXg4dUFxbTZKaUYxM0hWNG9hNjZqWnlkcVJpc3BoZnNCNkV5aXk5N2g2bUpRT0hid3FQRmF0Q05oVUdVeERZdnhoXzBxSHVPNDhhR2ItbENIcjhwNXRuWGlnYjhFS1JPYXN3?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "高速バス「VIPライナー」、サイバー攻撃でカード情報6,949件が漏えいの可能性 セキュリティコードも対象、不正利用の相談も 合同会社ロケットボーイズ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T11:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "fdc672fc5fade38c",
+   "title": "ミガロホールディングスのグループ会社DXYZの顔認証決済サービス「FreeiD Pay」三井住友カード「stera market」でβ版の提供を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMTlJIaWM4TTVSMnJQaWRJeGROSXRQc0oxOUJpWWJCc0lmM214YXlPXzluYTY5WERBSUU5SUMzaFpyMkRoaWxXTkx1U2xKZDdpZ0RDRWJUbEZxR1B3VWxTY29DRG14ckZYWEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "ミガロホールディングスのグループ会社DXYZの顔認証決済サービス「FreeiD Pay」三井住友カード「stera market」でβ版の提供を開始 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-05T11:30+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "ミガロホールディングス株式会社"
+  },
+  {
+   "id": "bfac1f02b19880f9",
+   "title": "「17LIVE」に後払い決済「atone」が導入！ 台湾版の「AFTEE」と日台で連携",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yX05WYTNERzRoOThPQjlFOE1BbXQ1TTI1dTFON0k0UXc3NmdOeU1YcHlSVGtMRDU4MVNYWXZEbk14WnpWRzVJTk5ZQVF0RWhFTkkxWVQtUjhMWXd0YjktT2FQV3lGc3N3bUE?oc=5",
+   "source": "AppBank",
+   "summary": "「17LIVE」に後払い決済「atone」が導入！ 台湾版の「AFTEE」と日台で連携 AppBank",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T11:13+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "b5f93c8511b21740",
@@ -139,6 +400,20 @@
    "type": "news",
    "published": "2026-11-05T10:17+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "4b83c2860a4f242e",
+   "title": "大分トリニータのホームゲーム会場に モバイル型キャッシュレス決済端末「PT-751」を 83 台導入",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUm9JOC00ZHIyeGdYRGsxa2hZMWpzYk43b1VzM0VlSnlvWHRXYlZnbVN2WlkxZ3owMkktdHVybndkR1NGVDhUV3VLVVY2YUtqeE9vVk9MSlVPWWpTVGU0X2Q5dzVQMDdNby03MVpsNXRjemxCcTRWVkZycHFvcVVaZWRNNXl3RmkxZDROYnh2THYzamtISFZWcTVXcTQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "大分トリニータのホームゲーム会場に モバイル型キャッシュレス決済端末「PT-751」を 83 台導入 日本経済新聞",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:12+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "b362dbd900c35fff",
@@ -355,6 +630,19 @@
    "via": "PR TIMES 新着（直接）"
   },
   {
+   "id": "6031abe8f1ef3d35",
+   "title": "「Suica経済圏」に殴り込み？ 沖縄発「独自カード」が29年全国へ！ 観光マネーを地域交通に還元する新戦略とは（Merkmal）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNekRNaVRwUzFyTGtfYW02X3E3YnhZMEwxT2RUei1TeGZpZ0l3SzZlM2JkUlpWVTdJWklsRFBlYV9EY0JDcUhVNFNuSXl2N1NSNU1tQUNHYkpnUjBIUGR0MHF5WFFiN3VHMXBIVTVUVTRBUjI3a2pIQ01ZSzdLVG14ZDNYTzFza3Zx?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「Suica経済圏」に殴り込み？ 沖縄発「独自カード」が29年全国へ！ 観光マネーを地域交通に還元する新戦略とは（Merkmal） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T06:21+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "3aa567b1de833133",
    "title": "クレカの番号 無印で流出か アララ委託企業の被害も",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVEIxRzkwcjRUNFI4MFJ1N0pyZ2tBbmFmZWY4MDZFSlZpZUVkME9qX2FScWtuWFB3V0FIRXZPYjcyaXl0RUNSbjZIbUktSkRielU3akhfTEdGbTdiYnJiT2F3?oc=5",
@@ -427,6 +715,20 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jelprVllwNWtCM3lkUzUwY0VOTHZ2Z2FqVlY3blZ3QjQ4WUNQTno4ODAzTUtjdEJGWWVMOXJKOS1FVkxnb0Fvd1NkMmhNRFNKYTgyQ3lpajd5dDN1STFxbEo0QVVWYTI3Nk0wUXpwRQ?oc=5",
    "source": "ITmedia",
    "summary": "d払いで障害、クレジットカードでの支払いが利用しにくい事象が発生【復旧】 ITmedia",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T00:32+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e885326ad0b80ce3",
+   "title": "d払いで障害、クレジットカードでの支払いが利用しにくい事象が発生【復旧】 - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jelprVllwNWtCM3lkUzUwY0VOTHZ2Z2FqVlY3blZ3QjQ4WUNQTno4ODAzTUtjdEJGWWVMOXJKOS1FVkxnb0Fvd1NkMmhNRFNKYTgyQ3lpajd5dDN1STFxbEo0QVVWYTI3Nk0wUXpwRdIBaEFVX3lxTE03U0lUVDNsdjdmNE9JUWROcElKXzlDS255bG03Q3hVWWdDTXpZUjlTYlFZSDJPNmpQczZadVlmZVdpa05WYjByOWR2eUpMRnZaNlg3UXFUV2xTaVVJaFZsT2F4RkFEMjV2?oc=5",
+   "source": "ITmedia",
+   "summary": "d払いで障害、クレジットカードでの支払いが利用しにくい事象が発生【復旧】 - ITmedia Mobile ITmedia",
    "categories": [
     "code",
     "credit"
@@ -736,11 +1038,37 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "4b199d87f75c74b7",
+   "title": "不正アクセスによる影響相次ぐ 「無印良品」ではクレカ情報流出か（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TMnRyVGJUd0UwZE5HYjJXRlYxckRyRkVDNUpFNVJESkxsejI2X1NLTlZjTk50WDR2VTluLU5KT00tUmdxRlV4cVNoTEJxZURFQV9DNVpYcDdhdzBNR2lfWWs5bjFqT0Z2MUFnYThDMHRlU0JyRFI3d0g4RzlqZkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "不正アクセスによる影響相次ぐ 「無印良品」ではクレカ情報流出か（日テレNEWS NNN） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-04T19:28+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "d5b8fb13298b8842",
    "title": "「デニーズ」で個人情報流出か パスワードやクレカ情報は含まれず 対象人数は確認中（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsVFBpS0F0SjZUMjN6VlpUZ1dPWkFhX1RmODNUb093VUU4QUhtTFJSMjdYZWd5RGdZQzN0VmVMVmFSS3hLNnRXWVhSY1J5NURBUmx2VHFYM3Qxd3BGVTZVOEFSVDRoR19mN0tEZl9tV0puMm5FckJLRHRmekpyQ2M?oc=5",
    "source": "Yahoo!ニュース",
    "summary": "「デニーズ」で個人情報流出か パスワードやクレカ情報は含まれず 対象人数は確認中（TBS NEWS DIG Powered by JNN） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-04T19:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "06e0c69182a04479",
+   "title": "「デニーズ」で個人情報流出か パスワードやクレカ情報は含まれず 対象人数は調査中（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsVFBpS0F0SjZUMjN6VlpUZ1dPWkFhX1RmODNUb093VUU4QUhtTFJSMjdYZWd5RGdZQzN0VmVMVmFSS3hLNnRXWVhSY1J5NURBUmx2VHFYM3Qxd3BGVTZVOEFSVDRoR19mN0tEZl9tV0puMm5FckJLRHRmekpyQ2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「デニーズ」で個人情報流出か パスワードやクレカ情報は含まれず 対象人数は調査中（TBS NEWS DIG Powered by JNN） Yahoo!ニュース",
    "categories": [
     "credit"
    ],
@@ -884,6 +1212,19 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pbUxGS3ItNmhwVmYzaEhlaEVZWDNmWS1Lb1VpdEhzOTFqOGEzVGJLR1FCemEwTlhOem04RUcyUF9FUWJUUTJKMy1TZXZrQW5zeXd6b3B3M21JQnlUcFA1dVZLRFBGTlnSAWxBVV95cUxNdkl0UjNzX0Z1RFdzQkt2dUZuOUtUMWpPbjNxWS1yZzdlc0ZYbjJKbXJvRkJSVS1mLVhOSEFZeGN0ZGJkbWMtRFQ1UFlpSXBuMl9xQWhkRDg3cERJbWJUZkd0cVlWS0ZhUEdqdFQ?oc=5",
    "source": "Infoseek",
    "summary": "TVアニメ『チェンソーマン』のデンジたちが電子マネー対応キーホルダー「きゃらぺいっ！」に登場 Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-04T19:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "14ce4de7e0ff95e7",
+   "title": "TVアニメ『チェンソーマン』のデンジたちが電子マネー対応キーホルダー「きゃらぺいっ！」に登場 | グッズ | アニメフリークス",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MbUxfbEhNQUI1ckwweGRWSjViUUQyUEFQeHZ1Y1ViQ0RtTGpfZUEtMFByYVF3bGpScWoyUXVlSmhKNEprU3hieDladTF2Sy02T0JIYw?oc=5",
+   "source": "ABEMA TIMES",
+   "summary": "TVアニメ『チェンソーマン』のデンジたちが電子マネー対応キーホルダー「きゃらぺいっ！」に登場 | グッズ | アニメフリークス ABEMA TIMES",
    "categories": [
     "cashless"
    ],
