@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T17:27+09:00",
+ "updated_at": "2026-11-05T21:42+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,98 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "98e01244c03f084c",
+   "title": "高知放送「RKCアプリ」でポイント不正取得、電子マネーへの交換で最大98万円余りの被害 個人情報漏えいは確認されず",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXU4UW9ucFVua2RjaGRSSXl1d2dENFluaHA5NFd1MmdYR2xjXzBpZFphN3VHUGJXVnBNVk9pMS1EWkFtbmVrR3JMY1p3TlBocDVjTV8xRlpIVzRGM1NkenVYcG5wRUhrWDkxNGtXcnFicWJ5OVJfNkRqYVBsTVlfUS1mN010aWxhWGstdG14ZkRDcTg4NXM3ejQ5U29Cc0hk?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "高知放送「RKCアプリ」でポイント不正取得、電子マネーへの交換で最大98万円余りの被害 個人情報漏えいは確認されず 合同会社ロケットボーイズ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T21:29+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "ab596a54fad0cb28",
+   "title": "モバイルSuica、JR東海エリアにまたがる定期・グリーン券を購入可能に IC非対応駅に「みせるモバイル定期券」導入",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news090.html",
+   "source": "ITmedia Mobile",
+   "summary": "JR東日本は、2027年3月に「モバイルSuica」で購入可能な定期券／Suicaグリーン券の範囲を拡大。新たに「みせるモバイル定期券」を導入し、定期券の発着駅がIC非対応駅でもモバイルSuicaで定期券が購入できるようになる。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T18:25+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "516635aa5c075703",
+   "title": "MileagePlus JCBカード、公共料金・税金利用でのマイル付与率を改定",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hamhaOTR1UHE3STdObnZuMEtqN0d4VjY0eC1VZzI2MVN3bFVzaFRQb25TQWxuY19FeUNCaVU1QlV0T1hET19zRmdCeUJSN056ZkVyQTBEWQ?oc=5",
+   "source": "TRAICY（トライシー）",
+   "summary": "MileagePlus JCBカード、公共料金・税金利用でのマイル付与率を改定 TRAICY（トライシー）",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T18:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8b708cc142292165",
+   "title": "関税支払い、クレジット・QR決済可能に 27年3月から消費税納付もキャッシュレス対応 | ロジスティクス | ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzV0xrNEJJVk9GUWpKMlJuMTJDV05mSHRqbUNrU2tMdU9XMFNsWVRxTW5LdmZMeXpLa241S1QwUGFOS2hvc1ZKVGFYbF9uZUdYc0ZvQmJicmgzdF9iQ2RBSHlIc25JeE0ycHc?oc=5",
+   "source": "Daily Cargo電子版",
+   "summary": "関税支払い、クレジット・QR決済可能に 27年3月から消費税納付もキャッシュレス対応 | ロジスティクス | ニュース Daily Cargo電子版",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-05T18:06+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "782364ce8500aee5",
+   "title": "ネットプロテクションズ、17LIVEに後払い決済「atone」提供開始―日台双方で連携実現",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UQTBma3owUkFfRldJcDlKZlNXN3JFU2RpdDJZOWxIdGM3WUNlbWp5Y0dkeXE3UE0tZ1Z3U1dkOVlUZVFwaUNMcnJzazVLckRlNjctWUxXaw?oc=5",
+   "source": "コマースピック",
+   "summary": "ネットプロテクションズ、17LIVEに後払い決済「atone」提供開始―日台双方で連携実現 コマースピック",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T17:33+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "72f0c1d6447f7d0f",
+   "title": "無印良品 クレジットカード情報約109万件流出の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mMzlaeGJYN2hxcnhUU3Q4eTRFT1h5am5KTFlTbVljY3k1bmpZMEZGTFcwUnhRQXJlbXZjVFRVbjlwdFJYOGc1QW5ZbTVGTWs?oc=5",
+   "source": "繊研新聞",
+   "summary": "無印良品 クレジットカード情報約109万件流出の可能性 繊研新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T17:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8c61d31d5caf1315",
+   "title": "モバイルSuicaの普通列車グリーン券、2027年3月に沼津駅まで拡大",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2154050.html",
+   "source": "ケータイWatch",
+   "summary": "JR東日本は、モバイルSuicaで購入できる普通列車用のSuicaグリーン券の発売範囲を、2027年3月より発売範囲をJR東海の沼津駅まで拡大する。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T17:24+09:00",
+   "via": "ケータイWatch"
+  },
   {
    "id": "fbdc03c4ad01dbad",
    "title": "モバイルSuica定期券、JR東海エリアまたがり対応へ 27年3月",
@@ -173,6 +265,20 @@
    "type": "news",
    "published": "2026-11-05T14:15+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1599d4227307cbfc",
+   "title": "RemitAid、日本から海外への送金機能の提供に向け、申し込み受付を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000038.000108273.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社RemitAid] 「テクノロジーで国際決済の“新たな道”を創る」をミッションに掲げ、海外取引における決済プラットフォームを展開する株式会社RemitAid（本社：東京都渋谷区、代表取締役：小川裕大、以下「当社」）は、日本から...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-05T14:15+09:00",
+   "company": "株式会社RemitAid",
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "db3b732c3c9e26ae",
@@ -334,6 +440,19 @@
    "type": "news",
    "published": "2026-11-05T11:13+09:00",
    "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "555121128a2ef23e",
+   "title": "PayPay決算にみる「決済を入口に金融で伸ばす」戦略の現在地。新決済技術の可能性も示唆",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWk5kZGQtZUhra2k0MGJGRVNIaVhncVlzNk5RUnBuMmhIVlBFa3NWQTAxSlluR2ZVWDdNdkVRUkxudDVJSnQxOTZZN05FVHB6MGZfZnpzc0k3OS1YU1lTTG5NbUVDcUZtaFJZWmtielZ6c3oxUXRYM2hUWVRRVms?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "PayPay決算にみる「決済を入口に金融で伸ばす」戦略の現在地。新決済技術の可能性も示唆 Yahoo!ニュース",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-05T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "b5f93c8511b21740",
@@ -751,6 +870,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "a1c072c82cd11616",
+   "title": "無印良品 クレジットカード情報流出か カード番号など約109万件（FNNプライムオンライン（フジテレビ系））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mUWRYTEE0NjFqbmVyaVJkdlAzcG5SSW1BenhfakhBV3Y5cTNMakNueW9VTGI4MGk5ZmVMd1F1aHJpU0JvLVJYaFNxbUJwSlgwWnNvak4zMVRNQVRhY29ZYU9iTGhXZW00MkJJamtUSHJxcTlVbURaOTJFSzJWbGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "無印良品 クレジットカード情報流出か カード番号など約109万件（FNNプライムオンライン（フジテレビ系）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T00:02+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "173e514e5e4297f1",
    "title": "良品計画、クレカ番号109万件流出疑い＝「MUJI Card」で☆差替(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkFEUzE2WG1NS2xFQ215N21mLWZBNk9TZlBRZ3FvZzBUZGhtUzBhUVZBdFlreXlHVjU5R0dHTUtHR3Q5VktmQVVIUWtmd0NWMGpSNFFhallDXzFQS2N3ZTlhTjVHZkNoRTJCVUJ3cThhazdiZjFuSmNNS2ZTb080MGkyYk1EbmM?oc=5",
@@ -821,6 +953,19 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ScWlLY1loc0gyckNJRE9rcDFNUnFQYTU2VTNWTVFBNFdtNWd4bWJHdEVObUlUQ2xKcUZZaW9GQWtrRlJnZzZYMFBkLTVaV25kRzlWUm1HanBGUlRmdGlmRUF2QQ?oc=5",
    "source": "時事ドットコム",
    "summary": "良品計画、クレカ番号１０９万件流出疑い 「ＭＵＪＩ Ｃａｒｄ」で 時事ドットコム",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-04T21:46+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e26a959cbfb4cedb",
+   "title": "良品計画、クレカ番号１０９万件流出疑い 「ＭＵＪＩ Ｃａｒｄ」で：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ScWlLY1loc0gyckNJRE9rcDFNUnFQYTU2VTNWTVFBNFdtNWd4bWJHdEVObUlUQ2xKcUZZaW9GQWtrRlJnZzZYMFBkLTVaV25kRzlWUm1HanBGUlRmdGlmRUF2QQ?oc=5",
+   "source": "時事ドットコム",
+   "summary": "良品計画、クレカ番号１０９万件流出疑い 「ＭＵＪＩ Ｃａｒｄ」で：時事ドットコム 時事ドットコム",
    "categories": [
     "credit"
    ],
