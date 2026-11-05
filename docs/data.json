@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T21:42+09:00",
+ "updated_at": "2026-11-06T00:45+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,45 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "c1c168de20ec2ef3",
+   "title": "17LIVEとネットプロテクションズが後払い決済「atone」を導入しサービス拡充",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUQUdFbWVCbkVFeTFTMm0wMXVKSVRhYlp1YWF2Y29QTVZBSFBJcm44SFZ3SnZua1BVRVkxTG90dkdCTW41SzNocENBZXpWOHUzQnFUNTAyVEE5aC11VlJnb3ZOOEpRQkYt?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "17LIVEとネットプロテクションズが後払い決済「atone」を導入しサービス拡充 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T23:13+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "993b0dc8485314ca",
+   "title": "Pay2o株式会社、月謝・会費向け決済サービスで1.7億円を調達し事業拡大へ挑戦",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DRnFWeHNpZGlxUDhTWTY1Q3I5dFRKY3BqU1pTYk9uMTZwcXNiVDUxenlBcFFCMTlxdGpjQkMxZ0w5U2tLS2tkNFlkY2Nfa25ZV1A2bFc0WklEZUhqVHFyNndyMVJUem5CUFg3QTltbEY4bEd2dUhJ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "Pay2o株式会社、月謝・会費向け決済サービスで1.7億円を調達し事業拡大へ挑戦 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T22:34+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "95460de6d71047f6",
+   "title": "「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2154138.html",
+   "source": "ケータイWatch",
+   "summary": "auフィナンシャルサービスは11月5日、「au PAY カードアプリ」でシステム障害が発生していると発表した。一部のarrows端末で、アプリが正常に利用できない場合があるという。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-05T22:26+09:00",
+   "via": "ケータイWatch"
+  },
   {
    "id": "98e01244c03f084c",
    "title": "高知放送「RKCアプリ」でポイント不正取得、電子マネーへの交換で最大98万円余りの被害 個人情報漏えいは確認されず",
@@ -349,6 +388,20 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "a8d3838c4bdded4c",
+   "title": "【株式会社ZAIKO】イベント会場でチケット・グッズ・飲食販売をアプリ一つで実現、「Zaiko POS」が公式ローンチ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000194.000051311.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ZAIKO株式会社] ライブエンターテインメントの電子チケット販売及び配信プラットフォームを提供するZAIKO株式会社（本社：東京都港区、代表取締役CEO：島田 和大、以下「ZAIKO」）が、決済システム「Zaiko POS (Point of Sale) ...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-05T12:00+09:00",
+   "company": "ZAIKO株式会社",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
    "id": "8a6385d71904c2b1",
    "title": "良品計画、クレカ番号流出 当初「含まれてない」と発表 外部からのアクセスか",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jcEI1bEI1ZFV6cFlYOUZnQi1PNUJkRHN0aUJ2VW5qQVEwNmFrZkJTQWlJUEcxQnkyTm9IalAzUXZ4Zzlob2g2X3Z4bnFJR2EwVXhCbW5hYXNmeHlxWnNKTW9weDdaeTlRMk9EVFRaWlNidw?oc=5",
@@ -500,6 +553,19 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50a0dUS0NKZEs2YmNPT0g5LU5lTUswWmk1aVd6TmZtOWZxc3hxZk1xc1d1X0xSdml3NGJUMlNyZGVEdkRrSHdwQzFUeEJzX1hETlp0OTVVdUU?oc=5",
    "source": "流通ニュース",
    "summary": "無印良品／不正アクセスでクレカ情報109万件流出の恐れ、当初は否定も新たに判明 流通ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:24+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f8664673e05858a2",
+   "title": "無印良品／不正アクセスでクレカ情報109万件流出の可能性、当初は否定も新たに判明",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50a0dUS0NKZEs2YmNPT0g5LU5lTUswWmk1aVd6TmZtOWZxc3hxZk1xc1d1X0xSdml3NGJUMlNyZGVEdkRrSHdwQzFUeEJzX1hETlp0OTVVdUU?oc=5",
+   "source": "流通ニュース",
+   "summary": "無印良品／不正アクセスでクレカ情報109万件流出の可能性、当初は否定も新たに判明 流通ニュース",
    "categories": [
     "credit"
    ],
@@ -987,6 +1053,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "eebee80a0bbc766e",
+   "title": "「VIPライナー」クレカ漏えいか 不正利用報告も…9月の高速バス予約が対象（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VZ2VEbTc4b0c4aHV2MHNaeFJXM3J2OHNvY29ZV2FyVmpUS24xOVBQVzA3SXhoeElzMjV5SWNOQ28yeTdFZC02ekp1Q0E5ZlZIMWEta1FiazBheXFKSE9KbGpVQm9ocXNUdldZT3pvU2cwNnVDWTJnSWZlZGVUV3c?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「VIPライナー」クレカ漏えいか 不正利用報告も…9月の高速バス予約が対象（テレビ朝日系（ANN）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-04T21:31+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "1361b5b95d8d5231",
    "title": "「VIPライナー」クレカ漏えいか 不正利用報告も…9月の高速バス予約が対象",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGhPYU44ZFVwTmZMQ2N6TkxIWURTd0ZmT2NJaVgtNDBHTVRCME1UTzVaRjNOY2llQUdzYTRNdmpUd0VYYWRmWXUxQkJhZWVneXBONUV6TXNRRXVpXy1YamlUVjViekptT2FVYjl4T2tiN3ZsVTFtV2RvZ00zcnV4OWJxYzU3bWhtRFHSAY8BQVVfeXFMTjYybjM3R3hNQ2N2SFM4VnBZTXRLRXFSdktCdXF2VGt2d3JFRmNJYU85T09HaGVHNGhnYjF6S3JFZjZPRzVxUUowbGNsdm8tYmJPVVp0b2thT3N4bmRKT2JEZkstQXRGRk1sc19HQUVqcXNiMDJBZVpuOGNEcHBHSktSdUZibUxZYnZCcVJrbVU?oc=5",
@@ -1090,6 +1169,19 @@
    "type": "news",
    "published": "2026-11-04T20:15+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8a3992196ea9c8ac",
+   "title": "Payどん「個人情報漏えいは利用者や加盟店のメールアドレス」最大25万件 鹿児島（MBC南日本放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yZ2FHVUVKOTNmQWhBb3piVjZxRWpaZEdTRE5XV3FWV1pXT3RHLU9aeEtMZXQ3NktXRkotV3V2MTJ1MERUc2NDQjVqYjBvRlc3RHNLa05EYmV1UzR4bHFDaDh6UWF3ZUFRYk5lN1VzQjYyX2xUSV9RYnV0UFhzNVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "Payどん「個人情報漏えいは利用者や加盟店のメールアドレス」最大25万件 鹿児島（MBC南日本放送） Yahoo!ニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-04T20:05+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "464db44b537af799",
