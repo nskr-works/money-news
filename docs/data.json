@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T10:45+09:00",
+ "updated_at": "2026-11-05T16:18+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,51 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "db3b732c3c9e26ae",
+   "title": "JR上野駅「エキュート上野」25年分の「ありがとう」を込めた感謝フェア『Suicaのペンギンのサンクス便』を開催！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001285.000082978.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[JR-Cross] [画像1: https://prcdn.freetls.fastly.net/release_image/82978/1285/82978-1285-f8807235dd16ca2122da9e776418827c-848x425.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-05T14:00+09:00",
+   "company": "JR-Cross",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "5accc5a77954ac26",
+   "title": "モバイルSuicaで購入できる定期券・Suicaグリーン券の範囲を拡大します！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001565.000017557.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[東日本旅客鉄道株式会社] 〇東日本旅客鉄道株式会社は、2027年春よりモバイルSuicaでお買い求めいただける定期券・Suicaグリーン券の発売範囲を拡大します。 〇従来、磁気定期券でしか購入できなかった発着駅にIC非対応駅を含む定期券を、...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-05T14:00+09:00",
+   "company": "東日本旅客鉄道株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "3e19ffd879a0e6ec",
+   "title": "ストアーズ、街の文化を育む多様な商いを支える「for LOCAL STORES」を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000299.000031375.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[STORES 株式会社] STORES 株式会社（以下、ストアーズ）は、街の文化を育む多様な商いを支えるプロジェクト「for LOCAL STORES」を開始しました。第1弾として、地域に根ざした書店を対象に、イベントへの協賛や、決済端末の貸し出...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-05T14:00+09:00",
+   "company": "STORES 株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "b5f93c8511b21740",
    "title": "良品計画、クレジットカード情報も漏えいの可能性",
