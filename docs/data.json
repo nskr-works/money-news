@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T00:42+09:00",
+ "updated_at": "2026-11-05T10:45+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,367 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "b5f93c8511b21740",
+   "title": "良品計画、クレジットカード情報も漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBELW5KXy1hNzM1c3gxMl9vdG5LX1ZGamVlNE13TEJMS2xrd1VnazJEaFBKMU9CN2UxLW0yWkNRbDlkcjlOajBSX0VOWW1sZk9yenc?oc=5",
+   "source": "激流オンライン",
+   "summary": "良品計画、クレジットカード情報も漏えいの可能性 激流オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:39+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e5711a54936d0f2d",
+   "title": "「公共料金払う」の説明に不審感 コンビニ店員の機転で電子マネー10万円の詐欺被害防ぐ（京都新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8waUIwQTFWbzQxeGJMd3VhY3puWXl3U2VoSnVia20zR2p2cEphVDF0elJUMXhJYzVfY0xoN0JWbElPTDRPbkdmOVVUdy1CUFBPNFlMYVZ4eHBMZGZYRzBWVXhUU01NSFZlN1JBcFFpb1liZGhWS3pNYmpRSHJPU1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「公共料金払う」の説明に不審感 コンビニ店員の機転で電子マネー10万円の詐欺被害防ぐ（京都新聞） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:39+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "190174d453a99252",
+   "title": "teppayにビューカードやJRE BANK口座連携でキャンペーン実施（ビューカード）",
+   "link": "https://paymentnavi.com/paymentnews/185198.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月5日10:25（JST） 【日本】ビューカード（日本・東京）は、JR東日本の新たなコード決済サービス「teppay（テッペイ）」のサービス開始を記念し、2026年11月4日より、新規でビューカードに入会し […] The post teppayにビューカードやJRE BANK口座連携でキャンペーン実施（ビューカード） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:25+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "920af16428461872",
+   "title": "無印良品／不正アクセスでクレカ情報109万件流出の恐れ、当初は否定も新たに判明",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50a0dUS0NKZEs2YmNPT0g5LU5lTUswWmk1aVd6TmZtOWZxc3hxZk1xc1d1X0xSdml3NGJUMlNyZGVEdkRrSHdwQzFUeEJzX1hETlp0OTVVdUU?oc=5",
+   "source": "流通ニュース",
+   "summary": "無印良品／不正アクセスでクレカ情報109万件流出の恐れ、当初は否定も新たに判明 流通ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:24+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "cd0423e2140587ab",
+   "title": "決済サービス「IntaPay」・免税還付サービス「InTaxFree」で「PCI DSS」準拠（インタセクト）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mSl9acmhGMmpVR19CNFJ4eDVNT3JtZWpZRFRlVmZfYlYwWnBzNjFua3NnMXl5SHJqakR0QzYxRldBODF3YU11eDVZbkdrR3FlWlhIcVhRZjZ1MlE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "決済サービス「IntaPay」・免税還付サービス「InTaxFree」で「PCI DSS」準拠（インタセクト） ペイメントナビ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:17+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "b362dbd900c35fff",
+   "title": "キャッシュレスが不安な高齢者へ｜つまずきやすい3つの壁と家族でできる支え方 – SDGs特化メディア-持続可能な未来のために",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EV1h0bkhmeTZKbWVsU0lLR3d6RWZxVWFlTU1lMEZZUngyZDJNWEVrSU15RFFDTW1taGxwS3FLWGFvMWdic3A4?oc=5",
+   "source": "mirasus.jp",
+   "summary": "キャッシュレスが不安な高齢者へ｜つまずきやすい3つの壁と家族でできる支え方 – SDGs特化メディア-持続可能な未来のために mirasus.jp",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:07+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d901c4fabad7640c",
+   "title": "ネットプロテクションズの後払い決済「atone」がBoku,Inc.とシステム連携",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiTF93Y0dRSm1PUmFObW4xUFA3bnJ2V2NLR0xjQ3Qtb1BaVkMtTXgza2I1VWx3OWVQRjNrdmtpZnpvbHZrRGVJS1BoS3dzU2NLaUpqVmo3bTdSMnU2T1BMWEZueDUyeTVXWVE?oc=5",
+   "source": "株式会社ネットプロテクションズ",
+   "summary": "ネットプロテクションズの後払い決済「atone」がBoku,Inc.とシステム連携 株式会社ネットプロテクションズ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:03+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "67330ad015cfa6c4",
+   "title": "無印良品の情報流出、対象範囲が拡大 提携クレカ番号全桁109万件やネットストア利用者の住所・氏名も流出の恐れ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByclZsSUtWYnY2b0ZmdTNfaF9ETXpUSmFDVnYwcDdZZVJJMlJGcE96cWQ5Qy1oMkVqOXZFVGRsRW4tVWUxckVKcGVJREgwbV9qSGpz?oc=5",
+   "source": "東京報道新聞",
+   "summary": "無印良品の情報流出、対象範囲が拡大 提携クレカ番号全桁109万件やネットストア利用者の住所・氏名も流出の恐れ 東京報道新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:01+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "890df98404802e13",
+   "title": "【キャッシュレス】11/14（土）栃木シティ戦より新キャッシュレス決済システム及び「1Day トリニータペイ」導入のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jYkZhemNTT3dpUDhqODVLcC1xUlZJUzVpNUN3RGlLNnZtSmxWN1E4RUQtbXFVSWxjbF96R2xMMVNFcVZrREFvVDg0R0txX0RNM1dqeHA2TVJwMXc?oc=5",
+   "source": "大分トリニータオフィシャルサイト",
+   "summary": "【キャッシュレス】11/14（土）栃木シティ戦より新キャッシュレス決済システム及び「1Day トリニータペイ」導入のお知らせ 大分トリニータオフィシャルサイト",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:01+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "9230d9021c77550d",
+   "title": "犯罪者が盗んだカードを「スマホ決済」に入れたがる4つの理由 ダークウェブでの関連する話題は1年で約3倍 NordVPN調査",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ydWcyYlJJcWx6Z0k1aXotTTlLVWpwTnFsTnVCeXhhVk5obmJmOWs4bEd2Y1dYZ2FNS29TV2lGWU40MEN0NEhRSU1aVWJRRWJRSVIzVzFSOTFKYTBWYW9NcXE4NE5zZGpyNHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "犯罪者が盗んだカードを「スマホ決済」に入れたがる4つの理由 ダークウェブでの関連する話題は1年で約3倍 NordVPN調査 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "Googleニュース「コード決済」",
+   "company": "Nordvpn S.A."
+  },
+  {
+   "id": "355ef4dff3fdea76",
+   "title": "ネットプロテクションズの後払い決済「atone」「AFTEE」を「17LIVE」に提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVLXRxMkx6bTlrV0QzRzVOYXpYaEhFQVBiWndhVjYyQzAyMlFiUk9rU20tS2x4cU9scWlCa0E4dVNVQnFSN3AtVVhjZkVFZkxQUFdBSTlPRU1CdUlUb21ITXp6aUN0eDJocmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "ネットプロテクションズの後払い決済「atone」「AFTEE」を「17LIVE」に提供開始 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ネットプロテクションズ"
+  },
+  {
+   "id": "72b1f4b0d4481377",
+   "title": "WAON POINTやAEON Payのキャンペーンまとめ【11月5日最新版】 ブラックフライデーで11倍還元、5日に20％還元も",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news046.html",
+   "source": "ITmedia Mobile",
+   "summary": "イオングループが11月に実施するキャンペーンをまとめた。イオンモールのブラックフライデーでは、関東・甲信越の対象専門店でAEON Payを利用すると、WAON POINTが基本の11倍になる。対象店舗でのAEON Pay決済でWAON POINTが1.5％還元される特典も始まっている。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "0565b41865ac9f81",
+   "title": "「Cloud Pay Neo」が 東芝テックのタブレット・スマートフォン型セルフオーダーサービスに搭載（DGFT）",
+   "link": "https://paymentnavi.com/paymentnews/185205.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月5日9:56（JST） 【日本】デジタルガレージ（DG）の決済子会社であるDGフィナンシャルテクノロジー（DGFT、日本・東京）は、東芝テックが提供する飲食店・フードコート向けオーダーサービス「Relax […] The post 「Cloud Pay Neo」が 東芝テックのタブレット・スマートフォン型セルフオーダーサービスに搭載（DGFT） first appeared on ",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-05T09:56+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "41b92fbfeec1c111",
+   "title": "カードレス型デビットサービス「おきぎんSmartデビット」提供（沖縄銀行/JCB）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TTzJCZ053eVdhTWt6ZmhRMjV5WlFGMDFORTIzLS0tLTQwUW44REVVbktCM3ZHajVaWXdsYTRYeVlScUd4aHNYN3ZnZXAwTUdOdnlCY0NmYmNsXzQ?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "カードレス型デビットサービス「おきぎんSmartデビット」提供（沖縄銀行/JCB） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T09:51+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "0d9b4c52d916dd79",
+   "title": "「九州ＭａａＳ」クレカ乗車本格展開へ三井住友カードと連携協定…交通事業者の枠を超えた乗り継ぎチケット",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QeUx6czM1QzlBWjg3cTlHYVRQY1BsREhwRXRnb1lCYnBVaXJyZUdPVmlhV0x0a3IzVGl4YmxVSTZXclMwQklzTlVCMUxvRnBjbkxQZXRtUlVpelg0VmRtV0tnQnotYjE1aFpnUXZPTmlXa19UOGd5SFZ3Ri1lTDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「九州ＭａａＳ」クレカ乗車本格展開へ三井住友カードと連携協定…交通事業者の枠を超えた乗り継ぎチケット Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T09:49+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ab8e7ef5af2d3cff",
+   "title": "決済手数料を抑え、カード情報の漏えい不安も軽減。月謝・会費向け決済サービス「Pay2o」が1.7億円を調達",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tOU03VjRFQXRKTUJ2cWd3cS1fdjdOaTE0T3pOTERacF9ZUEVMWHVoMW05N0Jxa1pnbVZpQmNDamR5cVhIakVySTI5V0RiVDdweWZRUkltcGwzZHBzZkU5bnZZay1ieXA0cHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "決済手数料を抑え、カード情報の漏えい不安も軽減。月謝・会費向け決済サービス「Pay2o」が1.7億円を調達 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-05T09:40+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ペイツーオー株式会社"
+  },
+  {
+   "id": "04fc69251c7cfe9e",
+   "title": "TVアニメ『貸した魔力は【リボ払い】で強制徴収』第6話あらすじ＆先行カットを公開！レント、エムピー、リンカの新規描き下ろしビジュアルを公開！",
+   "link": "https://prtimes.jp/main/html/rd/p/000009866.000014827.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ブシロード] 株式会社ブシロード（本社：東京都中野区、代表取締役社長：根本雄貴）のグループ会社にあたる株式会社ブシロードムーブ（本社：東京都中野区、代表取締役社長：大貫佑介）は、累計発行部数210万部を突破したフレ...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-05T09:40+09:00",
+   "company": "株式会社ブシロード",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "a2d51009fc67f40a",
+   "title": "沖縄銀行、カードレスの「おきぎんSmartデビット」開始 スマホ決済対応、最大1500円キャッシュバック",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CaFlCcldGVzh1UmpUWDVZTzIyd1lZc1RWbmJiMWhjb0twdTVJRWFYV2RSVUFwOGtCU1pNclZJMmNtbmV3VEl0ZmdRLWwwQVVtRE9IT0RRb29kcWlZZmtJ?oc=5",
+   "source": "Infoseek",
+   "summary": "沖縄銀行、カードレスの「おきぎんSmartデビット」開始 スマホ決済対応、最大1500円キャッシュバック Infoseek",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T09:37+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "04a10aca249b320e",
+   "title": "高知放送アプリの付与ポイント機能悪用 最大９８万円分の電子マネーと不正交換",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GTWlEM3NLQ2dLRzNteDRvMmtJWUVxNV9nQXUxOHVEX0k4WWNZejFJWmJfd1kzMVNlbnhSRTZyRDZyTHlndmZuT1lFYnZPSGY5aHZ2WFhCa2gzR1p4VmNJ?oc=5",
+   "source": "高知新聞",
+   "summary": "高知放送アプリの付与ポイント機能悪用 最大９８万円分の電子マネーと不正交換 高知新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T08:50+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "2dadea16a5b1e029",
+   "title": "ダイナースクラブの法人カード利用が顕著に増加 三井住友信託銀行との連携が好影響をもたらす",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpSUk1a1VrTE16TWxVNWpLVmRYWmtUTll3X1RnQVJ6cVhURVdFR1pyMkthT1A0MlptTWwtQmNQbWZ5YVRWZFRXZFRTVGV4V2dMbFRmaHpFQ3ZCSmc?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "ダイナースクラブの法人カード利用が顕著に増加 三井住友信託銀行との連携が好影響をもたらす ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T08:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "9b5293647be3acef",
+   "title": "「ショート動画屋さん」が福島県へ初進出、いわき市を拠点に地域企業の採用・集客支援を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000227.000113048.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社美手紙] 全国で法人向けショート動画制作を展開する「ショート動画屋さん」のフランチャイズ加盟店として、「ショート動画屋さん福島県シャインズ支店」（拠点：福島県いわき市、運営：高木信幸）が活動を開始しました。...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-05T08:00+09:00",
+   "company": "株式会社美手紙",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "3aa567b1de833133",
+   "title": "クレカの番号 無印で流出か アララ委託企業の被害も",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVEIxRzkwcjRUNFI4MFJ1N0pyZ2tBbmFmZWY4MDZFSlZpZUVkME9qX2FScWtuWFB3V0FIRXZPYjcyaXl0RUNSbjZIbUktSkRielU3akhfTEdGbTdiYnJiT2F3?oc=5",
+   "source": "琉球新報デジタル",
+   "summary": "クレカの番号 無印で流出か アララ委託企業の被害も 琉球新報デジタル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T05:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f95db6a75ffa16bd",
+   "title": "月謝決済サービスPay2o、1.7億円調達 クレカ不要で漏洩リスク低減",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4MjI5a0ZyOG5vUDd3Zm9ZRlFfTk4yQmtCX1J4bW02aE9Gb1RoNVRCM0pSdHR5am81c1cyVnd6d2RzcDNXUjBKRldpWW9CZUl3WXROSWNwbndiNHp4T25Dd3ViYWFfWDVDYnB0YQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "月謝決済サービスPay2o、1.7億円調達 クレカ不要で漏洩リスク低減 日本経済新聞",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T05:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1c184eff61b499fb",
+   "title": "ワークマンやデニーズでも不正アクセスが 無印良品ではクレカ番号全桁が漏えいか【news23】",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wcHJtQi1qY29lYTFucHoyRjJZYmJNZjNMcnhxS0VuN1lWSTNiWmZkdWhObVRnZlItT19KaTVNNnBJa2FUN2VOblR2eFZabVRQTUNNY25iTQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "ワークマンやデニーズでも不正アクセスが 無印良品ではクレカ番号全桁が漏えいか【news23】 TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T01:16+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0438282483fcb7ea",
+   "title": "無印良品のクレジットカード「番号全桁」含む会員情報１０９万件漏えいか…ソニー銀行は口座番号や氏名流出",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85ZThFZlZIbUxmU3licEUtTFBDUW5tYjByai1tY3NSdUlrQUtXNXpfZTcxbHRyWHlfN1pyVU1Fb3R4MWNMX2F2YnIxdlJ5d0pRa2FJQUJpck5GV2RtY0ZRRUFTVnM?oc=5",
+   "source": "読売新聞",
+   "summary": "無印良品のクレジットカード「番号全桁」含む会員情報１０９万件漏えいか…ソニー銀行は口座番号や氏名流出 読売新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T01:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0d1a74cfce08d5dc",
+   "title": "ドコモの「d払い」で障害、4日夜～【復旧】",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2153756.html",
+   "source": "ケータイWatch",
+   "summary": "NTTドコモ・フィナンシャルグループは5日、決済サービス「d払い」において、一部の支払い方法を利用しづらい障害が発生していると発表した。障害は11月4日22時55分頃から継続して発生している。",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-05T00:53+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "e0a0b1dc0f6471dc",
+   "title": "d払いで障害、クレジットカードでの支払いが利用しにくい事象が発生【復旧】",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jelprVllwNWtCM3lkUzUwY0VOTHZ2Z2FqVlY3blZ3QjQ4WUNQTno4ODAzTUtjdEJGWWVMOXJKOS1FVkxnb0Fvd1NkMmhNRFNKYTgyQ3lpajd5dDN1STFxbEo0QVVWYTI3Nk0wUXpwRQ?oc=5",
+   "source": "ITmedia",
+   "summary": "d払いで障害、クレジットカードでの支払いが利用しにくい事象が発生【復旧】 ITmedia",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T00:32+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "314fcd53e2cc8bf5",
    "title": "無印良品 クレジットカード情報流出か カード番号など約109万件",
@@ -66,6 +427,32 @@
    ],
    "type": "news",
    "published": "2026-11-04T23:33+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7ddce79e6c822fc3",
+   "title": "無印良品の不正アクセス、クレジットカード番号109万件も全桁閲覧された可能性（FASHIONSNAP）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZTXo1RnJWU2RsQll6X052dXprb2JTVHVKTjJOVkRhN254di11VWlYdC1PSVZtcjBZU2toLVdVRXB0a2NPNzdONHRWNEZXMWlVcWljdkNxS3cyWjFuQnI1RFROM1hZdFotX3J2U2t3Wi04TkVmTGhaZnhoS3cxWTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "無印良品の不正アクセス、クレジットカード番号109万件も全桁閲覧された可能性（FASHIONSNAP） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-04T23:33+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a9dc7468ebccde0a",
+   "title": "最大約６７万件の顧客のメールアドレスが流出か エア・ドゥ 名前やクレカなどの情報流出は確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOQTQtQldpQ2U5eDZvMUVDZDFac1dLalZaaGNoNUVkQ3dKa3JWdkdIX29aWFZHREh6SmVENU1HWVhMWmdRdWRrNVhzNzFDN2tHcXdsVnEtS1lDdw?oc=5",
+   "source": "HTB 北海道テレビ",
+   "summary": "最大約６７万件の顧客のメールアドレスが流出か エア・ドゥ 名前やクレカなどの情報流出は確認されず HTB 北海道テレビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-04T23:24+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -354,6 +741,32 @@
    "type": "news",
    "published": "2026-11-04T19:19+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "f66b9fb5a8150109",
+   "title": "無印良品、クレジットカード情報も漏洩か 番号全桁など約109万件",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TZU9fUnBsYnowaGQyNkFLM0dOQnFrX09oN19GQVV0ZFFPaXZncXRfTzBpRjBuaVhiamxEcFRJQm1WeEpram56WUw2dTExUkxfQ2wxWXNaX1FBeXJCelU2NVVYRU4yZlRxMUFCVQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "無印良品、クレジットカード情報も漏洩か 番号全桁など約109万件 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-04T19:19+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f5a8a81ec7517814",
+   "title": "ビックカメラとアソビューで情報漏洩か クレジットカードの情報は含まれず（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXNlFBbXRZRVZTYkpxc09wa19JVWRJVEk5Yjk3MmtPRTE3WFZvMndjU2l2MlROTmNFdURvbmxGWEFTQzF3QjgybXN0WUhvYVpNbFY1bi1CZWg5X2RsU0gyUXZWZ0ZxVzFyeGNjQmpEeTdEdmNVYVhFNEE4VzFacnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ビックカメラとアソビューで情報漏洩か クレジットカードの情報は含まれず（テレビ朝日系（ANN）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-04T19:19+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "4ebfd0d4a525d5e4",
@@ -972,6 +1385,19 @@
    "type": "news",
    "published": "2026-11-04T10:00+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "955c2abd77154386",
+   "title": "「楽天ポイント」オンラインが「家族亭」などで利用可能に（SRSホールディングス/楽天ペイメント）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXYldpRzAwMldqTWpZWmhRU0xQQzBOVWFvZEpid0VzN3NDSW1yMEg2bDVPenFwdXMwaFphTExRWm9PMmk5MXlqZGJGbGpwaGFVQXpMSFlkWlhSUVU?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「楽天ポイント」オンラインが「家族亭」などで利用可能に（SRSホールディングス/楽天ペイメント） ペイメントナビ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-04T09:46+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
    "id": "738822e03005b884",
@@ -5479,6 +5905,19 @@
    "type": "news",
    "published": "2026-10-29T09:49+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "742e0f7acbd34b22",
+   "title": "地域でがんばるお店を応援！対象のキャッシュレスで最大20%還元",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5OGwwWEJrNEJWZzZXWnQyd00yeG1XR08yNERIMEV4ZDl2ZlZVUUQ1QmNyR3RwNmJiOEpQQndDUWtocVU4TTA4RGVKanpsU2h3WUt0WUQzTlpLdDJ1eFB2aVFB?oc=5",
+   "source": "稲敷市",
+   "summary": "地域でがんばるお店を応援！対象のキャッシュレスで最大20%還元 稲敷市",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-10-29T09:49+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "135bda398c6dc4ff",
