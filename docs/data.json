@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T10:09+09:00",
+ "updated_at": "2026-11-07T16:43+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,60 @@
  "topics": {},
  "items": [
   {
+   "id": "63ef9893a521cee1",
+   "title": "三重交通、路線バスのクレカのタッチ決済エリア拡大 津や松阪などで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lS1NXUEJWWmVBM2lpMmtmWnJJek15TFJqZzB5amlBclE0ZVR6dUd6VXVIY1JlNkRKcjcwOV95OUNUWUJWQzE1MzV6Z2szeDRPbExySFdzOTc2NWtYbGk4R1BlOV9Bb1Y0bVg3UQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "三重交通、路線バスのクレカのタッチ決済エリア拡大 津や松阪などで 日本経済新聞",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-07T16:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a158b06a7e40bc36",
+   "title": "ビューカードで｢Suicaチャージ＋利用｣で最大10万ポイントが当たるキャンペーン開催中！｢オートチャージ＋利用」では条件達成で最1500ポイントが獲得可能！",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MmJXdjJ2dzQ5RmM4NDdhbnJNcUxLQ1RTYjNFenp6blRYVjJkaS00Mi1QR1U3VFdFZmN2XzBUOXp6ZW5RSGx1RE53VlNZV05XZnpZ?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "ビューカードで｢Suicaチャージ＋利用｣で最大10万ポイントが当たるキャンペーン開催中！｢オートチャージ＋利用」では条件達成で最1500ポイントが獲得可能！ ダイヤモンド・オンライン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-07T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7817c4c82257d7c2",
+   "title": "ロート製薬が“約280万人分”個人情報漏えい…うち約9700件はクレカ情報が流出",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Nb1ZYTzlJcmRiTUdBYzNLUktESDlVLVl4VkYtZEVEM2o4Z2xnNFFsU19HN0VTcER2aG1vOHhQOFQ4LTNZRDFxcV81VzhNSXFpRXh2TW9ocVdhLWpKenBKSmlzenAzb1U?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "ロート製薬が“約280万人分”個人情報漏えい…うち約9700件はクレカ情報が流出 TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-07T10:28+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "74dad098b213e845",
+   "title": "Vポイントのキャンペーンまとめ【11月7日最新版】 5万～10万ポイント還元のチャンス、対象鉄道の乗車で10倍",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/07/news012.html",
+   "source": "ITmedia Mobile",
+   "summary": "11月に利用できるVポイントのキャンペーンをまとめた。Vクーポンを初めて利用して買い物をすると、条件を満たしたユーザーに抽選で最大5万Vポイントを付与する。京王電鉄などの対象区間に登録済みのVisaカードのタッチ決済で乗車すると、乗車でたまるVポイントが通常の10倍になる。",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-07T10:00+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
    "id": "3bdf9e034d2ccc4c",
    "title": "三重交通、中勢・伊賀・松阪エリアの路線バスでタッチ決済拡大！ 11月11日から",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rWWQ4NnhRN0xrd3hLdVNpRUFyRW42TmZQVl94RXVaY0VpOFhtM3dEXzNuNFJGclotTVpUR0EySXl6dFpXMllMTjFndF94RXNPXzFhbUd3VXJnMjhOcWdRZWNndlF6R2J1bGc?oc=5",
@@ -41,6 +95,19 @@
    "type": "news",
    "published": "2026-11-07T08:34+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "1863209af79a94a4",
+   "title": "無印良品の情報流出拡大、「ネットストア」やクレカ情報にも不正アクセスか：クレカ全桁漏えい",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hbS1JNXZTWFEzS2ZpNDU0UVk0NFRXVUllTzFWRVpvVU9TOGUySkdEREZ3VFNHeWlnOF9RdTc5M0VqSnpsbHVaN1hWcmZkWnNPQW5RS05GcXNDTDNiSllfUmJINFljTE5aM3BwVWh2UHl3dw?oc=5",
+   "source": "ITmedia",
+   "summary": "無印良品の情報流出拡大、「ネットストア」やクレカ情報にも不正アクセスか：クレカ全桁漏えい ITmedia",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-07T08:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "e0efda177f675a52",
@@ -416,6 +483,21 @@
    "company": "株式会社バッファロー"
   },
   {
+   "id": "13e33533b2678a8f",
+   "title": "オリコ、キャナルペイメントサービスの マルチコード決済ゲートウェイ「ＰａｙＴｒｅｅ」に",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHlLUjFCNVU1aTJkUlBKQi1TN2psY28ydkY3NUItOUhnOFFpQzh0aDhGa2tWOC02d1JfVHMwdXZXZmZoV1ViUWZOODc4WlJxQ2RHcW1WUkNib2ozZHllR09rZnFIbXpydThqbXNWbV9mYzgzYzk5YVhVNTRHREN1c3hCVmV3RWF6dmJ4cndn?oc=5",
+   "source": "PR TIMES",
+   "summary": "オリコ、キャナルペイメントサービスの マルチコード決済ゲートウェイ「ＰａｙＴｒｅｅ」に PR TIMES",
+   "categories": [
+    "code",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-06T11:02+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "オリコ"
+  },
+  {
    "id": "685404af8bf6a2d0",
    "title": "輸入貨物の関税・消費税納付、クレジットカードやスマホアプリが利用可能に",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05VGN6VjloUFJnbG9EcVdrNnlnZm5QX19vUnl0Y3FkU3l4UjlKUzZudE9TcVJTUGR3NXNWSGJtSEFhR2ktS0s0emItQQ?oc=5",
@@ -489,6 +571,8 @@
    "source": "ECのミカタ",
    "summary": "アクル、ネットスターズとマルチオンライン決済における総合的なセキュリティ強化を目的に業務提携を開始 ECのミカタ",
    "categories": [
+    "cashless",
+    "credit",
     "psp"
    ],
    "type": "release",
@@ -2620,7 +2704,8 @@
    ],
    "type": "release",
    "published": "2026-11-04T10:16+09:00",
-   "via": "Googleニュース「クレジットカード」"
+   "via": "Googleニュース「クレジットカード」",
+   "company": ""
   },
   {
    "id": "9177b4159c6ac571",
