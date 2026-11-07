@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T00:19+09:00",
+ "updated_at": "2026-11-07T10:09+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,59 @@
  "topics": {},
  "items": [
   {
+   "id": "3bdf9e034d2ccc4c",
+   "title": "三重交通、中勢・伊賀・松阪エリアの路線バスでタッチ決済拡大！ 11月11日から",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rWWQ4NnhRN0xrd3hLdVNpRUFyRW42TmZQVl94RXVaY0VpOFhtM3dEXzNuNFJGclotTVpUR0EySXl6dFpXMllMTjFndF94RXNPXzFhbUd3VXJnMjhOcWdRZWNndlF6R2J1bGc?oc=5",
+   "source": "AppBank",
+   "summary": "三重交通、中勢・伊賀・松阪エリアの路線バスでタッチ決済拡大！ 11月11日から AppBank",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-07T08:34+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "e0efda177f675a52",
+   "title": "不正入手したクレジットカード情報でUSJのチケット購入疑い 埼玉県の中国籍の44歳男を再逮捕 佐賀県警",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GbGNVMG50UE9uNVRKZmNzdGxYUFhjR3JzN0dPY3FKX0h3dER6UmxxUS1jVDlKSHhMdlhNTjBBTmY4Y1kwWmNQcEd3LUtSdjZwRmthYXVR?oc=5",
+   "source": "佐賀新聞",
+   "summary": "不正入手したクレジットカード情報でUSJのチケット購入疑い 埼玉県の中国籍の44歳男を再逮捕 佐賀県警 佐賀新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-07T06:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4d89f554001ce4fd",
+   "title": "全東信の破綻、揺れた飲食店と金融機関 カード決済代行に盲点",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90LXRtNnpnR1NUNWhsUTh1WWR0QVNRQ2lZMzNQc1RyVmVaS2l0MV9qYjFWN19IdnREYVVnbjhhWFlIV1RjZG5jR1ZyTFBkendsR0VycVUtWERUWGk4b3lXTy0zSUdVR1ozZTI5ZQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "全東信の破綻、揺れた飲食店と金融機関 カード決済代行に盲点 日本経済新聞",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-07T05:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7be02ee9e17c4764",
+   "title": "BMO、クレジットカードサポート向けにエージェント型AIによる案件準備機能を導入",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFFJNFY3cHROVl9aRGluVGVReFN0TEgwNnlmaWEzNFhoTlFOZkFYbVVhbE1leHktRDZMeU9OZTB3UnNCN0tRR1BnRzB2UVVFMFppeW9WQmx4WE5Wdk1JUjVVX2NBV3g1Z1JTQVA0WkZ3M01MSVdPZnRFcFBvdVViOHFSRXplTXNOYTdJdk1ORzQ5UUctLXc?oc=5",
+   "source": "Unite.AI",
+   "summary": "BMO、クレジットカードサポート向けにエージェント型AIによる案件準備機能を導入 Unite.AI",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-07T03:17+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "7e79f2d22fe36062",
    "title": "130万人を超えるクレジットカード顧客：これはSACOMBANKの地位と革新性を証明するものです。",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDhWYUtrbktJelBXcldZX0J0WkdGX1lFZGhjNnV1dVhpREZPR0QtSGZmVTFFOUkwRWxQOEJBb2tfVENUQk5yUTdPRHRQTk05eEdDbHhxMzBsTnB5RGJXQmtpb21KNlIwZ01jb2Y2SmtPY2hYT3dNWlFObVhUeEN1UVdLdDRuemJVT2VjbGxWS0ZsbWVTbWQxX1BGUVpoVml6ZmV2OQ?oc=5",
@@ -40,6 +93,32 @@
    ],
    "type": "news",
    "published": "2026-11-06T21:08+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "02f21e48de487353",
+   "title": "ロート製薬、顧客情報２７９万件漏えい＝通話データ、クレカ番号も",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qS0ZNTU5rcFppdFJVQ1lFYXp1MEh2TXpkYVRhZjIyQktleEdBZDNmYVBRNnpaRzkxY3hWY3loVE9GTVJqSkxuQl9VVQ?oc=5",
+   "source": "時事メディカル",
+   "summary": "ロート製薬、顧客情報２７９万件漏えい＝通話データ、クレカ番号も 時事メディカル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-06T20:31+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e30b17e420ad0bd4",
+   "title": "ロート製薬、顧客情報279万件漏えい 通話データ、クレカ番号も（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wRXhrMTN2RGlmaUJLc0VyQUwxUWJlTDVWZVVfMU5qaGkzTEdHSmRLb2hEZ3lpZnRtVHBITVZLSGlwbkl3VWk4S3JSeXBtMlhldjlyZ09ETmt1dDV0bDFmbTFlaHh3QkYyTGZBOUJOYXVNWTljb2V5ajA1R1FoOTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ロート製薬、顧客情報279万件漏えい 通話データ、クレカ番号も（時事通信） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-06T20:26+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -98,6 +177,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "8d62ac8d7083d4c0",
+   "title": "スマートフォンから利用できる後払い決済サービス利用経験者は36％、利用経験者の52.8％にギフトカード購入経験【スマホ利用者100名調査】",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90N09oNFZySklDbUtIRXg2ZC1LMzlfUU9yS3RIOWlIRVVGYm5idHVOSHZjVGEyY25HZWpTR0l1alF0ejkzY2hacHgyUFB5cmZxR0VzY0JUc0owTVE?oc=5",
+   "source": "朝日新聞",
+   "summary": "スマートフォンから利用できる後払い決済サービス利用経験者は36％、利用経験者の52.8％にギフトカード購入経験【スマホ利用者100名調査】 朝日新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-06T19:11+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
    "id": "b524732c3d0956b7",
    "title": "ロート、280万人漏洩 一部クレジットカード情報も システムに不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UcjRCS1ZDSHNvYUZZYVZEajB2TG16a3p4b3QyQ0NZeWllRkRaOUVFSjRaanhfTEwzR3R3Nm1kcjVORzBfdG5qLUg1dzBzdnlMMDVjcTJVLUdpR2lSR25Yek5CTUVRYkhhQXVQLTQ0WW1XRHZBaEE?oc=5",
@@ -150,6 +242,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "b6e39132817c7d46",
+   "title": "不正アクセス確認の「テレ東マート」個人情報やクレカ情報の漏えいなし サイトの閉鎖は続く「安全性が確認され次第、改めてご案内」",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCWHJfUFR2aVRzT3hZdDQwVWNWR3d3d1dtZnlRMk5kX1NsOFpkWFZZeGxBdlFBNTNhdkZDaFdEV0JDTFgxWGN1S0dSalh2YXRfNEE?oc=5",
+   "source": "山陽新聞",
+   "summary": "不正アクセス確認の「テレ東マート」個人情報やクレカ情報の漏えいなし サイトの閉鎖は続く「安全性が確認され次第、改めてご案内」 山陽新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-06T17:16+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "c81631427b4e4d6a",
    "title": "MS＆AD、48万件超漏えい 保険契約情報、クレカ一部も（共同通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Q2x0Y2Zwdmdvdzl5RENycGU2MjN5ODBzM0puSkVpaHJQc1IyT1BIT0F6T2RpUTRHMUFJRlZMOHlVeG5UbldpOGFoUDFiSFJleXdHZTI4X2R0TFRxSHZjWDlfZ0pKM3lDMjh1bzliYnlobm9rOE9pRmJCbnpwTE0?oc=5",
@@ -199,6 +304,19 @@
    ],
    "type": "news",
    "published": "2026-11-06T15:12+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "691dfc8309554773",
+   "title": "19歳専門学生の娘から「クレジットカードが欲しい」と相談されました。「家族カードでいいでしょ」と伝えると、「自分名義のほうがお得なんじゃない？」と反論が…。年会費やポイント還元を考えると、実際どちらが有利なのでしょうか？ (ファイナンシャルフィールド)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOF96d2ZyN25Cd05TMmN0UVgxVWRxMUVVT1RBaThOOGw5MjNjaDdSUncxMmg5MmNmZUkyc2JoVjh4UHBCVlRqYWh4SC1CdWxLRFhzOExTRGtKQjktZ0R4SHVlZXJXY284TlZsbHJ5Y2RpM1dMemd1MjhFUXpPcmxtdk14cnZfbUlNc0ltcnZ3?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "19歳専門学生の娘から「クレジットカードが欲しい」と相談されました。「家族カードでいいでしょ」と伝えると、「自分名義のほうがお得なんじゃない？」と反論が…。年会費やポイント還元を考えると、実際どちらが有利なのでしょうか？ (ファイナンシャルフィールド) Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-06T14:50+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -1179,6 +1297,20 @@
    "via": "ITmedia Mobile"
   },
   {
+   "id": "0d8972a4752a9f47",
+   "title": "ＦＩＧ[4392]：大分トリニータのホームゲーム会場にモバイル型キャッシュレス決済端末「PT-751」を83台導入～11月14日より運用開始、会場内売店の完全キャッシュレス化を支援～ 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUHJabGszNUl3bTltX1FjQ203NXdhVEtyWm9ILTVWQ1FTeHBWVnExcnp3ZC1XWTBQWDNQWlZ4X2xSSHlHeUNseVhfdXN6TTdaM3VESjdSTHE2OU5XT0NudmtUcWlIa3Vicmc?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ＦＩＧ[4392]：大分トリニータのホームゲーム会場にモバイル型キャッシュレス決済端末「PT-751」を83台導入～11月14日より運用開始、会場内売店の完全キャッシュレス化を支援～ 2026年11月5日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "0565b41865ac9f81",
    "title": "「Cloud Pay Neo」が 東芝テックのタブレット・スマートフォン型セルフオーダーサービスに搭載（DGFT）",
    "link": "https://paymentnavi.com/paymentnews/185205.html",
@@ -2146,6 +2278,19 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PNmhhOWFsRWhMMGZBQWZnSVgwSkdGRjh4RktGbVNHQXNKVWRHYUR3MFI0THhvQWtfQ2JHQkJrbW5HeE1xSXBQV2tWeHA0R08zZkJ6SFlpUnU?oc=5",
    "source": "株探",
    "summary": "クレジットカードおすすめランキング【2026年11月最新】専門家が選ぶ人気の30枚を徹底比較 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-04T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "63e8bd3c1a721efd",
+   "title": "年会費無料のクレジットカード【2026年11月】永年無料の最強おすすめクレカを比較",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wdHcwZVdKNzJpV2c4YlR2OW5XNnhxUWVaVDZwX3FxNmY4djNMZENud0w2eFdHOWt5YVYwYlQ5Mk5pWFJTV2hFLXFPZXdNZkY3TUR1emt5SFZ3cUtL?oc=5",
+   "source": "株探",
+   "summary": "年会費無料のクレジットカード【2026年11月】永年無料の最強おすすめクレカを比較 株探",
    "categories": [
     "credit"
    ],
