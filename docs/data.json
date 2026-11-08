@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T16:54+09:00",
+ "updated_at": "2026-11-08T20:29+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,45 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "32ab79d3e6a91133",
+   "title": "「キャッシュレス決済は大人の都合」…元野村證券のFPが子どもに「お金が減る痛み」を教えるべきと考える理由",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uOGVXRlZnMHFGUmFqYVBhSHo5V3BCVjQ3UnlVdG0zeWdHajJvVVhrUE1CTnNVRF9lZTFVcncyTXVKMVZoTy0wUlJ1MjVZSjhQemV4Zk9QLUNxM1dRdW16a1lOZTZrV3RaaDdST0xyckotVS1BZUlwU2lNU2xZYk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「キャッシュレス決済は大人の都合」…元野村證券のFPが子どもに「お金が減る痛み」を教えるべきと考える理由 Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-08T19:10+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "e9fa4684c0040242",
+   "title": "“キャッシュレス対応”のフィットネストラッカー、新たに登場か。新Galaxy Fit 4が大進化を遂げそう",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jM1hhR3c1QjVWSWRPMUFvdWE5N3IwWC1VTnh4VXVsRjJ0RGt3dW52aGFuZmdfRzg2OTd1SUdDRkN2eDBZMm1CNnNRVU1vY1NxeGFPeDNGdFFzN1V4TVlVMHlSRXNmcTBmVnhRbG55SQ?oc=5",
+   "source": "Gizmodo",
+   "summary": "“キャッシュレス対応”のフィットネストラッカー、新たに登場か。新Galaxy Fit 4が大進化を遂げそう Gizmodo",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-08T17:35+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "40c708c1307285f3",
+   "title": "エディオン、ECサイトのログに不正アクセス 最大9,554名の個人情報漏洩の恐れ、クレジットカード有効期限も対象の可能性",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2plbi01aElwQm5Fd2RYaGh0UzVFWVd1cVZ0aWRLMm1TZmpiRVR1QzFva3czY25SUVBMVDRrLXBnT0F2bVpKMUktUUtzQm9RdFVUbTF3M3k5WDE0d2ZTcWRjNTc1R2Z5cnZfREpuckt1UjFfUmdBVllPbnY0cW51RFdDS3Q5SHNCOXZNQ056c2lFcnZrN3VMWg?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "エディオン、ECサイトのログに不正アクセス 最大9,554名の個人情報漏洩の恐れ、クレジットカード有効期限も対象の可能性 合同会社ロケットボーイズ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T17:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "d9cb7caf54ac6291",
    "title": "【西鉄電車でポイント二重取り！】Visaのタッチ決済でVポイントが貯まる新サービスが11月16日スタート",
@@ -95,6 +134,19 @@
    "type": "news",
    "published": "2026-11-08T13:20+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "93bc6b2856f70463",
+   "title": "【写真・画像】ＪＲ東が「テッペイ」開始 コード決済、スイカと連携 | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OcHp5WnlRcXRuZnlPM05PR1l0aWp6bENrbm1BN0NqbGU0NUQxZ2F3Q0FSZTB0OXRwajVLS1FWYmlzeDJkYlFkQ0tvOExOaEFPbXZIY1FzUHVzZXEwNEE?oc=5",
+   "source": "佐賀新聞",
+   "summary": "【写真・画像】ＪＲ東が「テッペイ」開始 コード決済、スイカと連携 | | 全国のニュース 佐賀新聞",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-08T12:44+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "2b59796d892f333f",
@@ -268,6 +320,19 @@
    ],
    "type": "news",
    "published": "2026-11-07T08:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "34e4e5a9551e53ff",
+   "title": "若年層向け「ダイナースクラブ ゴールド」を専門家が分析！ タイパ・コスパにすぐれる特典が魅力",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtQktUeFJmZ2ttS2NsYzQ4NHRHQWk2QTBtNUhIUGhNRkdNdi1wSWR1TGp2cGhDdFNqTEVubWUzOTRaZzA0M05hem5PMDVjdw?oc=5",
+   "source": "価格.comマガジン",
+   "summary": "若年層向け「ダイナースクラブ ゴールド」を専門家が分析！ タイパ・コスパにすぐれる特典が魅力 価格.comマガジン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-07T07:00+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -1019,6 +1084,19 @@
    "type": "news",
    "published": "2026-11-05T17:24+09:00",
    "via": "ケータイWatch"
+  },
+  {
+   "id": "62c97b34a826aa45",
+   "title": "キャッシュレス決済対応 赤磐市 セミセルフレジ７台を導入",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTQ1FROGFtZkZMRlYzaG5WeU1rMGZ5TFBwZklzR2hFUFNCdnNfR0Q5TE54SkFzai1HUlF3WS1EWXNwQlRLUHl5RjhfWEJKZGlRSmc?oc=5",
+   "source": "山陽新聞",
+   "summary": "キャッシュレス決済対応 赤磐市 セミセルフレジ７台を導入 山陽新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-05T17:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "fbdc03c4ad01dbad",
