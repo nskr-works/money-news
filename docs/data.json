@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T23:18+09:00",
+ "updated_at": "2026-11-08T09:53+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,45 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "b3628507ab1082ce",
+   "title": "日銀「高齢者消費分析」に潜む“選択バイアス” クレカ決済の実態との乖離（TBS CROSS DIG with Bloomberg）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sT1VwOWczM1J5czR2cE45Q29UZ1ViYk1oUTJwS2JBZmt2YzQzQmhDNXhfaDBPZVA0RmNldkVBa2lEZU1jekVabzJfb1hsMXpOamlVdW1fSUtJN1J3c19qSHlmRFZjV0xaMFFqWEdqZWU2QnB2VGU5YWl3RkhBRXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "日銀「高齢者消費分析」に潜む“選択バイアス” クレカ決済の実態との乖離（TBS CROSS DIG with Bloomberg） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T09:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4684fb9cae95a4c9",
+   "title": "CCaaS活用のカード事業における協業を開始、地銀向けメニュー（ナッジ/TISI）",
+   "link": "https://paymentnavi.com/paymentnews/185251.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月8日7:00（JST） 【日本】クレジットカード「Nudge」を展開するナッジと、TISインテックグループのTISI（いずれも日本・東京）は、このほど、基本合意書を締結し、カード発行に必要な機能や運用基盤 […] The post CCaaS活用のカード事業における協業を開始、地銀向けメニュー（ナッジ/TISI） first appeared on ペイメントナビ .",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T07:00+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "158e0804d0e134c5",
+   "title": "ネットプロテクションズの後払い決済atoneが17LIVEに導入へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9DRGtDb0JtRjNnTUNXeEZ0QU9iaENuSGN3VTE2MFQ2NEZpY2M0TVFuenpBeUo3VDQ0cXVIbnFnNHdOODE2ek9V?oc=5",
+   "source": "Dellows News",
+   "summary": "ネットプロテクションズの後払い決済atoneが17LIVEに導入へ Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-08T00:45+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
   {
    "id": "5613e89334c8ff4f",
    "title": "クレジットカード＆タッチ決済の話題振り返り！ 2026年10月のトピックス（BCN）",
