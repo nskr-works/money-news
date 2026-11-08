@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T20:29+09:00",
+ "updated_at": "2026-11-08T23:28+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,73 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "0bb588498ed3cb1e",
+   "title": "【最大50万円を補助！】立川市のデジタル化支援、モバイル注文やキャッシュレス導入は商工会議所の事前承認がカギ",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85SllUSHFIUzJPY0ZWTndhUEpkVC1Dc0J0bGRGeVlROGZTMF9JdVBDZDB6M0xqcG1KV1J3eGVfU1k2TlBEUjEtb2dzMTBNSkFn?oc=5",
+   "source": "DXマガジン",
+   "summary": "【最大50万円を補助！】立川市のデジタル化支援、モバイル注文やキャッシュレス導入は商工会議所の事前承認がカギ DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-08T21:34+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "f4b6d0c02d0f8126",
+   "title": "クレカ番号約109万件にアクセスの可能性、不正利用の補償は「60日」が目安。数え始めはJCBと三井住友カードで違う",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GdXk1WnlmUWM4U1JJeDVJYWZPLXU0Z0Y0dEpxS2xmTHZKZXotQkpOY0kzSWo3RHN3MW0yX2U4WlozRDlNT0pwUmpFTDQ?oc=5",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "summary": "クレカ番号約109万件にアクセスの可能性、不正利用の補償は「60日」が目安。数え始めはJCBと三井住友カードで違う LIMO | くらしとお金の経済メディア",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T21:23+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a104852f6902bdd9",
+   "title": "【道南バスの全路線でタッチ決済スタート！】11月10日からクレカやスマホで乗車OK、整理券の取り忘れに注意",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVRWJpa0JNT2U1RjhyX09nTlNISUNzcE93S3dJWXFNbE53UHktenBxX3hVbEZIZjdwMDYxQVJuY1RQYjh3NkNVM1RRWWxTQlR3?oc=5",
+   "source": "DXマガジン",
+   "summary": "【道南バスの全路線でタッチ決済スタート！】11月10日からクレカやスマホで乗車OK、整理券の取り忘れに注意 DXマガジン",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T21:14+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "778a63d5d987d702",
+   "title": "【和光市役所でキャッシュレス決済が解禁！】住民票や各種証明書の手数料がスマホやクレカで支払い可能に",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zeTJRUGF3M245eGhPUmFtYlBqODZFQUpfTmRhNmZwckx0RElwZkxfdzhlbVNDb09oSktET0ZxUkFtUHBrT1oteXVVcDBzZw?oc=5",
+   "source": "DXマガジン",
+   "summary": "【和光市役所でキャッシュレス決済が解禁！】住民票や各種証明書の手数料がスマホやクレカで支払い可能に DXマガジン",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T21:02+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "9bef6fc3c2e4b8c7",
+   "title": "北名古屋市の公共施設や市役所窓口でスマホ決済が解禁！使える場所と「市税納付は対象外」の注意点まとめ",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pLWJncmIySnhPQkg4X1R1VXV6aGIyaEszV1hSb25MWUZHT1dmVFU0YU5oeFlTbGpGR2hCOU04c0pPbThJRzZER1pKbw?oc=5",
+   "source": "DXマガジン",
+   "summary": "北名古屋市の公共施設や市役所窓口でスマホ決済が解禁！使える場所と「市税納付は対象外」の注意点まとめ DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-08T20:12+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
   {
    "id": "32ab79d3e6a91133",
    "title": "「キャッシュレス決済は大人の都合」…元野村證券のFPが子どもに「お金が減る痛み」を教えるべきと考える理由",
@@ -334,6 +401,19 @@
    "type": "news",
    "published": "2026-11-07T07:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "272eaf39b05b020a",
+   "title": "キャッシュレス決済でお買い物をもっと便利に！",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sQTd6WE5VQ3RGWHktdTNUTVVfa2VDbEpWOEpKVGNIZ1liY1pFZTZBeDJMRkZDX2oxcFRURDJDeTU1dmtyN25VUkRBcS1MZXBxRmY4RjRPQS1GLXdTcXFndGoxRHIyeDlUSmUxY2l1ckI5MmRoUWc?oc=5",
+   "source": "名古屋グランパス公式サイト",
+   "summary": "キャッシュレス決済でお買い物をもっと便利に！ 名古屋グランパス公式サイト",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-07T06:53+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "e0efda177f675a52",
