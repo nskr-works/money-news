@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T23:28+09:00",
+ "updated_at": "2026-11-09T10:10+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,165 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "462ff83dde879bdd",
+   "title": "加盟店事業で楽天カード、オリコと連携を開始（ユーシーカード）",
+   "link": "https://paymentnavi.com/paymentnews/185477.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月9日10:10（JST） 【日本】みずほフィナンシャルグループの一員であるユーシーカード（UC）は、加盟店事業において、楽天カードおよびオリエントコーポレーション（オリコ）と連携を開始した。 近年、キャッ […] The post 加盟店事業で楽天カード、オリコと連携を開始（ユーシーカード） first appeared on ペイメントナビ .",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-09T10:10+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "97aff00fe66fb18e",
+   "title": "生成AIが選ぶ「クレジットカード」、1位は三井住友カード（言及率61.9%）【2026年10月調査】",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TSFI4RGVDYUoyam9jYzFOalMwaHNHdlgtdlAyb0VXNU9zMFhjZjZZUlNFd0VkdnVfeVFYTWZpdDA4TTJCeHp5QldIVkloR1NFa1I4bk9PaDBBSjRPX1V0VzQyZGpKaWNGSEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "生成AIが選ぶ「クレジットカード」、1位は三井住友カード（言及率61.9%）【2026年10月調査】 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-09T10:00+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "株式会社ブランディングワークス"
+  },
+  {
+   "id": "abc152164b2e5dfb",
+   "title": "ハンドメイドマーケット「minne(ミンネ)」で 「AEON Pay」利用開始",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53ZF83QnhWUUNaRG5EdmFRSTJwNk1QZ09BNEtCVHFnSlF1SllPUmkwWnFtc29wSGNpbk9zNlZ0TlpYYm5aSDBhS0o5QWdOdw?oc=5",
+   "source": "アットプレス",
+   "summary": "ハンドメイドマーケット「minne(ミンネ)」で 「AEON Pay」利用開始 アットプレス",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-09T10:00+09:00",
+   "via": "@Press（決済）",
+   "company": "イオンフィナンシャルサービス株式会社"
+  },
+  {
+   "id": "d5fc1c92f99c8fb6",
+   "title": "日本市場参入10周年のStripe 決済手段拡充やAI、越境EC支援など国内の加盟店向けのサービスを強化",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPOUZMUnUtSnBPUDU3RHlFb3RKNW9SSXpCM1duTGdCVHlvWEU0Q29fSTI3YXZ0eVR6SzhTS0ZUbzdCNWhnMzRJVW9zbU8wRTB2aktHY1JjNXZqeFU?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "日本市場参入10周年のStripe 決済手段拡充やAI、越境EC支援など国内の加盟店向けのサービスを強化 ペイメントナビ",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-09T09:35+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "f0950ed19042cb37",
+   "title": "PayPay、生活に根付く決済を起点にカード・銀行・証券とのクロスユース拡大",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53bHFzc2RvMmgwNUxEQmZYTUIxS2hfSTJiaU1qQk5lWV9rcDVzeDVxOXNoaGJtLUdMMVdONlNrWDlESzJVUENlSy1KbklES0E0U09lcDdQTjYtVk0?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "PayPay、生活に根付く決済を起点にカード・銀行・証券とのクロスユース拡大 ペイメントナビ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-09T08:36+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "a9fbcc0a76a3f8b1",
+   "title": "道南バス観光MaaS事業採択、地元タクシー、施設とMaaSで連携実証 全路線でクレカ乗車、道内最多に",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45bmFPZU05bzA3MldiZ2hEVG1UeDhtcGE3d0stdlhNTmdtZFJMRkZtMl9ZZmdwLXBZc1JwS2xKM2NycFlCdXF4QW1JR1d4eFpvQ0F1ZkZNNnNGWi1HdE9N?oc=5",
+   "source": "LIGARE（リガーレ）",
+   "summary": "道南バス観光MaaS事業採択、地元タクシー、施設とMaaSで連携実証 全路線でクレカ乗車、道内最多に LIGARE（リガーレ）",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T08:32+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ae4ae31f0777d623",
+   "title": "氣志團初のクレカ「房総魂 エポスカード」登場 利用で日本赤十字社への寄付にも",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YMHBiQmZoY3g5RURXd2J4bmVfZzhuSmJnVUwzajZjbXdFaVlGOE0tTWlQVW9pSjN2VE9fUF9LcnRySjFTS1VNeFlocXRSQmQyNEZCZ2xWN1pmMnA2ZHkw?oc=5",
+   "source": "Infoseek",
+   "summary": "氣志團初のクレカ「房総魂 エポスカード」登場 利用で日本赤十字社への寄付にも Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T08:29+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "09768c3091dcdc57",
+   "title": "【ニデックインスツルメンツ】マルチ決済端末「MPT200」の量産・販売開始",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KblR0TXNCSW9tVUNTVm96anJ1MHZWc1QxQjFUOGg4ZjlnVHpRY0cyX1RobEVJRGpyYTJmSDdqeGZGR084Z3hxeE8wV054TFEzNU9z?oc=5",
+   "source": "薬事日報",
+   "summary": "【ニデックインスツルメンツ】マルチ決済端末「MPT200」の量産・販売開始 薬事日報",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-09T08:18+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "c9bb2c6bce017d16",
+   "title": "Money20/20、北米における国境を越えた決済システムの現状と将来性は？",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0cTIyVHdwZVNXV09sV0J5RFJPWDRsQ2Y4SEpDNGdrSTM0WGJXQXljcFN4bkkybnpXbVRpZW4yVmx6cVowN0FPSmN3UmhtVEQyWi1SeFhmaHBwb2c?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "Money20/20、北米における国境を越えた決済システムの現状と将来性は？ ペイメントナビ",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-09T08:00+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "a839a9ca78c8f16c",
+   "title": "全国で使えます！ モバイルSuicaのコード決済【teppay】激トク活用術!!（週プレNEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtaENZdDFfY0E1WUNqb2I5RVhGclF0QVNMd1JiZTlMRXpTMXBsajRFNFJRTHVLckd2bnFoV3plVldpV29MNE5yWExPMzFIX3c1Q3N6VXZGR1ZJakh3UHlaZThWWE9vOFZ2M0ZRUFlmZlNPT3lpR290N3pKZUFiRTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "全国で使えます！ モバイルSuicaのコード決済【teppay】激トク活用術!!（週プレNEWS） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-09T06:01+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "2d700041058f456b",
+   "title": "ダイナースが20～30代開拓 老舗高級カードが狙う新富裕層ビジネス",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZDBKR2ZUdHpQd1dsenl5ZEtBSEN2T0hhdk5TYy1QZ2hpNVBGZ1dJWjg0OFdRcVVFYm5hS1Z6Rm5TWWh0NDk3NGdKMEc0UUJTam5aVm1jdXBVUGhuWTg1WVNuOExobDFRQWh5N3E5WXZTX04yekh2NHVsR1lxcWgtdXVGeE5HMkwxTHRreE04RUZlUTZq?oc=5",
+   "source": "日経クロストレンド",
+   "summary": "ダイナースが20～30代開拓 老舗高級カードが狙う新富裕層ビジネス 日経クロストレンド",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T00:00+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "945e7261f96c47b6",
+   "title": "【香川県がスマホ納付を拡大！】施設使用料や道路占用料もクレカやアプリで支払い可能に",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RWnNHSHYyeE1VcEdGVWEwN1pPTUhMQjFWbzBLdjJibmpEYUFJam1DOE4yZHkxaUlXUVdtOUhvLTBYZFZaRkJtSU1wd3EyNHRC?oc=5",
+   "source": "DXマガジン",
+   "summary": "【香川県がスマホ納付を拡大！】施設使用料や道路占用料もクレカやアプリで支払い可能に DXマガジン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T22:08+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "0bb588498ed3cb1e",
    "title": "【最大50万円を補助！】立川市のデジタル化支援、モバイル注文やキャッシュレス導入は商工会議所の事前承認がカギ",
@@ -82,6 +241,32 @@
    "type": "news",
    "published": "2026-11-08T21:02+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "750cf1039d80a671",
+   "title": "【年会費とカード発行代の違いに注意！】申し込む前に知っておきたい、おトクな限定クレカのポイント",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBENzVtUng4bWlRNHVCclFYTDMzbkpXV004N0Itd0RqNmRTSERQWkR0bk9SUzZRSnZOLVp3V1VaaVFvOGJNN2NaYUdpd0VtbFJS?oc=5",
+   "source": "DXマガジン",
+   "summary": "【年会費とカード発行代の違いに注意！】申し込む前に知っておきたい、おトクな限定クレカのポイント DXマガジン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T20:41+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b8185f396e4598ef",
+   "title": "アメリカン・エキスプレス、一部特典を順次終了 レストラン割引やバースデー・ギフトなど",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mN1JzcjhwVEgyQ2lSaDdyblFMNWs0WmxHanFqWkk4TDd4NWhXaFczdFl5TVEtRE05b1U3bzBNcDNKQnBESFd4TXctSENCQ0g5TjQ3ejBZYw?oc=5",
+   "source": "TRAICY（トライシー）",
+   "summary": "アメリカン・エキスプレス、一部特典を順次終了 レストラン割引やバースデー・ギフトなど TRAICY（トライシー）",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T20:16+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "9bef6fc3c2e4b8c7",
@@ -174,6 +359,20 @@
    "type": "news",
    "published": "2026-11-08T16:02+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "0a28f7b9bf2d1b81",
+   "title": "複雑怪奇な首都圏の自動改札！クレカタッチ・QR乗車券・Suica…JRと私鉄で違いすぎる自動改札の「なぜ」と2027年からの変化をこむぎが調べてみた",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GeS1OZW0yeGx0cFhDeWFrNGxic0N6NWhKU1ZCWnY5S29SdG9ObnpobDFhMUZYQnVEOU1fSW5YbWpNcWJub3hCbmpvX3I?oc=5",
+   "source": "旅とおでかけ 鉄道チャンネル",
+   "summary": "複雑怪奇な首都圏の自動改札！クレカタッチ・QR乗車券・Suica…JRと私鉄で違いすぎる自動改札の「なぜ」と2027年からの変化をこむぎが調べてみた 旅とおでかけ 鉄道チャンネル",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-08T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "1eebcca2954e8272",
@@ -308,6 +507,19 @@
    ],
    "type": "news",
    "published": "2026-11-07T16:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a4a9e2ddb26fa21b",
+   "title": "だまし取られた金額は9390万円 60代女性に金融機関職員名乗る相手から電話 「あなた名義のクレジットカードが10枚作られている 犯罪に巻き込まれるかも」 公園に現金置く 長野県内で今年最大の被害",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zZENHdzFmVk5oQ09jWDBaUnZXN0pHSHZfZHBDd2x6U1JiX082d0tqZGtBZ0cyU1VERG91V0ExcWg2bk11bHY2ZS11WXA2Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "だまし取られた金額は9390万円 60代女性に金融機関職員名乗る相手から電話 「あなた名義のクレジットカードが10枚作られている 犯罪に巻き込まれるかも」 公園に現金置く 長野県内で今年最大の被害 FNNプライムオンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-07T12:15+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -772,6 +984,19 @@
    "type": "news",
    "published": "2026-11-06T11:51+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "94d3771a6781323f",
+   "title": "アクルとネットスターズが提携 StarPay加盟店のセキュリティを強化へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qdXhsd0JtcWEyal9RZ2RlMVRyYkNBTDRvYW5GOERpUHRtbWdjYWlfanNMZENiem1nZXNpcmUwUm5iYjgwY1hv?oc=5",
+   "source": "Dellows News",
+   "summary": "アクルとネットスターズが提携 StarPay加盟店のセキュリティを強化へ Dellows News",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-06T11:41+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "da68a955ca630cc2",
@@ -1418,6 +1643,19 @@
    "published": "2026-11-05T12:00+09:00",
    "company": "ZAIKO株式会社",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "697e467bf9847327",
+   "title": "良品計画、クレカ番号流出 当初「含まれてない」と発表 外部からのアクセスか（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tREwzVUI4QTVVMS1BWl9ETHZOSFJjRTFrTV9uYjVpZ1RNYWRZLWJiSlotLXFDaVFBclN6UWVyZUhteUtVU0hjem1obnRrZ2M0U0wxZnYzVUtHOHhVYjVCQlBxdnFZZGduMjBPVHRJZFc1LThDV1BmTmdub3RNUWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "良品計画、クレカ番号流出 当初「含まれてない」と発表 外部からのアクセスか（テレビ朝日系（ANN）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-05T12:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "8a6385d71904c2b1",
