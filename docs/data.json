@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T17:37+09:00",
+ "updated_at": "2026-11-09T22:19+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,162 @@
  "topics": {},
  "items": [
   {
+   "id": "25fd913ee25bf7df",
+   "title": "【最大2,000ptもらえる！】楽天カードをGoogle Payでタッチ決済！1回200円払うだけで200pt還元の冬キャンペーン",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vNXFaUWpaUnRGdkloWTk3dnVWQmRYU3hMRUcwakdsSmg0MjM2dGZ6aTR2YzZ6ZEpPbGF3ejFWaXBfbjMtYjZNMWpHNWFiazg?oc=5",
+   "source": "DXマガジン",
+   "summary": "【最大2,000ptもらえる！】楽天カードをGoogle Payでタッチ決済！1回200円払うだけで200pt還元の冬キャンペーン DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-09T20:59+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "0d17d5c0b2ae5b9e",
+   "title": "住友生命 健康プログラムのサービス利用者の個人情報8万件漏えい 一部のクレジットカードの番号も含まれる",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wcmNGd2h1Y0FxVHBFVjB6MF9OMHRITVJLTXlyMmk2XzQ3QWpLOUdtNmpCWkpjUklXd2k1c1JKVUY5RU5XRU5lSkpjaWhNUm9POHZzdmpkZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "住友生命 健康プログラムのサービス利用者の個人情報8万件漏えい 一部のクレジットカードの番号も含まれる TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T20:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "89f8cae98bd8d9bc",
+   "title": "ニトリ、最大3762万件の情報流出か 「ニトリネット」注文データなど不正アクセスの可能性：クレカは対象外（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hbm1XTjRPX2NVMEdsLXdhcWYwUlJITUUwbldpaDM5SDVpVUtGNktXRHEtQ01XQlF6eDlmVVFwb3MyWWFZT29HdTJvWDNJUGo3elVDeS1iRWpHQldNWU5kVXkxSFIxQ0tUcmhaRUcwOS1Mdw?oc=5",
+   "source": "ITmedia",
+   "summary": "ニトリ、最大3762万件の情報流出か 「ニトリネット」注文データなど不正アクセスの可能性：クレカは対象外（1/2 ページ） ITmedia",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T20:45+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b2741fdc261fc9df",
+   "title": "ニトリ、不正アクセスで3762万件の顧客情報漏えいか クレジットカード情報などは流出せず",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0ZU5GWVZ1cTNacW5qQ2R0aWs1N2JKN0h5M1lvTDZadDQ3TUYxOXRNeWNUaUxtSUNxS004Tk9tRHhteHMxVGhqYmx4QnpyajlXdU1wSzhHNVBiallJZHJHZ2czdFI4VHFwVkxjNHViONIBd0FVX3lxTFBFSUJ0OVRjTFUwc0xydXVDOFFXdWVMQjJKOHpRM1BYS2xybFBQdm45czBoQ1dQQ1djaWt3SUx4VUZtNDNfeHJMYy1EejRLaFJYSWFyZjljb3ZxYnd1WUwxaVJOR0JNa1ViTkFsN0pUS091UFdlc0Nn?oc=5",
+   "source": "日刊スポーツ",
+   "summary": "ニトリ、不正アクセスで3762万件の顧客情報漏えいか クレジットカード情報などは流出せず 日刊スポーツ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T20:13+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5e7175df3c30ff4e",
+   "title": "『ニトリ』に不正アクセス 最大3762万件を超える氏名や住所、電話番号の個人情報が流出か クレジットカード情報は含まれず",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MSEE1NDZVRy10ZkRZY0xPWHdzWGctX3A5UDVJZ3RESWw1OVpIOW8xVGdUZlJjckRWOFZ2dGJFZVdINGdycWNOMzBROFk3dU1OVG1hSjVVbzgtRnUyRWJXcklUZU5lOTNkS2RwNFptS09NOU04d25BNUpQcGJpbE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "『ニトリ』に不正アクセス 最大3762万件を超える氏名や住所、電話番号の個人情報が流出か クレジットカード情報は含まれず Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T20:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8784a85ae935e37d",
+   "title": "住友生命、委託先NTTデータ不正アクセスで約8万人分の個人情報流出 クレカ番号も一部",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKQ3laMzR1TTNaTW9hWHItbnpENGJ0UUpERHdMUVFOTFVaeHFxd2J0dUpzZFY4QXVtRjBxUG9GM0d0ZFlpYmpyX3dodTZzTVJQUl8yYVJjMHo4a2ZYUC1TUFZHU0tkWkluN2RvcHllWDU0REFP?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "住友生命、委託先NTTデータ不正アクセスで約8万人分の個人情報流出 クレカ番号も一部 BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T19:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b80e3eae1c7e75cb",
+   "title": "住友生命 不正アクセスで約８万人分の個人情報漏えい 一部クレカ情報も",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ucGNGVEE3eXNfamxaRVhjNFE0a0pNUy1iTHBTTG9IWjItRXVVUUp0VzlOd0V4ZnBkVG5KZUtDajZGS0NtNy0yOGZ6T3FiU0I1V3Npb2FTcktrMXNuVGp5SFNnWnVrNjNuQXZXdGx1elJ0dFJtYUx0SGt5VENfZmM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "住友生命 不正アクセスで約８万人分の個人情報漏えい 一部クレカ情報も Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T19:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "158e8502c2a607b3",
+   "title": "【速報】ニトリ最大3762万件の個人情報流出か 不正アクセス発覚 クレカ情報は含まれず",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb2pGQU5aZDZsRHlrNGtJYm45SFlla0RzZDI0d0U4NGNqV2tlUFdmVWs3MEswd0pZMWNUNDd1TFRRRVVGSGZ3ZmpaTnZDZXp2VjAtWWFPMkptdw?oc=5",
+   "source": "HTB 北海道テレビ",
+   "summary": "【速報】ニトリ最大3762万件の個人情報流出か 不正アクセス発覚 クレカ情報は含まれず HTB 北海道テレビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T18:34+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ab626208c4bfb923",
+   "title": "道南バス 「クレカ乗車」全路線導入前にセレモニー",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DbVRSTHFwT0RrUUhCd0xFeHZZLWR2MXhRTHQ1RHdMNjNOSm9vVFFBRjFWQmdpR29pdE9mQkZvbVpNOG5tWnluSUc3TmlNMDRZdzBJZ0N3eTQyQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "道南バス 「クレカ乗車」全路線導入前にセレモニー 北海道新聞デジタル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T18:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "09e2eadf8dbf5485",
+   "title": "ニトリ、個人情報の漏えい可能性「最大3762万件」を報告 ログインパス＆クレジットカード情報は含まれず（オリコン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNTnZTZTFleWdXRUl6ME1OSjdTdVRmNFFQUWhSc3ZpeWN0MGt5bWFkOU5wODFHZDdiTGRLLWNYSVBXUHVmS3pVaWhubC1sdEdWbjFkR1hUaXpYaDU2UlM3ZV9GZFlLdEhLWnBfVFFQMENPeE1QbDByaHhpN3RZRnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ニトリ、個人情報の漏えい可能性「最大3762万件」を報告 ログインパス＆クレジットカード情報は含まれず（オリコン） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T17:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b7034d029a60bdeb",
+   "title": "慶応大生の女がバイト先で“クレカ窃盗” 「弁護士と話したい」被告は初公判で認否を留保 検察側「マスターキーで犯行」指摘",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oOFJGOUZOR3JSdndIOW11dVBoU251dmNrNUFPelVNWm9LcHliQ2ZnU3d6cVA3RFFxREphWkQ0cVRRWFpTWEtNNmpFSzF6QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "慶応大生の女がバイト先で“クレカ窃盗” 「弁護士と話したい」被告は初公判で認否を留保 検察側「マスターキーで犯行」指摘 FNNプライムオンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T17:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5e90bd00de21e798",
+   "title": "詐欺などの罪に問われた慶応大の女子大学生が初公判で認否を留保･･･追起訴が見込まれることを理由に 盗んだ客のクレカで化粧品購入した罪 東京地裁（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DdzdJTnFGVGhiazRMcUpXSVN2QlVrVWYxOFItOEtDU05PNkFrbVNLbkkxdjB2WENwMWgzM1BRUm5fSUppcnE2YkFHYnVpaElWVHE1NDVBNlloTTNjb0RvQTgyVV84WXdkQmtKcklVOTZRTlZGVmxQbVZrTlFNLWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "詐欺などの罪に問われた慶応大の女子大学生が初公判で認否を留保･･･追起訴が見込まれることを理由に 盗んだ客のクレカで化粧品購入した罪 東京地裁（TBS NEWS DIG Powered by JNN） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T17:39+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "ce550d76aaaa2100",
    "title": "住友生命、8万人分漏洩 一部伏せたクレカ番号も 委託先に不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VeDZFODBPZUw1NVBFeTR1dUFVVXhLdlBqZDhNMWhkTjNZLWdYemxOcUk0ZW95S2FyMkI2WnB3ZVRxMjVFYl8wT1dZOHlHSERaVjBsdXQ5VHlSQlZnc1JOMVhoUnVLZExTZXZOTWpiWUpydTExc2c?oc=5",
@@ -40,6 +196,19 @@
    ],
    "type": "news",
    "published": "2026-11-09T17:12+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5ac48bc95134db48",
+   "title": "住友生命、クレジットカード番号の一部など漏えい",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3cFd1YkdLUW42U08wMmhRWVptMXVndkZqNDFsTVlOQTJsN250dGpPNDNfSnU3bGJNb1hFMm1FT2RmUGs5QXB3V0RJUFVlbTUwYjl6cm1IYVk3MEZmSkd5QnBIX0xkRDh5blZJM0NYcmlMUkhqR1ZiQUVhVdIBgAFBVV95cUxQVXB5bWp1ZFR2Y1UwYVFiVnEwZUhNWWNnWHh6MGplam01V3otRUdPQUx0ZGtZOUZ2OURPQkVhQllZMlozYnREQjg3anhyTEpVYzM4MmxiYmdXaGFpbEstdXJ6WHNjaWozQUM0S280bW5uYnFSUENkZzhVZ1Z5Vi1Nbg?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "住友生命、クレジットカード番号の一部など漏えい ｄメニューニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T17:08+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -95,6 +264,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "82be1e03ea47b2ac",
+   "title": "住友生命、クレジットカード番号の一部など漏えい＝委託先で不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mdmpaRXZEWkdES2pLb3BFbmRTV0ZUVUxmUVNia252QTNZYjdkYWt1Y19jT1I5SndKWUowNDB3RHh2MDEwMmdqTWNqdHlMY3ZIVURKRDNVVVA?oc=5",
+   "source": "リスク対策.com",
+   "summary": "住友生命、クレジットカード番号の一部など漏えい＝委託先で不正アクセス リスク対策.com",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T15:52+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "d7af07d9fb28c88d",
    "title": "自社の認証情報で生成AI不正利用される ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし",
    "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
@@ -106,6 +288,20 @@
    "type": "news",
    "published": "2026-11-09T15:30+09:00",
    "via": "ITmedia NEWS"
+  },
+  {
+   "id": "e12af960821eac95",
+   "title": "【Waitinglist】ポーカーのアクションを自動で記録・分析・共有する新サービス「POKER Jam」を加盟店舗で本日より運用開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000015.000159523.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社Waitinglist] [画像1: https://prcdn.freetls.fastly.net/release_image/159523/15/159523-15-ed88bcb0d84d06fa2f1f9e7a407cfe81-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-09T15:15+09:00",
+   "company": "株式会社Waitinglist",
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "3f71f7e69e3decb8",
@@ -120,6 +316,19 @@
    "type": "news",
    "published": "2026-11-09T15:12+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "9d3b88352575a7fd",
+   "title": "デジタルガレージグループ、定期通販ビジネスに最適化した決済サービス「スコアあとからカード(R)」でECプラットフォームとのAPI連携を開始",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2TS1NTnhvMHpya2xCN0pWUGtHVzJtaUtmVVNvUGhfblVlc0lSYW5UOE9QVDNSYm9na0N5TEh1b01qUHdZOEhlUnpTWGliN2JKLXRJcUNMbEJ6bWNyemFj?oc=5",
+   "source": "シブヤ経済新聞",
+   "summary": "デジタルガレージグループ、定期通販ビジネスに最適化した決済サービス「スコアあとからカード(R)」でECプラットフォームとのAPI連携を開始 シブヤ経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-09T14:52+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "b360880071929950",
@@ -811,6 +1020,19 @@
    ],
    "type": "news",
    "published": "2026-11-07T17:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "91b8c9e6dc10276a",
+   "title": "中国で今年16のクレジットカード機構が営業停止、広州銀行が持牌専営センターの全面撤収で初の先例に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14M2JaR3c4OXprLXRsU2s4cW9qUFQ0SVBUdWJfSGFCSFFRdkFNN1FYUzRPVjF3bi1SQ1I4c19aR0lHT3dERjhSNXFuRmllcUU3RWd6Z2hjcGFCMVgxNnFOWG00akJGejlQLVFvYmdVWThDMmx6?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "中国で今年16のクレジットカード機構が営業停止、広州銀行が持牌専営センターの全面撤収で初の先例に BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-07T17:00+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -3736,6 +3958,19 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5aUdRYlN2WkJydlY0V2RrRUNYdHZqWHVDSmNpTW9xa1h4aXRRWDlRX3lGdzZFVlhYZU9LVE1qei1fRE1zNjc5UmZyWVZEdWp0blhRUXhUTUxiT3M5VU8yaDJ0ZzhuYmJfT3o4Tw?oc=5",
    "source": "ScanNetSecurity",
    "summary": "ハウス電子マネー発行サービス「Value Card」に不正アクセス、ID番号等が流出 ScanNetSecurity",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-04T08:05+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "e7215cb387d2e332",
+   "title": "ハウス電子マネー発行サービス「Value Card」に不正アクセス、ID番号等が流出 1枚目の写真・画像",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xalhGNV92TzNBa1o3ZFdTMGlwOFJ3N2xseEV3SEhLaEx2ODlGbG90R0RjZXd6RFdQd1JweFRqbFBGNkFpa2J3U3hKYjFucW1aUzhNVUNXdmxhcFh1b2MzbHJPVHlFNUlkZTZmRHYxMjlqck9nVmc5cDR3?oc=5",
+   "source": "ScanNetSecurity",
+   "summary": "ハウス電子マネー発行サービス「Value Card」に不正アクセス、ID番号等が流出 1枚目の写真・画像 ScanNetSecurity",
    "categories": [
     "cashless"
    ],
