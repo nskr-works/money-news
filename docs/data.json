@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T22:19+09:00",
+ "updated_at": "2026-11-10T02:45+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -87,6 +87,19 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MSEE1NDZVRy10ZkRZY0xPWHdzWGctX3A5UDVJZ3RESWw1OVpIOW8xVGdUZlJjckRWOFZ2dGJFZVdINGdycWNOMzBROFk3dU1OVG1hSjVVbzgtRnUyRWJXcklUZU5lOTNkS2RwNFptS09NOU04d25BNUpQcGJpbE0?oc=5",
    "source": "Yahoo!ニュース",
    "summary": "『ニトリ』に不正アクセス 最大3762万件を超える氏名や住所、電話番号の個人情報が流出か クレジットカード情報は含まれず Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T20:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0c36589462eb725b",
+   "title": "『ニトリ』不正アクセス被害 最大3762万件を超える氏名や住所、電話番号の個人情報が流出か クレジットカード情報は含まれず",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MSEE1NDZVRy10ZkRZY0xPWHdzWGctX3A5UDVJZ3RESWw1OVpIOW8xVGdUZlJjckRWOFZ2dGJFZVdINGdycWNOMzBROFk3dU1OVG1hSjVVbzgtRnUyRWJXcklUZU5lOTNkS2RwNFptS09NOU04d25BNUpQcGJpbE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "『ニトリ』不正アクセス被害 最大3762万件を超える氏名や住所、電話番号の個人情報が流出か クレジットカード情報は含まれず Yahoo!ニュース",
    "categories": [
     "credit"
    ],
@@ -183,6 +196,19 @@
    ],
    "type": "news",
    "published": "2026-11-09T17:39+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e99b2e71ca5d2ea6",
+   "title": "携帯が急に圏外に 銀座で“ニセ基地局”運用し妨害電波 詐欺メール送りクレカ情報盗んだか 電波法違反容疑で中国籍の男逮捕",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3emZLakxaWFRCZDFQdFJrME11bFJOOU5LT2F5NXB2QV9idzlXQUgtZDdWN0NVZGthc1h3eDM2X1JzNVA1Q19Gckt5QTNHYmJ4d09hNHVJVHF3SDJCX1FFYkk5OHdVRW5TVWl6V09JM01UYXJFTGlLVDJzMDcxTUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "携帯が急に圏外に 銀座で“ニセ基地局”運用し妨害電波 詐欺メール送りクレカ情報盗んだか 電波法違反容疑で中国籍の男逮捕 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T17:17+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
