@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T13:17+09:00",
+ "updated_at": "2026-11-10T17:48+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,298 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "e57a9390401d84b6",
+   "title": "エディオン顧客情報1万3685人分漏洩か クレカ情報も、ECサイト停止",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vRVZrX2hGbVNrU3E4RHR2b1otSWREc1l6OFhXT1JiaEFzd3Jxak1KVHdtaWNBODg5SU5XZkNheWptaTlvYVhRekRpekVRc2xuSHRkZHdhVHZGUnpoc2pndmVSV3VTV2Rlc2MyZQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "エディオン顧客情報1万3685人分漏洩か クレカ情報も、ECサイト停止 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T17:28+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f8e129895c64813b",
+   "title": "JR東日本が「ウォークスルー改札」を2028年春に本格展開へ 2027年4月から首都圏14駅で試験導入",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news079.html",
+   "source": "ITmedia Mobile",
+   "summary": "JR東日本は2028年春から山手線全駅や空港各駅など40駅にウォークスルー改札を本格導入する。ユーザーは手持ちの「モバイルSuica」を端末から取り出さずに改札を通過できる。本格導入に先立ち2027年4月からは首都圏14駅でモニター400人程度を対象に体験導入を実施する。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T17:13+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "5faaff045cba0cad",
+   "title": "北紋バス 紋別の路線バスにスマホ決済導入 SuicaやKitacaも対応へ",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSRTNieE1PQmZJbXBtVEtndWRKS09laGhUT3A5SnlIel9ZbzhEV1BnQUxKbEJpamJpemt1NWVKTTRhUDU4LVkxY2dkS1hwVVF6MXBfeTBxaXRhQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "北紋バス 紋別の路線バスにスマホ決済導入 SuicaやKitacaも対応へ 北海道新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T17:12+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "577163106aef9a64",
+   "title": "下松の80代男性、現金1980万円詐欺被害 電子マネー190万円分も",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnNGsyVGpfbWlCckdEQzU0TUo2WVE4NXB1azlvQWtTWkpTZm1vc2FEOGdtc0ZaamhidjN6Q1dwVnlCQjl2R1J5SG5YTE5SQTFNbDhUdDcyYTh4dw?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "下松の80代男性、現金1980万円詐欺被害 電子マネー190万円分も 中国新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T17:08+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "e1dd9640e61b0b7c",
+   "title": "「エディオン」不正アクセス被害 クレジットカード情報など流出か",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrb2lZWEJHMXo0VnRLVGJ1WmNYVFdYMVVzMGt1VUZIakFHbS1JZndQQXdNclJHRk43YzVNR0pJTURsU3FVUjNSWjloUjdaYkg4Q0xsTmhJdVc5RTFMQnlrMGRWMFlWazliajJSbE5FOA?oc=5",
+   "source": "HOME広島ホームテレビ",
+   "summary": "「エディオン」不正アクセス被害 クレジットカード情報など流出か HOME広島ホームテレビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T17:03+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f1be8fc7b8b7b561",
+   "title": "「Suica Renaissance」 第6弾",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tUy1KTHBqYnhib3JraXROSk01dS16NDYxd2FwM1BoY2Z1ZjFVWnNkMmlfMXhmaXI3Z2xtYjVOTTRYNGdrUXRJTDlwcjJFTlViTkJrMlpVX1owZFdBSVVSTWtsY2FUZnJ4d2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "「Suica Renaissance」 第6弾 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-10T16:50+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "東日本旅客鉄道株式会社"
+  },
+  {
+   "id": "a28655a8c0f5efdc",
+   "title": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PeURiaHp1Sk5mQi1WVFU3WVk1R3RINXFEWUVUS2Q5a2tjVFptUTUtODFFQ0VfTVZWc1BhZ1o5ZEJPM3RNUHE3Sk9iX3IzalZKM0dUeG1ycFZlcEwzazNv?oc=5",
+   "source": "NHKニュース",
+   "summary": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:45+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "42897064b3cd5a4e",
+   "title": "ネットスターズ、200の国と地域でJPQR決済の利用拡大へ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hV1plQWVyNHpEUGFMZlVkSGREUDdsNlJWc1ZJWW9ZWEhpaFIzQjk0SWNsQy1FVkVWZUFicURDcmtobm5aT3F4S0U5Z0Z4eGJzVFM0?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ネットスターズ、200の国と地域でJPQR決済の利用拡大へ ニュースメディアVOIX",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:31+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "aa678b54ccb378f6",
+   "title": "ネットスターズ、200の国と地域に決済ネットワークを展開するDandelionと、クロスボーダー決済基盤を強化する取り組みを開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NWlhncG9pTU03T2ZLNUppVndDTENiT1VteWkybEVIc1JLM1Z2OUhaTDJUYkNqMTRpNHVUeUlnR2hPYWdwanNzTlVYcGp5Z3FrQjVmQm9McGY1cFY4UXJISEdEZjdoQWkwUEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "ネットスターズ、200の国と地域に決済ネットワークを展開するDandelionと、クロスボーダー決済基盤を強化する取り組みを開始 PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-10T16:30+09:00",
+   "via": "Googleニュース「キャッシュレス決済」",
+   "company": "株式会社ネットスターズ"
+  },
+  {
+   "id": "bade763b8c43eb63",
+   "title": "“アダルトアプリ”でマルウェア感染…他人のスマホ決済でトレカ購入か 男2人逮捕 中国人G関与か",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nckNmdVloUnJwTXpBSTJzREducmdpOXEwOFU0SDdRSmNQQUQzVzdqb3hwZ0hZVGNLTmk3bC1qXzlzOVVDR28xTE91UmhJWktXSklKRzlCRmhkcVM5OHo3dDdpNGdka1BkZnlWMllUU251cEtTVFJYQ2FQZVVuTm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "“アダルトアプリ”でマルウェア感染…他人のスマホ決済でトレカ購入か 男2人逮捕 中国人G関与か Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:21+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "ede2911ddb2a1f12",
+   "title": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzUVlXcl9tM09iWVhYYUVGNkZoNlV4NFZMSXZhbXpoMVFDSVY3RUFNcmt3eVV4dDNqcDdndzBBSHBvWGE4RlEyYWFRV0l0RkZ5b3dOanp4V1BMMzJfZmdtS3RGMTFfZEJvYlpCT1lPX3BEWlZ2M01fWkdTem5xbUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？ Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:19+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "55fafaf01492e527",
+   "title": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（1/3 ページ） - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Gb1RKVF8zc2FMTzM5M2loMzN2emRZdzhNLXZlbG05a3JpaXpZYTVhVGwycS1BdFNEUExGYl9EQ3JWRF9YdUM4ZnhyRE52aVhKVjRYTVY5ajZUVGRKa21IN0MxZnFBRUpL0gFoQVVfeXFMTUZvVEpUXzNzYUxPMzkzaWgzM3Z6ZFl3OE0tdmVsbTlrcmlpellhNWFUbDJxLUF0U0RQTEZiX0RDclZEX1h1QzhmeHJETnZpWEpWNFhNVjlqNlRUZEprbUg3QzFmcUFFSks?oc=5",
+   "source": "ITmedia",
+   "summary": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（1/3 ページ） - ITmedia Mobile ITmedia",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:02+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "20a59ca19bb228a3",
+   "title": "ドコモ、「d払い」アプリ「送る・受け取る」機能をリニューアル",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2155180.html",
+   "source": "ケータイWatch",
+   "summary": "NTTドコモは6日、「d払い」アプリの「送る・受け取る」機能のリニューアルを4日に行い、d払い残高の送金・受け取りの履歴を相手ごとに確認できるようになったと案内した。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T15:37+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "02b3de6055cfb892",
+   "title": "オンラインカジノ利用やd払いアカウント売買は禁止――ドコモが呼びかけ",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2155166.html",
+   "source": "ケータイWatch",
+   "summary": "NTTドコモは10日、オンラインカジノの利用や「d払い残高」のアカウント売買、譲り渡し、譲り受けなどは絶対に行わないよう、注意を呼びかけた。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T15:20+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "dcb90961ce0c1b43",
+   "title": "東武百貨店池袋本店／顔認証での手ぶら決済サービスを開始",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KT2V6TnlnUHZjMGxhUko1eHotU01mTzUyMkZiZ3ZoaWxRVFhTUjNMWFJyWkJsMmlxOXRibHVkUFdGQkJrV1p6NVdSUFVhMmNC?oc=5",
+   "source": "流通ニュース",
+   "summary": "東武百貨店池袋本店／顔認証での手ぶら決済サービスを開始 流通ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T14:39+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "fadeefe4394f593d",
+   "title": "【速報】エディオンの通販サイトに「不正プログラム」組み込まれる 稼働中に利用者がPCから入力したクレジットカード情報が漏洩した可能性も 注意呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xMmMtYmVxamh0TW1WSHpadTJrRDYtRGhZYnhzQ2ZnUnhBczkwSDdjR0txb2daeW9qOVhXNUJaNnI3SkNMbHdhQ05BM01zUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "【速報】エディオンの通販サイトに「不正プログラム」組み込まれる 稼働中に利用者がPCから入力したクレジットカード情報が漏洩した可能性も 注意呼びかけ FNNプライムオンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T14:37+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c3ae040baa678f16",
+   "title": "次世代Suica「ウォークスルー改札」、首都圏40駅で28年春導入",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155153.html",
+   "source": "Impress Watch",
+   "summary": "JR東日本は10日、2028年春に首都圏の40駅でウォークスルー改札を本格導入すると発表した。「Suicaが『タッチ＆ゴー』から『ウォークスルー』へ進化する」とし、Suicaによる新たな移動体験の実現をアピールしている。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T14:29+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "f58d236543943cab",
+   "title": "「PayTree」にデジタル分割払い「ワケタラ」を標準接続（オリコ）",
+   "link": "https://paymentnavi.com/paymentnews/185498.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月10日13:58（JST） 【日本】オリエントコーポレーション（オリコ）は、キャナルペイメントサービス（CPS）と提携し、CPSが提供する決済プラットフォーム「PayTree」にデジタル分割払い「ワケタラ […] The post 「PayTree」にデジタル分割払い「ワケタラ」を標準接続（オリコ） first appeared on ペイメントナビ .",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-10T13:58+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "81ec7e5b10e6a994",
+   "title": "メルカートとゼウスが連携、クラウドECプラットフォームでクレジットカード決済に対応",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ga1BBakEtRWFjQWNkQWtmQzcyazZKbjZxOWVwZVhwME5iRzRvTS15YWR2MDNxVFpBTkVCVlYtN213ZGcydzJxUTFNU2VrU29SbHFMcmQ0NA?oc=5",
+   "source": "コマースピック",
+   "summary": "メルカートとゼウスが連携、クラウドECプラットフォームでクレジットカード決済に対応 コマースピック",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T13:41+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "3440c46d71d86bc5",
+   "title": "アクルとベスカ、OMO領域で不正防止と決済体験向上を両立する決済サービス提供に向け協業検討を開始",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VUkd6c3B6cGl4ZTFxcnV5RGtZdi03a3BVUlNfUmczT2ZMWUQ1Q3EzLVBhcUpCS3BCN2hGZnRBaWJXNEV4ZDcwdGJpTzc2dWtsbUJPR0dxUQ?oc=5",
+   "source": "コマースピック",
+   "summary": "アクルとベスカ、OMO領域で不正防止と決済体験向上を両立する決済サービス提供に向け協業検討を開始 コマースピック",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T13:41+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "3980f749dceb2d46",
+   "title": "11月11日に全額無料のチャンス＆クーポン仕様で全員100円引きに（ファミリーマート）",
+   "link": "https://paymentnavi.com/paymentnews/185519.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月10日12:56（JST） 【日本】ファミリーマート（日本・東京）は、2026年9月に創立45 周年を迎えたが、2026年11月1日から『45周年ファミペイ大感謝祭』を開催している。その最大の目玉となる1 […] The post 11月11日に全額無料のチャンス＆クーポン仕様で全員100円引きに（ファミリーマート） first appeared on ペイメントナビ .",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T12:56+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "836c6d9c845a64d0",
+   "title": "破産手続き中のクレジットカード決済代行「全東信」社長が死亡 粉飾決算の実態解明に少なからず影響も",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxenVFNXJMS054Y0RhM2NreTBBTlhtVVNIMnBTNHAwRWNXTDlLMHNhSzc0WVMycnhqNXlBNzFEWW9IYzY0V2ZRSFJvNFhnRkZLOGxpNVJyVVo4eHBVWkx5U09SdHZCOFRpbEVnbjlpNXp5emMwLVVXa21hRnVBNVk?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "破産手続き中のクレジットカード決済代行「全東信」社長が死亡 粉飾決算の実態解明に少なからず影響も 日テレNEWS NNN",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-10T12:51+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "a663ae9e1ab5e13b",
    "title": "Suicaでの改札タッチでおトクなクーポンが届く！【対象エリア限定】NewDaysアプリ×JR東日本 新サービス「改札タッチクーポン」の提供を開始！",
@@ -69,8 +361,7 @@
    "type": "release",
    "published": "2026-11-10T12:15+09:00",
    "company": "株式会社KortValuta",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "2a2556ef75cec482",
@@ -123,8 +414,7 @@
    "type": "release",
    "published": "2026-11-10T11:15+09:00",
    "company": "いい生活",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "fa6451d23355f44b",
@@ -244,6 +534,32 @@
    "type": "news",
    "published": "2026-11-10T09:26+09:00",
    "via": "ペイメントナビ"
+  },
+  {
+   "id": "23401071ac5fed06",
+   "title": "Travel Walletの手数料を解説！クレカ・銀行両替・WOWPASSと比べてどれだけ安い？",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ndmw2YVQtQk9HUnhiRzduY1Y4TUJDNU5zRTZQOV9MNEJNeVRaTUdVOEtIdmplZkFRVURxR1lJZXA5dlBFcDhOQUx4WmxXR1NmbFM4?oc=5",
+   "source": "ZDNET Japan",
+   "summary": "Travel Walletの手数料を解説！クレカ・銀行両替・WOWPASSと比べてどれだけ安い？ ZDNET Japan",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T09:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "84b918d114efea9f",
+   "title": "京王電鉄バスら、完全キャッシュレス実現へ実証エリア拡大 2027年11月の現金取り扱い終了目指す",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xcmU3ZWdMYjZ6TlBxWlNZeUcwdkFkT2ZHM0lDT041YUtocnh6RjJHVC1naE53TnRqeVJFX01PWExxSzFaZUVNeVhpM1I?oc=5",
+   "source": "LIGARE（リガーレ）",
+   "summary": "京王電鉄バスら、完全キャッシュレス実現へ実証エリア拡大 2027年11月の現金取り扱い終了目指す LIGARE（リガーレ）",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T08:32+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "abe26a1532dbfcd5",
@@ -746,6 +1062,19 @@
    "type": "news",
    "published": "2026-11-09T13:11+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "0ad5fc2de36cc204",
+   "title": "「minne byGMOペパボ」で「AEON Pay」が利用可能に（イオンフィナンシャルサービス）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UbTVmM3BuYkNUY3B0U1JNamJ1YzBjTmVVR3hidWVMZkprSDVfRHBPbzM0a09mQkJvNjFPSlk1U1lVSWc5d2pkUEZncEJrMUNyc0NZbjFJOFYzUVk?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "「minne byGMOペパボ」で「AEON Pay」が利用可能に（イオンフィナンシャルサービス） ペイメントナビ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-09T12:52+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
    "id": "2746c7fe74030881",
@@ -1608,6 +1937,20 @@
    "type": "news",
    "published": "2026-11-07T03:17+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "92806a6e49112803",
+   "title": "Stripe インサイト：急成長するエンタープライズ企業に学ぶ、AI 時代のグローバル展開戦略",
+   "link": "https://prtimes.jp/main/html/rd/p/000000139.000077879.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ストライプジャパン株式会社] - 急成長企業は、Stripe 利用開始から初の越境取引までのスピードが全体平均の 24 倍 - 急成長企業は、現地決済手段対応数はエンタープライズ平均の 2 倍。Stripe 利用開始 1 年以内に 25 か国の顧客にリーチ...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-06T22:10+09:00",
+   "company": "ストライプジャパン株式会社",
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "7e79f2d22fe36062",
