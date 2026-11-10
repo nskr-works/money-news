@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T21:57+09:00",
+ "updated_at": "2026-11-11T00:44+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,32 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "692a3aa734ed7449",
+   "title": "台湾の9月クレジットカード決済額、4,600億台湾ドルで同月過去最高 CTBC銀行が決済・発行の2冠維持",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TVzJDanQ1cHJzV2d3LVBMcEpvN3h0bF85bnh3cEk3YVRBX1k3UDdla3JVai1oeFVYd0NGQ2xfY2ZPbHI3ZUEyUFdwVWpxV2l2bW9sbEJ2R2xyVXEwZjJIaEhNMEFMaVhDSEhaMzFYYm51T1My?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "台湾の9月クレジットカード決済額、4,600億台湾ドルで同月過去最高 CTBC銀行が決済・発行の2冠維持 BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T22:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "488b6f3c0e2d32ad",
+   "title": "不正アプリでスマホを遠隔操作? 他人の電子決済サービスで買い物した容疑 2人逮捕 兵庫県警など",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VblplR2dpbDJ3aV9YZmZubW9PV1BKTGV1SktiN1NKU3FSaHJOSGJLZkZPRGVOODNHN0lFbko1cFBwMlNTOW5zdEZwcUJEcjFQZkRfSC1KMFRtaEZ0N2dtSWZMNFBhbExISUh3?oc=5",
+   "source": "神戸新聞",
+   "summary": "不正アプリでスマホを遠隔操作? 他人の電子決済サービスで買い物した容疑 2人逮捕 兵庫県警など 神戸新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T21:58+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
   {
    "id": "1ed22962677569d7",
    "title": "エディオン、クレジットカード情報など流出か",
@@ -67,6 +93,19 @@
    "type": "news",
    "published": "2026-11-10T20:39+09:00",
    "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "c5163a251975da8a",
+   "title": "エディオン、ECサイトに不正アクセス クレカ決済556回分の情報流出か",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yQmFRUEpUaDFVMXdlY0ljUzdhNFh4Y2ZJRHdIM2hGOVlsLXk3SHRXV3JiZ1ZoZllWSURGRDlVSjZyNS16ZU1Gc0FRSFBfNzRyb2tvdndSeUx6VGdwdHFPdzVWb3IydHViV0lGNXU3Wm9HbWFmRnc?oc=5",
+   "source": "産経ニュース",
+   "summary": "エディオン、ECサイトに不正アクセス クレカ決済556回分の情報流出か 産経ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T20:19+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "d73380f9c4374592",
