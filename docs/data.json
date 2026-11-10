@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T17:48+09:00",
+ "updated_at": "2026-11-10T21:57+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,307 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "1ed22962677569d7",
+   "title": "エディオン、クレジットカード情報など流出か",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1SG81RG9ZR3Aya09JLWVCYjY5eS1ZNXhsV2cwdHlfdkFMeURETkNiemhDSkVxRHZFemg2clhDMXkyNnloS3BMZ2FGLUo0V0NzRGxkNkR2UEJCdw?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "エディオン、クレジットカード情報など流出か 中国新聞デジタル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T20:41+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c7f1559641cf5fae",
+   "title": "ソフト99 クレカ情報含む 最大約13万人の個人情報漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Hb2FZZTVaU1VzMW9nRW02d05wV1hOLWgtWTE4Q2xPSWNvbWpQbWl2Z2tTMFFqcVRJMVFtWnlUVHNUakI3cmZTQVVnNU1RYk9RbFBWTDFVb2Q3NXZMbDBj?oc=5",
+   "source": "NHKニュース",
+   "summary": "ソフト99 クレカ情報含む 最大約13万人の個人情報漏えいか NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T20:41+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ecffdd9270a860cd",
+   "title": "今すぐ購入、後払い、そして隠れた借金。",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR1VISG82aC1RdXJ3NHZYNUM5dlU0RHgyczYwWEtYMldhMHFHck16WDNoZGNlWXczOXlKRUJMM3R4OGREeDJaNERsUlRLbFY3MU1JbktIUURBUWZ4NlBhS3gwVUk4WkRNMGtpek5qelg5c1NkRDJLb2w4LW5wUFhZNVRB?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "今すぐ購入、後払い、そして隠れた借金。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T20:39+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "d73380f9c4374592",
+   "title": "エディオン、クレカ情報流出か＝不正プログラムで(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1dKNzQ3aG5VbHJ5NnJVanRHMmxGbWczYTR2SWlpaXZyY0k0VkQtaTJRUjJKNGg2c3B6SVpVSzBkT0tqQVNiYjVlN2p5akNfeXQ1cjQtY19ERWxDeHdnb0ZUTlFKa0E5TDFTN1NodHNqcEZCU0wzMGh1dl80WkJZa2tvMnhWSmc?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "エディオン、クレカ情報流出か＝不正プログラムで(時事通信) Yahoo!ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T20:04+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "06b166229e4452a4",
+   "title": "エディオン、クレカ情報流出か（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15MU0tczBpZmg4S1ZsZUNEVnhkVGRaMHE0MUY2cmlhRVRvbjMzcnljSDFiaDZVdHFETW5fWDZpemxUbTlyMU5UakZhb2hDRWRwMzFWb2R6OVFaZV9ad19MOTRpSURrRXZMaDhIa05KYW83N2pwajU4RkV2Zm0zZkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "エディオン、クレカ情報流出か（時事通信） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T20:01+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b0b6867946a75e13",
+   "title": "ベトナムとラオスはQRコード決済を推進し、貿易額100億ドルを目指している。",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU3dUcmhMUVRfUGcwZkhsMFJlRW1tcjB4WlVVZWFoV3RwS1lKQ3RHb3FDVUVnbS13MndCNzlEb2ZWT2Q4NDgzRmZVeUt3Zi1oMVlqdHA3VGZDNW9oRjg5Tm5vNC1mclBNVzlUaGpDdkQyOGVvVWZxWW8tVXNYN1FCaU5zSkxYVTZ4RWFlY0s1V05PVG52LXYydk9DSjhNOGhLajdOMA?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ベトナムとラオスはQRコード決済を推進し、貿易額100億ドルを目指している。 Vietnam.vn",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T19:46+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "e1cc34d76e578b78",
+   "title": "東武百貨店が「顔パス」決済サービス 19日から池袋本店で",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yOWVkNE0wMHJvMUZsWUxzUEZkLVJ2V3dOb1c4SjQ1VTNoaFlOREFlaTZSZjlGbFo3dXpsckZaeWhDZWNnSkI1ZGQ1VXQyRDl3X1RlWVVUR0dnd0JlTlRJcjJrYUtGbVhIeVJNQg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "東武百貨店が「顔パス」決済サービス 19日から池袋本店で 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T19:32+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "e4b828dbe679f3ad",
+   "title": "エディオン顧客情報流出か クレカ決済情報556回分",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kbmJNZmlXQnlxYVUzRXJ0Wnk0MzljdVZjSUEtbmlZbDhRcU9nM3UxNXlXZlBBa25kczV2UUZaYmdsSFpSdWNHSTY5R3BHRVJRWk15N3FmaGk3UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "エディオン顧客情報流出か クレカ決済情報556回分 北海道新聞デジタル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T19:18+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2217fb2897c61d4d",
+   "title": "日商簿記などの受験者情報、最大98万人分が漏えいの可能性",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155307.html",
+   "source": "Impress Watch",
+   "summary": "日本商工会議所は11月10日、商工会議所ネット試験管理システムへの不正アクセスにより、最大約98万人分、約197万件の受験者情報が漏えいした可能性があると発表した。対象には日商簿記検定など8種類のネット試験が含まれる。現時点で、実際に情報が漏えいした事実や、不正利用された事実は確認されていない。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T19:17+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "daf18e568fe068a8",
+   "title": "【速報】エディオンの通販サイトに不正プログラム クレカ情報500件あまりが漏えいの可能性（読売テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcjhGU3VPZ205V3dMVUVQYkt2bHBtNFZ0UU96dkh2SzB6NG92dENTMWR3MGRGcVNZUDB2cW1xV3Npb0tSUk5vUjBPUFUycExoOGdFYkFhSkdja1dMVU9fMVNYRW5vTm1xUloxZW94Q3dlY0IxZ3VrR3FBeldNU0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【速報】エディオンの通販サイトに不正プログラム クレカ情報500件あまりが漏えいの可能性（読売テレビ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T19:14+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6aa9fb2505b26918",
+   "title": "【速報】知人を脅迫し現金175万円と電子マネー、ネックレスを脅し取る 容疑で25歳男を逮捕",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XbzR5TUo5SFdma1BaVVJ5QnpFMEhoVU12SkJkWE9oUWtoVVhLempMbEFmSmhrdFR6ckcxWm9oM2tSc0YtVnFmcEtZMzBYNEc0M202SXUySVU?oc=5",
+   "source": "京都新聞デジタル",
+   "summary": "【速報】知人を脅迫し現金175万円と電子マネー、ネックレスを脅し取る 容疑で25歳男を逮捕 京都新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T19:11+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "e5bbf383c4353e03",
+   "title": "エディオン顧客情報流出か クレカ決済情報５５６回分 | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGUElsTE5GT3NHNHN2WEFpSXIwNGFmcnhWR0dhLXpNY05MMW1QbzlwaFVsZFpYNnJuSGp2bm5aRzV4WlpQUUV6R2gtMnpNYV9KQmFOVVB3?oc=5",
+   "source": "佐賀新聞",
+   "summary": "エディオン顧客情報流出か クレカ決済情報５５６回分 | | 全国のニュース 佐賀新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T19:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ec394f2c47a4fc78",
+   "title": "エディオン、クレカ情報流出か：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03SWVCd3BYR3dtYUtjN2h0UXNCX2lmTnJXc3pIQVJVNF9ldzJSSEZiaDJPYUVrR2lRQ0NpNWU1N29HX19uWUw0c2dhcFhHNFRlSHV0ZFhpMDZLMGtQUmtNRzM4VQ?oc=5",
+   "source": "時事ドットコム",
+   "summary": "エディオン、クレカ情報流出か：時事ドットコム 時事ドットコム",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T19:09+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b102354369c0adbc",
+   "title": "ホーチミン市：銀行はキャッシュレス決済を推進し、優遇金利を提供している。",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVl82R0g5dW5BcjAwTE5tOV9QNnpCMDFLNUFxeHRhQWJpT19ZNlhfZkF6Vnk4di1nUERpNEZqbWlHNjQyZE1iZEJMOV9sdmEtR3BCSFFJckN6Qk5fN29yc3hOanpmZi1KV2NUcDVaNHdtOFpIQ2VsSzZuLUdybjVYdVJjanFMdUppLW1KZ3hOTFo3RXNFdDAtRkJhZnNvWmJLMEg1Y2J0UVM5Zw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ホーチミン市：銀行はキャッシュレス決済を推進し、優遇金利を提供している。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:34+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "631ec01ed3c35cf4",
+   "title": "エディオン、クレカ情報556件流出の疑い サイトに不正プログラム（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XY2FkTlBGaFlNUENmV1F2a3F5ZHpvYkd4aGRhVmJ6R2VTcHItZXdVUk1xQlFoNW54Rkw2RV9Vb2FaYlhyU09kcktOcmMwSDhPdmxWM2tyaXZybDBnWUxjV1FLM2FLQ0RLVWNzNnJ4WG04OWMyY1dFNEZublRSM1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "エディオン、クレカ情報556件流出の疑い サイトに不正プログラム（朝日新聞） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "bb713455a87ad8c9",
+   "title": "メルカートがゼウスと連携しクレジットカード決済の導入を実現した意義",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zRmp5X2JEWWdGU2ZEeHBuRk5qUlRmaHdOdHF4UWZyMXRRRmpFcXFfTDk4Z05ZdnhLV0FQUHRfUDViRlAyLWN0M25heUJEdEJmZy1xT1BTc2VaRi11UEtLcktOUkpKX0lwa1lscmpvMnJXUQ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "メルカートがゼウスと連携しクレジットカード決済の導入を実現した意義 ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:22+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "dbd2737a6ddccbdc",
+   "title": "JR東日本、28年春にウォークスルー改札を本格導入 Suicaをかざさず通過",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2155254.html",
+   "source": "ケータイWatch",
+   "summary": "JR東日本は10日、スマートフォンを取り出さずに改札を通過できるウォークスルー改札を2028年春から首都圏40駅に本格導入すると発表した。超広帯域無線技術のUWBを活用し、手荷物が多い利用者のシームレスな移動を実現する。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:22+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "d068bdf580f50ce3",
+   "title": "山口県内金融機関で初のコード決済サービス 西京銀行「さいきょうＰＡＹ」20日～取り扱い開始",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxUU5VZWF0VWs5aHlSWUtvTk5vM0x4Ui1jWUR1M3VQQS0wSllqc2tYd1hpRDAza29ubUJseV9zeXZGY0l2Wm1aOTRjX3pIcXd6c0VoMG5xbjRMeWtiZ01xMGhKWWlQQ1FOS3h3R2dB?oc=5",
+   "source": "Excite エキサイト",
+   "summary": "山口県内金融機関で初のコード決済サービス 西京銀行「さいきょうＰＡＹ」20日～取り扱い開始 Excite エキサイト",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:19+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "6d325a961a594ad1",
+   "title": "不正アプリダウンロードさせスマホ決済サービス”乗っ取り”詐欺など疑い中国籍2人逮捕（KBC九州朝日放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OSFZRNERiT2N4S3Y2QkpWbzlIQ1EwWlZrOWt2VXlFRE8xYkRJamNoZlVoMUNuSFJiUnpub0RKX09NS1dzRTFZeDdxc2ZIalV4WEtDY3Q4STlBVVUxcU0zQzNNTmdoYnNoSnp6WThFQVpId2VxbTVfVTJiRU5PZUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "不正アプリダウンロードさせスマホ決済サービス”乗っ取り”詐欺など疑い中国籍2人逮捕（KBC九州朝日放送） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:15+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "2fd7ed5cdd392c21",
+   "title": "利用者を装いたばこをだまし取った疑い 電子決済サービスの不正アクセスで31歳の男を逮捕 米沢署",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2E0dmdqbDNoUXJ6RGNSQnZmTllPNUJ0anJDXy0xdW9iRVJMQWcwTGtISWtydVhsRlp6Vl8tY3BoMGRaS1BnMDdRSWdrLVVYcUwwZUtkRC1UMXFCdm5ydDB1YTRYVHg2UHJRV0FvNFRBQklGZ2U0cTNQeE5md1U1bFljTXNYV0k?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "利用者を装いたばこをだまし取った疑い 電子決済サービスの不正アクセスで31歳の男を逮捕 米沢署 日テレNEWS NNN",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:12+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "753cd978538f3afe",
+   "title": "スマートフォンを乗っ取り電子決済サービスを不正使用 中国籍の男２人を再逮捕（テレQ（TVQ九州放送））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jYU95NklGOU5YbkplU05vYmJSZnVkRXVwTXhHSDNHRVRMem5DX0MtZ1h6VEJURmR0LWxjaWU3REZMWEF3QnZUUURmTFhNMVZTNGw5V2FMSVd6Vk00SVJqN1kxX0ZQX2NGLXRaTFA3bUdiQy1hdXl3eEtaS1BKekE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "スマートフォンを乗っ取り電子決済サービスを不正使用 中国籍の男２人を再逮捕（テレQ（TVQ九州放送）） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:11+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "5ab8f98bdb28d73d",
+   "title": "山口県内金融機関で初のコード決済サービス 西京銀行「さいきょうPAY」20日〜取り扱い開始（ｔｙｓテレビ山口）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50aWhYdllUR2MtYjRBRjBUeHhDUnE0M2RoOTZIZnN2dzN0b0FaWXZ2eEVSREZEcjJ1UmVFek9Cd0wxdTZjSkhRQzVNWkJGYmlqeDkwV3hVTEtxSS1jejlZT3NTN05hVUNXZFg3RDNXMGlOQnB3d3FRdjM3dHJyMm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "山口県内金融機関で初のコード決済サービス 西京銀行「さいきょうPAY」20日〜取り扱い開始（ｔｙｓテレビ山口） Yahoo!ニュース",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:08+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "72360f080eab40c9",
+   "title": "「オレオレ詐欺」無職の男性（80代）が現金1980万円・電子マネー190万円分だまし取られる 山口（ｔｙｓテレビ山口）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjRFRxUTdXeXFfZEw2cG5LcGU5QnZpQ2N1TXRBNkg5RktTemR1MFhtWml6X0hwVVpPWDBJQzBZUl85WDV3U2pESWdId0kxcXFkdVl0cEQ3OUdOc3l2OE1kcDZNMUdSa1JhN3RneG4waTBrdlVzODZzMXE1LUFGOG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「オレオレ詐欺」無職の男性（80代）が現金1980万円・電子マネー190万円分だまし取られる 山口（ｔｙｓテレビ山口） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T17:51+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
   {
    "id": "e57a9390401d84b6",
    "title": "エディオン顧客情報1万3685人分漏洩か クレカ情報も、ECサイト停止",
@@ -122,6 +423,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "26db04d0a444691c",
+   "title": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PeURiaHp1Sk5mQi1WVFU3WVk1R3RINXFEWUVUS2Q5a2tjVFptUTUtODFFQ0VfTVZWc1BhZ1o5ZEJPM3RNUHE3Sk9iX3IzalZKM0dUeG1ycFZlcEwzazNv?oc=5",
+   "source": "NHKニュース",
+   "summary": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営 NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:45+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "42897064b3cd5a4e",
    "title": "ネットスターズ、200の国と地域でJPQR決済の利用拡大へ",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hV1plQWVyNHpEUGFMZlVkSGREUDdsNlJWc1ZJWW9ZWEhpaFIzQjk0SWNsQy1FVkVWZUFicURDcmtobm5aT3F4S0U5Z0Z4eGJzVFM0?oc=5",
@@ -177,11 +491,39 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "6e9754ca5458fa34",
+   "title": "「Incredist」シリーズ、累計出荷台数30万台を突破",
+   "link": "https://prtimes.jp/main/html/rd/p/000000133.000005619.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社フライトソリューションズ] 株式会社フライトソリューションズ（本社：東京都渋谷区、代表取締役社長 片山圭一朗、以下 当社）は、自社開発の決済端末「Incredist（インクレディスト）」シリーズの累計出荷台数が、2026年11月10日の出荷をも...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-10T16:15+09:00",
+   "company": "株式会社フライトソリューションズ",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
    "id": "55fafaf01492e527",
    "title": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（1/3 ページ） - ITmedia Mobile",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Gb1RKVF8zc2FMTzM5M2loMzN2emRZdzhNLXZlbG05a3JpaXpZYTVhVGwycS1BdFNEUExGYl9EQ3JWRF9YdUM4ZnhyRE52aVhKVjRYTVY5ajZUVGRKa21IN0MxZnFBRUpL0gFoQVVfeXFMTUZvVEpUXzNzYUxPMzkzaWgzM3Z6ZFl3OE0tdmVsbTlrcmlpellhNWFUbDJxLUF0U0RQTEZiX0RDclZEX1h1QzhmeHJETnZpWEpWNFhNVjlqNlRUZEprbUg3QzFmcUFFSks?oc=5",
    "source": "ITmedia",
    "summary": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（1/3 ページ） - ITmedia Mobile ITmedia",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:02+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "f695a831ad930e23",
+   "title": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（2/3 ページ） - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HUERMOUFTN0lJR2I0Zlg5NlQ1b0Y2bWtNTnFvUEpaNEd0VHlKNHRKMW5SbFR4M081ZUVxTktjWXhKSDlULXcweDBLcG9mR0NmMFhLNUE4eFNEbVdWQ2dFX1VPQXIxUWZjUnlv0gFrQVVfeXFMTUdQREw5QVM3SUlHYjRmWDk2VDVvRjZta01OcW9QSlo0R3RUeUo0dEoxblJsVHgzTzVlRXFOS2NZeEpIOVQtdzB4MEtwb2ZHQ2YwWEs1QTh4U0RtV1ZDZ0VfVU9BcjFRZmNSeW8?oc=5",
+   "source": "ITmedia",
+   "summary": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（2/3 ページ） - ITmedia Mobile ITmedia",
    "categories": [
     "cashless",
     "code"
@@ -292,6 +634,19 @@
    ],
    "type": "news",
    "published": "2026-11-10T13:41+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "4785ff15908d36c4",
+   "title": "DGグループ3社、後払い決済サービスで「ecforce」とAPI連携",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JekRGRXp0Z25WREZTMXVUUjg1QVhIVVBBc1ZDLTVhMUpkMTBQUnFRaGc0bU56X1hzblpwUEJOVmtWU2dIOGg5a25yeEJtbHNvNUFjY2dR?oc=5",
+   "source": "通販通信ECMO",
+   "summary": "DGグループ3社、後払い決済サービスで「ecforce」とAPI連携 通販通信ECMO",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T13:00+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
