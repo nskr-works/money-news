@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T12:47+09:00",
+ "updated_at": "2026-11-10T13:17+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -58,6 +58,21 @@
    "via": "PR TIMES 新着（直接）"
   },
   {
+   "id": "e17d91441ce13519",
+   "title": "Kort Valuta、決済プロセッシング基盤の自営化を実現資金移動業を展開するベンチャー企業として、外部プロセッサーからの移行で日本初※1",
+   "link": "https://prtimes.jp/main/html/rd/p/000000136.000076589.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社KortValuta] 株式会社Kort Valuta（本社：東京都渋谷区、代表取締役：柴田秀樹、以下「当社」）は、「TwooCa」をはじめとする決済サービスの事業基盤強化に向け、TISI株式会社（以下「TISI」）との共同開発・連携を通じて、こ...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-10T12:15+09:00",
+   "company": "株式会社KortValuta",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
    "id": "2a2556ef75cec482",
    "title": "「金銭を支援する」TikTokで見つけた投稿 信じた10代女性が電子マネー14万5000円の被害 山梨 （UTYテレビ山梨）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90TEdtbXZnN3NsLVRxTHNuZVFER0dMQWhMaGlXdzI0SF9kekw5bzRBeUFzRWQtU2hEOVppNVNrcl8zT0V2RTlkai1KeXpBNllFQkFucmZQNktsWENIMmtTVVBOY2lMdXQzT2ZqRzBsQm9ib0JpYWpXSDhBYWtkek0?oc=5",
@@ -95,6 +110,21 @@
    "type": "news",
    "published": "2026-11-10T11:36+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "01ad10edc7bcabdc",
+   "title": "いい生活、ハウスメイトネットワーク加盟店向けシステムの「ハウスメイトネット」へ連動開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000289.000003214.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[いい生活] バーティカルSaaS（with AI）で不動産ビジネスを進化・加速させ、業界のAIトランスフォーメーション（AX）を推進する株式会社いい生活（東京都港区、代表取締役社長 CEO：前野 善一、東証スタンダード：3796、以...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-10T11:15+09:00",
+   "company": "いい生活",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "fa6451d23355f44b",
