@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T18:47+09:00",
+ "updated_at": "2026-11-11T21:07+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,72 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "695cdc7938ed166f",
+   "title": "不正入手した他人のクレジットカードを使用 「加熱式たばこ」などだまし取った男(31)を逮捕（山形・鶴岡市）",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWRiU3ZadXMwTHFXcGRoQXFDTW9iX1g3ZnlabjBoMkNSaHFuZk1ERmtJZGR2ekVZOHgwZ0l5eWFrM3VmR1pfMVlTWl8yZTdJN1hRQmpmWHdNRXltS3J4LUM2UFJhZ3E2LXFkMjJhaDVyT0ZkaGEzVWthRVZxbWZwdHZtZFJhczVwMFk3Z2VIcUJTX1FCTU1tbmV4S0xjY1FtY2NJN0VpMkxIQmVFcHUxU2hRQkZ4Tm9lSmhTa1Z5QmhGWXpa0gF0QVVfeXFMTnc5NU9INU9fT0lTcGVUZGRJRzc3dE51bDVzZW4wWnhNMkdfTGhTWnR1dWVPZ0VNdDlJemJYZUc2bURZRnlRU1V3S2laSzhiNU5Pb1RBNTl1VE8xVDhmUFlOM1VoWWU4Z3ZrX1NZcDNCQTh4OW0?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "不正入手した他人のクレジットカードを使用 「加熱式たばこ」などだまし取った男(31)を逮捕（山形・鶴岡市） ｄメニューニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-11T20:58+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6805c7cd960b07db",
+   "title": "トロンとBNBチェーンがステーブルコインの加盟店決済市場の75％を占め、実際のビジネス決済にはどのようなシグナルが示唆されているのか？",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSZS1pbFdBVFUwcl9GQ0xPbkdFd1lRSkFNdU5vT3ltSW5BNlkzSkczMmJURHFKZVFrc3Y2ZGVLR3kzbXg4SThtRlZOOWpQajZtNzVEN3JDTUJ2ZENK?oc=5",
+   "source": "深潮TechFlow",
+   "summary": "トロンとBNBチェーンがステーブルコインの加盟店決済市場の75％を占め、実際のビジネス決済にはどのようなシグナルが示唆されているのか？ 深潮TechFlow",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-11T20:40+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "edbf6bec92d3aa9f",
+   "title": "VRChat向け決済サービス「VThanks」β版公開 クリエイターへの投げ銭やチケット販売に対応",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jT21FSll4VmNjZTFaUWplQmNUbjlSbDRQVWlHODMwOXdDaF9kdEkyTFhoT3VvLUFON2N6LXEtbHFfdHpiLUxBeQ?oc=5",
+   "source": "KAI-YOU",
+   "summary": "VRChat向け決済サービス「VThanks」β版公開 クリエイターへの投げ銭やチケット販売に対応 KAI-YOU",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T18:33+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "505842e46d7acb87",
+   "title": "盗難クレカはスマホ決済に登録される 今すぐ確認すべき4つの防衛策",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUHdpYUYzOXhJRXhRQWpLZFVqeWJYRlA3ZVFGQ1ZNVVdpSklrS2E3eHZ0N0x1c2FmdGVwNnRnSkQ3VU9YaU5MVkloX1hZd0NCSHFoelhvb2RXZw?oc=5",
+   "source": "Forbes JAPAN",
+   "summary": "盗難クレカはスマホ決済に登録される 今すぐ確認すべき4つの防衛策 Forbes JAPAN",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-11T18:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "468cca9a2303a565",
+   "title": "PayPay、PayPay銀行連携で自動チャージ・出金「PayPay残高連携」を開始",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2155561.html",
+   "source": "ケータイWatch",
+   "summary": "PayPayは11日、PayPay銀行口座とチャージ・出金を自動化する新機能「PayPay残高連携」を発表した。利用できるユーザーは順次拡大され、11月中旬をめどにすべてのユーザーで利用できるようになる。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-11T17:35+09:00",
+   "via": "ケータイWatch"
+  },
   {
    "id": "aa03706b13865883",
    "title": "「ダイナースクラブ ゴールド」が誕生 在原みゆ紀が体験する、日常を彩る新たな選択（PR）",
@@ -69,6 +135,19 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "27b7d0f7d7b00c7b",
+   "title": "JFA STOREの後払い決済サービスで個人情報漏えい…“二次被害”についても報告の写真",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYcWZkZ2JUYThWSjF2SUZpeDVfOEFRY1g0d0dGcEdUZWlCbGNYZ01waGFhTmdmYWJRODFtd2ZGMXh4ZWJFSzVKSkRSV1VQX3hhcHg0bjNZMGt4TW9fVlE?oc=5",
+   "source": "ゲキサカ",
+   "summary": "JFA STOREの後払い決済サービスで個人情報漏えい…“二次被害”についても報告の写真 ゲキサカ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T16:39+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
    "id": "a624720f5506ae55",
    "title": "JFA STOREの後払い決済サービスで個人情報漏えい…“二次被害”についても報告",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80WG9SRnFHR0s3QnRPdWxrT21DMHZwbTFfV2NkOWVxR0ZQNE9Yd3cxb0c0MVUzdHQxZ3lqakRPbU1LaUtRLVpMZGE4dDZMZDZ5ZUtQVVRQUnVoMXlEYkRBeDJR?oc=5",
@@ -93,8 +172,7 @@
    "type": "release",
    "published": "2026-11-11T16:15+09:00",
    "company": "東日本旅客鉄道株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "2a1ac988f9262883",
@@ -123,6 +201,19 @@
    "published": "2026-11-11T15:41+09:00",
    "company": "JR-Cross",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "e27b2c6b38786f6b",
+   "title": "PayPayの“残高不足分のみ”をPayPay銀行から自動チャージ可能に 1円単位、個人間送金にも対応",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news087.html",
+   "source": "ITmedia Mobile",
+   "summary": "PayPayは、11月11日から「PayPay残高連携」を順次提供開始。支払いや個人間送金で「PayPay残高」が不足している際にPayPay銀行の口座から不足分が1円単位で自動チャージされ、支払いや個人間送金に利用できる。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-11T15:40+09:00",
+   "via": "ITmedia Mobile"
   },
   {
    "id": "0bb11d0011b32c9b",
@@ -2410,6 +2501,19 @@
    "via": "日本経済新聞（Googleニュース経由）"
   },
   {
+   "id": "5536d3faa8fd3362",
+   "title": "【徹底比較】キャッシュバック付きクレジットカードのおすすめ人気ランキング【2026年11月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5va05hc1JoMlE4NjNRM0VzWUtxY2haSUdRYWlSeDd6aFJ5VnBFbWEtOFNjSEVwX1NHTmNRcWN3?oc=5",
+   "source": "マイベスト",
+   "summary": "【徹底比較】キャッシュバック付きクレジットカードのおすすめ人気ランキング【2026年11月】 マイベスト",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "945e7261f96c47b6",
    "title": "【香川県がスマホ納付を拡大！】施設使用料や道路占用料もクレカやアプリで支払い可能に",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RWnNHSHYyeE1VcEdGVWEwN1pPTUhMQjFWbzBLdjJibmpEYUFJam1DOE4yZHkxaUlXUVdtOUhvLTBYZFZaRkJtSU1wd3EyNHRC?oc=5",
@@ -2727,6 +2831,19 @@
    "type": "news",
    "published": "2026-11-08T07:00+09:00",
    "via": "ペイメントナビ"
+  },
+  {
+   "id": "86b2feb4731402c7",
+   "title": "【還元率約17%】ゆうちょデビット×タッチ決済が熱い！現金500円＆新規1500円もらえるキャンペーン！ Millwall Vs Hull (ztE9L2VAOs)",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XVTE5UFdUaDF5dWNYeS1MeThJNlphWWJsQVBjV0Y2ZXdzZjA2VUtlN0ZiMUx6ZHU5aEZVc0tGLW9wbzRGTWphRTU4LVlVTXlZTUlYc25ZMUI1UmpTR0F4NDVnR3c?oc=5",
+   "source": "Unisba Media",
+   "summary": "【還元率約17%】ゆうちょデビット×タッチ決済が熱い！現金500円＆新規1500円もらえるキャンペーン！ Millwall Vs Hull (ztE9L2VAOs) Unisba Media",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-08T05:22+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "158e0804d0e134c5",
