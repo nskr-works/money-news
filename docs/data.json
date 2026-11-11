@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T00:44+09:00",
+ "updated_at": "2026-11-11T10:27+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,11 +30,236 @@
  "topics": {},
  "items": [
   {
+   "id": "f6096df2e839bdf1",
+   "title": "ECプラットフォーム「メルカート」にゼウスのクレカ決済が対応",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tMFJoUXJlZ01NdTg0YWRvU2lmOXQ4Z21KLXFILV81UEVKTTNJNW9RZHZTZHJYT0x4ZnVDUVdQSzIwNG5oQUJRX1pUY0tEbWYxRUgycHhn?oc=5",
+   "source": "通販通信ECMO",
+   "summary": "ECプラットフォーム「メルカート」にゼウスのクレカ決済が対応 通販通信ECMO",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-11T10:11+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "282924e0fb6dc17e",
+   "title": "「フリーウェイ請求書カード払い」、累計カード決済金額が30億円を突破",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41cVpIR3o5Sm1JczhhOGN0dUhtYURLMHRLbGRfQW9pWlpNeDcyeS0wYUFaaF8yWEQ3cm9IcEdobzhaT0poSGpCX09TYmd6aVRrclo1TDdVUjNLYzVqN19JcFRlejkyLUdOT1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "「フリーウェイ請求書カード払い」、累計カード決済金額が30億円を突破 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-11T10:10+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "フリーウェイフィナンシャル株式会社"
+  },
+  {
+   "id": "51430476dc06d084",
+   "title": "決済プロセッシング領域の自社管理・運用体制を構築（Kort Valuta）",
+   "link": "https://paymentnavi.com/paymentnews/185667.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月11日9:54（JST） 【日本】Kort Valuta（日本・東京）は、「TwooCa」をはじめとする決済サービスの事業基盤強化に向け、TISIとの共同開発・連携を通じて、これまでTISIが提供するAP […] The post 決済プロセッシング領域の自社管理・運用体制を構築（Kort Valuta） first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T09:54+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "513f4939bb7d0fab",
+   "title": "決済サービス 「スコアあとからカード」でECプラットフォームとAPI連携（DGFT/SCORE/DGBT）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCZXQ3TXNHcnB3czJmY0ZOY252bnlHbUlfejE4SzhKZW9CLWRWdmVTd1haVGRVZ3VRQWZtN3dxcnRPYVdnaTZPYnduNTZpY2lNb1poY0tmaTlGdFE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "決済サービス 「スコアあとからカード」でECプラットフォームとAPI連携（DGFT/SCORE/DGBT） ペイメントナビ",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-11T09:45+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "fd1f62601703d5db",
+   "title": "クレジットカード決済が「メルカート」で利用可能に（ゼウス）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oS0pFTzEzUTU1Q0VnS3NCTnlBZnVuSUt2UlZkUmM4endtYktVM21SVG45SVJuU1hOa1ZQQUVwT3ZMNUxQcGNrYU1vOHV6dnJ3QV9RaVFSaUhMQkE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "クレジットカード決済が「メルカート」で利用可能に（ゼウス） ペイメントナビ",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-11T09:40+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "892bceb5255d235b",
+   "title": "実店舗とオンラインをつなぐOMOで協業、決済不正対策も（アクル/べスカ）",
+   "link": "https://paymentnavi.com/paymentnews/185665.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月11日9:36（JST） 【日本】クレジットカード決済などの不正利用対策ソリューション「ASUKA」を提供するアクルと、マルチ決済プラットフォーム「Ark」およびペイメント＆マーケティングプラットフォーム […] The post 実店舗とオンラインをつなぐOMOで協業、決済不正対策も（アクル/べスカ） first appeared on ペイメントナビ .",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-11T09:37+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "d74c38541ef7a59b",
+   "title": "百貨店初の「顔認証決済」に対応 東武百貨店池袋本店",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155233.html",
+   "source": "Impress Watch",
+   "summary": "東武百貨店と東武鉄道は、東武百貨店池袋本店において、生体認証プラットフォーム「SAKULaLa(サクララ)」による顔認証決済サービスを19日に導入する。百貨店として初。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T08:00+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "5bbff100d21241bf",
+   "title": "【エディオン】最大５５６件のクレジットカード番号も漏洩か… 通販サイトへの不正アクセスをめぐり 広島",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByN2h3VDF6b1BGaVlXZ0dnY0FWVTlwUWVxTWdqLVlJTktmZ3I2TFcxb0Z2TEFSYWFhVER1QVphX0FNSjh5Z0l6b1ZIOUtadw?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "【エディオン】最大５５６件のクレジットカード番号も漏洩か… 通販サイトへの不正アクセスをめぐり 広島 FNNプライムオンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-11T07:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d4824341486acbcf",
+   "title": "「TikTok18+」遠隔操作可能なアプリで電子決済サービスを不正に使用してトレーディングカードをだまし取ったか 中国籍の男2人逮捕",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhR0RDdEJWbWpLY2xRdnprVFZzbnhQb3VPSVYxQnRvOVRTaVZvbU1TX2JpWEdQWlpaUWhoZTJfbk1IVW9RNWg0cXlZQWoyZDVYZ05NYzBudw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "「TikTok18+」遠隔操作可能なアプリで電子決済サービスを不正に使用してトレーディングカードをだまし取ったか 中国籍の男2人逮捕 TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T06:28+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "a5258869fdbede55",
+   "title": "【漫画】どのキャッシュレス決済がお得なんだっけ? 支払いのときなかなか決められず……",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zaGI5SnhUOFhqeF8zNms1LUdjLXV6RlZUcDZOY1RaLThQNVZ0eGhfR3BIVmlwY2RnV3oxNVY3UmpZNkpGQV9zOG82TGR2Y2c4U182WFU5LWZyN3VRQk5DTg?oc=5",
+   "source": "マイナビニュース",
+   "summary": "【漫画】どのキャッシュレス決済がお得なんだっけ? 支払いのときなかなか決められず…… マイナビニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T06:11+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "e100536ba60ef6b7",
+   "title": "２０日からＱＲバスカード販売 道南バス、キャッシュレス決済開始",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ic3NUSXl2YUNUZ0F0bHhSQkJaSEtXcUM4SG9kOG9uQTNqR3A3SzE5dFJlY1dXQ1VYRkszdV8zM3EzVjJUXzVMY1pUUQ?oc=5",
+   "source": "47NEWS",
+   "summary": "２０日からＱＲバスカード販売 道南バス、キャッシュレス決済開始 47NEWS",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T06:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "0c7b63006d19423f",
+   "title": "【事件】下松市の８０代男性２２００万円被害 現金と電子マネーで",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RNGRyVDYzay05d2cwekZjNjR3MkxkQzJFXzJ1aU5oQS0wTV9IbjZUN2puSFhFM1JQM0xrN25PSmRwRUNXS0s4WURHblNVVjdhbHpMc2drVVIwSUtwLUdta2xJekNxM1pMQ3c?oc=5",
+   "source": "山口新聞 電子版",
+   "summary": "【事件】下松市の８０代男性２２００万円被害 現金と電子マネーで 山口新聞 電子版",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T06:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "f2714ca95944368b",
+   "title": "クレジットカードのボーナス特典 無理なく達成できるか確認",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmc1pSMklKQUlwYlpzUXdMczlkdnZsSmMyRjhzMHZiOFFxT0tvdHZjajU3clZvNGZmYVh0U2JBUHNBS1NHeE9uMVZndVhBNUVyaUVwd1hKUmRMUnEyZm1MdnJpS2RBMEZTdHdZaA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "クレジットカードのボーナス特典 無理なく達成できるか確認 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-11T04:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "26480d57b5934d01",
+   "title": "米国のクレジットカード残高が過去最高1.29兆ドル、家計債務は19兆ドル超に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14N3BXMlNnWDB5YXBLSTdCVm1ldGU2WERXelJkRXhQQzZSUEpRN1VBTEFTdEQ2TWJ0X3NOZ3BuY29HYkZ4aDdEc2FNYV9TUWZvU2dEXzRwamdxZmtvSGhfaXdfOEZQUmk3V180RWF3YUY2cFFF?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "米国のクレジットカード残高が過去最高1.29兆ドル、家計債務は19兆ドル超に BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-11T03:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "66633e76d557171b",
+   "title": "米クレジットカード残高、第3四半期に過去最高の1.29兆ドルに到達",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93U2JLeUxtSklxdzN0T3dKeFJoV1pxNHJhTmwtVWRObWVZcXlqTWcyckNaOVVuZmxsVEVPZkJJVzNSRV9sZVJ3VENWSDlSUmVIM01xcEFXcTlRbmN2dmlkanRBNkxrZXR6clE?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "米クレジットカード残高、第3四半期に過去最高の1.29兆ドルに到達 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-11T03:17+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a44732a35bd6f7cf",
+   "title": "ベトインバンクは、JCBおよびハノイ地下鉄と提携し、ハノイの都市鉄道における非接触型決済の普及を促進する。",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeHgzMkdpQWRyUGUtZC02cDRCRlZVb1ZoMXAxcXNOZkpwVEpFNERDT2xFYnVNa1pPWkg1ZWFOM3NiTW1VeG9PU3V2NXRtajYycXN3VjVwdFQ3eE1jUUI5NkNIdS0ybFgwR1J4OWtBZ1MyQjF2ODBNWmNCcklNdF92OU1LWWhDeFlQWkphYVBPUUNteVlRdlVXY0dlMENZRTRuMEFmLUJTeS1fVXlqNUhydk5LQXVpajlCd0JhdElPZ2Y3Q016LW9LWmRGTXZ0dkk?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ベトインバンクは、JCBおよびハノイ地下鉄と提携し、ハノイの都市鉄道における非接触型決済の普及を促進する。 Vietnam.vn",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-11T01:48+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "692a3aa734ed7449",
    "title": "台湾の9月クレジットカード決済額、4,600億台湾ドルで同月過去最高 CTBC銀行が決済・発行の2冠維持",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TVzJDanQ1cHJzV2d3LVBMcEpvN3h0bF85bnh3cEk3YVRBX1k3UDdla3JVai1oeFVYd0NGQ2xfY2ZPbHI3ZUEyUFdwVWpxV2l2bW9sbEJ2R2xyVXEwZjJIaEhNMEFMaVhDSEhaMzFYYm51T1My?oc=5",
    "source": "BigGo ファイナンス",
    "summary": "台湾の9月クレジットカード決済額、4,600億台湾ドルで同月過去最高 CTBC銀行が決済・発行の2冠維持 BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T22:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1d3ca1c4911c90c7",
+   "title": "台湾、9月のクレジットカード決済額が4,600億台湾ドルで同月過去最高 中信銀行が決済・発行の二冠",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TVzJDanQ1cHJzV2d3LVBMcEpvN3h0bF85bnh3cEk3YVRBX1k3UDdla3JVai1oeFVYd0NGQ2xfY2ZPbHI3ZUEyUFdwVWpxV2l2bW9sbEJ2R2xyVXEwZjJIaEhNMEFMaVhDSEhaMzFYYm51T1My?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "台湾、9月のクレジットカード決済額が4,600億台湾ドルで同月過去最高 中信銀行が決済・発行の二冠 BigGo ファイナンス",
    "categories": [
     "credit"
    ],
@@ -212,6 +437,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "d6134e4a6a8e32a9",
+   "title": "知人を脅迫し現金175万円と電子マネー、ネックレスを脅し取る 容疑で25歳男を逮捕",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XbzR5TUo5SFdma1BaVVJ5QnpFMEhoVU12SkJkWE9oUWtoVVhLempMbEFmSmhrdFR6ckcxWm9oM2tSc0YtVnFmcEtZMzBYNEc0M202SXUySVU?oc=5",
+   "source": "京都新聞デジタル",
+   "summary": "知人を脅迫し現金175万円と電子マネー、ネックレスを脅し取る 容疑で25歳男を逮捕 京都新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T19:11+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "e5bbf383c4353e03",
    "title": "エディオン顧客情報流出か クレカ決済情報５５６回分 | | 全国のニュース",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGUElsTE5GT3NHNHN2WEFpSXIwNGFmcnhWR0dhLXpNY05MMW1QbzlwaFVsZFpYNnJuSGp2bm5aRzV4WlpQUUV6R2gtMnpNYV9KQmFOVVB3?oc=5",
@@ -301,6 +539,19 @@
    ],
    "type": "news",
    "published": "2026-11-10T18:19+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "1619419b8c808829",
+   "title": "不正アプリダウンロードさせスマホ決済サービス”乗っ取り”詐欺など疑い中国籍2人逮捕｜KBCニュース",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kbGNxem82SVhBMmYyU2Job2dPdzlLdXRSLTVUSXlhdW1ZaThIcU5rMXRkc0Z5cmw3U2JQN2Y4UUxNY2ZycXRpVDNBYlRwTTc2Q25XZ01lTnJodw?oc=5",
+   "source": "KBC九州朝日放送",
+   "summary": "不正アプリダウンロードさせスマホ決済サービス”乗っ取り”詐欺など疑い中国籍2人逮捕｜KBCニュース KBC九州朝日放送",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:16+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
@@ -598,6 +849,20 @@
    "via": "ケータイWatch"
   },
   {
+   "id": "b56859453b6094eb",
+   "title": "簡単に便利にクレカ乗車 キャッシュレス決済１０日から順次、道南バスがセレモニー",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSdE5wdG02RGlZNGpHWmpEUkhjLWkyaDdjNnNQamNHWmhZTEJGQ18wMmt6YXZ6blprdEpsVFpmelhDYzhYWjdiaVI5STE?oc=5",
+   "source": "北海道ニュースリンク",
+   "summary": "簡単に便利にクレカ乗車 キャッシュレス決済１０日から順次、道南バスがセレモニー 北海道ニュースリンク",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T15:07+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "dcb90961ce0c1b43",
    "title": "東武百貨店池袋本店／顔認証での手ぶら決済サービスを開始",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KT2V6TnlnUHZjMGxhUko1eHotU01mTzUyMkZiZ3ZoaWxRVFhTUjNMWFJyWkJsMmlxOXRibHVkUFdGQkJrV1p6NVdSUFVhMmNC?oc=5",
@@ -876,6 +1141,19 @@
    "type": "news",
    "published": "2026-11-10T10:42+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e2ed6632401d9349",
+   "title": "アクルとベスカ、OMO領域の不正防止決済サービス提供へ協業の検討を開始",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2N1V1TkU4c01WczRsdUJzQi0wSXhTR1JhZXlpSUVVaERFaTRiU21EVzlQendlYW1Rajg0b2dXQVEzSDNrOG5z?oc=5",
+   "source": "Dellows News",
+   "summary": "アクルとベスカ、OMO領域の不正防止決済サービス提供へ協業の検討を開始 Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-10T10:41+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "e2e349b0fd158ff5",
@@ -4437,6 +4715,19 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MbUxfbEhNQUI1ckwweGRWSjViUUQyUEFQeHZ1Y1ViQ0RtTGpfZUEtMFByYVF3bGpScWoyUXVlSmhKNEprU3hieDladTF2Sy02T0JIYw?oc=5",
    "source": "ABEMA TIMES",
    "summary": "TVアニメ『チェンソーマン』のデンジたちが電子マネー対応キーホルダー「きゃらぺいっ！」に登場 | グッズ | アニメフリークス ABEMA TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-04T19:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "e6a7c3c830f28676",
+   "title": "【写真・画像】TVアニメ『チェンソーマン』のデンジたちが電子マネー対応キーホルダー「きゃらぺいっ！」に登場 1枚目",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RSnBZaTYwc3FFT0s3dExPcDFaR0tQRENueXF0NU5nbENyUFpOR3dOcFlqdmpIMWxCRFIzTE1ma0RtbU8xZjNYV0hxUWZjVXdkT3k2eDhvU1g4dw?oc=5",
+   "source": "ABEMA TIMES",
+   "summary": "【写真・画像】TVアニメ『チェンソーマン』のデンジたちが電子マネー対応キーホルダー「きゃらぺいっ！」に登場 1枚目 ABEMA TIMES",
    "categories": [
     "cashless"
    ],
