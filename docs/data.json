@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T21:07+09:00",
+ "updated_at": "2026-11-12T00:34+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,20 @@
  "topics": {},
  "items": [
   {
+   "id": "d3661bc125fd7567",
+   "title": "PayPal、独自の決済データから日本の商品・サービスに対する 海外消費者の需要を可視化",
+   "link": "https://prtimes.jp/main/html/rd/p/000000039.000054523.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[PayPal Pte. Ltd.東京支店] コマースプラットフォームのグローバルリーダーであるPayPal（PayPal Pte. Ltd. 本社：シンガポール、東京支店 日本事業統括責任者：余伝 道彦、以下「PayPal」）は、当社の決済サービスを通じて海外の消費者が日...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-11T23:10+09:00",
+   "company": "PayPal Pte. Ltd.東京支店",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
    "id": "695cdc7938ed166f",
    "title": "不正入手した他人のクレジットカードを使用 「加熱式たばこ」などだまし取った男(31)を逮捕（山形・鶴岡市）",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWRiU3ZadXMwTHFXcGRoQXFDTW9iX1g3ZnlabjBoMkNSaHFuZk1ERmtJZGR2ekVZOHgwZ0l5eWFrM3VmR1pfMVlTWl8yZTdJN1hRQmpmWHdNRXltS3J4LUM2UFJhZ3E2LXFkMjJhaDVyT0ZkaGEzVWthRVZxbWZwdHZtZFJhczVwMFk3Z2VIcUJTX1FCTU1tbmV4S0xjY1FtY2NJN0VpMkxIQmVFcHUxU2hRQkZ4Tm9lSmhTa1Z5QmhGWXpa0gF0QVVfeXFMTnc5NU9INU9fT0lTcGVUZGRJRzc3dE51bDVzZW4wWnhNMkdfTGhTWnR1dWVPZ0VNdDlJemJYZUc2bURZRnlRU1V3S2laSzhiNU5Pb1RBNTl1VE8xVDhmUFlOM1VoWWU4Z3ZrX1NZcDNCQTh4OW0?oc=5",
@@ -54,6 +68,19 @@
    "type": "news",
    "published": "2026-11-11T20:40+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "e96bb2897aac724a",
+   "title": "JR東日本「スマホをかざさず改札を通過」体験に、シャープ「AQUOS R10」を採用",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news094.html",
+   "source": "ITmedia Mobile",
+   "summary": "シャープの「AQUOS R10」が、JR東日本が2027年4月から都内14駅で実施するUWB「ウォークスルー改札」の体験導入に採用された。改札機に端末をかざすことなくモバイルSuicaで通過できる新たな乗車体験の実現を目指す。シャープは接近や通過を検知する専用アプリを開発し、搭載端末を納入してUWBの利用拡大を図る。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T20:38+09:00",
+   "via": "ITmedia Mobile"
   },
   {
    "id": "edbf6bec92d3aa9f",
@@ -107,6 +134,19 @@
    "type": "news",
    "published": "2026-11-11T17:05+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1110d4ddd9a35a89",
+   "title": "ポスタスが発表した2026年10月の飲食店売上動向とキャッシュレス決済比率の変化",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CUHlKQXVEQXI2SVk3Zy1GV2pKRTA4ZEFvRElMOGxLVnBLZHIyaUFnb2Uwbkc0QUVPcUZGODZfUmxpYUZpUU42SmlCSHpIaG00VjQta2lMUThnSHV4T25BR1ZKa043QUw4VzJr?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ポスタスが発表した2026年10月の飲食店売上動向とキャッシュレス決済比率の変化 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T17:02+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "33b4f5fc5805e1b7",
