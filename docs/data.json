@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T17:19+09:00",
+ "updated_at": "2026-11-11T18:47+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -80,6 +80,21 @@
    "type": "news",
    "published": "2026-11-11T16:29+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "382a81ed94ebbd6b",
+   "title": "「【第2弾】Suicaのペンギン ありがとう～感謝を込めて！プレゼントキャンペーン～」を実施します！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001571.000017557.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[東日本旅客鉄道株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/17557/1571/17557-1571-a65e2d6a2c99325cb850d2a976d7b056-1241x196.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-11T16:15+09:00",
+   "company": "東日本旅客鉄道株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "2a1ac988f9262883",
