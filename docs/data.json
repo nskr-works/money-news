@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T19:12+09:00",
+ "updated_at": "2026-11-12T22:12+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,175 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "1906a45da98b8dc8",
+   "title": "良品計画会見、5つの疑問 「特典付与の識別」でクレカ番号保持も削除せず",
+   "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12171/",
+   "source": "日経クロステック",
+   "summary": "良品計画は2026年11月12日、同年10月下旬以降同社が受けているサイバー攻撃被害とそれに伴う情報漏洩について、記者会見を開き謝罪した。攻撃の原因について、5つの疑問点と会見から分かった事実を解説する。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T22:10+09:00",
+   "via": "日経クロステック"
+  },
+  {
+   "id": "e6daa0bf32c58090",
+   "title": "無印良品 クレカ番号流出巡る経緯",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53NHdqSDBoQWltS0xZM2NqcXJBOFg2bllGT1QyUWNKbExIME9RMExLSkZUQkliYWExd0V6WjJ0UGF4alYtYzhKZzItWDh5aVJO?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "無印良品 クレカ番号流出巡る経緯 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T22:02+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "187d1024efcbdb3f",
+   "title": "無印良品MUJIカード情報流出 謝罪の清水智社長「適宜修正してきたが…」 暗号化せずクレカ番号保管",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlTGkwVEJJaGZJUko5Ql9ILTVkVmZSa0pjUnNkZGJXLVRWekJFamo4akpfekIwamVrU0F4SnpLUHdGZVQ5cFJkUVVaU1pmalFqeHhV?oc=5",
+   "source": "東京新聞",
+   "summary": "無印良品MUJIカード情報流出 謝罪の清水智社長「適宜修正してきたが…」 暗号化せずクレカ番号保管 東京新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T21:02+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c34e5310052a2124",
+   "title": "「母が勝手に借金を…」男性(45)にうそを言い電子マネーをだまし取ったか 当時16歳だった女(18)を逮捕 男性からは計約300万円相当をだまし取ったとみて捜査 広島",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QMmpESjBHOGVEeFMwYXIyeU9abHhUa2lGT0RsTERpblFYM2ZSNjdNVUFQZHFERmtDRUVSbm1yRDVyUzVCa1ZOTmNfSGg3bE4tVktCdExpWFlRQTdiNUJaRWxuQ0VtQ1J0WFlrOEFxOA?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "「母が勝手に借金を…」男性(45)にうそを言い電子マネーをだまし取ったか 当時16歳だった女(18)を逮捕 男性からは計約300万円相当をだまし取ったとみて捜査 広島 ｄメニューニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-12T20:18+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "03fd0d1031006225",
+   "title": "良品計画、不要なクレカ情報削除せず（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZUcxdVRiR01va296cU84MzFRemladlRDemxqdHZoQUlPRWFJT3ZwWGVVQ0hYeU81SEVLeVFBaGNsNEV6RzVacEQzWFFyWGxzbnhnRnJIN2l2aEZyenVSMzExa0daczR6OWFiOU8ybm8wN3NVNGNYdkxSdGk4eEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "良品計画、不要なクレカ情報削除せず（時事通信） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T20:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "93a7166c832cf2e5",
+   "title": "「無印良品」運営謝罪 クレカ番号109万件も流出の可能性…破棄すべき情報も保管か",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pc0kwUndHNXJYc2NHVTFidFJUcUc0bmRHSjlHQnBySTBMeFh5d2hfcTJoU0xPdTNQaEsteTVtcjVFRkRESmp0YXpCLVpaa0g5OHdxaTNQLWlDTEFvMnUxM0NrZFpiRlJsQ3BFX0ZiZTM5R3JpM1hYZzFKS1g?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "「無印良品」運営謝罪 クレカ番号109万件も流出の可能性…破棄すべき情報も保管か 日テレNEWS NNN",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T19:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1d20132f185e1a08",
+   "title": "良品計画、不要なクレカ情報削除せず＝不正アクセス、社長「責任を痛感」(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWVdTbEsxZnRqWktpN3Y1d2QtaXJWdExFSDdyenZGbkozS3c5dVBHTThreGlMQmZ0UE9CWmo5ZFBaNHJ6WjdJR2FKenF0REhGSXZ5MEFyQ0F1ZHB5WkpPSmNJeU1IY3pvc1JWN2diYXdDbmtCMmFTTDNJOVZzNU1NYktsODd3NDg?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "良品計画、不要なクレカ情報削除せず＝不正アクセス、社長「責任を痛感」(時事通信) Yahoo!ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T19:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4d6c61b643cc5820",
+   "title": "無印良品、クレカ番号「全桁流出」の経緯説明--「不要になっても16桁をマスクせずに保存」（CNET Japan）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WV253NnFrZ3ljSEs1NVNFT1Y5LW1LRkc5MWRDcFFELWFBLVN6NnRxWExHMk02dUpPLWdtN2V1WGZUdDJTb3hKRkJIZkp1a0NVLXcybkxPSHozUlRxcTI3VjVNY1kyakxJQnB4R1pxUXAwQ0JRMXFZbDNrXy1QNG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "無印良品、クレカ番号「全桁流出」の経緯説明--「不要になっても16桁をマスクせずに保存」（CNET Japan） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T19:33+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7e4d69127b0fe09e",
+   "title": "「早く対応していれば」無印良品が謝罪 不正アクセス受けクレカ番号16桁流出 “マスクなし”情報「5年前に削除すべきだった」",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWFdzVzYwTkd5eUg3dWhIVGdFLU5VdjNrZHd0dGRfdV9wcFpGVzJmM1YyMXhpemhYTUJac1dhYnlHNXBVclR6eS1Hd0tzRzhNYm1JM1NfZkc4Z2pUSTNfX1lNaXdEbEM4REljRVhyS1RfNE1HRHNGMDF5b0J4VEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「早く対応していれば」無印良品が謝罪 不正アクセス受けクレカ番号16桁流出 “マスクなし”情報「5年前に削除すべきだった」 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T18:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "04119979017c5a49",
+   "title": "提携ブランド付きクレカを通じて顧客インテリジェンスPFを提供する\"Imprint\"がSeries Dで$130Mを調達し評価額は約$1.9Bに拡大",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OeTN6MlZlSVV4eldkdUp4MDR0WDlyZDN0VG5sNDVQOWhEU2M3VE1aVk5YdGtXV0NMNGJoMmJMRWVYZWhSd2l0Zzd2LXh0OWo5LUJmV1BtRFRFbTFCTFpIVmpPZjBBUGRoVVlkME10N1o?oc=5",
+   "source": "AT PARTNERS",
+   "summary": "提携ブランド付きクレカを通じて顧客インテリジェンスPFを提供する\"Imprint\"がSeries Dで$130Mを調達し評価額は約$1.9Bに拡大 AT PARTNERS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T18:07+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "71f730b816851256",
+   "title": "【通期決算発表】 ＧＭＯフィナンシャルゲート：マルチ決済端末ソリューションや組込型決済…(フィスコ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemFCeEMyMlNpTXBJczYwYldoelVySVFqVlN4bGoyVkc2QmhDT21rZE9ZdWp3d0dWVGtkVHNPTjRNZXBGaTZrWXgyOGhBN1N0b193SmgtandBTmhCYmU0SWkxVTdkejJXX1RtR3didnZicHgtVC1ST2xudkx0UzI0T1FUTzF6NUE?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "【通期決算発表】 ＧＭＯフィナンシャルゲート：マルチ決済端末ソリューションや組込型決済…(フィスコ) Yahoo!ファイナンス",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-12T18:02+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "c2452f5e6b992d4f",
+   "title": "メルカート、ゼウスのクレカ決済に対応 追加開発不要で導入可能に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOM29mNFhRUzcteGRmd0wxdjcyM1VzVWRocVJfb1lCR1ROanlaMjNaeDNxd3FUNFo0TkppRXRIdW1SUWJMTlVieW0zdmFIbXoxYnhzTkN4LVU0S1VXblJieVoyeXR6MkFRekZwYkwxQ3EyM2hC?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "メルカート、ゼウスのクレカ決済に対応 追加開発不要で導入可能に BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T17:56+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "519f3a3f9f6e4ea5",
+   "title": "不要なクレカ情報削除せず(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGFvZmdBamdlZWVwdE5XS2huNEZBWUZRdTcweUQzMDdFcFJWSkVZaXJLZlRFRXRrdkZodG5JWnlZd1luZVJRQ3lnYTRad0Ixb0h5SGdHY1FycUFvNVk0WVlpdlVwZ1oyUnp5Y3p2ZC05Uk51UTNVUEdwUDdvWFptNUpYM05BMEE?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "不要なクレカ情報削除せず(時事通信) Yahoo!ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T17:48+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "83b8bf6dae1dc0f3",
    "title": "不要なクレカ情報削除せず 不正アクセス、社長「責任を痛感」 良品計画（時事通信）",
@@ -81,6 +250,19 @@
    "type": "news",
    "published": "2026-11-12T17:29+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2b4d74152d2ecade",
+   "title": "無視…駐車違反38人、違反金を滞納 66件も迷惑駐車、ずっと催促に応じなかった男女24～80歳…ついに117万超を一斉徴収 5年間ほど違反金を払わず 電子マネー、車、バイク、口座など差し押さえ「一層強化する」｜埼玉新聞｜埼玉の最新ニュース・スポーツ・地域の話題",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04OGExOWFEUnh5Ri1vY01FUUpzeC1pOHcyVUl0Z19OekIwTHNmMklQOGs1UHJfZktNTlVhVUU2X1dsZ0tSUFpfYm8wdW1qWGU0M00xZHBjanI4enJqMk1DaUU4WHNTdw?oc=5",
+   "source": "埼玉新聞",
+   "summary": "無視…駐車違反38人、違反金を滞納 66件も迷惑駐車、ずっと催促に応じなかった男女24～80歳…ついに117万超を一斉徴収 5年間ほど違反金を払わず 電子マネー、車、バイク、口座など差し押さえ「一層強化する」｜埼玉新聞｜埼玉の最新ニュース・スポーツ・地域の話題 埼玉新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-12T17:05+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "477d3b531b0dcf86",
@@ -150,8 +332,7 @@
    "type": "release",
    "published": "2026-11-12T16:40+09:00",
    "company": "にしてつグループ",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "ee1d26b4b3c0fb38",
@@ -365,6 +546,20 @@
    "type": "news",
    "published": "2026-11-12T14:31+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "626bae25c1e191b7",
+   "title": "JR東日本「teppay」普及するのか Suica上限は解消も、クレカチャージは制約",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oT0VpTkh0NjlncVZxVnpQWnlJMjVkQkxsWXVvMWxmcENBR3NLeWxiSWlyZ0N2NW04VmJBNVItSUV3RWxPSEhXdjRhTzRqMldKTmh1X1dpdkV1ZnhiTHN4WUNNZHRHdWdqNDZmZkF4c2NMUTlNSXc?oc=5",
+   "source": "産経ニュース",
+   "summary": "JR東日本「teppay」普及するのか Suica上限は解消も、クレカチャージは制約 産経ニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T14:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "9cd575505ae5d30b",
