@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T17:48+09:00",
+ "updated_at": "2026-11-12T19:12+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -137,6 +137,21 @@
    "published": "2026-11-12T16:40+09:00",
    "company": "AnyReach株式会社",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "df8476882e02047c",
+   "title": "新クレジットカード「nimocleカード」に新キャラクターが誕生！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001058.000017692.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[にしてつグループ] [画像1: https://prcdn.freetls.fastly.net/release_image/17692/1058/17692-1058-3dad5e5121fb153d1656d424a7ea0869-579x592.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-12T16:40+09:00",
+   "company": "にしてつグループ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "ee1d26b4b3c0fb38",
