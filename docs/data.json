@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T22:12+09:00",
+ "updated_at": "2026-11-13T01:10+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,32 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "3e7c5be9aed13b01",
+   "title": "ラオスのセブンイレブンで、タイの銀行アプリによるQR決済が可能に！カシコン銀行など4行。",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yTzYweEQxd0pNOGtOVlZVamZUekRxTUVabExrOEdaOFhIeEdKd3pnYzBUV0ZzVWpXTnlDOVZRRzBGWDlGcGxKMTl2c3pzcEhZdUpF?oc=5",
+   "source": "タイニュース・クロスボンバー",
+   "summary": "ラオスのセブンイレブンで、タイの銀行アプリによるQR決済が可能に！カシコン銀行など4行。 タイニュース・クロスボンバー",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-13T00:07+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "27e72d8f43e27a24",
+   "title": "不正アクセス受け“無印良品”謝罪 クレカ番号約109万件が流出か（FNNプライムオンライン（フジテレビ系））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55MTBESTZCTjFSTnJ0X2lJb19uZFo5SUlrTWtTaTlUNDdjZy1xQU5ldEhKNjRSenl3MkJFUmRBUDM1ekVZQUYxSnp2ZzdTUGEtUmtrYXh6ZURNQWdpTC1VcEVvQlJrekxmSTVscXVsOWRqLXBnWmFnUFZ0YzNEWVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "不正アクセス受け“無印良品”謝罪 クレカ番号約109万件が流出か（FNNプライムオンライン（フジテレビ系）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T23:47+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "1906a45da98b8dc8",
    "title": "良品計画会見、5つの疑問 「特典付与の識別」でクレカ番号保持も削除せず",
@@ -209,6 +235,19 @@
    ],
    "type": "news",
    "published": "2026-11-12T17:36+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a2f81bda37ae4502",
+   "title": "不要なクレカ情報削除せず 不正アクセス、社長「責任を痛感」―良品計画",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2Tk4yTWU0YUxNMERweGc0TThZUmZDcmVJNUJtMGxnOTBIQTUzZGtFdHNOcnVEOGVucHpWOWZmSjhEWHV3OEtLeTVfcDVoeEg4QVoxWEltNThZM1NHTVpwM01Hdw?oc=5",
+   "source": "時事ドットコム",
+   "summary": "不要なクレカ情報削除せず 不正アクセス、社長「責任を痛感」―良品計画 時事ドットコム",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T17:35+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -574,6 +613,19 @@
    "type": "news",
    "published": "2026-11-12T13:29+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "13723ada9a3ac38e",
+   "title": "無印良品、クレカ全桁流出を謝罪 清水社長「システムに脆弱性」（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMXYtR05Rc0ttODc5ek5nZDJMZTJuVmtiaEJ0ZU01amRHZmRtdVVkckJzVEc5Y2M0QWhIY2VIdUNSRHE2QXNMbzEzc3c1X3F4SnhGYlJYUXpuT2RPTlducWZSRDhGeE8wVVg2TDhocDdndG5jSmd2RFpQRlZ0VnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "無印良品、クレカ全桁流出を謝罪 清水社長「システムに脆弱性」（共同通信） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T12:34+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "512efb4ab4ec47e8",
