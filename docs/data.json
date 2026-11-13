@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T11:05+09:00",
+ "updated_at": "2026-11-13T16:10+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "1a88ff84f02b2e0b",
+   "title": "「マイル還元率が高いカード＝お得」とは限らない。年会費・移行手数料まで差し引いて比べる「マイル向けクレジットカード診断」を無料公開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000002.000194115.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社MILEX] 株式会社MILEX（本社：福岡県福岡市）は、2026年11月13日、無料Webツール「マイル向けクレジットカード診断」を公開しました。 年間の決済額、年会費の上限、カードの用途、行き先の4つの質問に答えると、データ...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-13T13:40+09:00",
+   "company": "株式会社MILEX",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "c8194ee0af5e30ed",
    "title": "AIボットのクレカ利用、対応に追われる銀行",
