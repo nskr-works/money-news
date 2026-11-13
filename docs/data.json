@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T21:35+09:00",
+ "updated_at": "2026-11-14T00:39+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -113,6 +113,19 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vaTVFcVJVV294OHBjYkZaZnIwUU9Db1NXZkRBVi1EazIySXJlR29IVVV3bVB2bzg5VmpXQjBWR01adHZnTWtpQTVFZzVLU0hORjd3cHJ0N2Y0UGRaZHR3R19scEJZZ2g3ajcwZjdKVVZlX193ZllPT0NSN0l6bE0?oc=5",
    "source": "Yahoo!ニュース",
    "summary": "銭湯ロッカー窃盗“指示役”逮捕 クレジットカードのICチップ狙いか（日テレNEWS NNN） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-13T18:04+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "9f2d152ccfcd721f",
+   "title": "銭湯ロッカー窃盗“指示役”逮捕 クレジットカードのICチップ狙いか（2026年11月13日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PSjcwRVdSYUNiSENaQUtkcnBJN0c1QTlkM3RCY0s3clpMU21CODB2Z0M0VmlKbGFtdGE4eFZoTHg1dFluV1FyUkIyZG9uSkJlc1hiSFo0NzEyZ3dzUVNYeS1wdW50ZjkxWjh6RllIcXJQTy1oWkQzZENTOHY?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "銭湯ロッカー窃盗“指示役”逮捕 クレジットカードのICチップ狙いか（2026年11月13日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
    "categories": [
     "credit"
    ],
@@ -4384,6 +4397,20 @@
    "type": "news",
    "published": "2026-11-09T00:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "679316d34b2ed7a6",
+   "title": "Apple Payの使い方をわかりやすく解説！クレジットカードのスムーズな登録方法は？",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Zb0NON1JiQXRRc1QxbEo4YlFmWDdQTWpMSDFzay1VV0IzMVAxQk5TVW9nYWdhb2xjMFhuam0zcFVTTUdyZ05J?oc=5",
+   "source": "マイベスト",
+   "summary": "Apple Payの使い方をわかりやすく解説！クレジットカードのスムーズな登録方法は？ マイベスト",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-09T00:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "945e7261f96c47b6",
