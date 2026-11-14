@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T00:39+09:00",
+ "updated_at": "2026-11-14T10:42+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,150 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "b6ae444204d2e974",
+   "title": "広島電鉄、ICOCAなど利用時の「3秒エラー」解消へ 年内に決済端末画面の表示を改良",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDX25LNTlWWUpjSDFYOFhUb3hiSGRXTWxNU0twVkdBVVZzbWE2R3NtR1lESEEwUlFpalgzb2JHTGZIeDFRV3pYUlZKSHVWZG1RbTFabEczd3ZwQQ?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "広島電鉄、ICOCAなど利用時の「3秒エラー」解消へ 年内に決済端末画面の表示を改良 中国新聞デジタル",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-14T10:16+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "3617ac498e9e9fee",
+   "title": "決済代行機能の提供開始「チャットGPTウォレット」 米国で、オープンAI",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBakdBMXBZdFE1WkZTRXdUcW9tV05XNHlDZWtwNGp4Nlh6VWZzRmxDWEI2bXFBMzZEbHA3dlBhSkUxT3pvUEtKSy1wanNtNlFrMnRXSEVlX01KLVZiX2p4MUxmZk9uM19UUWtQMm5Jdk12VE1ia3c?oc=5",
+   "source": "産経ニュース",
+   "summary": "決済代行機能の提供開始「チャットGPTウォレット」 米国で、オープンAI 産経ニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-14T08:48+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "0f058b72001bee56",
+   "title": "決済代行機能の提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iVnRBLXZMMFc1NFQyRlgyd0llYjhXRjhMbmd0UFZ2RzJkcnNVeHhmQTlFX1p6LUdIX1VCOXNXSTBBT0E4VDYwcFVIemM1cjFFV0dieDhhNHduYzhQelE?oc=5",
+   "source": "下野新聞社",
+   "summary": "決済代行機能の提供開始 下野新聞社",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-14T08:33+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "a81f7860b087d573",
+   "title": "【写真】決済代行機能の提供開始 米国で、オープンＡＩ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wWlQxODVuTDRVTnREQXJkVUo4bzNjRW1GTzRveW9hcDlmMzhyTXB5TU01Rm0wUEs4amp5VEZsS2k2NVNFYWt6YWp2QTFiVFZhQWFVQ1dMd005Sjc1YWhlS2VteHJkME8z?oc=5",
+   "source": "南日本新聞",
+   "summary": "【写真】決済代行機能の提供開始 米国で、オープンＡＩ 南日本新聞",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-14T08:25+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "971ec17c71a8118e",
+   "title": "決済代行機能の提供開始 米国で、オープンAI",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MakNtUlNTMTJHV1VENzVuME9pQnQ4T3dXY2VfZjJUcFk2NlBhX1Y4ZHMtRnNKb1BlTEhDZXhhNVlEVG03endqSGlJckxHT3pvcWRmbVN3?oc=5",
+   "source": "西日本新聞me",
+   "summary": "決済代行機能の提供開始 米国で、オープンAI 西日本新聞me",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-14T08:25+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "76a01a22da5ae26d",
+   "title": "MyJCBアプリ着せ替えに映画「アベンジャーズ／ドゥームズデイ」「侍ジャパン」「読売巨人軍」（JCB）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JTWxVU3M5cE9MSXJvZWtrajRkNmFRaWlKS21rcnd1dHFBMlNINGNlV3E5alI1VldHQXFaUWpxSTAtMFpNeGtPZ1luX2VaX0hYb0xnSVJDQS01X1E?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "MyJCBアプリ着せ替えに映画「アベンジャーズ／ドゥームズデイ」「侍ジャパン」「読売巨人軍」（JCB） ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T07:00+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "9bb69ebb363e4d1b",
+   "title": "【2026年最新】年会費無料クレジットカードおすすめランキングTOP10！永年無料の最強カードを徹底比較",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvOXlsMWtIWDFHb0JHcS1ReF9PWjh3NXZNdGlScGlyU2VVSWEyRDM2akkxd1c3YlBTRy1yMUVfMWF4Ym5sUVNlT0pUTUFjc0RDelBNMUhRUUtmU05HU01lVzAwQ1J5Q1liNTNZVTF4SWtnZXc?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】年会費無料クレジットカードおすすめランキングTOP10！永年無料の最強カードを徹底比較 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T06:55+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7092a440eab5e9fe",
+   "title": "聖教電子版からのお知らせ クレカ限定キャンペーン実施中！",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kUmdNSzgxZUxEWFdONzNCYW1rQzBnRDBDdU56QjU1UUpjUWVVcXR4aWI0SzgzT2JmRUxYWG1XX21TcG9aMUdvRGZyYzdCa202SUhjS0FBRm1xa1lsU1c3a0JlRFFVbGFnX01FamhpVTgxVUhMRFg2WA?oc=5",
+   "source": "聖教新聞",
+   "summary": "聖教電子版からのお知らせ クレカ限定キャンペーン実施中！ 聖教新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T05:14+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b3dc23669916d567",
+   "title": "藍新科技、Mastercardと提携しAI購買支援プラットフォーム 40万加盟店が代理型コマースに参入",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SbWU0YnFBTEhTN25WM05KeG5KX2RKSkJ0VHhKQUwzdTd5NVVHT0xvRzdmX1hOMTk3UEZLRnBLb3N1QzhUYnZUVTAwdmhYdXpGdDBDNm1RZEhjUmNVUlA2b19uX2tTcklvQUtiZ09ENWY1aUJz?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "藍新科技、Mastercardと提携しAI購買支援プラットフォーム 40万加盟店が代理型コマースに参入 BigGo ファイナンス",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-14T03:15+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "c06a3307e55a9bcd",
+   "title": "ChatGPTウォレットリリースなどを好感か、クレジットカード関連好調＝米国株個別",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwMXZxaFh0UUJwWHpMd1lOVjlYRklVUDAwRkc3OXl5di1obnZLbTZRbGZWRjhYdDF5SEFhOHQ4UktDTTFzeS1QYXB2SUJsekZMUlI0V1FxXzVXdkZSUUttYTdR?oc=5",
+   "source": "株探",
+   "summary": "ChatGPTウォレットリリースなどを好感か、クレジットカード関連好調＝米国株個別 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T03:13+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "bc4cf3c4dce2daee",
+   "title": "首都圏の銭湯で“窃盗被害”が多発 犯行の手口は「大量の合鍵」でクレジットカードの「ICチップ」が…背景に“中国人大規模窃盗グループ”【news23】",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zZDhzZG1xdDh3UmRycVA2Q2JsLW51QUZzMTVoNGJqYnZZaHJsSDY5UnlVM2RuenNKMTA4Z2xHTFl1dkRMX0JuM0ZZa2ZBX0FOWngtcVkzZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "首都圏の銭湯で“窃盗被害”が多発 犯行の手口は「大量の合鍵」でクレジットカードの「ICチップ」が…背景に“中国人大規模窃盗グループ”【news23】 TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T02:14+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "fce163b98f0427c2",
    "title": "$インベスコQQQトラスト (QQQ.US)$ つまり、エヌビディアは現代世界の荒坂となり、BNPL（後払い決済）も...",
@@ -319,6 +463,20 @@
    "via": "ケータイWatch"
   },
   {
+   "id": "d8ca7dcc3dbd1844",
+   "title": "【ホテルメトロポリタン】人気のコンセプトルーム Final『Suicaのペンギン ルーム ～Space Travel～ 』",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fSG1FSHdEZ0dQbk9LWkpLNnhsUHpsVk9PblZFVk9lVk1lNE02c1pNZm5oRWs3WnNIVmJjUUpRMTVwNFZlM1ZScWVCWWpIZkxBRVFuWnZXV3E1V2QwT0JDY0JjOUdjS1B1OVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【ホテルメトロポリタン】人気のコンセプトルーム Final『Suicaのペンギン ルーム ～Space Travel～ 』 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-13T12:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "日本ホテル株式会社"
+  },
+  {
    "id": "771d400d026bffdd",
    "title": "DBS PayLah!、中国1億以上の加盟店でQR決済に対応",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1QWRYQXlLREZJUy1Qdl9Fd21SY1YxVFNqOGExaXR4U2NRbVZXSTZ5WE5lQklZdnRBOGJDYWppcVp0SVhwenRxU9IBTkFVX3lxTE1yNGtmWklCd1E2SUtrYmJIYnJEeUZPaFFJLUw2MllzU2VEbnlYOTR5WkhQTkN6V1BXWVNHV2FyU2NsVjhmZzhrZERaTmdNQQ?oc=5",
@@ -455,6 +613,19 @@
    "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
+   "id": "793187d0774c722d",
+   "title": "Newline and Visa Partner to Enable Fintech Companies to Offer Visa Corporate Cards in More Than 40 Countries",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40SjJLSUhSeXZRMHNvSzFlSVh1SEcwSFBlRURYMWdRb0g2aHBlX2t2eXhNaUZfS21XMkdwcWRYVjFYT0V4aGpwcV96LTF1Z1NKTXB1cEdlZmN1N2VTTlE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "Newline and Visa Partner to Enable Fintech Companies to Offer Visa Corporate Cards in More Than 40 Countries ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-13T09:25+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
    "id": "b495e07a629867ea",
    "title": "JCB ザ・クラス会員様向けに、オンライン診療サービス「SOKUYAKU」の優待サービスを提供開始",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mLXNqa2dFQTByRmZibk1GZlFNRkZ6Nno5LTFjSk1icnZHQUZmbzMwc1FrczdHQUF5NlR5RG1vSVJrWFBURmJPLWFhZnFWcGVmaERzU2tBYkd0YTQ0elJucVZFSUg4anBpNGc?oc=5",
@@ -570,6 +741,19 @@
    "categories": [
     "code",
     "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-13T08:00+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "7d15f12043d695ca",
+   "title": "NetStars and Dandelion Strengthen Cross-Border Payment Infrastructure; to Utilize “JPQR Global” for Outbound Transactions",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tdnlLYzNrd25NQ1EzUFdfZXpKUVl1OE1fZ1c5V1g3QWYyOXR3T09qRF9oLWpoZDJnakI2bGxMMGlPNFNsQ1IzWGdJQ053cHFjc2ZCSmVCTEZ1OEdxSFE?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "NetStars and Dandelion Strengthen Cross-Border Payment Infrastructure; to Utilize “JPQR Global” for Outbound Transactions ペイメントナビ",
+   "categories": [
+    "code"
    ],
    "type": "news",
    "published": "2026-11-13T08:00+09:00",
