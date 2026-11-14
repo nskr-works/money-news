@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T20:44+09:00",
+ "updated_at": "2026-11-14T23:26+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,19 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "067f0e516d668248",
+   "title": "TISI系決済サービスYeny、電話番号など133万件が流出",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tN1hGTFByVjc4UHNIUDBhcW91T3FzeXFzQ21vMkdUQ1BscGtNb1BIbXNpNF9SQTBJdUxZNlpqb2VPVEVXdFZIVWZhcE55dDhCbjNyNUJOQjVxaGFacHBCVThzUmZmcG8ya25FRQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "TISI系決済サービスYeny、電話番号など133万件が流出 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-14T20:53+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
   {
    "id": "4dce44e4a80ce3ab",
    "title": "さや香・新山、ハワイでロレックス購入 クレジットカード2枚の限度額マックス「その月の支払い、全部滞った」",
@@ -62,6 +75,19 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiMFcxNFI0bElETnBfZ1d4ZWI5Q1M4dVozTVNJTTg0QUlHODZBNVZ3V3RJV2lUMW5fbkNmaE51TGMwRG1STERYaFV2OGx6T0hoSU8tR0lRMkozSDN1WmdF?oc=5",
    "source": "NHKニュース",
    "summary": "決済サービス手がける「Yeny」133万件漏えいか NHKニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-14T13:55+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "d1c7165386e524cf",
+   "title": "決済サービス手がける「Yeny」 最大133万件漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiMFcxNFI0bElETnBfZ1d4ZWI5Q1M4dVozTVNJTTg0QUlHODZBNVZ3V3RJV2lUMW5fbkNmaE51TGMwRG1STERYaFV2OGx6T0hoSU8tR0lRMkozSDN1WmdF?oc=5",
+   "source": "NHKニュース",
+   "summary": "決済サービス手がける「Yeny」 最大133万件漏えいか NHKニュース",
    "categories": [
     "cashless"
    ],
@@ -3449,6 +3475,20 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HUERMOUFTN0lJR2I0Zlg5NlQ1b0Y2bWtNTnFvUEpaNEd0VHlKNHRKMW5SbFR4M081ZUVxTktjWXhKSDlULXcweDBLcG9mR0NmMFhLNUE4eFNEbVdWQ2dFX1VPQXIxUWZjUnlv0gFrQVVfeXFMTUdQREw5QVM3SUlHYjRmWDk2VDVvRjZta01OcW9QSlo0R3RUeUo0dEoxblJsVHgzTzVlRXFOS2NZeEpIOVQtdzB4MEtwb2ZHQ2YwWEs1QTh4U0RtV1ZDZ0VfVU9BcjFRZmNSeW8?oc=5",
    "source": "ITmedia",
    "summary": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（2/3 ページ） - ITmedia Mobile ITmedia",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:02+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "70365b04cfd84c72",
+   "title": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（3/3 ページ） - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CNVdxS1pGNnFaZDNkenVJUTFRVHB3aUNTYm5LM2tER2ZVVU56a0Vwa3NOSFNFdGpUcmtTcXcycVY0U0kwN05rLVVWUW44bjBRakE4UmJZaWFndDhhSUpKN1gzUk9LcnNCaUpR0gFrQVVfeXFMT0I1V3FLWkY2cVpkM2R6dUlRMVFUcHdpQ1Nibksza0RHZlVVTnprRXBrc05IU0V0alRya1NxdzJxVjRTSTA3TmstVVZRbjhuMFFqQThSYllpYWd0OGFJSko3WDNST0tyc0JpSlE?oc=5",
+   "source": "ITmedia",
+   "summary": "Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（3/3 ページ） - ITmedia Mobile ITmedia",
    "categories": [
     "cashless",
     "code"
