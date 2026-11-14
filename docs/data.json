@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T10:42+09:00",
+ "updated_at": "2026-11-14T16:58+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,11 +30,50 @@
  "topics": {},
  "items": [
   {
+   "id": "f5aa58a810304e1e",
+   "title": "決済サービス手がける「Yeny」133万件漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiMFcxNFI0bElETnBfZ1d4ZWI5Q1M4dVozTVNJTTg0QUlHODZBNVZ3V3RJV2lUMW5fbkNmaE51TGMwRG1STERYaFV2OGx6T0hoSU8tR0lRMkozSDN1WmdF?oc=5",
+   "source": "NHKニュース",
+   "summary": "決済サービス手がける「Yeny」133万件漏えいか NHKニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-14T13:55+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "6a1b2c280b644418",
+   "title": "銭湯のロッカー“標的”に 合鍵作りクレカICすり替え 国際的窃盗グループ関与か",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZYV85YV9ZSDV2XzNFTlJFN2tvNWtsRDByZ1BINWZEcUJsRXljUHN3UjFRUjV3aWp2MWxNZVV2X05FWU1QemVlUUcyZllVWlU?oc=5",
+   "source": "khb東日本放送",
+   "summary": "銭湯のロッカー“標的”に 合鍵作りクレカICすり替え 国際的窃盗グループ関与か khb東日本放送",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T11:31+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "b6ae444204d2e974",
    "title": "広島電鉄、ICOCAなど利用時の「3秒エラー」解消へ 年内に決済端末画面の表示を改良",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDX25LNTlWWUpjSDFYOFhUb3hiSGRXTWxNU0twVkdBVVZzbWE2R3NtR1lESEEwUlFpalgzb2JHTGZIeDFRV3pYUlZKSHVWZG1RbTFabEczd3ZwQQ?oc=5",
    "source": "中国新聞デジタル",
    "summary": "広島電鉄、ICOCAなど利用時の「3秒エラー」解消へ 年内に決済端末画面の表示を改良 中国新聞デジタル",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-14T10:16+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "1fee366a21f8fb4a",
+   "title": "広島電鉄、ICOCAなど利用時の「3秒エラー」解消へ 年内にも決済端末の画面表示を改良",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDX25LNTlWWUpjSDFYOFhUb3hiSGRXTWxNU0twVkdBVVZzbWE2R3NtR1lESEEwUlFpalgzb2JHTGZIeDFRV3pYUlZKSHVWZG1RbTFabEczd3ZwQQ?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "広島電鉄、ICOCAなど利用時の「3秒エラー」解消へ 年内にも決済端末の画面表示を改良 中国新聞デジタル",
    "categories": [
     "psp"
    ],
@@ -161,6 +200,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "df58bc8f611698d1",
+   "title": "MashreqがTap on Phoneで非接触型決済を拡大",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dmWEJ0a2hEbzFlRWpVU0VjWjBsTzluWWRReEJTbTFXbnhRWjI1cTBrNG91ajJoVlk3OUZMLXd3TkE0UTM0eWpxNHNBeF9udzZxckYwNFVqRjdWR1NKbnJPdjF4WlZWTW50NnIybGh4NU9MTkpLM041aFJOcDFCamd1ZWZJbllmeXJSRWJlQ25NMHZoZWpFclNPN1pZX1N0dlVnTUZMYUFMSVk5THc?oc=5",
+   "source": "Mastercard",
+   "summary": "MashreqがTap on Phoneで非接触型決済を拡大 Mastercard",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T02:15+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "bc4cf3c4dce2daee",
    "title": "首都圏の銭湯で“窃盗被害”が多発 犯行の手口は「大量の合鍵」でクレジットカードの「ICチップ」が…背景に“中国人大規模窃盗グループ”【news23】",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zZDhzZG1xdDh3UmRycVA2Q2JsLW51QUZzMTVoNGJqYnZZaHJsSDY5UnlVM2RuenNKMTA4Z2xHTFl1dkRMX0JuM0ZZa2ZBX0FOWngtcVkzZw?oc=5",
@@ -172,6 +224,19 @@
    "type": "news",
    "published": "2026-11-14T02:14+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "aaf30895ce7e0681",
+   "title": "【通期決算発表】 ＧＭＯペイメントゲートウェイ：決済代行サービス、金融機関や事業者向けB…(フィスコ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3pRRmxYMGlKR2ZkUzdTdl9TbktMZ1hkckQ4MlRrTWZJWlhJZzlBTXhYM1VkZTMwWXBqTDJYbHJNNGRUVGk2OUZrOVRHZC01SlNEYWdJQVM4Nm9kYXNTbVNQaGVqQWliWmxRdHU0N1o0dEllU3hWN3JIV0dWOWsySjJEcTcySHc?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "【通期決算発表】 ＧＭＯペイメントゲートウェイ：決済代行サービス、金融機関や事業者向けB…(フィスコ) Yahoo!ファイナンス",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-13T21:01+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "fce163b98f0427c2",
@@ -197,6 +262,19 @@
    ],
    "type": "news",
    "published": "2026-11-13T19:57+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "9e0e3d21c318686f",
+   "title": "相次ぐ“クレカICすり替え”被害 銭湯での窃盗指示か",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6MXVtVHhDRHpsSm9felpfa2g1T0FKQ2VERzk5eGNjTnFkaE93c3dCOE9RdDl3eV9VR3BNY2stOXhzRDJ6bTQxY1l2VnI2M2kwNmRpb2lkQTQ5MlI4Y0kxUWhfX0ZBMmlEd0lCbm9Gd0NOZw?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "相次ぐ“クレカICすり替え”被害 銭湯での窃盗指示か テレ朝NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-13T19:55+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -288,6 +366,19 @@
    ],
    "type": "news",
    "published": "2026-11-13T17:21+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ea443744eb36bc2b",
+   "title": "「ハンゲ」で個人情報漏えい、パスワード6.2万件流出 クレカのセキュリティコードも（アスキー）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kV21RbWx2RmxkZnR5ZERxWG41cFRXNUZtYm9rVkRkd25XTGRXRmUzeWsxdHNCSTNMV3ptYkhGdjJvdVVXMnJTOUdGNWFiVjh1TkZ4SEFhamdfQTlKTnF2OWtJWXBPX0N1SWpZbkJ5SndOWnRrZHR6VzE3YXBfUTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「ハンゲ」で個人情報漏えい、パスワード6.2万件流出 クレカのセキュリティコードも（アスキー） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-13T17:20+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -2048,6 +2139,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "91106faadf36496a",
+   "title": "電子決済とキャッシュレス決済 ― 観光産業の競争力強化のためのソリューション。",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNzhkdThUMW5oU2V6WERuTllzNXBZTHI2VUVWd2trVWZ5LTdCay0wek1SOVBHaDZkaWpCREwyaHZlUlNleXlaSEQ0RlJjZDNadkt3WW1xQklicWhkTWZaZU5wcmt0cU9IalZjUjBEbzgyd3VOTThCRXNfbHFOcURDS3RESE9qNVlvdDZSSERVSEJMU2ZkbFZfcXBhbXlhaVF2Mllzd1hxMWxDODRpZGdLUlNlQlh3RkoweVVKVDZjb1JESGM2c0xvQU1TYjllVGJv?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "電子決済とキャッシュレス決済 ― 観光産業の競争力強化のためのソリューション。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T17:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "134f44652f528ad1",
    "title": "Mi&T、JPYCを使った新たな実店舗決済サービスを大阪公立大学周辺で始動",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45UmhfQUNwZU5MX1U5Ty1QR1lxWUphTUVFRXd0WDBSOUlOYjZYYl8yNVhhc05FdWtVSDB4NWtFQzNtX0lMc3B1U3BXd3lTOHE1djZlVGVFanUxY0ZPY05nYVFmdGRfUGNfRmRaRjcyd0tIUQ?oc=5",
@@ -3030,6 +3134,33 @@
    ],
    "type": "news",
    "published": "2026-11-10T17:57+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "68b27a9c51057556",
+   "title": "【2026年11月】Visaタッチ決済キャンペーン 特集｜お店や交通機関がお得になるタッチ決済 キャンペーンの特典一覧",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14Rl9HTGExRWRtc3N2S29hOFNjcFFGYjNsSmlkY216TGJFb1BWWGdyWVhodDVxbE5RckF6cU5vV0JfcFlOdHR1OGRoaTZkZW5VYkpFWUlyb3dEY1o1MXZfQ3FvWGtFM0ZxQW9YMTFmX3Nmd2dEWUM2S1J1cw?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "【2026年11月】Visaタッチ決済キャンペーン 特集｜お店や交通機関がお得になるタッチ決済 キャンペーンの特典一覧 ニュースメディアVOIX",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T17:56+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "f7f9d52e1cb175cc",
+   "title": "三井住友Visaタッチ キャンペーン 特集【2026年11月 最新】",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45ZTY0T2ZVX0VjNXpFYlBGV2FvdUhqTzBSYTdDUUNwQUxoWVdMVGppajE5X016UjRMRGg0THkwWkk1cm9wMXJQMENlWl85WmdjSVpOUXJYd1psSU5WamlpZVNlNkt5eG91UmRIVk1raE5tdlJJamFSOUNSbE8?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "三井住友Visaタッチ キャンペーン 特集【2026年11月 最新】 ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-10T17:54+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
@@ -4038,6 +4169,19 @@
    "type": "news",
    "published": "2026-11-09T16:05+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1c66cf97eb684941",
+   "title": "SCORE・DGFT・DGBT、定期通販向け決済で「ecforce」とAPI連携 後払いからカード移行を促進",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ram42N2VTWjhaQkRDZ09zb1pvanp6eE9ad3FSVFlhZEhHS1FtOGtJbmtVMmVjazFuQUtub1o3bi1felRMRWR5TjJDLWFMNWF3UHd6Mmt3?oc=5",
+   "source": "日本ネット経済新聞",
+   "summary": "SCORE・DGFT・DGBT、定期通販向け決済で「ecforce」とAPI連携 後払いからカード移行を促進 日本ネット経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-09T16:05+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "1ee4c65423c26e17",
