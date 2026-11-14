@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T16:58+09:00",
+ "updated_at": "2026-11-14T20:44+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,33 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "4dce44e4a80ce3ab",
+   "title": "さや香・新山、ハワイでロレックス購入 クレジットカード2枚の限度額マックス「その月の支払い、全部滞った」",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RVHlKVEhDa1RJUTdkb01LX0ZiSWplSFNVTHdSQ2VJRGhYVldvT2prNWx2M0hjdld3WlU0M1BIVGUtdWlTZmhXTjVfRGZGX1oybFg1cWV3?oc=5",
+   "source": "オリコンニュース",
+   "summary": "さや香・新山、ハワイでロレックス購入 クレジットカード2枚の限度額マックス「その月の支払い、全部滞った」 オリコンニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T19:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0bd605b921a38290",
+   "title": "新コード決済「teppay」デビュー 「ビックカメラSuicaカード」連携で最大35％還元も",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BN1VlX3dqRXE4Q1JvLXRyek1xMzVpM1lQNGN4QTRUWU9xejc3R1dHZVM2SDZ1REZVUlNCanhLQTVESS01U01qMWdfbXJoVTgwV0dZdmRNSUZiNVlCSTVTbWg1VDk?oc=5",
+   "source": "Excite エキサイト",
+   "summary": "新コード決済「teppay」デビュー 「ビックカメラSuicaカード」連携で最大35％還元も Excite エキサイト",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-14T19:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
   {
    "id": "f5aa58a810304e1e",
    "title": "決済サービス手がける「Yeny」133万件漏えいか",
@@ -157,6 +184,19 @@
    ],
    "type": "news",
    "published": "2026-11-14T06:55+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "155dfe7c0766d807",
+   "title": "聖教電子版からのお知らせ クレカ限定キャンペーン実施中！ あと5日！（今月18日まで）",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYZDBOOUdaa2FsQ0ItbUR2YTlyMURxV2ZxUXg5dTlVNGFzUGJZeG81dVBSTFZBZlc3ODI3azlidGxXMFJqb0cyMm9vdWtSYUpsRVlLVkNWNU1rT1hIdl9uS3dxWHdMTG0wSm0wUm16X1kyeEJRcFUzZw?oc=5",
+   "source": "聖教新聞",
+   "summary": "聖教電子版からのお知らせ クレカ限定キャンペーン実施中！ あと5日！（今月18日まで） 聖教新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T05:30+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -1447,6 +1487,19 @@
    "via": "日本経済新聞（Googleニュース経由）"
   },
   {
+   "id": "0a3d76f41510b89b",
+   "title": "スクロール（8005）、物流代行・決済代行がけん引し上期増収増益 ソリューション事業の収益力強化でさらなる成長を目指す",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yU0hBNFFRNEFudjBOd0l2bGJPc001TkpPN09iVG01MmJXcjNjM3RjeWNZWElHTWNiaVpnRnNrWUpXUGg3WkUyQU1qaUxscUNLLVE?oc=5",
+   "source": "ログミーFinance",
+   "summary": "スクロール（8005）、物流代行・決済代行がけん引し上期増収増益 ソリューション事業の収益力強化でさらなる成長を目指す ログミーFinance",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-12T15:30+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
    "id": "b4920b51c8d399f0",
    "title": "良品計画の清水智社長ら謝罪 削除すべきクレジットカード番号109万件をマスキングせず放置",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zZHpQWWhmcHlKRkVxYjliZUVqMzk4Z1ZYMGFueXQtWUw3WDBPbDdYZXNFa3RWemhIYzVrd3YtNXRMajl6ZFN3RlFBZDV2QXFmelBJLVVtdWVNV3dpLXRORHFfanFaMU9waTBoMkN6ckhRcmZvQXY1Y09YVGgzR0U?oc=5",
@@ -2150,6 +2203,19 @@
    "type": "news",
    "published": "2026-11-11T17:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "d12f12967cba71d8",
+   "title": "暗号資産決済サービス「Slash（スラッシュ）」とは？ —— 佐藤伸介インタビュー",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBZG9pOTNwNFhhczEwdzNaeXRtc3BhR2lTWFR0NzZkOTJHeVNnOERGakFMaVZCU05GZnBrcFl4cHNQUm4tTDloSVRLenpWMzhWZkdGQXZxQ1ZjSE5YOXpRYWZqZkowWlNsQ1BSOUtnVUVIMG1WanNScTdqOA?oc=5",
+   "source": "Iolite（アイオライト）",
+   "summary": "暗号資産決済サービス「Slash（スラッシュ）」とは？ —— 佐藤伸介インタビュー Iolite（アイオライト）",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T17:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "134f44652f528ad1",
