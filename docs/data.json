@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T23:26+09:00",
+ "updated_at": "2026-11-15T10:15+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,59 @@
  "topics": {},
  "items": [
   {
+   "id": "96129e5932b6a568",
+   "title": "連邦準備制度は,決済サービスに対する新しい価格を発表した.",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1VDNXpxQWRQbEtWTFA4SUY1TzUzb1BoaHdzRUszb2dIYUVXMnFZVWx5TFdEQVRuV2RaT1REMDlOaXUxWDZoSS1nek9hTkdZOENURGlYNi1KdTZOYlFTT0xuTEpMb3dHbXQ2cGhKNlNvaG1sRHA4S1g1OGh2UUR0Y0gwN2N0Q3BNUFN2TWVBelVkeTQ?oc=5",
+   "source": "Coinfomania",
+   "summary": "連邦準備制度は,決済サービスに対する新しい価格を発表した. Coinfomania",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-15T07:10+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "0d303a0a40266e79",
+   "title": "期限切れのクレジットカードの処分は「半分に切る」だけでは足りない。大手カード会社3社が「細かく切る」ことを求めるワケ",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aT1VTZDg0S1ozdTJTVURWWEZJY18tT2w3b2tfc3BzTkQtNmlfYkcyN2U3aERzV1F1YTZtMUprbUtMNHFLNmV0aFpYUlI?oc=5",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "summary": "期限切れのクレジットカードの処分は「半分に切る」だけでは足りない。大手カード会社3社が「細かく切る」ことを求めるワケ LIMO | くらしとお金の経済メディア",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-15T06:17+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "616019584d2c7396",
+   "title": "クレカ各社のポイント優遇競争。三菱UFJカードの7％還元、アメックスも36ブランドへ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhbTZNc19mNk1KZEFFemFsR0FNN0Q1ZWdUdHZOTEdxd19HZVc0TktXamd5NElSVTFCOF8zdjdjNF9RbGo4Ny1tVnZDclZiVjQzdUJMaFlNMVNWdGVhQ19qdFNhUVF4Zw?oc=5",
+   "source": "健美家",
+   "summary": "クレカ各社のポイント優遇競争。三菱UFJカードの7％還元、アメックスも36ブランドへ 健美家",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-15T06:08+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5c5f0a4cbc3e6321",
+   "title": "【PayPay改悪】QRコード決済は結局こうなります。だから僕はあれほど言ったのに…【 切り抜き 銀行 Kirinuki きりぬき Hiroyuki クレジットカード 利用停止 手数料 不正利用 】 Grace Raccah (s5VxJ8A9aX)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3J4UEtBNGhfUDZSSTQ0UGVvQ0JQVjZ1ellMVWpXb0E5bHpXSzFBNEkwS0sxRm5jdmhwUDBqYmxfeF9Ra3pIN1NaaHFMS0JDLTV6Sk5iY1pnNnZIQnZmNXBGbUZFRjBaWnoyZ25pODR3aXAzdVoyb3pqdjFSSEN1WGs4SnJoblU?oc=5",
+   "source": "Unisba Media",
+   "summary": "【PayPay改悪】QRコード決済は結局こうなります。だから僕はあれほど言ったのに…【 切り抜き 銀行 Kirinuki きりぬき Hiroyuki クレジットカード 利用停止 手数料 不正利用 】 Grace Raccah (s5VxJ8A9aX) Unisba Media",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-15T06:08+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "067f0e516d668248",
    "title": "TISI系決済サービスYeny、電話番号など133万件が流出",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tN1hGTFByVjc4UHNIUDBhcW91T3FzeXFzQ21vMkdUQ1BscGtNb1BIbXNpNF9SQTBJdUxZNlpqb2VPVEVXdFZIVWZhcE55dDhCbjNyNUJOQjVxaGFacHBCVThzUmZmcG8ya25FRQ?oc=5",
@@ -54,6 +107,19 @@
    "type": "news",
    "published": "2026-11-14T19:10+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "36ee68a4df86ea60",
+   "title": "【USJでポイ活】子ども入場無料＋食事半額の神パスが爆誕！「Olive」タッチ決済で最大10.5％還元を叩き出す裏ワザ",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5BaEh0Q0dfNlBOWUhTX3NMcUszXzZVYWljUlhGOFlBcDVxRUZXQnlJRVAwUk1QUHQ2Ni1QekFDa3dUb293?oc=5",
+   "source": "@DIME アットダイム",
+   "summary": "【USJでポイ活】子ども入場無料＋食事半額の神パスが爆誕！「Olive」タッチ決済で最大10.5％還元を叩き出す裏ワザ @DIME アットダイム",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-14T19:02+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "0bd605b921a38290",
@@ -1348,6 +1414,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "ad67bda2edc190b4",
+   "title": "現地で検証！イスタンブールの公共交通機関のクレジットカード事情「DX Namamono information」第38便 イスタンブール市内編",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqQ1diZTYwaGozNDI3OHVJcVBPdGZKWFhpclM3N1o3WkpzeUtiRTVtN3hLSF9qaFgzTXFEc0hwWl9fUGtFdm5RZFlSY3VkOXR4U2MxcEN0VzJCUGw2Ty1mQ0sxWDI?oc=5",
+   "source": "ウイングアーク１ｓｔ",
+   "summary": "現地で検証！イスタンブールの公共交通機関のクレジットカード事情「DX Namamono information」第38便 イスタンブール市内編 ウイングアーク１ｓｔ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "117faaf0ab30d2b2",
    "title": "ネットスターズ、三井住友カードの決済端末「stera terminal light」のQRコード決済ゲートウェイとして採用（PR TIMES）",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4S2swVXBacWllRmNqc25zcmlkU3p5c3p3Mk92cWdhNEpvMHZseU85ZllzZkVRdEZLbnl0bUlqLWlVMHlfek93UnJPZmNtNDVQdGlhNm02Mnphbm9MalVNaHFRMEctLVB0?oc=5",
@@ -2242,6 +2321,19 @@
    "type": "news",
    "published": "2026-11-11T17:00+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "8648c0b22189802a",
+   "title": "【anan総研】決済方法便利なキャッシュレス、安心の現金。みんなの決済方法はどっち？",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Zl9Mb0lCclRYUEljdFUxcjhHNDBTaWhzZV84dEJwanc2X3pMa0VTaFQzT1c0bXFEVTZfaEpWVG5wRlVXcTFEcmplS0xpOGdNSG1YWjJHMHhEdw?oc=5",
+   "source": "anan",
+   "summary": "【anan総研】決済方法便利なキャッシュレス、安心の現金。みんなの決済方法はどっち？ anan",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-11T17:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "134f44652f528ad1",
