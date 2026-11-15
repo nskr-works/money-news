@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T10:15+09:00",
+ "updated_at": "2026-11-15T17:24+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,46 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "4a299520a88024fd",
+   "title": "【先着100台限定】阿蘇くまもと空港からドライブ旅へ！菊池市内に泊まって「LINE金券5,000円分」がもらえるお得な秋・冬キャンペーン",
+   "link": "https://prtimes.jp/main/html/rd/p/000000005.000185132.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[一般社団法人 菊池観光協会] 一般社団法人 菊池観光協会では、阿蘇くまもと空港を利用して菊池市内にご宿泊される方を対象に、市内の加盟店で使える「LINE金券5,000円分」をプレゼントする『空港からレンタカーで行く、菊池市お得キャンペー...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-15T16:40+09:00",
+   "company": "一般社団法人　菊池観光協会",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "c8bab5eb5b971464",
+   "title": "｢JCBゴールド｣｢JCBプラチナ｣の券面デザイン｢枯山水｣が“枚数限定”で復刻！ 金属のような質感の限定デザインのカードを手に入れたい人は、早めに申し込もう！",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tUHJrN3lCVWdOX3FZTHR1Mms4UUlfVHRtUkF4QTBCUG02NWIzMmh6eFRuMXZfSW1EMDA2c09hdEsxdGpBR2duRkNjYTFuUG1MNkc4?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "｢JCBゴールド｣｢JCBプラチナ｣の券面デザイン｢枯山水｣が“枚数限定”で復刻！ 金属のような質感の限定デザインのカードを手に入れたい人は、早めに申し込もう！ ダイヤモンド・オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-15T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "fa1b718050c34d2f",
+   "title": "東大生協電子マネーで不正アクセス 15日15時までサービス停止 現時点で情報漏洩は確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVejdMdG9CaFZrQXlxUnU1UzVFSG8wb2dXRGdlWXhXOW5HOW9VNWZCNGxrRGpES3NmRDhzMjcwVlpibUxWQmYzRUpOZkVZTEZNQTd0Ty1WdTJVUV9mb2J0bktiRUY?oc=5",
+   "source": "東大新聞オンライン",
+   "summary": "東大生協電子マネーで不正アクセス 15日15時までサービス停止 現時点で情報漏洩は確認されず 東大新聞オンライン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-15T10:56+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
   {
    "id": "96129e5932b6a568",
    "title": "連邦準備制度は,決済サービスに対する新しい価格を発表した.",
@@ -134,6 +174,19 @@
    "type": "news",
    "published": "2026-11-14T19:00+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "bdf598c9942aace5",
+   "title": "【県内9店舗でも】「ラ・ムー」で11月30日からクレジットカードが使えるように",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEQzhSZ2JJeVNvYzg1VUFCcGg3eFBnUDBLaWx4c2J3WnJPRkUzVW8xN0lGQXdhWVNCUmdubmNmOXJadG5Q?oc=5",
+   "source": "にいがた経済新聞",
+   "summary": "【県内9店舗でも】「ラ・ムー」で11月30日からクレジットカードが使えるように にいがた経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T16:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "f5aa58a810304e1e",
