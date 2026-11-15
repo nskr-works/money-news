@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T17:24+09:00",
+ "updated_at": "2026-11-15T21:14+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,32 @@
  "topics": {},
  "items": [
   {
+   "id": "c23e1ba1e177a9ed",
+   "title": "クレジットカードの利用額が多い県は？20年前と今の使用実態を調査した結果",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1odm5UOURlOWxMcUdOb0JhV3VhbXNsb2V2UkVEYVFuSGpoZS1zUThaSGRYMW9CcDVtMFJuVHpsbHhtYVg1?oc=5",
+   "source": "@DIME アットダイム",
+   "summary": "クレジットカードの利用額が多い県は？20年前と今の使用実態を調査した結果 @DIME アットダイム",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-15T18:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "dc5950d156921c79",
+   "title": "『呪術廻戦 ファントムパレード』公式WEBショップ、後払い「atone」に対応",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fODdCUnpMd0F4UkJsNlM1cW1LRUc2UDY1bnJQQm5uZzhlMDVhVkdmaGpJZ19EX0tsTWVFLVlDdFZqcDRmc2FnS3hSOWdLdw?oc=5",
+   "source": "ポイ探ニュース",
+   "summary": "『呪術廻戦 ファントムパレード』公式WEBショップ、後払い「atone」に対応 ポイ探ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-15T18:09+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
    "id": "4a299520a88024fd",
    "title": "【先着100台限定】阿蘇くまもと空港からドライブ旅へ！菊池市内に泊まって「LINE金券5,000円分」がもらえるお得な秋・冬キャンペーン",
    "link": "https://prtimes.jp/main/html/rd/p/000000005.000185132.html",
@@ -42,6 +68,32 @@
    "published": "2026-11-15T16:40+09:00",
    "company": "一般社団法人　菊池観光協会",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "27f2b679225da8ca",
+   "title": "【電子マネーWAON】10月21日にApple Payに対応開始！ Bill Bailey (nw9fDk98dz)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbS1jNmQyTWRGQnVMdnVJaEp0QmxNZk1XTDNLMHZfNWdBckU0am1jdjk2d0RHcW54eEJ6UzU4Ny1vMVFxcTk0RURlSU5HOVpKZHJhd0FjOEhxMHVOVDdqUWVZdVp0NWxZdWFOZm55QjVqaGVNYjVRQ3djN0t0SGx4bHVTTQ?oc=5",
+   "source": "Unisba Media",
+   "summary": "【電子マネーWAON】10月21日にApple Payに対応開始！ Bill Bailey (nw9fDk98dz) Unisba Media",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-15T11:08+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "1cac87819be0b675",
+   "title": "Sonyの新特許、PlayStationコントローラーを「NFC決済端末」化へ。スマホをかざすだけで決済やログインが可能に",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmRxVEJlRVhBamhYdUdVSFFkbUE4ZHpXeEROaEhQaDMtSjBkTzZNelFLTmJ4Vi01VFRSck1JZXlyckw1Z1dKOVdQb0JWWmQyMDI1UnhqTHg4QmZBTnIwNXRuQkotb3lHVk1vVFl5MXFfMVNSSkZjZFNDXzVBcWt2aTFn?oc=5",
+   "source": "Mashdigi",
+   "summary": "Sonyの新特許、PlayStationコントローラーを「NFC決済端末」化へ。スマホをかざすだけで決済やログインが可能に Mashdigi",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-15T11:07+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "c8bab5eb5b971464",
@@ -411,6 +463,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "2d7c0b97fea0e223",
+   "title": "クレジットカードをAIに預ける勇気はあるか？OpenAIが「ChatGPT Wallet」を正式発表、AIエージェントによるネット通販決済の「最後の1マイル」を解消へ",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XRHBCdXlpcjVHU2F2UnB5TG5GUExuc2hoXzdPSTRQRE1GSk95VG5fcE02TENBcDJsT2dObXNZNW12Y2RMZFFiS21pSzVqdThQTXpCWVpyNDNrUElCV3dqOU9idmVHWVk4ZFpZQnlLbHRsV1pMRlJUMXFaeXZEZw?oc=5",
+   "source": "Mashdigi",
+   "summary": "クレジットカードをAIに預ける勇気はあるか？OpenAIが「ChatGPT Wallet」を正式発表、AIエージェントによるネット通販決済の「最後の1マイル」を解消へ Mashdigi",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-14T02:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "aaf30895ce7e0681",
    "title": "【通期決算発表】 ＧＭＯペイメントゲートウェイ：決済代行サービス、金融機関や事業者向けB…(フィスコ)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3pRRmxYMGlKR2ZkUzdTdl9TbktMZ1hkckQ4MlRrTWZJWlhJZzlBTXhYM1VkZTMwWXBqTDJYbHJNNGRUVGk2OUZrOVRHZC01SlNEYWdJQVM4Nm9kYXNTbVNQaGVqQWliWmxRdHU0N1o0dEllU3hWN3JIV0dWOWsySjJEcTcySHc?oc=5",
@@ -591,6 +656,19 @@
    "type": "news",
    "published": "2026-11-13T17:09+09:00",
    "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "2082bdb60b9b89a6",
+   "title": "後払いアプリの最新おすすめ21選！審査なしでも利用できるバーチャルカードを紹介",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vMlIydW9PTzJkZTFCNUNYWVhYeVBHbmM0dk9xdnQzM19uWWc3VW8zVll1eW41azFmVEI2azZ1LTFPX1oyTFd1c1VtSUpuSEdRbWt1NGRYcURUYVIxbC1KeWF0ZDFubVl4aXJZZXRGbmNlRUJoMm5oc2pPc2U?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "後払いアプリの最新おすすめ21選！審査なしでも利用できるバーチャルカードを紹介 ペイメントナビ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-13T17:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "6cb46d7e8093ef44",
@@ -1472,6 +1550,19 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqQ1diZTYwaGozNDI3OHVJcVBPdGZKWFhpclM3N1o3WkpzeUtiRTVtN3hLSF9qaFgzTXFEc0hwWl9fUGtFdm5RZFlSY3VkOXR4U2MxcEN0VzJCUGw2Ty1mQ0sxWDI?oc=5",
    "source": "ウイングアーク１ｓｔ",
    "summary": "現地で検証！イスタンブールの公共交通機関のクレジットカード事情「DX Namamono information」第38便 イスタンブール市内編 ウイングアーク１ｓｔ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2f3bc50dd60e6ffa",
+   "title": "【2026年最新】クレジットカード最強の2枚は50代でどう選ぶ？おすすめ組み合わせ11選",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CeU53emtXSEFjUktXQmFDeVlLd1gxWnVNZXg3eGNtTlJnUmdSYmZjUW5VYVE3M2J4c2owczNZaUh3R0NIYjAwLThBVml3cWt2Ylp5bmNmNThsQUhjNml3bS1ybTliNU9GOG8zOUlUM1B0UQ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】クレジットカード最強の2枚は50代でどう選ぶ？おすすめ組み合わせ11選 新日本保険新聞社",
    "categories": [
     "credit"
    ],
