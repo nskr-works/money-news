@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T19:07+09:00",
+ "updated_at": "2026-11-16T22:06+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,58 @@
  "topics": {},
  "items": [
   {
+   "id": "2f9bf1760b670a5c",
+   "title": "ChatGPT、ユーザーのクレカでお買い物をしてくれるようになったけど…、大丈夫？",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBud3pDdzg5bEw5Q0Q2bURsZ241a2xqOWE1VGlnU3dsVHcwejF6OWE3M1o4emxHUGxRUGJTbExqaDQtWm5LdU8yMHlVWjRacmVOZTloUkJHMm5tNGIzbHFoeXhQVUM0YUtpSG9jQmJrdVVlS2hf?oc=5",
+   "source": "Gizmodo",
+   "summary": "ChatGPT、ユーザーのクレカでお買い物をしてくれるようになったけど…、大丈夫？ Gizmodo",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-16T21:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5a899d3184a75dd1",
+   "title": "電子マネー「パソコン修理のため購入指示された」 詐欺被害防ぐ 佐伯署、ファミマ店員2人に感謝状",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lMmR2b2lpanhRUXhENVQycDA3eVhGMDhmVHFlTUdDM0RNWC1zTldzaXpiOWxjSUtFM1dZVm9uV3FabVNPY3ZfN0ZSa3BTZWhaeDh4bzVDVE9EUQ?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "電子マネー「パソコン修理のため購入指示された」 詐欺被害防ぐ 佐伯署、ファミマ店員2人に感謝状 中国新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-16T21:08+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "77886e24f4a736eb",
+   "title": "「オカムラ食品工業」10月まで運営のオンラインショップのメールマガジンに登録されていた客のアドレス8197件が流出と発表 流出はメールアドレスのみ パスワードやクレジットカード情報などは含まれていないということ（ＡＴＶ青森テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWUlGdUpxaThLYWp5U0I2MER2NEQ5elRieEs3UkhCRWNMZDFVNXdTcm5hdjhmSFBKRXZlZFNRZ1VidTVLTDNiMkx0Mk9Ib1N4a1NBTmJQWVcwY2dGTFY0ZDFfSHQzZHRlaV9wNW90a0F4akNYSzBFUWV0d2ZPRWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「オカムラ食品工業」10月まで運営のオンラインショップのメールマガジンに登録されていた客のアドレス8197件が流出と発表 流出はメールアドレスのみ パスワードやクレジットカード情報などは含まれていないということ（ＡＴＶ青森テレビ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-16T21:02+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "209a8d8490f1f0f0",
+   "title": "2026年11月16日（月）よりスタート！「2,000万円相当のVポイント山分け！！Vクーポンを獲得+スマホのVisa",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GWU1vRjBQaVBpMXlSeV9FZzJGeWlTVWgyWHVBOU9fVmxkUmo4cFp4bXpLRDlkNDZwekZVdm9OeWdIZDhYVjY4NXgteENyWEtFUnhMdHhxTWZBSXJqUGtnVVBXMUFkdHVwc1JtZWRoLU9uWkkwd2txeDN2NA?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "2026年11月16日（月）よりスタート！「2,000万円相当のVポイント山分け！！Vクーポンを獲得+スマホのVisa ニコニコニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-16T18:45+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "90f2b4dbdefb37cb",
    "title": "関根明良、『貸した魔力は【リボ払い】で強制徴収』での衝撃の演技指導を告白！鈴木愛奈、『FX戦士くるみちゃん』の過酷なアフレコ秘話を明かす｜ABEMA『SHIBUYA ANIME BASE』#106",
    "link": "https://prtimes.jp/main/html/rd/p/000004259.000064643.html",
@@ -41,8 +93,47 @@
    "type": "release",
    "published": "2026-11-16T18:40+09:00",
    "company": "ABEMA",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "0c4dc6e86e3c560c",
+   "title": "ディズニープラスの支払い方法は？使えるカード・PayPay・キャリア決済と変更手順",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBScUp3YUJpTDlndGRnZy1fMUdtcDA5dWlMVTY1MVNVM0pteVdpcDRCQXdvYjR5NzNqYS1iczlNdmlOVWZhMU5qbGQ5ek1iUjFjU2d0V2VFa2hScWJO?oc=5",
+   "source": "株式会社ピクセラ",
+   "summary": "ディズニープラスの支払い方法は？使えるカード・PayPay・キャリア決済と変更手順 株式会社ピクセラ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-16T18:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "705a4369021f0283",
+   "title": "【三井住友カード】Vクーポン獲得＋スマホのVisaタッチ決済利用で2000万円相当のVポイント山分けキャンペーン - 2027年1月15日まで",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtOUw5dGNueExiSXBZVmRBYmdEWV9CMDVQYS1rS2FfckNkT0d5MVRwZXpCZ1VYenB5X2NycktwNDVFZ29iVlFPX3l1NUtMMlp3UEJmc3dYR2pxWmVW?oc=5",
+   "source": "マイナビニュース",
+   "summary": "【三井住友カード】Vクーポン獲得＋スマホのVisaタッチ決済利用で2000万円相当のVポイント山分けキャンペーン - 2027年1月15日まで マイナビニュース",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-16T18:08+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "07cb42ad09ef52f1",
+   "title": "ChatGPTのチャット内でクレカ決済できる「ChatGPT Wallet」が登場",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxYWpzZnRfdmIyOFZOVmRLRktxdV85a2p6eUtJS1llUFhORkxrOVJuSmFqYU9DQnJFZlF5Y2VxTVV2cTF0SUxpVWJmSFc5ZXFWWGFpaHFad2EzdW9DcFE0?oc=5",
+   "source": "GIGAZINE",
+   "summary": "ChatGPTのチャット内でクレカ決済できる「ChatGPT Wallet」が登場 GIGAZINE",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-16T17:49+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "bdfa9b0c6ed2ff99",
@@ -56,6 +147,19 @@
    "type": "news",
    "published": "2026-11-16T17:24+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "348c57575c13ed39",
+   "title": "試合会場グッズ売場「完全キャッシュレス」運用開始のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1Q1QyVGhmWUhoc25WMUczY2x0bzhvYlBGeXQtWV9Id1lpNy11cXhiSHBXMmVYT2QwVVRRMnZ1THVaZ0xDc3hyNHNNT0VIYWtXbUVTMVRn?oc=5",
+   "source": "大阪エヴェッサ",
+   "summary": "試合会場グッズ売場「完全キャッシュレス」運用開始のお知らせ 大阪エヴェッサ",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-16T16:26+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "194ba1957bc7a645",
@@ -554,6 +658,20 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "ea45438388405114",
+   "title": "PayPay銀行はスマホ決済PayPayと相性最強！カードレスATMや出金手数料無料など充実したサービスが満載のネット銀行です Fire Near Me (0apf8L763A)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUJQQ1VXdDhZeDczN1hvQXdIcG5YX3g3dDZPNWdtZjlkLVNYenZSNDFxaV80b29yXzd0U1NBanFhbXpzN3BvUi1mMWx6enZVMVBnLUF2dTd3M1JKQ1BPcDBDSlMyM2NEenMweFV3SjV6dFVJdDU5YWNVNnJVUVNCeGxYaw?oc=5",
+   "source": "Unisba Media",
+   "summary": "PayPay銀行はスマホ決済PayPayと相性最強！カードレスATMや出金手数料無料など充実したサービスが満載のネット銀行です Fire Near Me (0apf8L763A) Unisba Media",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-16T05:40+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "3c0f5fdb0129e044",
    "title": "伝統的な市場の小規模商人は、キャッシュレス決済に慣れつつある。",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWxXdURlTEFFdXAtWTdtTFdXM2JfWUkyaUxENXhNdjZiNWVueFV0cGlzaUNDY1FIVDQycDNVRnBOZ0luUUdVZ3kxeUNINXo3ZkZjdDVUMXFwQjZCMzJlRUxIU01fWExfTktrbENoRzNvWkZSd2JGR1J4dkVacU53VHl6aEV6OTZzRDEzYUpxVWRUYnlEUnlPaQ?oc=5",
@@ -802,6 +920,19 @@
    "type": "news",
    "published": "2026-11-14T16:10+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b9178bf9c904e078",
+   "title": "簡易決済拡大でApple Payの地位後退",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHctTlBCbXJNeERESGhWbmxDTXh5QjU2NkRWX2x5TjM2NThsV3ZPMUt2ajlNLXdZYjZWYVpvSjNVTEZjYnEyTlc4ckd6NGhQS1lqaFVnWldWTk95WF9MaTJQZk54UlZWSTdMdjhDOWRxUEVFY1FsdFMtVzFaLTZKSNIBlAFBVV95cUxORHhjb09mZ2pzNjVNY2pZeWhPRzdzVXdoRnZjRFM5WkZzbFpzdlJ6QlBRN1pRRHhscE90MFN0cmpMVjVKcFpJdGdUalllWFVjbV9JZXRpaVVIVTExbnhvTHBIT0NsYzNPUnhZNnlidVNtbm96ZTJ4X1BUaGdLYUFXQVZoMkNyNkJIUG91RTYxblZlVUNW?oc=5",
+   "source": "Chosunbiz",
+   "summary": "簡易決済拡大でApple Payの地位後退 Chosunbiz",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-14T15:59+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "f5aa58a810304e1e",
@@ -39952,138 +40083,6 @@
    ],
    "type": "news",
    "published": "2026-09-24T18:27+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "4b724de2e622cff9",
-   "title": "au PAY マーケット、AIで違反出品の検知効率600％向上 ユーザー通報は43％減",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2142849.html",
-   "source": "ケータイWatch",
-   "summary": "auコマース＆ライフは、総合ショッピングサイト「au PAY マーケット」における2026年上半期の「安心・安全への取り組みレポート」を公開した。AIによる出品審査などを進め、違反出品の検知効率を600％高めたほか、商品に関するユーザーからの通報件数を43％削減したという。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-24T16:09+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "54a5bae5d83c145a",
-   "title": "PayPay銀行、普通預金が最大年0.8％相当に 11月から",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2142779.html",
-   "source": "ケータイWatch",
-   "summary": "PayPay銀行は、円普通預金「ステップアップ円預金」の金利を11月1日に引き上げる。普通預金金利は最大年0.7％となり、PayPayユーザー向けの年0.1％分のPayPayポイントとあわせて、最大年0.8％相当となる。いずれも税引前。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-24T13:36+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "ddbf156aa21bf956",
-   "title": "スマホは「アプリ中心」から「エージェント中心」へ。スマホの頭脳支えるクアルコムがGoogleやMastercardと見据えるAIの進化",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2142630.html",
-   "source": "ケータイWatch",
-   "summary": "「AIスマートフォンとはいったいどういうものか、明確に見える段階になった。スマホはこれからも残り続ける。SnapdragonはAIエージェント時代のプラットフォームになる」",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-23T07:40+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "957fe7f154a1bd05",
-   "title": "韓国でVポイント最大20％還元、三井住友カードが新プラン",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2141917.html",
-   "source": "ケータイWatch",
-   "summary": "三井住友カードは、Visaブランドの対象カード会員向けに「韓国まるトクプラン」の提供を開始した。韓国国内でのカード利用で、最大20％のVポイントが還元される。利用にはエントリーが必要。",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-22T08:00+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "798c0c5e021fc085",
-   "title": "「楽天ペイ」9月のキャンペーンまとめ――すき家やガスト、コーナンなど",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2140742.html",
-   "source": "ケータイWatch",
-   "summary": "さまざまな場所で利用でき、すぐに決済できるキャッシュレス決済サービス。本稿では、楽天ペイや楽天ポイントカードに関する9月のキャンペーン情報をピックアップしてご紹介する。キャンペーンで進呈されるポイントは楽天ポイント。",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-22T00:00+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "9fb75c9cb635b8ca",
-   "title": "ホークス優勝、ソフトバンクG各社で記念キャンペーン開始",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2142208.html",
-   "source": "ケータイWatch",
-   "summary": "17日、福岡ソフトバンクホークスがパシフィック・リーグ優勝を果たした。ソフトバンク、PayPay、LINEヤフー、SB C&S、PayPay銀行はこれを記念し、「ソフトバンクホークス 優勝キャンペーン」を順次開始した。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-18T15:39+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "a74c268fa66ef895",
-   "title": "「d払い」で最大25％還元、10月は宮古島市や富山の商店街など",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2141687.html",
-   "source": "ケータイWatch",
-   "summary": "NTTドコモは、10月から自治体や商店街で実施する「d払い」のキャンペーンを発表した。沖縄県宮古島市では支払額の25％、富山県の商店街などでは20％のdポイントが進呈される。いずれもエントリーは不要。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-17T12:01+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "0596817684cd7b1d",
-   "title": "「PayPay」で最大20％還元、11月は野田村・大泉町・枚方市など",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2141524.html",
-   "source": "ケータイWatch",
-   "summary": "PayPayは15日、地方自治体と連携するキャンペーンなどで、11月以降に始まる施策を発表した。岩手県野田村、群馬県大泉町、大阪府枚方市でPayPayポイントを還元するキャンペーンが実施されるほか、秋田県潟上市と愛知県豊田市ではPayPayクーポンが活用される。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-17T00:00+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "18fea6cacb9e3419",
-   "title": "楽天カードがAndroidのタッチ決済刷新、楽天ペイでは終了",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2141387.html",
-   "source": "ケータイWatch",
-   "summary": "楽天カードは、Androidスマートフォン向けの「タッチ決済」を新方式「ウォレット決済サービス」へ移行すると発表した。現行の「楽天ペイ」アプリによるタッチ決済機能は、2027年1月中旬～2月中旬頃にサービスを終了する。",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-16T13:53+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "bbee0db0c8225104",
-   "title": "PayPay証券、米SBエナジーのIPO株式を販売 条件達成で1万円分の購入権",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2141002.html",
-   "source": "ケータイWatch",
-   "summary": "PayPay証券は15日、米国市場への上場を予定しているSBエナジーのIPO（新規上場）株式について、国内での販売を実施すると発表した。上場時期は2026年9月～2027年2月の間が見込まれる。IPO抽選の申込受付期間などは現時点で未定。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-15T15:22+09:00",
    "via": "ケータイWatch"
   }
  ]
