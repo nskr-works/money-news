@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T02:21+09:00",
+ "updated_at": "2026-11-17T05:39+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "922ff9c567062796",
+   "title": "Stripe、OpenRouter の買収を完了：AI 活用における収益とコストの最適化を支援",
+   "link": "https://prtimes.jp/main/html/rd/p/000000142.000077879.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ストライプジャパン株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/77879/142/77879-142-f3677318805e290111e974cbaca9c204-2048x1024.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-17T02:40+09:00",
+   "company": "ストライプジャパン株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "be8276159cf8623c",
    "title": "Binance、ビットコインを売らずに使える「後払い決済」…アルゼンチン・メキシコで初展開",
@@ -40069,19 +40084,6 @@
    ],
    "type": "news",
    "published": "2026-09-26T06:00+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "8dece8ae4a9e5b14",
-   "title": "KDDIが「SMS共通番号」の利用を開始、10月6日から",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2143261.html",
-   "source": "ケータイWatch",
-   "summary": "KDDIと沖縄セルラーは、2026年10月6日から「au PAY（auかんたん決済）」、10月14日から「au ID」などの二段階認証でSMS送信元を「00055000」に変更し集約する。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-25T13:47+09:00",
    "via": "ケータイWatch"
   }
  ]
