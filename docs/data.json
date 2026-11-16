@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T17:32+09:00",
+ "updated_at": "2026-11-16T19:07+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "90f2b4dbdefb37cb",
+   "title": "関根明良、『貸した魔力は【リボ払い】で強制徴収』での衝撃の演技指導を告白！鈴木愛奈、『FX戦士くるみちゃん』の過酷なアフレコ秘話を明かす｜ABEMA『SHIBUYA ANIME BASE』#106",
+   "link": "https://prtimes.jp/main/html/rd/p/000004259.000064643.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ABEMA] [画像1: https://prcdn.freetls.fastly.net/release_image/64643/4259/64643-4259-668b071bc941647a36b3329abbca6cb7-1500x1125.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-16T18:40+09:00",
+   "company": "ABEMA",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "bdfa9b0c6ed2ff99",
    "title": "「虫退治.com」で不正アクセス クレカ番号・セキュリティコードなど漏えいの可能性",
@@ -40069,19 +40084,6 @@
    ],
    "type": "news",
    "published": "2026-09-15T15:22+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "ca433730f09406ee",
-   "title": "JCB、クレカ乗車で最大5000円キャッシュバック 抽選で1000人",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2140989.html",
-   "source": "ケータイWatch",
-   "summary": "ジェーシービー（JCB）は、「JCBのクレカ乗車で公共交通機関に乗ろう！キャッシュバックキャンペーン」を9月16日～12月15日に実施する。",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-15T13:44+09:00",
    "via": "ケータイWatch"
   }
  ]
