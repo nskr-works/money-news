@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T13:09+09:00",
+ "updated_at": "2026-11-17T13:44+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -138,6 +138,21 @@
    "company": "PF"
   },
   {
+   "id": "6f5e057d950a4486",
+   "title": "創立50周年を迎えたサンセイランディックが、子どもたちに笑顔を届ける活動を応援",
+   "link": "https://prtimes.jp/main/html/rd/p/000000058.000104546.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社サンセイランディック] 株式会社サンセイランディック（本社：東京都千代田区、代表取締役：松崎隆司、以下、当社）は、2026年11月6日より上野恩賜公園で開催されている「東京クリスマスアドベント Sponsored by au PAY」に協賛いたしま...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-17T10:40+09:00",
+   "company": "株式会社サンセイランディック",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
    "id": "5fa0c049acbd7f85",
    "title": "トスバンクも年内合流準備中カード会社·市中銀は依然として様子見",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBocUtiSzVXN2V2WElGam1HQk1va0hqMi1MYUhfa3UyNGdWWWtLeFg2eUlLeUt0UXFrM25LRTlFdlRYb1otS3B0d2htSlhtSzZaV0E?oc=5",
@@ -174,7 +189,8 @@
    ],
    "type": "release",
    "published": "2026-11-17T10:00+09:00",
-   "via": "PR TIMES（決済）"
+   "via": "PR TIMES（決済）",
+   "company": "日本クレジットカード協会"
   },
   {
    "id": "f1005081910be5ee",
@@ -40073,20 +40089,6 @@
    "published": "2026-09-28T17:00+09:00",
    "via": "Googleニュース「クレジットカード」",
    "company": "STVV N.V."
-  },
-  {
-   "id": "fff5c88345d8ac5e",
-   "title": "タッチ決済対応のおすすめクレジットカード！見分け方・やり方を徹底解説",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9heUFyNWE5U083UERpdS10dTVwclh0TVJpSkNNdENiM3k4Z3hucXVXa0RoNkxOZDMzNHBlWFRZMmhZNEdIMTNfenZwWHBFMWlNb3dTN2p3RQ?oc=5",
-   "source": "みんかぶ",
-   "summary": "タッチ決済対応のおすすめクレジットカード！見分け方・やり方を徹底解説 みんかぶ",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-28T16:00+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
   }
  ]
 }
