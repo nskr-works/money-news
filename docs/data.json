@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T13:44+09:00",
+ "updated_at": "2026-11-17T18:42+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,180 @@
  "topics": {},
  "items": [
   {
+   "id": "88b0917438b25262",
+   "title": "Wesmo!、JCBのネット決済に対応 モバイルICOCAへのチャージも（Impress Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94bHdSNmdNOG1uMHNPSlpCLWNjVnZ1THVGUTRxaXptbjI0UFBQc0dJdlZCSkVjMGhtRzVpWkFSODhOcFlhNDlaUGRQXzc5Ni1qbmZnTERQRHY1WUQ0dlVGQXduMDBId0RlOFNZQVQzWVJmdVlZLVoyVTFsemxWUms?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "Wesmo!、JCBのネット決済に対応 モバイルICOCAへのチャージも（Impress Watch） Yahoo!ニュース",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-17T18:03+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c67d9faefb9cb4ea",
+   "title": "PayPay、「超PayPay祭」2026年11月20日から開催 「スクラッチくじ」など実施",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTXdrUmd4R0FjTDNpTnhTWjVfTW1aRzIwREFJWGRqVWVSaEE3QnFyNUVPRTIyUjRZcFVZRlhBMVU0U2UxTDhvMERuczBqamRPeXdHYm05c0w2Zw?oc=5",
+   "source": "ECのミカタ",
+   "summary": "PayPay、「超PayPay祭」2026年11月20日から開催 「スクラッチくじ」など実施 ECのミカタ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-17T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "c52694b213ea7264",
+   "title": "国内のクレジットカード会社22社と日本クレジットカード協会、フィッシングに関する注意喚起を実施",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94UThqRlR3RHlaZFJZZ1o1MmdTOEpLOEhPVnMxM0VuYnhPbWVPMlpYbXlTUUhBSmFnRHhMRFYwT2EwQUN4UEZ6ZUpwQ2tJN0JaZ3RCWjVNeDA5ZC1fTGVyZ2tHZUJ1UHhnRXYySw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "国内のクレジットカード会社22社と日本クレジットカード協会、フィッシングに関する注意喚起を実施 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T15:23+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "2b5a9d59ec1761b6",
+   "title": "クレカ22社がフィッシング注意喚起メールを一斉送信 カード番号・パスワード入力は求めず",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBem1JMmFSMXh0QU9JV3Jwel9qSlIwcU1HaDhrTXl0Yi1yNW5tbzg3UGRHZ3ZQbnd5SFQ2UVZMNG1aX0h4end6NlhrRXVFY29La1BFS3ptWEloSzhqNE04?oc=5",
+   "source": "Infoseek",
+   "summary": "クレカ22社がフィッシング注意喚起メールを一斉送信 カード番号・パスワード入力は求めず Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T15:11+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "15811b07e70208a7",
+   "title": "国内22社のクレジットカード会社がフィッシング対策で注意喚起を実施する意義",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zdWFNTVVKa3AtSHFQVWFOSUJyRkM5azgzWUR2YWRBSl94TnVJVFZRYWhVZURLVFFEOXk5eDhIMFhnZjhzMnRzT082c28tMHVsbTUyQWF3elpRclNHZ0s5NmQxTDZrb0dzNVJIbQ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "国内22社のクレジットカード会社がフィッシング対策で注意喚起を実施する意義 ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T14:51+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "bee3ca78af325c81",
+   "title": "JCBがアラスカ航空での航空券購入を可能にし、便利さを提供する取り組み",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xUWRzLVF3dk9RVkV1UkV4aVR4dkI0Uzh5cUhTR0o2VnU0ZVh1dURWLWdGVy1Ba2Z5c2JMSzVKRXNXb1lzdm9JN0YtaWVOd3Z6dXoya296R1pXNjI5cWhUNWFHaWlFb01C?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "JCBがアラスカ航空での航空券購入を可能にし、便利さを提供する取り組み ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T14:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5ba5b5e40a230da5",
+   "title": "KDDIが開催するau PAYの超チャンス！キャンペーンで最大100,000ポイント獲得のチャンス",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDTnMzemxieWtsQkpDRE9aYUowQlBhZTE3WC1FQ2Z5RHY4Y2FCZzVWVWNRNXE4R0kyYTczcENSMGN3WkoxVW50YWRPMXRiSm8xREFDY1NSU0pzbW5jN1ZqZ3JB?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "KDDIが開催するau PAYの超チャンス！キャンペーンで最大100,000ポイント獲得のチャンス ニュースメディアVOIX",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-17T14:41+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "cf8819e8a4133406",
+   "title": "三井住友カードの新キャンペーン！Vポイント2,000万山分けとスマホ決済の魅力",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HUGFkVDc5RDk1ZGppWDJGaVBaSk8xVXYxSE1YVUl2TldtMzBTb2N5RGdIb2xGZE9zS2xpTldOVldZdEZ3UU1IX0lrdnJjTUs5dGhBdG1DbnJsLURabENyUWR2RDVMUWhwanc?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "三井住友カードの新キャンペーン！Vポイント2,000万山分けとスマホ決済の魅力 ニュースメディアVOIX",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-17T14:39+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6eaea9567dee735a",
+   "title": "東急カードがVisaタッチ決済を広める「Visaでタッチ！キャンペーン」を11月16日から開始",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wS3QyZW9wREVMMm5TaVRJQXBCVXpxNTBZX0Z4VTRJY0YxbmxubmlCUi1RNWJ3MHF5R0cwYTVBeU5rSUptS3h3aThGNFVEN0ZDZFpTdjg3T05NczMwbGoxU3ZuZUo0c3c?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "東急カードがVisaタッチ決済を広める「Visaでタッチ！キャンペーン」を11月16日から開始 ニュースメディアVOIX",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T14:37+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "027bba11f6054c9b",
+   "title": "U-NEXTの支払い方法は？使えるカード・PayPay・キャリア決済と変更手順",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nalZlRFY1RmIyMHE5OEkzYzVkWFU0aGxMUUpNdzkwbDh3ZXJMdWNTcWtUN0xNMkY5dW12aFRPOF9EbjdWVmFJR3c4enc2NUtydUxGYUR3?oc=5",
+   "source": "株式会社ピクセラ",
+   "summary": "U-NEXTの支払い方法は？使えるカード・PayPay・キャリア決済と変更手順 株式会社ピクセラ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-17T14:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "ddfe253672b833c2",
+   "title": "JR西日本の「Wesmo!」が国内のJCBオンライン加盟店で利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01T2c3YzNrLVJHeWFtRjNvNVE5bkZINFFScHNjX3l3OXNoLUFsZ1hPZ2wwR0Z1VVdRT0tCT2wyajYtUG5ndElhUW1hOTJxV3ZvUHdDNEhRUHN4YlJLM0h5WFd5cjJUTkpxTnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "JR西日本の「Wesmo!」が国内のJCBオンライン加盟店で利用可能に PR TIMES",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-17T14:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "3668fd4e61a46db6",
+   "title": "ヒロミ「カードの裏に…不思議に思っていて」クレカICチップ盗難事件で生じた”疑問”明かす（日刊スポーツ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsM3dhOU9NTnctNXhZZlFVcmZYOThoQ05hcjNKVHBsWUU5b1kxWFRGTENJVll4M2gwZ2U1aUV5OThmS2VpaTdSbmZCcDFVZF9yNENmdW9ZWS1UZUFYemZlTGhlNXFpU1JHY1k5eVRGdkx2OG4xX0RyS25FODJadDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ヒロミ「カードの裏に…不思議に思っていて」クレカICチップ盗難事件で生じた”疑問”明かす（日刊スポーツ） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T13:46+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7510e1030804b99b",
+   "title": "プレスリリース：［ミニストップ限定］「Visa eギフト×電子マネーWAONキャンペーン」（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hcjd3WExFY3U4ZGt4d3BTNXRVbk1Nc2ZRV0gweVBDSHB3dm9YWlRqZGpyTU4zMHRvakx6aWNKVXo0TUZsbjhXOXJrSWRRZEdLZ1dfS3FjS1BuT0V4Sm41MDNMc2R2Y3Rz?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：［ミニストップ限定］「Visa eギフト×電子マネーWAONキャンペーン」（PR TIMES） 毎日新聞",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T13:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "304992d9abe547f1",
    "title": "クレカ22社とJCCA、フィッシングの注意喚起を実施",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsQjdINnczWmhYM2lOcHRTbkJEakpEQVVscjBJQXVjNGRmV0hRNTZlejhScHBDY2UybEl3ZjI3bnpPYk9ISU42WjQ0VkFEZzRwb3NldHgtSHFKc1NvdjFOcTBrVTN5WVE?oc=5",
@@ -42,6 +216,20 @@
    "type": "news",
    "published": "2026-11-17T12:47+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "fe04de0bc25cc65b",
+   "title": "カード決済代行会社装い違法融資、一味19人摘発",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSE9hLXo2Z0tKV2VqN0NhNzEzcnJ3NTA4OEcwMGR0TjFBeXhOWjN4SEEzdU1saVlhTUtpbkg5OFZ1THBSMFNsaF83UFd4eU9Fb1dsRW01NE9OMU1ERkRwR1dSNlZpNElPQTNYeS13emJ3ckJVcXhkbUhVV3lWYy1HMVpRbkhYcF9GY09TUXFB?oc=5",
+   "source": "조선일보",
+   "summary": "カード決済代行会社装い違法融資、一味19人摘発 조선일보",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-17T12:41+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "466ed5b0662504f9",
@@ -70,11 +258,37 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "5d4c260828a8f9b8",
+   "title": "サイバーパトロールで発見...SNSを通じて児童ポルノの動画データを販売、3000円相当の電子マネーを受け取った疑い パート従業員の男（33）を逮捕 岡山県警 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80MF9WMXo0NHRfN082RFB4U0tvWnRzd0p3RFdQcVV4Q2pBbDZBWjNBMlVvVHBYSzZnbXQ4SG5DUU1ic0h6NEd0SGN6TFhJV1htd3dVZS10RjI0WHNMQ1IxdmVsazc2Wnc?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "サイバーパトロールで発見...SNSを通じて児童ポルノの動画データを販売、3000円相当の電子マネーを受け取った疑い パート従業員の男（33）を逮捕 岡山県警 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ) TBS NEWS DIG",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-17T12:23+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "43e95db74a5cd7ab",
    "title": "クレカ21社、フィッシング対策で共同啓発 注意喚起メールを配信（Impress Watch）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vcXZUYWVsTTFZR1RXOC03dF9FWTVaR3RXMWFQWHh3eTdVVm1seWp3WklKWW1NZnhwcHNXeThtbUhrOE9kRUxxR3E0Q1gxVm10azhUTnZleWNsajRHWlg4bUlfY3NPNWZaZEM1RkxpWW9pTmlXU29obWJRNGFVelk?oc=5",
    "source": "Yahoo!ニュース",
    "summary": "クレカ21社、フィッシング対策で共同啓発 注意喚起メールを配信（Impress Watch） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T12:19+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "92e4ce79e64edb2a",
+   "title": "クレカ22社、フィッシング対策で共同啓発 注意喚起メールを配信",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04UHMzZmtUQjhQanB4azMxZVhsbEJ4TW1sa3ZOTURmaVB2bDdiV0thcldOQTBIdlpHY04yNEJVM1ZqNjBrU2dCb3NyZU9JdFpqR3dGUlVCckR2dTYtUWxndEVlanQ?oc=5",
+   "source": "Impress Watch",
+   "summary": "クレカ22社、フィッシング対策で共同啓発 注意喚起メールを配信 Impress Watch",
    "categories": [
     "credit"
    ],
@@ -149,8 +363,20 @@
    "type": "release",
    "published": "2026-11-17T10:40+09:00",
    "company": "株式会社サンセイランディック",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "dffb9e5d65eeb88a",
+   "title": "アニメ『FX戦士くるみちゃん』8話“金融緩和は狂乱パーティ♪”。資金をすべて失った芽吹はクレジットカードで30万円を入金。“勝つまで借金すればいい”という考えに取り憑かれていき…!?",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VUZTejhaWXlRNExQWWxabTV1Nk1RQkVDWXhoSGNrc2VvbUVSWGtLQ0loYWpzQ2VRb01PelcycjdxYVlDNlZhenp4Si1wUWRGRDVlVkQwaEdNQQ?oc=5",
+   "source": "電撃オンライン",
+   "summary": "アニメ『FX戦士くるみちゃん』8話“金融緩和は狂乱パーティ♪”。資金をすべて失った芽吹はクレジットカードで30万円を入金。“勝つまで借金すればいい”という考えに取り憑かれていき…!? 電撃オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T10:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "5fa0c049acbd7f85",
@@ -846,6 +1072,19 @@
    "type": "news",
    "published": "2026-11-16T11:29+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "bc71077545659622",
+   "title": "コンビニで発見した悪質すぎる詐欺、その手口にネット民驚愕 店は「電子マネー買わないで」呼びかけ | チバテレ＋プラス",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DNHBlU19pSHB2RWxUSC1YTGtSdUEwdWZWbkFkeGJjaUhVaVJ4SzBsZzJYUy1rQ3YxcHdhRUVLV1F2NjNZSUhSM3RxZzBkaHo4SzRfRm5HM040cVI5aVhZ?oc=5",
+   "source": "千葉テレビ放送",
+   "summary": "コンビニで発見した悪質すぎる詐欺、その手口にネット民驚愕 店は「電子マネー買わないで」呼びかけ | チバテレ＋プラス 千葉テレビ放送",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-16T11:17+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "e683566a852449b0",
@@ -39851,244 +40090,6 @@
    "type": "news",
    "published": "2026-09-29T09:00+09:00",
    "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "7214042fda953497",
-   "title": "「クレジットカード７枚で借金をやりくり」 カードローンの借り換え、８カ月で２３％増",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iX182aDVheFJqVGhNY25zcFFwRzZLZDYxVGdoUFBrTUtKWFdySXpYWEd2b0N2TEFHWXJkc1ZFYzNUU09qTWlGeUtJWHZKWjd0SF9PUTBNZkRGRTNiOHVSd2Fka0gwdw?oc=5",
-   "source": "동아일보",
-   "summary": "「クレジットカード７枚で借金をやりくり」 カードローンの借り換え、８カ月で２３％増 동아일보",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-29T08:54+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "45bab27c2afb24f8",
-   "title": "HISが旅行部門の顧客満足1位に返り咲き、エポスカード・楽天カードはクレカ首位タイ――2026年度JCSI第3回調査",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11U1l4VmFuOFZ1b1hoYno0ZmVOQWJxUHZvbGc3MU1oY2hWenE3elVuX09EOUZackVUdjBzbEpKa29YdWJMV0loTWl3RmdGaUZtVExWYw?oc=5",
-   "source": "kankokeizai.com",
-   "summary": "HISが旅行部門の顧客満足1位に返り咲き、エポスカード・楽天カードはクレカ首位タイ――2026年度JCSI第3回調査 kankokeizai.com",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-29T08:01+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "596ea88eadc5a677",
-   "title": "「Suicaのペンギンありがとう！～Suica電子マネーを使ってグッズ＆ポイントプレゼント～」キャンペーン（JR東日本）",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YSEJsYTBMUTJIU1VIc0syVFNiSXV2TmY1RVFNZHhXSkJCbHpzcXBEVDdMVHZPenRaaTdiS29XTlVYMnl6SlFzSmFVbnMwVE1MSjhkWU9VUnZEcmM?oc=5",
-   "source": "ペイメントナビ",
-   "summary": "「Suicaのペンギンありがとう！～Suica電子マネーを使ってグッズ＆ポイントプレゼント～」キャンペーン（JR東日本） ペイメントナビ",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-29T07:47+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "e33395196d6ee8cb",
-   "title": "Pixel 10aなどでQUICPayとタッチ決済の不具合報告。カードが不正検知でロックされる例も",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DOWcxV0ZGX0tnVFhual83LTJ5SUlkd2J0am5GOXlkZXBsV2hWQjZ2YzR3MW9BWUdDd25vVFpKOEM5QXp0RHV4RFBybVE2bWpMZmhpTWJ2clo3S3NLelBsRnQyNnh6Q3NiY1pmRG5MODJiaVQ2SEE?oc=5",
-   "source": "GAZLOG",
-   "summary": "Pixel 10aなどでQUICPayとタッチ決済の不具合報告。カードが不正検知でロックされる例も GAZLOG",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-29T07:10+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "0cb6b5440b7c5173",
-   "title": "ベトナムの越境QR決済、日本・インド・マレーシアでも展開へ［経済］",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1teGNrZnBjVHRmYWVhcVVhWmlXMXpESE1RX0Q1RjRoWnJpSF9tQ3h6alFPWkxGbWZwWTdYdTlNWlBUdU53aDVXT3gzWThKcU9vT0o5Q2RvQkd0SHpYWjZlMGxmT3E?oc=5",
-   "source": "VIETJOベトナムニュース",
-   "summary": "ベトナムの越境QR決済、日本・インド・マレーシアでも展開へ［経済］ VIETJOベトナムニュース",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-29T02:38+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "0c7704951b277340",
-   "title": "USバンク、中小企業向けクレジットカード2種を新たに発表 執筆",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQNTJfU1F4ZTFaZk5JVXNvUThNNWgxaFFNQy1EZmx5ZHlMalg5VlloN2dsVDBsTnl5WldzbFM1REs0SjRKZ1ZqWkNyOGtJMHhtTXBWWkNlcjNqcFQ2dWc2a284REFvODBzOVk5MlRCMjc?oc=5",
-   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-   "summary": "USバンク、中小企業向けクレジットカード2種を新たに発表 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-29T01:25+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "981e7f9972c0d93a",
-   "title": "Binance Pay、日本全国のPayPay対応加盟店数百万カ所でUSDT決済を開始",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xTkJkYUxMNFlFbGQ5RmhSSUNTQ0liWDJ4Qnk2LThZeVpfZFUyc2ZPVDhSUnlhMU5PM2JfSUNXT2g4SDdJc0Y2dU5EaEVCUnNjVU1rc1VZdUlhcHkyQUVCZDlqZGZmSXhQT2RNNmNDM0JPalU?oc=5",
-   "source": "FinanceFeeds",
-   "summary": "Binance Pay、日本全国のPayPay対応加盟店数百万カ所でUSDT決済を開始 FinanceFeeds",
-   "categories": [
-    "code",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-09-29T00:36+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "eea1bc216f1b146e",
-   "title": "[みんなのケータイ]PayPayカードが不正使用された！",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiTTl0TThNbUJDQmV3YU4xekY1Yl9EMVZDcFNnRmpLZXpZT1VvYW4xakpMSkg5NFJ4QWZkQ015STJCOUJza0NZT04tU1ZnLUlXSS1WaTNpZGd6YlFzeEdyUnhrakhNV0R6TllCSEI5Vjc0dw?oc=5",
-   "source": "ケータイ Watch",
-   "summary": "[みんなのケータイ]PayPayカードが不正使用された！ ケータイ Watch",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-29T00:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "54969a49ed88c7f7",
-   "title": "詐欺事件の犯罪収益電子マネーを「洗浄」 男に有罪判決、地裁川崎支部",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RZlFxS09CODFsd1dtY19CTHZhM1hMRG1oc3F0azBHdTBucEpmanp0N3hMcW1HMnItdW1mby1zMUxDQndodXhyeGozdURMRG1IY3VCNEl2YXBEaHBQQnRTZ1JmRnladGM?oc=5",
-   "source": "カナロコ",
-   "summary": "詐欺事件の犯罪収益電子マネーを「洗浄」 男に有罪判決、地裁川崎支部 カナロコ",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-28T22:20+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "10c4962cd0faa05a",
-   "title": "モバイルSuicaなら当選確率がアップ！JRE POINT加盟店で使えるお得なプレゼント企画がスタート",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XNjE1dzZPVllZMi1UT3FIX0lSZFNQWFBaQXhreFBQQm5fVlNZZnlZLV9QY1ZOUW9TeTBZdGFsX2ZZMzhpbWZBU1UwVl8?oc=5",
-   "source": "DXマガジン",
-   "summary": "モバイルSuicaなら当選確率がアップ！JRE POINT加盟店で使えるお得なプレゼント企画がスタート DXマガジン",
-   "categories": [
-    "cashless",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-09-28T20:39+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "7d64898f9881a39c",
-   "title": "インド最高裁、UPI加盟店手数料の新設差し止めを却下、法的根拠の説明を政府に要求",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jcDNiRlUtOWNfOVV6QzlFNUNHRjNEM0xZNktSd1BtWk0wZEtSWVlyMzhKdHNTWmpIV1pJd2tDNTBqaDJtNXZBYXJXZ0t4eUVHYWczNHpGcmsyVG9maXJ2YmpXaDVhQl9pRWFQR2psU0VJZkZa?oc=5",
-   "source": "BigGo ファイナンス",
-   "summary": "インド最高裁、UPI加盟店手数料の新設差し止めを却下、法的根拠の説明を政府に要求 BigGo ファイナンス",
-   "categories": [
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-09-28T19:55+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "6257b99f4ec2f8c4",
-   "title": "長崎市の路面電車「タッチ決済」10月から本格導入へ 利用件数は9か月で2倍 利用者の1割が外国人観光客",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aYnJkTWFLS0loTTM1LWs0NThNVWxrb3hLbVZuY1o2emtNcU5iU0VHLXlDdjVXY0lxVnFjYlpQbk9qMUlUdVFVZHo3dWlUMGxYZm5iQlREcnctZExCY2poVmNFRmhVNmc?oc=5",
-   "source": "TBS NEWS DIG",
-   "summary": "長崎市の路面電車「タッチ決済」10月から本格導入へ 利用件数は9か月で2倍 利用者の1割が外国人観光客 TBS NEWS DIG",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-28T19:15+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "9cb234aa89bfa99f",
-   "title": "徳島県、収入証紙の販売終了 10月からキャッシュレス決済対応に",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TVXU0djhjRHZGLUEtenY3N3N4MWQzeDA3Q2YtYXBoS1hDYWJTN3JiVjBnYVA1THhZckhpM0pwUFhxU0gzU1E0bDJNYVgzMTNKVklNeTg2ZnVDV2plQzVJM1VORnZpR2lvN3hRUg?oc=5",
-   "source": "日本経済新聞",
-   "summary": "徳島県、収入証紙の販売終了 10月からキャッシュレス決済対応に 日本経済新聞",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-28T18:05+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "aca0fd72f9dd0ffc",
-   "title": "長崎電気軌道 クレジットカード「タッチ決済」来月正式導入へ",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3YTBoUW5wN2ZieGhLc0RCTkh6TmJXSVY5clJGOUNiR3l4azRVaXcwT2x3VHhvY3EtVVc3Q3BZU0FtYUUwTklsYThnZmY0elg0YnBHSG5NTlE?oc=5",
-   "source": "news.web.nhk",
-   "summary": "長崎電気軌道 クレジットカード「タッチ決済」来月正式導入へ news.web.nhk",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-28T18:03+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "7ba49b9c687d3666",
-   "title": "JR東とグーグル、改札タッチで情報配信する「タッチトリガー」の裏側を公開",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2143808.html",
-   "source": "ケータイWatch",
-   "summary": "JR東日本が展開する、Suicaの改札タッチを起点にスマホへ情報を配信するサービス「タッチトリガー」について、Google Cloudの技術を活用したシステム基盤の導入事例が公開された。同サービスは「Spanner」や「Cloud Run」を採用し、膨大なトラフィック処理と柔軟なデータ活用を実現している。",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-28T17:35+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "09e3a6d5f545c2fc",
-   "title": "長崎電気軌道、クレカ払い10月から本格導入 訪日客らの利用を促進",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyVWxBVTgzeEo1b2tCQ1FVcW5abnZ3NDNtN01NS01WUnl6QTRmOU5NdTNQMDA0RjgtcHo5NUlGWF9oc1p1dTNIWUxrN0JLZ3dmUExLSHpDeWQ1aVd0bHJJUk5fYkJLb2hmSm9Zdg?oc=5",
-   "source": "日本経済新聞",
-   "summary": "長崎電気軌道、クレカ払い10月から本格導入 訪日客らの利用を促進 日本経済新聞",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-28T17:09+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "66fbe351cd4e8993",
-   "title": "ベトナムを訪れる外国人観光客によるQRコード決済が急増している。",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWNHdnh0VDhRV0M2NmJtVmRSUk1VZU9ZZWVlLWI1cjJuM1QxY3paVzhfdVRBUndCQnVIMTRyblFtNzNkVmVSM1JCSWRwT0VMYTV5QUZ6N1hWc2kydmZWRlZraWMtLUdDVi00SkhvOVNrZkhuR05oVnV3OW05NlNaZ2l0Q1JPS3hxamtZ?oc=5",
-   "source": "Vietnam.vn",
-   "summary": "ベトナムを訪れる外国人観光客によるQRコード決済が急増している。 Vietnam.vn",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-28T17:05+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "4c03214a6f14517b",
-   "title": "【シントトロイデン】法人・個人事業主向けクレジットカード「STVV BUSINESS CARD」の提供開始のお知らせ",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yaHQzYnNqNU15UVl5XzFIbnp2aE9Bb2VaQUJLUXZHNHdJcG1yeW90RTZmMnFVZFB5VnNZSzNXd3AxZjAwbHZhZDZIOW40cm9SU2J0QmJmajAzdEVqMlRaN0NlLTVuWjV6akE?oc=5",
-   "source": "PR TIMES",
-   "summary": "【シントトロイデン】法人・個人事業主向けクレジットカード「STVV BUSINESS CARD」の提供開始のお知らせ PR TIMES",
-   "categories": [
-    "credit"
-   ],
-   "type": "release",
-   "published": "2026-09-28T17:00+09:00",
-   "via": "Googleニュース「クレジットカード」",
-   "company": "STVV N.V."
   }
  ]
 }
