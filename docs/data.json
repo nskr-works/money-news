@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T22:48+09:00",
+ "updated_at": "2026-11-18T02:02+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -299,6 +299,21 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01T2c3YzNrLVJHeWFtRjNvNVE5bkZINFFScHNjX3l3OXNoLUFsZ1hPZ2wwR0Z1VVdRT0tCT2wyajYtUG5ndElhUW1hOTJxV3ZvUHdDNEhRUHN4YlJLM0h5WFd5cjJUTkpxTnc?oc=5",
    "source": "PR TIMES",
    "summary": "JR西日本の「Wesmo!」が国内のJCBオンライン加盟店で利用可能に PR TIMES",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-17T14:00+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」",
+   "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "e31b7c9f2b8e934b",
+   "title": "JR西日本の「Wesmo!」が国内のJCBオンライン加盟店で利用可能に | 株式会社ジェーシービーのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01T2c3YzNrLVJHeWFtRjNvNVE5bkZINFFScHNjX3l3OXNoLUFsZ1hPZ2wwR0Z1VVdRT0tCT2wyajYtUG5ndElhUW1hOTJxV3ZvUHdDNEhRUHN4YlJLM0h5WFd5cjJUTkpxTnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "JR西日本の「Wesmo!」が国内のJCBオンライン加盟店で利用可能に | 株式会社ジェーシービーのプレスリリース PR TIMES",
    "categories": [
     "credit",
     "psp"
@@ -2817,6 +2832,20 @@
    "type": "news",
    "published": "2026-11-12T22:02+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f0893528493929ce",
+   "title": "モバイルSuicaの新コード決済teppayが開始 残高送金や2万円超の決済に対応",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03SGhCOFlrY0hrZ3JNQ1RIQUtsSDBLcUZsOTUzZE52TVZRZXNvUnRyZV9JWkxPV0QwUUdHZXF0U3dXU1JERnc?oc=5",
+   "source": "Dellows News",
+   "summary": "モバイルSuicaの新コード決済teppayが開始 残高送金や2万円超の決済に対応 Dellows News",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-12T21:04+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "187d1024efcbdb3f",
@@ -40057,35 +40086,6 @@
    "published": "2026-09-29T11:20+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社アーラリンク"
-  },
-  {
-   "id": "6aa9b18f3c5d1736",
-   "title": "SP.LINKS、オンラインID決済サービスにおいて「AEON Pay」の取扱いを開始",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYd1ItZkRMaGk2N3l1MTZPcVFqc1hiMG1rRUY2X09jWmU4eGp1enhHTmNNYXFtandCUzdENDdjeF9ZV01la1U0R1NBZHNZT3BUU1laakZ2Si13bDlSTFFQUGp5NjB0V1IxZWc?oc=5",
-   "source": "PR TIMES",
-   "summary": "SP.LINKS、オンラインID決済サービスにおいて「AEON Pay」の取扱いを開始 PR TIMES",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "release",
-   "published": "2026-09-29T11:11+09:00",
-   "via": "Googleニュース「決済代行」",
-   "company": "SP.LINKS株式会社"
-  },
-  {
-   "id": "08c974ae33faa7da",
-   "title": "クレジットカードのダイナースクラブが、20～30代向けの新商品「ダイナースクラブ ゴールド」と主軸商品の新名称「ダイナースクラブ プラチナ」を発表 | 三井住友トラストクラブ株式会社のプレスリリース",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uUDVfUXZiODJFelNybXlwQlJmRW1zVUVCNW9GdUw1eHlialNTQmc2WGl0dTltV3prbTJkNXBCOU53Z2RHZXRaTFd1T3dwZVlucHpNckdVVG1RRHU1c3VlenU2MFVxb1B3eWc?oc=5",
-   "source": "PR TIMES",
-   "summary": "クレジットカードのダイナースクラブが、20～30代向けの新商品「ダイナースクラブ ゴールド」と主軸商品の新名称「ダイナースクラブ プラチナ」を発表 | 三井住友トラストクラブ株式会社のプレスリリース PR TIMES",
-   "categories": [
-    "credit"
-   ],
-   "type": "release",
-   "published": "2026-09-29T11:00+09:00",
-   "via": "Googleニュース「クレジットカード」",
-   "company": "三井住友トラストクラブ株式会社"
   }
  ]
 }
