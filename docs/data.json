@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T22:24+09:00",
+ "updated_at": "2026-11-19T01:41+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,19 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "1f7f548478e5054d",
+   "title": "シンガポール在住のベトナム国民向けに、国境を越えたQRコード決済を導入する。",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDh2ZExRQ3ZGYTRtT00wYi1fUXJjY3RUeHRBbDc5dTRqYUNESW5MZzlTRF9TV05GMTR0V0EtQVp3OF9XdFlfVi10aEttM25qY2FWa21vOVVoaVZNOWhZQVlvaGdCVkZlX0NXdVd2ZWdoZkotWjlLOVNBM0dTT2hwaVNBUGh4RWlHcUJpYW1iWUVmWFBrcmg5dnpOTE9JQ1JT?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "シンガポール在住のベトナム国民向けに、国境を越えたQRコード決済を導入する。 Vietnam.vn",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-18T22:49+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
   {
    "id": "e488c02390c4b6ce",
    "title": "量子アルゴリズムで未知の不正取引を一度に浮かび上がらせる技術で特許取得",
@@ -770,6 +783,19 @@
    "type": "news",
    "published": "2026-11-18T04:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6b126101b51d96bc",
+   "title": "【2026年11月】Square（スクエア）のキャンペーン情報！決済端末無料キャンペーンや紹介プログラムも解説",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VRTFzeUVXSl9jSmFyQnB0WmZRZlBSQXhPdFlLTGl4TkRDTDVPVU9nalNESUo3OEJTdWhlOXFSWTJWYnBTa0V5Zw?oc=5",
+   "source": "マイベスト",
+   "summary": "【2026年11月】Square（スクエア）のキャンペーン情報！決済端末無料キャンペーンや紹介プログラムも解説 マイベスト",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-18T00:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "1490ad5fd89fe610",
@@ -3987,6 +4013,19 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HOXZFcGJ6SjNzdUc3R09qX0hZM2FIV2Uyc3l4Nk00ZkNaUjRvTjNJXzN4M2VJc1Y1bVBXOXpxN3JhMXlnczVkSV9sSGVXYkZ3UnI3dC1KNHhyOXBlaFhGNjd6X21fMk5PUXVCUw?oc=5",
    "source": "新日本保険新聞社",
    "summary": "【2026年最新】年間100万円利用におすすめのクレジットカードランキングTOP11｜永年無料の条件も解説 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-12T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2dbaf8a0510e8c8a",
+   "title": "【2026年最新】クレジットカード3枚持ちの組み合わせはこれ！軸・強化・補完で選ぶおすすめ14枚",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tcjhVMG5WXy0weDUxbFVqWTdjdkF6bWFvYnhITVJZeDk5N3k5ZjdDTjY0X0s1OWUtZkVQUXgwVUdiTUVjWUI1OXVSOWdoOFpwWGJmSlp4WnptdTMxdDVLMUdjQWV1YlRxcHU3anpsZjk?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】クレジットカード3枚持ちの組み合わせはこれ！軸・強化・補完で選ぶおすすめ14枚 新日本保険新聞社",
    "categories": [
     "credit"
    ],
@@ -40043,47 +40082,6 @@
    "type": "news",
    "published": "2026-09-30T12:00+09:00",
    "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "e540f8636d813e0e",
-   "title": "アメックスから「ミラーデザイン」のプラチナ・カードが登場 - 宮沢氷魚「日常に強い輝きを与えてくれる」",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QS3BRZ0JpQzhvNi0xNFVvVURQQmVoM20xNzd5U1hlaExBYVFsV25QSkhwZ1c2RWk2MmJuTzNUR2puQjM2WkRhQ25hVGphRzhYVTNkWXJBUl9SMEUz?oc=5",
-   "source": "news.mynavi.jp",
-   "summary": "アメックスから「ミラーデザイン」のプラチナ・カードが登場 - 宮沢氷魚「日常に強い輝きを与えてくれる」 news.mynavi.jp",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T11:44+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "8f8996ad2cf28db2",
-   "title": "Binance Pay、インバウンド消費でPayPay加盟店のコード決済に対応",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13QnFEUlZIaVhiaFF6ZnR4WkdQdVNRSjBPU0RSRE5FRXh6V2hUOWF0Um9nVEtyWkZGdE0xUld5LUlneDZfMjdMbmlReVdNLUxmWG5jQ1hTUzA1YTdUT1gwaDB0SG9tWC1tM2c?oc=5",
-   "source": "PR TIMES",
-   "summary": "Binance Pay、インバウンド消費でPayPay加盟店のコード決済に対応 PR TIMES",
-   "categories": [
-    "code",
-    "psp"
-   ],
-   "type": "release",
-   "published": "2026-09-30T11:30+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」",
-   "company": "Binance Japan株式会社"
-  },
-  {
-   "id": "ba3eab6bdf5f62d0",
-   "title": "最短翌営業日に最大2,000万円振込！サブスクペイ加盟店向け新サービス「1click前払い」を提供開始",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YMDgyTTU3cUdFdGVEVXViUFlJeGtjYk9wVkR6SHJMTVJDdFRDUGlzR1hIdXNEN0R0cHVCaTRtNVQtQW1HQkQ3YTYtenVtR05hOTRIag?oc=5",
-   "source": "ニコニコニュース",
-   "summary": "最短翌営業日に最大2,000万円振込！サブスクペイ加盟店向け新サービス「1click前払い」を提供開始 ニコニコニュース",
-   "categories": [
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-09-30T11:21+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
   }
  ]
 }
