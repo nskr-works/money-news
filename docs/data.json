@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T12:06+09:00",
+ "updated_at": "2026-11-18T13:40+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -81,6 +81,21 @@
    "published": "2026-11-18T11:00+09:00",
    "via": "Googleニュース「クレジットカード」",
    "company": "シンプルフォーム株式会社"
+  },
+  {
+   "id": "7aa115f7fc74f30d",
+   "title": "「プロの風を、その手に。」テスコムのサロンクオリティードライヤーを毎日のヘアケアに。PayPayポイントバックキャンペーンを11月18日より開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000109.000032230.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[テスコム] テスコム電機株式会社（本社：東京都千代田区、代表取締役社長：葉田 順治、以下テスコム）は、対象のヘアドライヤーをご購入いただいたお客様に最大4,000円相当のPayPayポイントを付与する「テスコム新製品ドラ...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-18T11:00+09:00",
+   "company": "テスコム",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "f38a55d31d406e76",
@@ -40069,20 +40084,6 @@
    "type": "news",
    "published": "2026-09-29T19:01+09:00",
    "via": "Googleニュース「後払い・BNPL」"
-  },
-  {
-   "id": "ec0bf0713f85fa5a",
-   "title": "競輪のキャリア決済の利用実態を調査。利用最多は「d払い」。86.8％が月5万円未満",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WX1VYNXhkT2p1VENUZ01HZW8zbFZFUzNtNmtNb2NZV2kyT3lXV2daYUw1Smc3MUxUb2RScThnUDViODhPblNEaGpsLTRmVGNzeWJES0xkanI3QnNiMk9SU2JScTNnNThsR1E?oc=5",
-   "source": "PR TIMES",
-   "summary": "競輪のキャリア決済の利用実態を調査。利用最多は「d払い」。86.8％が月5万円未満 PR TIMES",
-   "categories": [
-    "code"
-   ],
-   "type": "release",
-   "published": "2026-09-29T18:50+09:00",
-   "via": "PR TIMES（決済）",
-   "company": "株式会社サイトクリエーション"
   }
  ]
 }
