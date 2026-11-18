@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T18:03+09:00",
+ "updated_at": "2026-11-18T22:24+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,178 @@
  "topics": {},
  "items": [
   {
+   "id": "e488c02390c4b6ce",
+   "title": "量子アルゴリズムで未知の不正取引を一度に浮かび上がらせる技術で特許取得",
+   "link": "https://prtimes.jp/main/html/rd/p/000000003.000182264.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Urata Soft] 不正送金、カードの不正利用、マネーロンダリング。 新しい手口が出るたびに、守る側は後を追ってきました。 この「いたちごっこ」に、量子アルゴリズムで切り込む技術が特許になりました。 ■ 概要 株式会社ウラ...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-18T22:10+09:00",
+   "company": "Urata Soft",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "77f7dcb21915d33c",
+   "title": "鹿島 ４万人の個人情報流出 業務委託先に不正アクセス クレジットカード情報は含まれず",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hamRFRlUwTzRhbWZWU1g5ZDVWRFRBRFB1T1VlN2ZMd1FjOHZCaUtqNFJESEFWX0xLRk1LaVE3QUJFNE9TcXhOb0Z0Q08xOW16SVpUdXJBWXFuWmgyTWswQWNTeE1mdUxIaHVwYmZJVFVSX1XSAXZBVV95cUxOMmtSQVBfMkFZOGxucGdJMUF2cEt1cURWZkhEVWxkV3dfeDQ0ekdWYXFsWUo3UnphMUlsS0J0WkhoblFwOFBxQ1ZfaWkyeUxEYUd4SkU1ZEJIWlJWcGdsRTRiX2tvNC0yTGNfQkU2MndIR0JjTmJn?oc=5",
+   "source": "日刊スポーツ",
+   "summary": "鹿島 ４万人の個人情報流出 業務委託先に不正アクセス クレジットカード情報は含まれず 日刊スポーツ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T22:03+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7b353be90af71d17",
+   "title": "ペイクラウドHD、決済サービスに不正アクセス 3万件が漏洩",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PWndKdTJnOUw2MTJPRXRWb3M2aVh5QWVpSFphSXpuRFM2Z0VmWVNUVnFzQ1Z4YXV0LXZxdFpLR191MGYyQWJDR1BvUDNHSTJtQnBfS0FpM0NkUVl2M2tHQWd0ZGlySGJDb2h2Sw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ペイクラウドHD、決済サービスに不正アクセス 3万件が漏洩 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T21:34+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "6718cea36fe585cc",
+   "title": "クレカに身に覚えのない0円の利用通知、9月のフィッシング報告は9万4661件。カード会社に連絡する前に確かめることは？",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zOE1pMEV5TFZIMUMwVXpvWWZGTUtoQzNfNl9FdDFaVTVIbTRDRVFFTXhvaEZCT1NCUmRZY1dabWRnMEk3NjdmLTlSdWx1LTJESUVMUWF3ZkN1VE1kZEhyc0dYeXdVNmxmU0swWDhfdF9CMnp5RFozWXJfSHJELUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレカに身に覚えのない0円の利用通知、9月のフィッシング報告は9万4661件。カード会社に連絡する前に確かめることは？ Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T20:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "cba3faed8fc58ca0",
+   "title": "au PAYが「東京クリスマスアドベント」のメインスポンサーに",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1keU5jV2FsbGlVVVlJNUJ4aktWRjZ4UzRhTkxCeTRoYWNBeXlRUE1BQS1VLVlpYXVIdFU2QnI2VGdMcWgyYjd4cGRuS2JrVVFoQ0NNWllOUEZZa1Bld2kwUnJ4N21SaFpPQmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "au PAYが「東京クリスマスアドベント」のメインスポンサーに PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-18T19:57+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "auフィナンシャルサービス株式会社"
+  },
+  {
+   "id": "bd16d38e726ac022",
+   "title": "MUJI Card発行のクレディセゾン、カード番号削除を2度依頼 無印は実行せず",
+   "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/",
+   "source": "日経クロステック",
+   "summary": "「無印良品」を展開する良品計画からクレジットカード番号の全桁が約109万件漏洩した恐れがある事案について、クレディセゾンは良品計画に対し、2020年と2021年の2度にわたりカード番号の削除を依頼していたことが日経クロステックの取材で分かった。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T19:50+09:00",
+   "via": "日経クロステック"
+  },
+  {
+   "id": "a459e62dd46411b6",
+   "title": "国境を越えたQRコード決済：ベトナム国民はシンガポールでQRコードをスキャンできます。",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2VmczI3VHU2M2pKVkwxUkZJQ3E2cHR0V1JiU01DbzFtMnJCX21aMkNTWmphTENQV0dOem04YXhRUkNSU1RKc2swdmQ4el9rZVVxSmdBSzI4bE9wQ1FBVTRMSWlaU0pGeXMxanE3YUJuQkxCYXpqbVRoaktpeGZaR2VFUTNYWUlCTXFMMTZ5bkY0Ml9WeXA1X2pmWQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "国境を越えたQRコード決済：ベトナム国民はシンガポールでQRコードをスキャンできます。 Vietnam.vn",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-18T19:21+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "d1a05f2636cd7d33",
+   "title": "ベトナムとシンガポール間の越境QRコード決済サービスを拡大する。",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTFSckNNTEZQQnN3M25xc2RqVDRiSk52N1V5bzRZVkkxMXk0T1pKb2dOTWtwLWJuOVpPRVdpT1dDaDljbWhRNXJnQUIwM3Bha09MdXg3ellrcUhHaG5OZjBmSE9wd0lLM0d0OVdtbWVUYTVlYy11SzVxUmk1TFpyOHhISWpkdkFXdVE?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ベトナムとシンガポール間の越境QRコード決済サービスを拡大する。 Vietnam.vn",
+   "categories": [
+    "cashless",
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:42+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "b47a7ea96600d4d4",
+   "title": "ダイナースクラブ主催の東京名物料理ガストロノミー・ジャーニー2027の魅力とは",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56RFliMkYtc1F3bHNieXVoMGI4SnRRbWZNRnloLUVQRlRwZ2o3VGw0WkhudW9oU2I1cVNJUWVzQ0dqY25CNlRUZGRIWXVsVkhfVHhMWm9RcnpUckFvT0haaThhdDFMeWRwVDZiU0YxTGI0TGozMlE?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ダイナースクラブ主催の東京名物料理ガストロノミー・ジャーニー2027の魅力とは ニュースメディアVOIX",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:38+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "f9f07ded45954001",
+   "title": "Liquid Groupとネットスターズ、日本でのクロスボーダーQR決済を実現する新たな提携",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IN3RCVDNIbDVEYndIWjFpVW9RTksxQ0NrZTRmSklpMFhIcU9OTEdlMHNfTy0zc0RRejdkT2ZWNjZHTU5aakFLRHlBTFdjUUdNNExYUmpnTmYwcHdPb081Ykg4cXRVRThQQkZiVlloMA?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "Liquid Groupとネットスターズ、日本でのクロスボーダーQR決済を実現する新たな提携 ニュースメディアVOIX",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:37+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "e52f75c11e97267a",
+   "title": "JR東の新キャラはB案“紫うさぎ”に 「Suica券面に登場」など、IP展開の可能性は",
+   "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
+   "source": "ITmedia NEWS",
+   "summary": "",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:20+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "dea899616e87cb5d",
+   "title": "【国税庁】国税のスマホ決済はどこから払う？e-Tax受信通知からの入口と「30万円以下・残高払い」の条件まとめ",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FaWdaYmtwSFZHS0dVcTZwbFVBdWVoSVRkZzFhZGF0NlFqN0JjTXI2c3VEdG1qME4tRmU4ck15X0w5SnBaMmVuSGFVVWYzdw?oc=5",
+   "source": "DXマガジン",
+   "summary": "【国税庁】国税のスマホ決済はどこから払う？e-Tax受信通知からの入口と「30万円以下・残高払い」の条件まとめ DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:10+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "deb23cd3f04f5fef",
+   "title": "国境を越えたデジタル決済:ベトナム人はシンガポールでQRコード決済ができる",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd081b05uTjlhM0dtVWZVaFlPSGxpNEo3Q0lYaENkSXVMaWxHYlJXRnBtWEdTZlZ2Ni1TU25XeG9EMFBENHV3blNjeDIyLTFTdUJ2dXdwOUs4SDZCS0ZVYXB2RkNURVlmcFVlenJfalM4dE80Sm5WOVRzdEFpbnlFcGE4RHNNalNpNF9fUEc2VGdKbmJTZ1llaTFxN2JZTTlfbzdlYzdyM3JrUHBjdm9UVXl4TU5BNDFNOWt5TWMxZEtubUpTdkhJ?oc=5",
+   "source": "Laodong.vn",
+   "summary": "国境を越えたデジタル決済:ベトナム人はシンガポールでQRコード決済ができる Laodong.vn",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:07+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "4387c9aaee39d271",
    "title": "東京の名店約150店が参加「ガストロノミー・ジャーニー2027」予約開始 - ダイナースクラブ会員限定コース・特典も",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qeC1RRkx3cU1NM3plbnpxbTc1MVhaWXlXdlJtcjdfaGpWdUxQRi1pMHp3V1ctU0JSVEgtZFBiVGF5dDBZZ0JON21mWm1uWEo4Rm8yUk1QbUxUaWJy?oc=5",
@@ -41,6 +213,20 @@
    "type": "news",
    "published": "2026-11-18T17:48+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0a12aa3aef0b2b2d",
+   "title": "Suicaの新たなイメージキャラクターが決定しました",
+   "link": "https://prtimes.jp/main/html/rd/p/000001575.000017557.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[東日本旅客鉄道株式会社] 〇JR東日本グループは、グループ経営ビジョン「勇翔2034」で掲げる「Suica Renaissance」の推進により、Suicaをこれまでの「移動と少額決済のデバイス」から、お客さまや地域の皆さまと幅広くつながる「生活のデ...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-18T17:41+09:00",
+   "company": "東日本旅客鉄道株式会社",
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "306b8acaf2dfd55d",
@@ -62,7 +248,9 @@
    "source": "PR TIMES",
    "summary": "Liquid Groupとネットスターズ、RoamQR™とJPQR Globalを通じて日本でクロスボーダーQR決済を開始 PR TIMES",
    "categories": [
-    "code"
+    "cashless",
+    "code",
+    "psp"
    ],
    "type": "release",
    "published": "2026-11-18T17:30+09:00",
@@ -138,6 +326,19 @@
   {
    "id": "7b6443020fc912ba",
    "title": "Suicaペンギンの後継キャラはB案「紫のうさぎ」に 愛称募集を開始",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157432.html",
+   "source": "Impress Watch",
+   "summary": "JR東日本は、2027年3月31日の「Suicaのペンギン」の「卒業」にともなう、新たなイメージキャラクターを「B案」の紫のキャラクターに決定した。応募総数166万4,399票から、86万152票を獲得した。今後愛称の募集を開始する。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T14:15+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "f2efe0aee30a0827",
+   "title": "Suicaペンギン後継キャラはB案「紫のうさぎ」 愛称募集を開始",
    "link": "https://www.watch.impress.co.jp/docs/news/2157432.html",
    "source": "Impress Watch",
    "summary": "JR東日本は、2027年3月31日の「Suicaのペンギン」の「卒業」にともなう、新たなイメージキャラクターを「B案」の紫のキャラクターに決定した。応募総数166万4,399票から、86万152票を獲得した。今後愛称の募集を開始する。",
@@ -39883,206 +40084,6 @@
    "type": "news",
    "published": "2026-09-30T11:21+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "3a97a2850d441fff",
-   "title": "メルペイ、NTTカードソリューションの電子マネーギフトサービス「EJOICA」で「メルカリポイント」の取扱い開始",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPUm1aNzdkUnYwV0U0MmtCbWZQeHdoM21KNHFvNVJOQlhSMUE2S09TVmtyZUhpWVQxeGhDOWx2SjkzQWJGalk3RFRYRGNzYThuUFBNWEpJeWxWQjlPbGsyWnFWR2g2M1pvOEE?oc=5",
-   "source": "PR TIMES",
-   "summary": "メルペイ、NTTカードソリューションの電子マネーギフトサービス「EJOICA」で「メルカリポイント」の取扱い開始 PR TIMES",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "release",
-   "published": "2026-09-30T11:10+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」",
-   "company": "株式会社メルカリ"
-  },
-  {
-   "id": "f688067f2de85b50",
-   "title": "渋谷スクランブルスクエア アプリをフルリニューアル（TMN）",
-   "link": "https://paymentnavi.com/paymentnews/182944.html",
-   "source": "ペイメントナビ",
-   "summary": "2026年9月30日10:40（JST） 【日本】電子決済サービスのトランザクション・メディア・ネットワークス（TMN、日本・東京）と、NTTドコモのマーケティングソリューション領域における新規事業型子会社であるDear […] The post 渋谷スクランブルスクエア アプリをフルリニューアル（TMN） first appeared on ペイメントナビ .",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-30T10:40+09:00",
-   "via": "ペイメントナビ"
-  },
-  {
-   "id": "da8edfc6060ae2df",
-   "title": "「楽天ペイ」、北海道札幌市で「札幌市でお得に宿泊＆お買い物！最大20％還元キャンペーン」を実施",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSkZMeEdyTlJNTy1wVmV6bUxUT3BmMGFCSldWaUtQNFhUTUtEb0tNSHVoaTd5amFuMzB1UFc4dG9ySWw1Y1UwcFFyZEhpRHZpTzJFajlJa1ZNcTZ4U21URDlkcWRobVVTREE?oc=5",
-   "source": "PR TIMES",
-   "summary": "「楽天ペイ」、北海道札幌市で「札幌市でお得に宿泊＆お買い物！最大20％還元キャンペーン」を実施 PR TIMES",
-   "categories": [
-    "code"
-   ],
-   "type": "release",
-   "published": "2026-09-30T10:00+09:00",
-   "via": "PR TIMES（決済）",
-   "company": "楽天ペイメント株式会社"
-  },
-  {
-   "id": "9e5263b53a05f029",
-   "title": "【倒産速報】全東信の関連会社が破産 クレカ請求事務代行の「東信クレジットサービス」負債総額は調査中【東京商工リサーチ】",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rUHZ5Y0MyMW9sSjNsTWJnb1ZuSWVvNGM4SDkzdms5ZkpHN1h2UC1odzVaQVMtOERYbGtCZGJjVm1DN1ktcW5Leno0ZFR0eWZYOVduU3NWWnNqS1VfVGRhVA?oc=5",
-   "source": "TBS NEWS DIG",
-   "summary": "【倒産速報】全東信の関連会社が破産 クレカ請求事務代行の「東信クレジットサービス」負債総額は調査中【東京商工リサーチ】 TBS NEWS DIG",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T09:57+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "b26fd28d3e65862f",
-   "title": "楽天証券の投信積立「楽天ブラックカード」クレカ決済のポイント進呈率が最大3.2%に - 年間最大38,400ポイント",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByMEZIbEJmTS1SdG85d3pKR3dJMGk1VUVnQ0RzNGtaTkZtUVRMUlNTRFgwb21lODlGSWZxNmdpejhudksyWjBHM1dvTUZRMEVKc1gtSlR5V1FkSFk3?oc=5",
-   "source": "news.mynavi.jp",
-   "summary": "楽天証券の投信積立「楽天ブラックカード」クレカ決済のポイント進呈率が最大3.2%に - 年間最大38,400ポイント news.mynavi.jp",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T09:26+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "2cdba1d0e0d5e963",
-   "title": "最短翌営業日に最大2,000万円振込！サブスクペイ 加盟店向け新サービス「1click前払い」を提供",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3Bnekw4LS1iUW9UXzVkWkljZzFTMlZBLXFBRmNPbkoxVzJnOHUxdDJvNmphVDJWYmRGcmtlSEo0TjQ3UzdPQ0lFcDFycDktLVlidkktZ2ZpdDJCaGR2d1ZtclRmbm5LM0o1cEpmV1NLOF9fQnNHSVA0dW9GeDVPZWw1b2dLckRsMzkzTXQzQ1ItYXhDaklKTGc1Y0I?oc=5",
-   "source": "日本経済新聞",
-   "summary": "最短翌営業日に最大2,000万円振込！サブスクペイ 加盟店向け新サービス「1click前払い」を提供 日本経済新聞",
-   "categories": [
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-09-30T09:08+09:00",
-   "via": "日本経済新聞（Googleニュース経由）"
-  },
-  {
-   "id": "967319892617a0b1",
-   "title": "クレジットカードのダイナースクラブが、20〜30代向けの新商品「ダイナースクラブ ゴールド」と主軸商品の新名称「ダイナースクラブ プラチナ」を発表",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DS093VnRTUlBidmI1dXNZS0NMLTA4ZV9kV051Y3VFcThTUEtoeG50dVlkZjBPRW9TdUx6bUV6RGhSM1FYUTRKaHBHc0JSeWctR1JfSi1RcjctMzYxMXhz?oc=5",
-   "source": "シブヤ経済新聞",
-   "summary": "クレジットカードのダイナースクラブが、20〜30代向けの新商品「ダイナースクラブ ゴールド」と主軸商品の新名称「ダイナースクラブ プラチナ」を発表 シブヤ経済新聞",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T08:39+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "e8257c0c60442488",
-   "title": "20～30代向けの新商品「ダイナースクラブ ゴールド」の魅力とは？若年層へのブランド浸透図る",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BTFA5V1ZqeS0zamdwUDI3LWE5QWwxSEtNM1Ntd0ktMjY3Y3ktNXNGc01rVVVzOHBBRjZNLUpkbmZab0t0b3BHYnBpRG5aMkQ5T2lWTV95UnZITnM?oc=5",
-   "source": "ペイメントナビ",
-   "summary": "20～30代向けの新商品「ダイナースクラブ ゴールド」の魅力とは？若年層へのブランド浸透図る ペイメントナビ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T08:20+09:00",
-   "via": "ペイメントナビ（Googleニュース経由）"
-  },
-  {
-   "id": "cfc130f6b85c50d8",
-   "title": "「後払い決済」がクレカのライバル本命に コンビニにも浸透",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0NlRFWXRDWEZLMXo1aFhfOG80MUhYNHRIZ0o0cXdGSGpJWEFidXpuQWNMNkp6RVhsUXRYTFFZME1zaGtsRUFQYmpuREJlckRZRGgtSWJHQUdkWVFUR0x3X1JsaUlFUWdPWXRz?oc=5",
-   "source": "日経クロストレンド",
-   "summary": "「後払い決済」がクレカのライバル本命に コンビニにも浸透 日経クロストレンド",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T08:02+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
-  },
-  {
-   "id": "39f43fb2bb0d612f",
-   "title": "画像3 / 4＞30～40代が実際に使っているクレジットカード・キャッシュレス決済のランキングを発表！約4人に3人が貯めているのは「楽天ポイント」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zb0lCUlRmZ2ppV3czb1M0cElaVmVXMnViOEd0TWtjMzBWWFowYmZjUWdIOUxjdGcyVFh4V3pfWDRiNUhvd0ExM21WVnJUa1pIVm5Tc0hQSE04WE0yb2R0aTQ1WlU2ZV9uMl82WXlB?oc=5",
-   "source": "ウォーカープラス",
-   "summary": "画像3 / 4＞30～40代が実際に使っているクレジットカード・キャッシュレス決済のランキングを発表！約4人に3人が貯めているのは「楽天ポイント」 ウォーカープラス",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T07:21+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "f27ecfcddb6e89b5",
-   "title": "【ライブ】Suica×PASMO 新決済サービス共同記者会見【LIVE】(2025年11月25日) ANN/テレ朝 Conan Gray (IATdm4KKhh)",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YbW5tZWMxRElPdVRKU253dmwxY0dYTmxrcXF4UTBOSEVHTzU2N3puRzhWSjhVZU5VaWM4bHh1TWpXVl9PTEkwcUJXbi0yLWVlNTNCZHJRNjc1UFVORDNGVEtsMGRpUQ?oc=5",
-   "source": "Unisba Media",
-   "summary": "【ライブ】Suica×PASMO 新決済サービス共同記者会見【LIVE】(2025年11月25日) ANN/テレ朝 Conan Gray (IATdm4KKhh) Unisba Media",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-30T06:52+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "971cd5078b243d2a",
-   "title": "本当にあった「キャッシュレス決済」体験(162) 【漫画】お祭りでたこ焼きもりんご飴も買えなかった…キャッシュレス派を襲った悲劇",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfZUJvQXVVWGc5RXJMb2Q1dVdmTUJtNFRZNjNqanUtU2ZNX0dBbFlFZXpJM085S2lTUmxIa2l6WmVaQzZJWDdXR25ZbFBwMy1TRzB5eUJTVFlvckFQclpEWA?oc=5",
-   "source": "news.mynavi.jp",
-   "summary": "本当にあった「キャッシュレス決済」体験(162) 【漫画】お祭りでたこ焼きもりんご飴も買えなかった…キャッシュレス派を襲った悲劇 news.mynavi.jp",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-30T06:11+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "f4aa28b5ff2a76c1",
-   "title": "「住宅ローン落ちた！」クレジットカードの支払い滞納の過去、という落とし穴…金利上昇下、厳格化する審査に要注意",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lUTVVR2x3V1h1UGY1dWZBdXBNTkFmMEM0TDFQUVBRT2htR0djRXZENVRCM0czX3NGNWxuS29EQ21ISUxsUzdPVDdHOVRiaGhsMHBBNXVMRTBpRldKSGJj?oc=5",
-   "source": "JBpress",
-   "summary": "「住宅ローン落ちた！」クレジットカードの支払い滞納の過去、という落とし穴…金利上昇下、厳格化する審査に要注意 JBpress",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T06:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "884a6e964b5a44b4",
-   "title": "クレカ乗車するとポイント加算！ 京王・TX・ゆりかもめ・江ノ電で新サービス「乗るだけポイ活」を導入",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kR3JYSWZsZ0J6ZnZ5RWVTYWlWSjVxdG55TmQ0MzF0SnQ2blFmczNRcG1mYlNlTUhUNXRjQUlTcDVGODgyeGJDM3JLZnJHc0E?oc=5",
-   "source": "スマートモビリティJP",
-   "summary": "クレカ乗車するとポイント加算！ 京王・TX・ゆりかもめ・江ノ電で新サービス「乗るだけポイ活」を導入 スマートモビリティJP",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T06:00+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "2061b3478c295adb",
-   "title": "10月1日受付開始「こどもNISA」に向けPayPay証券が親子ワークショップ開催 ポイ活から投資の基本を学ぶ",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2144240.html",
-   "source": "ケータイWatch",
-   "summary": "0歳から17歳までを対象とする「こどもNISA」が、2027年1月1日より始まる。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-09-30T06:00+09:00",
-   "via": "ケータイWatch"
   }
  ]
 }
