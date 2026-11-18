@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T13:40+09:00",
+ "updated_at": "2026-11-18T18:03+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,271 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "4387c9aaee39d271",
+   "title": "東京の名店約150店が参加「ガストロノミー・ジャーニー2027」予約開始 - ダイナースクラブ会員限定コース・特典も",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qeC1RRkx3cU1NM3plbnpxbTc1MVhaWXlXdlJtcjdfaGpWdUxQRi1pMHp3V1ctU0JSVEgtZFBiVGF5dDBZZ0JON21mWm1uWEo4Rm8yUk1QbUxUaWJy?oc=5",
+   "source": "マイナビニュース",
+   "summary": "東京の名店約150店が参加「ガストロノミー・ジャーニー2027」予約開始 - ダイナースクラブ会員限定コース・特典も マイナビニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:48+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "306b8acaf2dfd55d",
+   "title": "ネットスターズ、JPQR Globalでシンガポールの決済アプリに対応",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UYlE3UnJjNGFKaUtsTzUybnVoWHRqczZTYzhNbXNyaXdSbXRla2tUZF81UFp0dE9oWkt1SFVRbzZHT1hjSHZvaHlZOUNkd0VSMWpN?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ネットスターズ、JPQR Globalでシンガポールの決済アプリに対応 ニュースメディアVOIX",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:31+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "5c89ec23faaef47a",
+   "title": "Liquid Groupとネットスターズ、RoamQR™とJPQR Globalを通じて日本でクロスボーダーQR決済を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55WUVVZlJBRGpfLWkyZnlRUl92cktMY0xJVGh0YjljaFJnaHVhdjBLVERDTTViRzYyTVNPWUVfRU0yaUEwZVBvQ1dLY1E4ZlVnSjBlQ0FYdDlZNUlKUnFwekVBYjdEUVhBYmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "Liquid Groupとネットスターズ、RoamQR™とJPQR Globalを通じて日本でクロスボーダーQR決済を開始 PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-18T17:30+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ネットスターズ"
+  },
+  {
+   "id": "e6b1873bb1f4d1d9",
+   "title": "JR北海道、Kitacaを18駅追加 帯広・釧路・富良野などで28年春",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157547.html",
+   "source": "Impress Watch",
+   "summary": "JR北海道は18日、交通系ICカード「Kitaca」の利用可能エリアを、2028年春に4路線計18駅へ拡大すると発表した。主に観光での利用が見込まれる駅に導入し、利便性の向上とキャッシュレス化を進める。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:15+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "9f515709d404e615",
+   "title": "「電子マネー買い方分からない」と店に電話 男鹿署、特殊詐欺防止のコンビニに感謝状",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SRi1FcWswbzVpMDJuMFpKUVMtcldaakMzQXZWa3E2SHpNX0tFWnVOSVpsMHhacTVJV2NqZ0V5OVBwQTRPaEthZ0dfVVpEQ2JTQklZcWVqU3drNzVORDZRRmRR?oc=5",
+   "source": "秋田魁新報電子版",
+   "summary": "「電子マネー買い方分からない」と店に電話 男鹿署、特殊詐欺防止のコンビニに感謝状 秋田魁新報電子版",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T16:30+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "786de54bb14de4a2",
+   "title": "Visa、「Agentic Ready」プログラムを拡大し、アジア太平洋地域において信頼できるAIコマースの普及を支援",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pX3ZYS1A0SmIyZC1NbXdHMkZ1dUR4RlZmYWVJT0FsUUVTVUhJZVY4eWJVWTZQQW9UbDhMaXFKWW5wSlVPZlNlRnBKbEg3aFlfellTME5SbVpBNktxSk9RbnY2N1FlZ1Q4b3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "Visa、「Agentic Ready」プログラムを拡大し、アジア太平洋地域において信頼できるAIコマースの普及を支援 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-18T16:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ビザ・ワールドワイド・ジャパン株式会社"
+  },
+  {
+   "id": "a2af76150a8bfaa7",
+   "title": "NewsPicks(ニューズピックス)、36万1,598件のクレカの一部情報漏洩や一部会員の個人情報漏洩の恐れ Metabaseの脆弱性(CVE-2026-72898)でMFAを迂回し不正アクセス|セキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGRrdmZ1ejU4b1JLdS1OS1JyYlNvQllGSjJIWlRuaGUzRXlFbnh2VUtacHVfdTNzLXlDZDJwY3BvRUFObFZKMFRmeU81Qm9JSm5acllrcU16bnFwSzUwZXZuTkZpeFA3VjVMYjR3T1ZTQkp6bm9FWlVITTJpYVhBRnU5VXc3S3VVUkFWelc0cS1jY0E?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "NewsPicks(ニューズピックス)、36万1,598件のクレカの一部情報漏洩や一部会員の個人情報漏洩の恐れ Metabaseの脆弱性(CVE-2026-72898)でMFAを迂回し不正アクセス|セキュリティ対策Lab 合同会社ロケットボーイズ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T15:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5935cc1ba5738e08",
+   "title": "Suica新キャラクターは「うさぎ」",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2157472.html",
+   "source": "ケータイWatch",
+   "summary": "JR東日本は18日、交通系ICカード「Suica」の新しいイメージキャラクターについて、一般投票で「うさぎ」が選ばれたと発表した。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T14:19+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "7b6443020fc912ba",
+   "title": "Suicaペンギンの後継キャラはB案「紫のうさぎ」に 愛称募集を開始",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157432.html",
+   "source": "Impress Watch",
+   "summary": "JR東日本は、2027年3月31日の「Suicaのペンギン」の「卒業」にともなう、新たなイメージキャラクターを「B案」の紫のキャラクターに決定した。応募総数166万4,399票から、86万152票を獲得した。今後愛称の募集を開始する。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T14:15+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "dce40b6d54798244",
+   "title": "支払いにPayPayが使えるコインランドリー！「コインランドリーwash+」が「PayPayスクラッチくじ」対象店舗として超PayPay祭に参加",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IVGhzaW9mdV9OZFNBd0RFNjdPNnUyLU1RbkFxeUJkek0zOU5sV2N4aUZHbUtPLUtOVGFOeThUdnlfdUZKUVhPT3NSMkI1NXo1YUxtZ0dZbFB2Q3RXblR4eE1BZThsS1BHaWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "支払いにPayPayが使えるコインランドリー！「コインランドリーwash+」が「PayPayスクラッチくじ」対象店舗として超PayPay祭に参加 PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-18T14:11+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社wash-plus"
+  },
+  {
+   "id": "2c889cb788e10394",
+   "title": "Suicaの新キャラクターは「B案（ウサギ）」に キャラクター名を募集",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news072.html",
+   "source": "ITmedia Mobile",
+   "summary": "JR東日本の交通系ICカード「Suica」の新キャラクターが「B案（ウサギ）」に決まった。今後、愛称を募集する。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T14:00+09:00",
+   "via": "ITmedia Mobile"
+  },
+  {
+   "id": "cb521ac0b48ba9f7",
+   "title": "トリニティ航空、世界的な簡便決済サービスのペイパルと提携しキャンペーン",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VdXV0YUw5N25fR2FTa25rUUdUREVDdmtDeG1UMklQdnN5WDNILVZQajFnZkVaTUpxaEczVHpnekZiVExxa1NENUZqcGJLYlBNUTA0?oc=5",
+   "source": "매일경제",
+   "summary": "トリニティ航空、世界的な簡便決済サービスのペイパルと提携しキャンペーン 매일경제",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T13:44+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "76edffea8faea412",
+   "title": "LPBankは、クレジットカード事業の成長において、Visaから3年連続で表彰されました。",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFZpVnh2dDNQMS0zZzZTMEJBWlFoRG5UcWhHVDgxeklmcWtnbHlZaVIzZ0lIT0Y2X1pJaFR1SC1fYkNhS1BiZUFhcUhqdFM2RkVDNF9UaWtDOThQTnBTcGstcjEzWWgwVjdYOEh5RkZVaFdHZ3M0Q2NWODl6S29tU3E4Rm9BOHpoVEUxa2xYUGVDYi16Yk4zZ21IZFU?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "LPBankは、クレジットカード事業の成長において、Visaから3年連続で表彰されました。 Vietnam.vn",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T13:08+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7dce3ffb9852397b",
+   "title": "★観光産業キャッシュレス推進協議会、「共通財」創出へ",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85d3lGTkFqZUdxVThxbDhrSDNfcGxJVWM2aHZKNzdyOXdfYzByaW5EcmVIX2s3bWN5VHlOYk9wb2V5MEhkMm16Sg?oc=5",
+   "source": "航空新聞社",
+   "summary": "★観光産業キャッシュレス推進協議会、「共通財」創出へ 航空新聞社",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T13:01+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "8d7a50edc75fa275",
+   "title": "GMO-PG、決済セキュリティシステム強化に経営資源集中 来期は利益成長率17％へ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JeWxLdUpEUllhX25fOHRiX09rSlQ0SUFSbUtIa1h4OGVFSnlTM0JMVk5FbzY5S2xSbHVtM29Nc1R4SVBQYmNoeG96WWNIbGlTdElPRVlERXNTU1U?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "GMO-PG、決済セキュリティシステム強化に経営資源集中 来期は利益成長率17％へ ペイメントナビ",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-18T13:00+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "cc8abc6fb9fb028b",
+   "title": "日本クレジットカード協会など官民15組織、フィッシング啓発強化キャンペーンを開始 特設サイトで偽メールやSMSの事例、被害を防ぐ5つの対策を紹介",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SURETXZQZjhXZXYydWk1WlE0NGd6dmZ2T1RuS290eDZKV1JaNnhkdHpoX3ZPWXJsSlRDZkotRXFJbVRHVlUtTmkwVXd4NXgydG9pbGdkVUFFTnRTNC1B?oc=5",
+   "source": "千葉テレビ放送",
+   "summary": "日本クレジットカード協会など官民15組織、フィッシング啓発強化キャンペーンを開始 特設サイトで偽メールやSMSの事例、被害を防ぐ5つの対策を紹介 千葉テレビ放送",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T12:45+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "343992a9a5770a31",
+   "title": "日本クレジットカード協会など官民15組織、フィッシング啓発強化キャンペーンを開始",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fYWYtSU5RZ1hETFBhcERTcXNUT20xT3lpMV9PeUJ2R2Vkc2NHMlZsSUJ2WXJNLVBQMDVxTllVVlZOSzNPRG44a1MyUXVtdXprc0lURmtNT2RMUThBYzZPejRpdTdCV3FoWUZN?oc=5",
+   "source": "INTERNET Watch",
+   "summary": "日本クレジットカード協会など官民15組織、フィッシング啓発強化キャンペーンを開始 INTERNET Watch",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T12:30+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "0c4e76d27af86de3",
+   "title": "シャオミ、タッチ決済対応のスマートウォッチ「Watch S5 41mm」 33800円",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3S1dycnRWRGxXc2gyRkdWZjZjWWtHVFNKdWplTlg0WllVTGpCRUsxZ29wdFNuTWl6dWNCWkRVaVdfME1HNml3Z2laVEFXMTJuN1lPbUFuUkF4MF9PZnV1OURkbEY?oc=5",
+   "source": "Impress Watch",
+   "summary": "シャオミ、タッチ決済対応のスマートウォッチ「Watch S5 41mm」 33800円 Impress Watch",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T12:25+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "401eab21dddf8b8b",
+   "title": "「PayPay残高が消えた！？」詐欺やアカウント乗っ取り、不正利用を防ぐ自衛策3選",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UVVRlNThSTG9HNWc5VGZmckY2N1JUeE9TeWpYZDhkS3pLRmtHX3htc2dVc29SOUJVWjc0eUtvRUUwcm1jbXBJa2VWRFFWRkU?oc=5",
+   "source": "TRILL",
+   "summary": "「PayPay残高が消えた！？」詐欺やアカウント乗っ取り、不正利用を防ぐ自衛策3選 TRILL",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T12:20+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "caf78d8f58f15ac8",
+   "title": "ダイナースクラブ 東京最高の名物料理ガストロノミー・ジャーニー2027 supported by Tokyo Tokyo ～2026年11月18日(水) 予約開始～",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42RFJITzR3UGJoVlpFQ2ZCd0FkcXpIektHTWVaQWt6cGJ0NVpqcmUxbE0wRjEtOEFxdkRaU2RkdnF4ek92a211elV2LW5hLVIxXzN3SDBja2xPV2J6dzdtNWNFbTZJQ2xCWWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "ダイナースクラブ 東京最高の名物料理ガストロノミー・ジャーニー2027 supported by Tokyo Tokyo ～2026年11月18日(水) 予約開始～ PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-18T12:04+09:00",
+   "via": "Googleニュース「クレジットカード」",
+   "company": "三井住友トラストクラブ株式会社"
+  },
   {
    "id": "82f5ee3e41130788",
    "title": "Amazonのau PAY還元、今年初めてなら30%・利用済みは10%止まり",
@@ -94,8 +359,7 @@
    "type": "release",
    "published": "2026-11-18T11:00+09:00",
    "company": "テスコム",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "f38a55d31d406e76",
@@ -39819,271 +40083,6 @@
    "type": "news",
    "published": "2026-09-30T06:00+09:00",
    "via": "ケータイWatch"
-  },
-  {
-   "id": "a43f0ecb12c19460",
-   "title": "収入証紙販売が９月で終了 キャッシュレス決済、徳島県内36庁舎で本格運用開始",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Q1h6aTRGMHE4MWk1MkdoY1ZBTEY0ZmFqTldMa1FmNmtZUk45QXpxTkJVUC1fVTN5Z1AxQ0J6MXZMUUFHYlVZNXU1UkVOZWhMWktGVENB?oc=5",
-   "source": "徳島新聞デジタル",
-   "summary": "収入証紙販売が９月で終了 キャッシュレス決済、徳島県内36庁舎で本格運用開始 徳島新聞デジタル",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-30T05:00+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "d19680a55ea58c98",
-   "title": "8月の飲食店売上は前年比98.9％ キャッシュレス比率は56.6％",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iSFU4SzBhZ1pLb0hFM1Z4WDVFUk03NUVHNWRma2tqOXBWVGp5SGFlMEY2ZV96MTk1NzBnb1hKNUxYeU9BemNyMlNqUkpIU0JBQ0dYcDlWYUpfRlhNRE5oUg?oc=5",
-   "source": "フードパーパス",
-   "summary": "8月の飲食店売上は前年比98.9％ キャッシュレス比率は56.6％ フードパーパス",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-30T03:27+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "3ac12f19e275480d",
-   "title": "〈信用調査ファイル〉クレカ決済代行、急成長の果て 粉飾決算と過剰融資の連鎖",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13OVVpYURkMURWc2JDTU44RmVWVDNmQUNONnRqMG1Eck90Yl9VUV9YbUNpZ2xvaTQ0YzZvLUFWOGNVYkxsdDdFVC1qTmMxbUM5c25HbEpBcEtNREtDQk1zaDV5NVRTeGRhdzNDaA?oc=5",
-   "source": "日本経済新聞",
-   "summary": "〈信用調査ファイル〉クレカ決済代行、急成長の果て 粉飾決算と過剰融資の連鎖 日本経済新聞",
-   "categories": [
-    "credit",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-09-30T02:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "bc66847fae617ebb",
-   "title": "楽天ペイの楽天カード決済は損 SPU攻略の鍵は楽天モバイルとファミマ",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIQ1Y2MmlPZWp2elA5dzZ6MjZaNVVOTXp2VUZKbmx3OHlqbExyS2VhV05VVVMyaWNRYUlKMzNjQWRVM3pXTGJ6a1l5cDRYZUd1clYyVUdiUGJtTW9IUFdjTURCUUhqZw?oc=5",
-   "source": "日経クロストレンド",
-   "summary": "楽天ペイの楽天カード決済は損 SPU攻略の鍵は楽天モバイルとファミマ 日経クロストレンド",
-   "categories": [
-    "code",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "4c5efd9aecd368bc",
-   "title": "【2026年9月】Square（スクエア）のキャンペーン情報！決済端末無料キャンペーンや紹介プログラムも解説",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VRTFzeUVXSl9jSmFyQnB0WmZRZlBSQXhPdFlLTGl4TkRDTDVPVU9nalNESUo3OEJTdWhlOXFSWTJWYnBTa0V5Zw?oc=5",
-   "source": "マイベスト",
-   "summary": "【2026年9月】Square（スクエア）のキャンペーン情報！決済端末無料キャンペーンや紹介プログラムも解説 マイベスト",
-   "categories": [
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「決済代行」"
-  },
-  {
-   "id": "8f3121bbe3418696",
-   "title": "【徹底比較】タッチ決済ができるクレジットカードのおすすめ人気ランキング【便利に決済できるのは？2026年9月】",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBHZm5YbC1nc3k1NHdHRERVbUdNMmpTQWxIT19LVnF1Uk93bFE1OFJvUUY5RDVyOGZwaUV0bjhn?oc=5",
-   "source": "マイベスト",
-   "summary": "【徹底比較】タッチ決済ができるクレジットカードのおすすめ人気ランキング【便利に決済できるのは？2026年9月】 マイベスト",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "181f0a14321debfa",
-   "title": "【徹底比較】Apple Payで使えるクレジットカードのおすすめ人気ランキング【2026年9月】",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE8zSmtWNDF1U3p5MVF6SjQwczN0alo5VWY3VHJ0Qk10V0lWUE13YTBJcGlXOEVJUUNqRXA4eTRn?oc=5",
-   "source": "マイベスト",
-   "summary": "【徹底比較】Apple Payで使えるクレジットカードのおすすめ人気ランキング【2026年9月】 マイベスト",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "975b553bbaf1e875",
-   "title": "学生向けクレジットカードのおすすめ人気ランキング【大学生のはじめての1枚に！2026年9月徹底比較】",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE15dTUwclpKYS1aRjRLRzR4aDBVNFBDWHVYSnpnTTh2WUxKQUNNNmlrbHZaRnh3NUNkV2plUA?oc=5",
-   "source": "マイベスト",
-   "summary": "学生向けクレジットカードのおすすめ人気ランキング【大学生のはじめての1枚に！2026年9月徹底比較】 マイベスト",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "b49820d07203c084",
-   "title": "初めてのクレジットカードのおすすめ人気ランキング【初心者向けに解説！2026年徹底比較】",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA0ekdRcTZTOUxna3RpQURieXNxd1RNMENfTjUxeVNTWjM4by1hdnBaR211d1lpc1I3QTRTLVd3?oc=5",
-   "source": "マイベスト",
-   "summary": "初めてのクレジットカードのおすすめ人気ランキング【初心者向けに解説！2026年徹底比較】 マイベスト",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "8b291f7e36935cd4",
-   "title": "【徹底比較】クレカ積立のおすすめ人気ランキング【投資信託でお得にポイントが貯まる証券会社は？2026年9月】",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBYX0V1Qm5KX0xaczZNU05mNWdvN1F1M1B4RXZ5SVl0YWRsYmJKN3ZUMk9YekdzUFJ2aVNESFl3?oc=5",
-   "source": "マイベスト",
-   "summary": "【徹底比較】クレカ積立のおすすめ人気ランキング【投資信託でお得にポイントが貯まる証券会社は？2026年9月】 マイベスト",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "16c360c44c37ef27",
-   "title": "【徹底比較】陸マイラー向けクレジットカードのおすすめ人気ランキング【ANA・JAL別に紹介！2026年9月】",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB2U1Azc3FVbW04NlVDcHE1S0UtalJjcklobkdUdUJpSGhLWnBLTFJBdHN5LW55MGNDSklZSXVn?oc=5",
-   "source": "マイベスト",
-   "summary": "【徹底比較】陸マイラー向けクレジットカードのおすすめ人気ランキング【ANA・JAL別に紹介！2026年9月】 マイベスト",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "c7e60b8de624ff7c",
-   "title": "【徹底比較】年会費無料クレジットカードのおすすめ人気ランキング【2026年9月】",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBKM19salRobk82MHlsdUlVVFZZdE9uQ08yR1lqeFk5cWlkVjJtVDUxbmZGaS1nQWV5N1o0dQ?oc=5",
-   "source": "マイベスト",
-   "summary": "【徹底比較】年会費無料クレジットカードのおすすめ人気ランキング【2026年9月】 マイベスト",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "00e842aea9d99c02",
-   "title": "【徹底比較】マイルが貯まるクレジットカードのおすすめ人気ランキング【最強なのは？2026年9月】",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9yd2hXdXpMTWJQc2ppOVZVdXJWS2hkZUZ3eTJ1V1ZRQWIySm9pZVpCSnpaZU11R0t1bFU1ZkJR?oc=5",
-   "source": "マイベスト",
-   "summary": "【徹底比較】マイルが貯まるクレジットカードのおすすめ人気ランキング【最強なのは？2026年9月】 マイベスト",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-30T00:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "9d02bd3dfd9bb75b",
-   "title": "Sa Dec Wardは、企業がキャッシュレス決済方法を導入することを促進・支援しています。",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTdnSkkyV2o1QkRzY2loNGEwU2hCR2ozSEVCNFExUnUyVEZQS1hDSi0tRXhtci03X0o1NlVYUmdZNnR3cGE4SmM1SGpKTHZCZE9ZSlpaTjBDcV9rR0Q5SUhMTWVDV0RFcGswTlBQbzE2dGFCOVlScExlbF9QaEFSSmxWeGtOYnJXcFh0TDBvR1c5RVg0NndlMXdrZE5BWllGa2EtbzkyOA?oc=5",
-   "source": "Vietnam.vn",
-   "summary": "Sa Dec Wardは、企業がキャッシュレス決済方法を導入することを促進・支援しています。 Vietnam.vn",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-29T23:30+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "487c5100b68aadff",
-   "title": "クレート＆バレル、アファームと後払い決済で提携 執筆",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04UEFPVGtHMXpNOGkzZ2lKZW9RaklpbXVKNDlyYWVRTklkUkNzUmZPNk1FajhFalE5N0ZtSVBBbEI2c1ExVHNSYlA4bU55V1cwZXNVQ3c0T2xWazdEZE1md0tDeE5reDBZVjNiWmZVd0I?oc=5",
-   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-   "summary": "クレート＆バレル、アファームと後払い決済で提携 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-29T22:12+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
-  },
-  {
-   "id": "e56f79f9e588575e",
-   "title": "SP.LINKSが「AEON Pay」の取扱いを開始し、オンライン決済の利便性を向上させる",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wVWtLdmxnRlplZ2I4S05yS2xUZFNoVEt4S3dmVGVYM2VEcXRnNUlwVk9oM25RYnNDUjVLWGRMNUpiTk1hLXpHNUVSTVFPNjZoV002MGpfaU9YRlhiY2EyYTlFSQ?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "SP.LINKSが「AEON Pay」の取扱いを開始し、オンライン決済の利便性を向上させる ニュースメディアVOIX",
-   "categories": [
-    "code",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-09-29T19:34+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "f22ad93f7c97f092",
-   "title": "【長崎】長崎電気軌道１０月以降もクレカ乗車継続（長崎文化放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94YzUxVWhYX3hJU2YzVGJKcUJiN1I3dDNrQWZQSHF5YVQxUFN5MW1hb3ZTenJnel9aSzNhUWtCeDBtT0F6dXFFcktSVXdaQXY5WXdXUWVtQjhFcHZ5ZGZXaUJjSkdBM3lUeGkwY1Q3Z3dRSmJzZ2pORWhNWGZ4Z1E?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "【長崎】長崎電気軌道１０月以降もクレカ乗車継続（長崎文化放送） Yahoo!ニュース",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-29T19:21+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "b00cc159da704e64",
-   "title": "長崎電気軌道１０月以降もクレカ乗車継続",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tM2wzOS1TVHVkdUtEMG9WOHN4WmJfZzdWX3BCLUd4TlFEaGk3Qk1PNVVMUVA2NXFRdnhKOFdKS1ItQVQxRHZVMEN5ME9yVFRjX1NiNEtMajY?oc=5",
-   "source": "NCC長崎文化放送",
-   "summary": "長崎電気軌道１０月以降もクレカ乗車継続 NCC長崎文化放送",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-09-29T19:21+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "af480457cb52c107",
-   "title": "生活困窮経験者の64.7%が後払い決済を利用、未払いによる携帯喪失の実態が明らかに",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43dFZiQVVmZjRXcTlGX1hFajg5RlRBaklINkJHbV9PcGpEVkYydlVMc1BZMDNkYk9ORHNPaFdSMjY1NV9jR3FfV29vbDdyLUdHa005dXJ3SQ?oc=5",
-   "source": "コマースピック",
-   "summary": "生活困窮経験者の64.7%が後払い決済を利用、未払いによる携帯喪失の実態が明らかに コマースピック",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-29T19:12+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
-  },
-  {
-   "id": "70966af97e0e8f77",
-   "title": "ヤマト運輸「クロネコ代金後払い」、不正アクセスでサービス停止、宅急便などは通常通り",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWUGcwbUZWZEs0TUdScnRMaklZeE1pcjZZZEFSVWNJdG1DeHNfV2tiem9zSWVsMzZFLTVjQTF3bGl2Nm9UWTdnWnZZTWF4Tk5nT200V1U2Nk5RREF5YXkxWVQyM1pka2g0dUJDTzRkazRXTFJ1enpB0gF8QVVfeXFMT0tlTlhNSjZ2bkhJbjZkZk9WbjVndURBRGJZUEk2MW1rNF9PYmhzcXB5M2hlQmJNaVQ0eWw1SFAwdG5EX3NXYmwySEUxSmQ4UGJSSW5LQk9uRzE4akxDaWZ2ZU9CVUo2TlNCalpBbE10eWthU2U2NmxucDZsSA?oc=5",
-   "source": "Infoseek",
-   "summary": "ヤマト運輸「クロネコ代金後払い」、不正アクセスでサービス停止、宅急便などは通常通り Infoseek",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-09-29T19:01+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
   }
  ]
 }
