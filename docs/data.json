@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T23:39+09:00",
+ "updated_at": "2026-11-20T01:45+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,19 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "7de0f8278f789a82",
+   "title": "10月の飲食店売上は前年比101.9％ キャッシュレス決済比率は58.6％に上昇",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKYkN2RDR3UExkNmExSXppWU55ZTVWcDh4X1dlblQyYnVFY0piNjF6QmV3OTZsNkJhRV85Umg5MXlxWl9KRjZESzRXaDFlckZISm4wR2E4MGZCZzNlR1NJcA?oc=5",
+   "source": "フードパーパス",
+   "summary": "10月の飲食店売上は前年比101.9％ キャッシュレス決済比率は58.6％に上昇 フードパーパス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-20T00:14+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "2e33437d394b73fe",
    "title": "ドゥエンハイ区はキャッシュレスのデジタル決済を推進している。",
@@ -121,6 +134,19 @@
    "via": "Impress Watch"
   },
   {
+   "id": "5f4995cfc1c233f8",
+   "title": "北海道「六花亭」に不正アクセス クレカ情報 約8000件流出か",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVd3dtVHhjN0h3VWJ0TDNra0s0QXphZ0V0NEFhWE1zQ3hGeVRpS0xrVGdWVVB5OFNxYWJfeF85OGh1dGYwTl9wZmJJMVdoeVRQOWpCaGE2Z0l0U3BKM3FN?oc=5",
+   "source": "NHKニュース",
+   "summary": "北海道「六花亭」に不正アクセス クレカ情報 約8000件流出か NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-19T20:12+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "28d9412cea6a6099",
    "title": "国内クレジットカード：包括的な金融サービスの拡大。",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90ZHRHSkJKYVdXVUI2UlRRX1VSa3VIYTVXWHNiQmpvb0wta0szbk5abVZkZWV6M0ZsanNDNWU3bkhOeXJqTzdScDZJU3h6TWpmZVI5Z2dMWlhhYWFwLWZ3RkNUYWQ0dUNBR0k5VC04N0pfWmlHZmtvMkRGbWg1TzQ?oc=5",
@@ -211,6 +237,20 @@
    "type": "news",
    "published": "2026-11-19T18:54+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "36ae8e308a5d55ae",
+   "title": "セルフチェックアウト・ハードウェア・システムの世界市場（2026年～2032年）、市場規模（キャッシュレス・セルフチェックアウト機、ハイブリッド・チェックアウト機）・分析...",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DM2lBbWhXc092cVJpeVRHS0I2bWpRU2FFck9VcjZ6V3BhcUp1dnJDTFpFSHhBMTkxMDE2M3FvcFFveUFVVnowbHFZcHpCa28?oc=5",
+   "source": "アットプレス",
+   "summary": "セルフチェックアウト・ハードウェア・システムの世界市場（2026年～2032年）、市場規模（キャッシュレス・セルフチェックアウト機、ハイブリッド・チェックアウト機）・分析... アットプレス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-19T18:30+09:00",
+   "via": "@Press（決済）",
+   "company": "株式会社マーケットリサーチセンター"
   },
   {
    "id": "87cea87ac074cc1f",
@@ -714,8 +754,7 @@
    "type": "release",
    "published": "2026-11-19T11:10+09:00",
    "company": "クラスコ",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "0555c33229b6189a",
@@ -40012,46 +40051,6 @@
    "published": "2026-10-01T10:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社ジェーシービー"
-  },
-  {
-   "id": "a2bb720b9a9d3e0f",
-   "title": "「楽天ペイ」、「横浜・八景島シーパラダイス」「マクセル アクアパーク品川」「仙台うみの杜水族館」で利用可能に",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jOHlsd3VjUk1oLXhPOWNYSG9hamVzMjhLUEs4STB5MWhpTXNIMTE2Z2l1WFQ5dHkwcXVMdnRid1ZsTEJZT3FNZ0NNS2Y4VE83djRCMkhFaTRTVVd2UXd2cnVwVC1UbVUta1E?oc=5",
-   "source": "PR TIMES",
-   "summary": "「楽天ペイ」、「横浜・八景島シーパラダイス」「マクセル アクアパーク品川」「仙台うみの杜水族館」で利用可能に PR TIMES",
-   "categories": [
-    "code"
-   ],
-   "type": "release",
-   "published": "2026-10-01T10:00+09:00",
-   "via": "PR TIMES（決済）",
-   "company": "楽天ペイメント株式会社"
-  },
-  {
-   "id": "2bc1d456b690968c",
-   "title": "株式会社サイトクリエーションが明らかにした競輪後払い決済の利用実態とは",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nY2dKcGtVSWtOblBRNGszNGstVk96TVdqaTlJVm1fa3lfdkJQdlpVR0lKaFk3a0ZkVXRXWDhzN1o2NFZFaWVpekNGWk5rSlo2ZWlIYlprZjVVam1POUtDZE54X1lPeDZubWMw?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "株式会社サイトクリエーションが明らかにした競輪後払い決済の利用実態とは ニュースメディアVOIX",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-01T09:46+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
-  },
-  {
-   "id": "ef8ed9f4a6afacfe",
-   "title": "お支払いがよりスムーズに！窓口キャッシュレス決済がスタートしました",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fcHJIVTNIYTRKa0hablZVci1xYTBmU0FvaXBMY1pzSzBoRmFSXzVoeWtVVzhKbGxTNERRYWhsQm9aVUozOE5Xd21yUkV0eTdQWU1PODdLWGhiSEZaRTl4NkZSOWM?oc=5",
-   "source": "city.wako.lg.jp",
-   "summary": "お支払いがよりスムーズに！窓口キャッシュレス決済がスタートしました city.wako.lg.jp",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-01T09:17+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
   }
  ]
 }
