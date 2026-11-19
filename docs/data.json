@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T22:51+09:00",
+ "updated_at": "2026-11-19T23:39+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -701,6 +701,21 @@
    "type": "news",
    "published": "2026-11-19T11:47+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "0ee98a3f00f6ae6b",
+   "title": "不動産オーナー向け相談窓口FC「満室の窓口」加盟店にミノラス不動産株式会社が新たに満室の窓口に加盟｜満室の窓口 蒲田店がオープン",
+   "link": "https://prtimes.jp/main/html/rd/p/000001042.000006823.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[クラスコ] 全国の不動産会社向けにサービスを展開する、株式会社クラスココンサルファーム（代表取締役：小村 典弘 以下、クラスコ）は、同社が運営を行う賃貸オーナー向け相談窓口「満室の窓口」において、新たにミノラス...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-19T11:10+09:00",
+   "company": "クラスコ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "0555c33229b6189a",
@@ -40037,21 +40052,6 @@
    "type": "news",
    "published": "2026-10-01T09:17+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "ce629489afa180ff",
-   "title": "メルペイ、「Stripe」加盟店で取り扱いを開始",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FVzVRdDVVeDZ1NkFFLUZYY3BvS2kwY0dLMUJVQ2tZZEwxNWdmdXJPMTVLWkFlTFd3VjE5dDQzSTk5YnVmbTZZNGVkOU9QSWNKX2Y1clA1VXROTHZ3aHNYRTREZmd1bnRIWGhIUkpKZHFhUQ?oc=5",
-   "source": "Infoseek",
-   "summary": "メルペイ、「Stripe」加盟店で取り扱いを開始 Infoseek",
-   "categories": [
-    "code",
-    "psp"
-   ],
-   "type": "release",
-   "published": "2026-10-01T09:10+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」",
-   "company": "株式会社メルカリ"
   }
  ]
 }
