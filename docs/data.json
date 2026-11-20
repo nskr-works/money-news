@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T22:33+09:00",
+ "updated_at": "2026-11-20T23:18+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -503,6 +503,21 @@
    "published": "2026-11-20T11:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "三井住友カード株式会社"
+  },
+  {
+   "id": "0b3715d1b7d216e5",
+   "title": "Mastercard(R)会員向け「BLACK FRIDAY by 三井住友カード 2026」開催！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001042.000032321.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[三井住友カード株式会社] 三井住友カード株式会社（本社：東京都江東区、代表取締役社長：佐々木 丈也、以下：三井住友カード）は、2026年11月20日（金）より、条件達成で、500ポイントがもれなくもらえる「BLACK FRIDAY by 三井住友カー...",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-20T11:00+09:00",
+   "company": "三井住友カード株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
   },
   {
    "id": "fb5298e91c6f4272",
@@ -40016,19 +40031,6 @@
    "type": "news",
    "published": "2026-10-02T04:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "2b007b5214713ca9",
-   "title": "【ゼンショーHD】QRコード・バーコード決済スキーム 「Smart Code(TM)」",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwRjlIclZYbzQ1Q1FwY1FteFZTUzdvSzRrWkFVUG9vdlVLYXVhTUZCbzVQdHk0WkhnekZiakxMQUpNN1BHLVJJb3ptX2Q2TVc3TkV6dw?oc=5",
-   "source": "ニコニコニュース",
-   "summary": "【ゼンショーHD】QRコード・バーコード決済スキーム 「Smart Code(TM)」 ニコニコニュース",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-02T03:15+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
   }
  ]
 }
