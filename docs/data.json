@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T11:33+09:00",
+ "updated_at": "2026-11-20T18:07+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,218 @@
  "topics": {},
  "items": [
   {
+   "id": "3af8c2eaa953ec92",
+   "title": "Visa、アジア太平洋で「Agentic Ready」拡大 AIコマース対応基盤を強化",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbmVRSFJkQWR1ZnY5d0dpc1l6LS1HdlpZa2NxZlYwai1ab2oyVVFPU0ZfX3kzU19qYkFNS24xRmNRblYta2ZhSUM5UlFSN3daQ2Zqc0ZhcmN4ZHZHdUppbWlBVVI4UTZhTERXSTgwZ084T0FZZEtQbF92T042NjhvMEJNdC1tQjhyNGxnNGtmcW5LcXg3VUxibDliTkVoZHQyNzZQUDJlemd2NVNHbWtn?oc=5",
+   "source": "디지털투데이",
+   "summary": "Visa、アジア太平洋で「Agentic Ready」拡大 AIコマース対応基盤を強化 디지털투데이",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-20T17:23+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "99a96714a8e3f706",
+   "title": "後払い決済のトレンドは今後も成長を続け、消費者のショッピング体験を向上させることが期待される。",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGs0cGhzN0RJRURwdjU3OW5IdmJyS0FyeDRPQUlrX0lXSFdjd0RobVltenV5V1F2QnlxUjdqb1VhTXhibXBqUnJCZUk5N3ViNU1WQ2tseVhTUjUwVTQwd05BQnViQnZYWEJvWWJGTFRJYjU4QnVMSFV3b202SDlEN0JNRjhBY2pyNjhUdnExSkZBMmljT25CNGdWMUtKTGhwZHA4RlJ3MFBYR2gwbU9Pdk5GZ3dmT1hGcVJQRU51NXZldw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "後払い決済のトレンドは今後も成長を続け、消費者のショッピング体験を向上させることが期待される。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-20T17:04+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "975d9e30a10c4a11",
+   "title": "おむすび処 ほんのり屋、Suicaのペンギンアクリルキーホルダー再び。交通系電子マネー1500円以上購入で（トラベル Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZMFZQZ3VJMndaRXhjU1diOUNabXphQUJiZHZKVllHNnlNU042b1hKUVZiMlhjcXI2V0FJS0RjMXdncFdyQjdVSGtFaE93aTI1RzVtX1NaTzhoaWU5Xzl2Y1hySy1DNUZlRUJGa2JKZGJ2SEpZT1h5NDNlc0UyZW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "おむすび処 ほんのり屋、Suicaのペンギンアクリルキーホルダー再び。交通系電子マネー1500円以上購入で（トラベル Watch） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-20T17:03+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "fd693a6809e13a05",
+   "title": "Visa、Visa Directのステーブルコインによる事前入金機能をアジア太平洋地域に拡大へ - 法定通貨での受け取りも可能",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80RDlmc25oanZPVzJCWUlBWlc2ckNDNVRDT0pSa04xd3BMNVFoX1czdkd1LXpKcHhJTWFTUXhMMTdDQU1Bc3A3ejE0alZBdi1kLUFfUElmX0hmWjlI?oc=5",
+   "source": "マイナビニュース",
+   "summary": "Visa、Visa Directのステーブルコインによる事前入金機能をアジア太平洋地域に拡大へ - 法定通貨での受け取りも可能 マイナビニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-20T16:25+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "9faf9a02dc782a91",
+   "title": "ベトナム航空、ベトナムの航空会社として初めてPayPay決済を導入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GRUlacVMtZXByZmhvcnU3dFVqQkd1dnRDNTZoUzBid0RYYkJpam9OeTk0QktSVy1HYXZVMHU1YnhPbTk0VjZKU0tBRXFHbUdiVmo0QUNxd2FVUU5jWkZmMnBrMlRER2xrSWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "ベトナム航空、ベトナムの航空会社として初めてPayPay決済を導入 PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-20T16:13+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ベトナム航空 日本支社"
+  },
+  {
+   "id": "74e2800ed17da348",
+   "title": "Stripe インサイト：人間がコーディングしない開発を可能にする Stripe の自律型コーディングエージェント「Minions」",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DWFJZLXh2MTl3eWlpeVA2aTdzWVRQYTU1eWxkbTN5UjY0Wk9EUEdKR1BkY3pvZjd0VWlsbTV5UFNoVVNCVU5lMW5SRGFHQndWaW43SmowYWpEMXVyNXlHYnp4UVhBc05IWnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "Stripe インサイト：人間がコーディングしない開発を可能にする Stripe の自律型コーディングエージェント「Minions」 PR TIMES",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-20T16:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "ストライプジャパン株式会社"
+  },
+  {
+   "id": "be62164d9348c396",
+   "title": "【Visa】Visa PayのQRコード決済対応、エージェンティックコマース拡大、激化するサイバー攻撃への対応など発表 - 決済・金融の祭典「SFF 2026」シンガポール現地レポ",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nWFItUzlBMzBfeU9FdEhaX2J6bURPNVIyV3lUOEl3T0tzWnFrS1d4N3pmSlZGYXppNjl6Mnp6WjctNU9VLTdGTy1tcmZ2eTJQaE53c20yQzB4cVNq?oc=5",
+   "source": "マイナビニュース",
+   "summary": "【Visa】Visa PayのQRコード決済対応、エージェンティックコマース拡大、激化するサイバー攻撃への対応など発表 - 決済・金融の祭典「SFF 2026」シンガポール現地レポ マイナビニュース",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-20T15:48+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "fbea6deda7279005",
+   "title": "日本自動販売機市場：キャッシュレス決済、スマートリテール技術、商品多様化が新たな成長機会を創出",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVdEJzVnJBYU42dFJHQVBLTjlfSFE2QjZHRVlsaHpGSU1Mbmt1ZTRxeFBWOFc3S3BKa3llekVFY285Q29pVEszc2FrNm5VZ1QxZ2xF?oc=5",
+   "source": "ドリームニュース",
+   "summary": "日本自動販売機市場：キャッシュレス決済、スマートリテール技術、商品多様化が新たな成長機会を創出 ドリームニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-20T15:30+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "68c8eae71b4b07cd",
+   "title": "ほんのり屋、Suicaのペンギン限定キーホルダーを配布 11月24日から、交通系電子マネー1500円以上の購入で",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXzBzb24xNmNHN3NsSG0zaHlMZjNlMTA4YWRsTXZjN1RzZ2xxbi1kX2RLZm1qZmx3MlJGOVMwUHAtU0REVG56dkF0Z0Z3TTYzX3pmZzBBMFBrMlB2a1dyRW5HVkJDOHpKamZ4dllIQU45aGlaT3E2bjJwMjJTSVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ほんのり屋、Suicaのペンギン限定キーホルダーを配布 11月24日から、交通系電子マネー1500円以上の購入で Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-20T15:11+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "9066b2880b77b31c",
+   "title": "文化祭・学園祭のキャッシュレス会計にLINEを活用｜明聖高等学校の校内通貨「MeiPay」3日間で支払い7,989件・残高の照合でずれ0件",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pd2FfVHB0WV8wcElOV2V1OGduQ1VWLTJOVldGX3daZElGNG5ibnp1eHU4d1VLM0xVN09TU2dSSF9PV1E5YjZ4RnoyQ1NCX3ZtNGdSbnRobHpqbzRHRzhlajNCV2tqcFpRYlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "文化祭・学園祭のキャッシュレス会計にLINEを活用｜明聖高等学校の校内通貨「MeiPay」3日間で支払い7,989件・残高の照合でずれ0件 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-20T15:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "TeaBreak"
+  },
+  {
+   "id": "374080f598431722",
+   "title": "【重要】試合会場におけるキャッシュレス化のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yc1NYM1J4WDhZcHBGbmJKSngxbnN1anpvX2plQnVfaU44ODFOc0JaR1J3cndPSTdVUXRyaFdkU3dVSWx5WmRWMk55R0kxSWpCeWdr?oc=5",
+   "source": "VELTEX SHIZUOKA",
+   "summary": "【重要】試合会場におけるキャッシュレス化のお知らせ VELTEX SHIZUOKA",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-20T14:07+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "aecb4b46e2d07aef",
+   "title": "【早期終了のお知らせ】「由利本荘市 一般店で最大20％、大型店で最大5％が戻ってくるキャンペーン」について",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TSlE1Qk5felpuaGNyc0Zfd2VENHNUR0JnTnAzRkpOWWs4XzFpenY2eWh6NG9DZTFTNUwwaTFTeEhVN3NkS1dkdVZ5TEVoX29XNUdmRUY3ZHhPYUN3S3VjTERtY01NVFJfMHc1ck13?oc=5",
+   "source": "PayPay",
+   "summary": "【早期終了のお知らせ】「由利本荘市 一般店で最大20％、大型店で最大5％が戻ってくるキャンペーン」について PayPay",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-20T14:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "581f400a3d3a9a21",
+   "title": "ＴＭＮ---大幅続落、AIオンデマンド交通に操作レス連続決済端末を導入",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDdCdzZ3U2tCME5fR3BaNDBXTjVPYmpPOEk4OTVMRlpvMWJDUFpib2Z4bHlobVIweDFGSFpIQ1JQcnVhM0ZXZGJ0ZGl5NU5nYlM5NzBTMEZNUkVNdWxWem5ONDB6bWNHNEwxMzlaQ0xidU5neDdZLWt4cWRwUGFGSE9XVWtoZTjSAYwBQVVfeXFMTV9BNHdJLW9qdktEQ3doNmFid0trRk1HVUh4b2lYOV92Mi0tRWdEWEhQVzJpZTlEbDU1bHRaa1lGYTY2MnZjaUJ0MXpscFZIdXBzMHBpMWh0V2lxOWxRY1A2UUdVZnk1ZEV2b0ppMEhOV0wzVUFENU1rckxaZlR5MjFuRlhtLTVWbHMwdzQ?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "ＴＭＮ---大幅続落、AIオンデマンド交通に操作レス連続決済端末を導入 ｄメニューニュース",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-20T12:49+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "88d75ea8cf226a51",
+   "title": "「超PayPay祭」本日20日スタート、最大100％還元の「スクラッチくじ」など",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2158160.html",
+   "source": "ケータイWatch",
+   "summary": "PayPay、PayPayカード、PayPay銀行の3社は11月20日、大規模キャンペーン「超PayPay祭」を開始した。期間は12月27日まで。ソフトバンクも同日、ワイモバイルの公式サイトで同キャンペーンの開始を案内した。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-20T12:35+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "923dcc8c2f23c63b",
+   "title": "「dカード プリペイド」、2027年9月にサービス終了へ",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2158122.html",
+   "source": "ケータイWatch",
+   "summary": "NTTドコモ・フィナンシャルグループは、「dカード プリペイド」の提供を2027年9月30日に終了する。同カードは2016年11月にサービスが開始された。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-20T11:51+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "5ee4ad7ba388f2a5",
+   "title": "キャバクラ店従業員の女性からクレジットカードや現金2万円盗み電子たばこを購入した疑い 46歳の客の男を逮捕 警視庁",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pOGpOYUtkdHNJMExGV280QnNWMDRpOVF1LWVCTTJBQ1FuQ0hhbGVncGFnLXFlOEFLSGpvcnhvem5uX2F6bWxqSWVfanpnbWVFczNHY3NTVQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "キャバクラ店従業員の女性からクレジットカードや現金2万円盗み電子たばこを購入した疑い 46歳の客の男を逮捕 警視庁 TBS NEWS DIG",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-20T11:43+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "3f7d9d0554bfb45a",
    "title": "韓国・現代カードに続きカカオバンクもアップルペイ対応…スマホ決済の手数料負担が広がる可能性",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5MXp5ZGptYWFYVVJRcHlvX1NFbEVsZ3pJWEZyTWJXYldrYmxXeGwzT19UalptYm95WFFDX01kalQ1NnZ1eHd0ajF0RUFldGExSUJvellab2FuaV9rZURoT1U5ZnZCSU9pQTRLWFllVzMwUdIBVEFVX3lxTFA2Ny0yekNVcWFVaDZDQXY1cjBNc3BxX3RSQzdPU0ZoOGpQYy1yUXBEUmxOV19xN2NzUy1jR0xOY21COWF2NUwwZHNMTTh2aW9kTzVwNg?oc=5",
@@ -41,6 +253,32 @@
    "type": "news",
    "published": "2026-11-20T11:26+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "4734a49d39aa3618",
+   "title": "即日発行クレジットカード21選【2026年最新】すぐに使えるクレカはどれ？",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yTEJBNFBPd2dIY09PMXVKNHh2UmlSNDQ5WkRJb2tQWloyOS1qS0hqbi1VMWRfeDAxVjc4N2Q4MmhxTUJMVnJuREhVejNNN0xjOVl5aTF0ZXZ3bG5XVGRGY2diOFU5ektjOXc?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "即日発行クレジットカード21選【2026年最新】すぐに使えるクレカはどれ？ ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-20T11:19+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "d06295ddbbdd3332",
+   "title": "「dカード プリペイド」2027年9月30日にサービス終了へ 新規発行は2026年12月20日まで",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news050.html",
+   "source": "ITmedia Mobile",
+   "summary": "NTTドコモ・フィナンシャルグループが、「dカード プリペイド」の提供を2027年9月30日に終了する。新規発行は2026年12月20日、ポイント進呈とチャージは2027年2月28日で終了する。未使用残高は2027年10月1日から専用フォームで手数料無料にて払い戻す。",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-20T11:12+09:00",
+   "via": "ITmedia Mobile"
   },
   {
    "id": "81d34dc938600545",
@@ -416,6 +654,19 @@
    "type": "news",
    "published": "2026-11-20T00:14+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "36faafb336d1e766",
+   "title": "クレジットカードの株価リアルタイム・構成銘柄一覧",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44SldpRnY2cHB2QkR3Z1NsODgwb1I0clQ2RGZaT1A4ckNkZ0k1dmZyMFNrcEtHcDdQbTVMTzVMa29vRHEwNWRfTFoxWGdZU3NHSG1uT1B2ejk2R3pncjR0YWxZQWJYcTR5LXdVMw?oc=5",
+   "source": "Moomoo",
+   "summary": "クレジットカードの株価リアルタイム・構成銘柄一覧 Moomoo",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-19T23:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "bb56894e62cffec7",
@@ -3780,6 +4031,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "c5bf83f1a06d4155",
+   "title": "切符はクレジットカードで購入できる？買う方法や注意点を解説",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FclI5MkNfRFoyZUZHYWtNU1g1Z2xROW9ROVRhVVNobnFmMmV0NTlydUhpUnB3dXQ3dktfeWVDMTJ4YVdRSVdHeQ?oc=5",
+   "source": "マイベスト",
+   "summary": "切符はクレジットカードで購入できる？買う方法や注意点を解説 マイベスト",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-16T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "3c0f5fdb0129e044",
    "title": "伝統的な市場の小規模商人は、キャッシュレス決済に慣れつつある。",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWxXdURlTEFFdXAtWTdtTFdXM2JfWUkyaUxENXhNdjZiNWVueFV0cGlzaUNDY1FIVDQycDNVRnBOZ0luUUdVZ3kxeUNINXo3ZkZjdDVUMXFwQjZCMzJlRUxIU01fWExfTktrbENoRzNvWkZSd2JGR1J4dkVacU53VHl6aEV6OTZzRDEzYUpxVWRUYnlEUnlPaQ?oc=5",
@@ -4379,6 +4643,19 @@
    ],
    "type": "news",
    "published": "2026-11-13T19:55+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "60cba8a82fdaf84b",
+   "title": "窃盗目的でスーパー銭湯侵入疑い 中国籍の男逮捕 客のクレカICチップ盗難、同様の被害各地で相次ぐ 組織的犯行か",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54T1B5eEpEWHVOeDZuRlFVQXJGUDN4a2hVQ19IS0p2eUxuRkZIY3hKY3JsLWs1MVYtV1FNZ2JOaTN6cUVPTHRObjdFR2xUUUZ2VF9pYzdaMXBfTm5CdWNiQ2p5b0tUOFQwNWhsb0ZhSVI3VHJhdVNlaUV2aXNwNVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "窃盗目的でスーパー銭湯侵入疑い 中国籍の男逮捕 客のクレカICチップ盗難、同様の被害各地で相次ぐ 組織的犯行か Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-13T19:53+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -39754,285 +40031,6 @@
    "published": "2026-10-01T16:30+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社バローホールディングス"
-  },
-  {
-   "id": "1f225a4154150a31",
-   "title": "VisaとONEジャパン「国際物流総合展」でB2Bカード決済の導入成果を紹介 - 振込手数料の削減や入金確認業務などを効率化",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QaTJIaEUzLWI4ZjRYOE1qSWl0MHZVUlgzTFVkSmJhZEJ2M29EWjJ0eFJ1RWJzWVpNTEVKUlFEb2QtWHRTYngySnNfQlZoWk5YWXIybGp0ZXZkMUZz?oc=5",
-   "source": "news.mynavi.jp",
-   "summary": "VisaとONEジャパン「国際物流総合展」でB2Bカード決済の導入成果を紹介 - 振込手数料の削減や入金確認業務などを効率化 news.mynavi.jp",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:27+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "9eac2d074f7e9728",
-   "title": "Visa・Pulse・SBPS、オンライン決済領域での「Visa割」キャンペーン展開で協力 - 第1弾は「AION2」",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUNHZiSmFUR1lxTmJGUFFQajdCSjRxUklmMEpuYWgwVkV3Z3huQ0ItazJzUGN5MGxxNXY5bkQ0dWNpYmVtYU45UkZmUjI4NTNvQ3VXRkhzYkJuQXZv?oc=5",
-   "source": "news.mynavi.jp",
-   "summary": "Visa・Pulse・SBPS、オンライン決済領域での「Visa割」キャンペーン展開で協力 - 第1弾は「AION2」 news.mynavi.jp",
-   "categories": [
-    "credit",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:23+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "1a1218b00db2fdbc",
-   "title": "「行政関係の手数料」支払い、徳島県が収入証紙の販売終了…キャッシュレス化に本腰（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zUTRwa0R3OElBYWFFbVVNUVhMeFFEMjkxR25DX3k3VGtsMjZxdkhRdEExbFhQendISGFEdnlvUlJTQUN0Y3Y4NzZHUWZkU25QTXFJeTRQT0Vock5tSzFlMVN0Z3FYdFowMmpwR19xbEU4Y2dYOGJWb2NzQ0lJclk?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "「行政関係の手数料」支払い、徳島県が収入証紙の販売終了…キャッシュレス化に本腰（読売新聞オンライン） Yahoo!ニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:19+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "31f04fcadcac4c84",
-   "title": "インフキュリオン、北國銀行の決済基盤にクラウド型Axiosを提供",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tRUtPdHdlT1lMQkp1NGo4b2hUUHlfR3JRck5LLUZNZi1vcEpMWEVTLWtDNDh2b1ltX2pSN3JEZ2g2R19Bc2ZUYXBseTRGM0xqZW9n?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "インフキュリオン、北國銀行の決済基盤にクラウド型Axiosを提供 ニュースメディアVOIX",
-   "categories": [
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:03+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "e622375b4e22635d",
-   "title": "即日発行クレジットカード21選【2026年最新】即時発行なら最短10秒のデジタル",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yTEJBNFBPd2dIY09PMXVKNHh2UmlSNDQ5WkRJb2tQWloyOS1qS0hqbi1VMWRfeDAxVjc4N2Q4MmhxTUJMVnJuREhVejNNN0xjOVl5aTF0ZXZ3bG5XVGRGY2diOFU5ektjOXc?oc=5",
-   "source": "ペイメントナビ",
-   "summary": "即日発行クレジットカード21選【2026年最新】即時発行なら最短10秒のデジタル ペイメントナビ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "22e56014e619e2c7",
-   "title": "聖教電子版からのお知らせ 「クレカでおトク キャンペーン」10月1日スタート！",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iUVRjb1J4YUZHTHRTdEN5RlBHV21VMkU3T1RuRzhkOWZfeFd0TVJNZGw4aVN3cWZ0aEdKVENIZjAtVElEOE5vMEo3N2ZYYlZlQ1ZaUlluSUtFSVA0dlpYY3ZjSHpUbXpGMGRWeFE4ODlWY0liMWljcA?oc=5",
-   "source": "seikyoonline.com",
-   "summary": "聖教電子版からのお知らせ 「クレカでおトク キャンペーン」10月1日スタート！ seikyoonline.com",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "78f5b069b0ef0bcb",
-   "title": "市役所窓口におけるキャッシュレス決済の導入について",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVV3el9BM2ctLUJkSEhlRzNHVkxfM0c0U1RwQTN6dDFIdXVVaGtJS0pIWkNrdlpnc2VuQl9KWjBXVWNMNG95cS1nNXpVcjI2M1FUa2duUDJQcGltY3RkMl9zbnJvNFRwQlZhbngtSWNkTENWcFByQmRnM293VUJNX29nVTFxY1RyaFJ4Uko3aw?oc=5",
-   "source": "city.fujioka.gunma.jp",
-   "summary": "市役所窓口におけるキャッシュレス決済の導入について city.fujioka.gunma.jp",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "8f0ccb16478e1476",
-   "title": "Suicaで得する、おすすめのクレジットカードを比較！【2026年最新版】Suicaチャージでポイントが貯まりやすい、おすすめクレジットカードをまとめて紹介！",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NNkVvd3RBQjFRNDRmdEFfQWZIcUE5VjF4MlhUbjVLUVN5V092WTVRRG9ZRlV0UllaSTE2TkE1bGh6SG82QS1WOC0wM3RYTGlaTEE?oc=5",
-   "source": "ダイヤモンド・オンライン",
-   "summary": "Suicaで得する、おすすめのクレジットカードを比較！【2026年最新版】Suicaチャージでポイントが貯まりやすい、おすすめクレジットカードをまとめて紹介！ ダイヤモンド・オンライン",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "e793b78735b7bc05",
-   "title": "年会費無料のクレジットカード【2026年10月】永年無料の最強おすすめクレカを比較",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wdHcwZVdKNzJpV2c4YlR2OW5XNnhxUWVaVDZwX3FxNmY4djNMZENud0w2eFdHOWt5YVYwYlQ5Mk5pWFJTV2hFLXFPZXdNZkY3TUR1emt5SFZ3cUtL?oc=5",
-   "source": "株探",
-   "summary": "年会費無料のクレジットカード【2026年10月】永年無料の最強おすすめクレカを比較 株探",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "3775126efa0185d3",
-   "title": "女性におすすめのクレジットカード！20代から50代まで年代別の選び方も解説",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qc1cza1phNGpUYVZLZWRVS2E1Yk1kMDlOemROaGpoUklOSlRfMXcxYnBhZUVqT0hVTGF4WjVqVWdtaXhyaEtYYXFteWhtSDdo?oc=5",
-   "source": "株探",
-   "summary": "女性におすすめのクレジットカード！20代から50代まで年代別の選び方も解説 株探",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "0e4b52f05071ad93",
-   "title": "Apple Pay対応のクレジットカードで選ぶ！Apple Payに登録して得する高還元率カードはコレ！",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nX0JJa2xwZTJucXdyaVdrd29GRmJuaDlqQXhPdFA2QWNpYXlTV1BaUkt6SmxVa3RXVVFSU05CRE4wbFpsVkV6ci0yNEJCWVNVSHc?oc=5",
-   "source": "ダイヤモンド・オンライン",
-   "summary": "Apple Pay対応のクレジットカードで選ぶ！Apple Payに登録して得する高還元率カードはコレ！ ダイヤモンド・オンライン",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "811ca7268b468cb7",
-   "title": "人気のクレジットカードから選ぶ！（2026年最新版）みんなの「おすすめクレジットカード」一覧！",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxeWdXQVNrc3FwWFozTU5SbXRQbmtoZndWQ2llYXU0SWJ0QXN2ZnJvR29INExub25vS2gtd2VwUUlyZVN2Yll3bjNMbThqbm5w?oc=5",
-   "source": "ダイヤモンド・オンライン",
-   "summary": "人気のクレジットカードから選ぶ！（2026年最新版）みんなの「おすすめクレジットカード」一覧！ ダイヤモンド・オンライン",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "c05819c6f19e610c",
-   "title": "アメックスの新規入会キャンペーンをまとめて紹介！【2026年10月最新版】｢アメリカン･エキスプレス｣の入会特典で、ポイントやマイルをお得に獲得しよう！",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uSEtjd0hfVkJ4WXdiUHFoOVJLZmtXTTdKME5fenJ0SnV3d0Z1N21ob1BvMkJUa3FPaW1KVGp4akRMRU0tRGhpQnA3SHl1c3J4cWc?oc=5",
-   "source": "ダイヤモンド・オンライン",
-   "summary": "アメックスの新規入会キャンペーンをまとめて紹介！【2026年10月最新版】｢アメリカン･エキスプレス｣の入会特典で、ポイントやマイルをお得に獲得しよう！ ダイヤモンド・オンライン",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "2e84166f8fdef0cf",
-   "title": "プラチナカードおすすめランキング【2026年10月】コスパ最強のハイステータスカード17枚 - クレジットカード比較",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85dm9Ka0dSZW9xZkFxc0FDR3BHMjRlMVlBTWktc0t5SVZaNGd5YkxrVm5SVmxvWmx3YzBadUZ1dnhXOHp5X1dBNnJCUnk3UWFROHp5RTV1bU95dw?oc=5",
-   "source": "株探",
-   "summary": "プラチナカードおすすめランキング【2026年10月】コスパ最強のハイステータスカード17枚 - クレジットカード比較 株探",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "423204f9bc62c500",
-   "title": "届いた通知からそのままスマホ決済！マイナンバーカード基盤を活用した確実・安全なデジタル公金納付",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yOTBWYUljdGxPTUtBdF96al9uU2ZlV1NWOGFYQkd1LWlzdVdaQTVkVTdjdFZuT0cxeW1wY2szdGFOUmw3ZWRPYV9mTjdWcG1XcWJF?oc=5",
-   "source": "DXマガジン",
-   "summary": "届いた通知からそのままスマホ決済！マイナンバーカード基盤を活用した確実・安全なデジタル公金納付 DXマガジン",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-01T15:58+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "9786275a1cbfc262",
-   "title": "インフキュリオン、CCIグループとともに北國銀行のカード加盟店サービス「スマートプラン」の提供を支援",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmZDhrdDJkaHpyYm96MXdiNktITGNJcTh0U2lWM24zUXMtVFVISU1IaVkwNXZaMGFHMTdMcWtnSmZ6c2tPbnl4RWFFRjlYSkI2NHhhSUVPUlA3LW8?oc=5",
-   "source": "朝日新聞",
-   "summary": "インフキュリオン、CCIグループとともに北國銀行のカード加盟店サービス「スマートプラン」の提供を支援 朝日新聞",
-   "categories": [
-    "psp"
-   ],
-   "type": "release",
-   "published": "2026-10-01T15:40+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」",
-   "company": "PRTIMES"
-  },
-  {
-   "id": "6375cba6c5221939",
-   "title": "アドベンチャー[6030]：skyticket、クレジットカード決済の不正利用対策サービスを拡充し、不正利用を大幅に削減 2026年10月1日(適時開示) ：日経会社情報DIGITAL",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOckk1d1hjcVRQeWpDTWtteDk3NVFpZmJZWWFsQ2xSRU9tdXBkUURiS0ZsZnlnQkhnVE4tckk5WE5aVzhVT21qSWVvVXRqVWpPN3FwdWxVVzJlOGIyMG1nZUpNY3RiU2dNSnNXN1MyYXhsWVNWZm9SNE1nWHVMYWtqNXJ1VFFGY2V3VXZIS2JKOWRYdFJHRnd5NGRZOHRYSmVPeWtfQnozY1p3VEplT1Z2VGs0czlUSUZ2d20wU25Fd1ROZWt2SXdnQzlLQzQ?oc=5",
-   "source": "日本経済新聞",
-   "summary": "アドベンチャー[6030]：skyticket、クレジットカード決済の不正利用対策サービスを拡充し、不正利用を大幅に削減 2026年10月1日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-01T15:30+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "950b432b1338c330",
-   "title": "skyticket、クレジットカード決済の不正利用対策サービスを拡充し、不正利用を大幅に削減",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VY3FIcFBSeE1ScU5TU2JLNDhKaFZXcWRBeGowVm9oeFpjY0hQZU00NHFNTkdqbFpuS2FtbVdhdVM1dUxHVEFOY1lRX2JqQ0Foa3RMSWw1SEVyd0xUTG41UG80OWp0SExPLXc?oc=5",
-   "source": "PR TIMES",
-   "summary": "skyticket、クレジットカード決済の不正利用対策サービスを拡充し、不正利用を大幅に削減 PR TIMES",
-   "categories": [
-    "credit"
-   ],
-   "type": "release",
-   "published": "2026-10-01T15:30+09:00",
-   "via": "Googleニュース「クレジットカード」",
-   "company": "株式会社アドベンチャー"
-  },
-  {
-   "id": "bac870014836b3b9",
-   "title": "GMOヘルステックが提供する新キャッシュレス自動精算機「ハヤレジライト」の魅力",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80aExndEdGS2FIQ2ktUjN2OTY4aUpzcGg3bUNNOGZKYmNKbTBaekpaYVdhalRydTRxeWxNcnVwd2F5RHg5MkhqNnowSTJYNE92R3VhVjFKeG9zRl9fZThLRUpMeW1qNnpXbW9OblVXSE91TzA?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "GMOヘルステックが提供する新キャッシュレス自動精算機「ハヤレジライト」の魅力 ニュースメディアVOIX",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-01T15:30+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "44b82ea6f76a3c65",
-   "title": "横浜八景島が楽天ペイ導入でシーパラダイスなどでのキャッシュレス決済が可能に",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pMWh0VmJQZ3R4MFIxeWk1SDZpU0hHaE1zaUdaWG1QbXhMRXF4YkFMWkdUa21fMXk3RG9zd2ZXVFZ4XzhWSmM5TDNrYnBoUXNMUTdwSFNZczlZNVc0UmNsQlFaSWxJY0hFOUtYTG1nVzJhMTZkaXdJ?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "横浜八景島が楽天ペイ導入でシーパラダイスなどでのキャッシュレス決済が可能に ニュースメディアVOIX",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-01T15:15+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "96d858f2f515210f",
-   "title": "香港のステーブルコイン決済サービス「レドットペイ」、IPOに向け財務監査完了",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TcXhRc0tORW04Ym84Y240MXdMSWE1b3FrVUxyWW14ZDBHUFJqSFJkWVBkcUZObU52VFlCLU1FSzcyZmVuRV92dXI1ZmhaeG8?oc=5",
-   "source": "neweconomy.jp",
-   "summary": "香港のステーブルコイン決済サービス「レドットペイ」、IPOに向け財務監査完了 neweconomy.jp",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-01T15:09+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
   }
  ]
 }
