@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T11:47+09:00",
+ "updated_at": "2026-11-21T17:43+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,72 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "50b4cf2e27183acb",
+   "title": "六花亭のカード情報流出、約5万円の不正利用1件が判明",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FYXBNMk94dGRpelBLckFTVDVDeWowYlFUTVpfbUNKSktnSjVOd1FHT3VCX19MaU9OZHZGN3E5ejhQeG95eVhMNUgtcV83Q0Zjby15ZlVMZ3gxWUZta2x5RHNDZVdOaFhtX0hUY2s5azd4SjVa?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "六花亭のカード情報流出、約5万円の不正利用1件が判明 BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-21T16:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "3380c0eff5f74889",
+   "title": "くまモン！Pay使用不能に QRコード決済、デジタル商品券 不正アクセスで臨時メンテナンス タッチ・ネット決済は使用可能",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTzRSczFHWnB2WUMweldKUjZHZXZwa0k2aXpYLXk2S05BWm9aZmtITmozRjVDZHhNelVyeFNqREpPZUVDQUZhS2ZuazJKVU0?oc=5",
+   "source": "熊本日日新聞社",
+   "summary": "くまモン！Pay使用不能に QRコード決済、デジタル商品券 不正アクセスで臨時メンテナンス タッチ・ネット決済は使用可能 熊本日日新聞社",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-21T16:27+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "91432b1010b11489",
+   "title": "カード情報流出の六花亭、不正利用を1件確認 「再発行を」呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lNGxFSnI5UXNBMWltS3d0R1Z2MzhSZ0l5TE9QRnJoWTFZVHZlWlliaG5nMXFXcWtqd1NJeHpMbVhIbG9XTV9hbkYtNzVza1JlZ3loVE4wdjIxbnBkUmFrTXV0LU9fWlk?oc=5",
+   "source": "朝日新聞",
+   "summary": "カード情報流出の六花亭、不正利用を1件確認 「再発行を」呼びかけ 朝日新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-21T15:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1f6aabbdfbf29284",
+   "title": "札幌市電のタッチ決済、導入5カ月で利用順調 1日平均900人超、手段別は4％",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQXNLZFMySFlUdUFpLVdwdUlqMHpWU3BBWFVzQnFCQWhRMklQYkJMS0Nqcld2SGVWTFgwbnVZal8xaFM2TmM2Q18tc2Z5aGZ0bzdxcFduNzBqQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "札幌市電のタッチ決済、導入5カ月で利用順調 1日平均900人超、手段別は4％ 北海道新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-21T14:34+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "962b936a23c68962",
+   "title": "焦点工房 ヤフーショッピング「 2026年ブラックフライデー PayPayポイント 最大23％」開催！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000755.000071960.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社焦点工房] [画像1: https://prcdn.freetls.fastly.net/release_image/71960/755/71960-755-26016d9ad00dd1b7e81f0960c154cd32-1080x652.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-21T12:45+09:00",
+   "company": "株式会社焦点工房",
+   "via": "PR TIMES 新着（直接）"
+  },
   {
    "id": "7f04be48f5034ab6",
    "title": "「ダイナースクラブカード」をアメリカ本土やハワイで使うと、最大10万円のキャッシュバックが当たる！海外旅行での買い物がお得になるキャンペーン紹介！",
@@ -80,6 +146,19 @@
    "type": "news",
    "published": "2026-11-21T09:00+09:00",
    "via": "Impress Watch"
+  },
+  {
+   "id": "5284e237b487c6b8",
+   "title": "目的は後からでもいい クレカ積立を続けたら子どもの教育費になった（菊地崇仁）",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53QzlQalN2dGdWSDJVR2ZLNm1ocjg5ZXExQWNWZzVSTEVKVnFJTE0tTEV2VEZVdTE2blZHM2kxWTZSRlY1MUw4Smd3WXBfSzIwMEVHdjZwSWJsaHFrXzFj?oc=5",
+   "source": "Infoseek",
+   "summary": "目的は後からでもいい クレカ積立を続けたら子どもの教育費になった（菊地崇仁） Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-21T09:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "0639da535000714c",
@@ -515,6 +594,20 @@
    "type": "news",
    "published": "2026-11-20T14:00+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "88e5a3ea062d6d18",
+   "title": "「120分飲み放題・刺身5点盛合わせ・鍋2人前」居酒屋で5300円分飲み食いするも所持金1210円で金払えず→クレカもスマホ決済も失敗→65歳男を詐欺容疑で逮捕「無銭飲食するつもりなかった」＜旭川市＞",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EamE1X1k4Slg1aV9aa2ZUeVg3bElQRXZlc1h2QzRlVFVrUlAxT3NMM0ttY2FXOHdhdWZJSVJ4a2ZGT3VfazMxMDdFbk1QdGEzSGxzbG1UWQ?oc=5",
+   "source": "UHB 北海道文化放送",
+   "summary": "「120分飲み放題・刺身5点盛合わせ・鍋2人前」居酒屋で5300円分飲み食いするも所持金1210円で金払えず→クレカもスマホ決済も失敗→65歳男を詐欺容疑で逮捕「無銭飲食するつもりなかった」＜旭川市＞ UHB 北海道文化放送",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-20T13:23+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "a623004f09566360",
@@ -2875,6 +2968,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "363fed3380c91b7a",
+   "title": "Mastercard to Offer “Stablecoin Security” in the U.S., Calculating Risk Scores Before Payment Completion and Providing Them to Financial Institutions",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TODRqRjNTSjlDc0JpdjYxVFA0a3NQRmpiTG9NTE8tWkIzR2pkTlFaODhNYzl1TExWVFVLbmJkXzV2UFBucXdraDEwZjhaZlJtTllYSTVZMUJuYlJBV3c?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "Mastercard to Offer “Stablecoin Security” in the U.S., Calculating Risk Scores Before Payment Completion and Providing Them to Financial Institutions ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-18T08:30+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
    "id": "f4c47bdf548c5505",
    "title": "PCI DSSの次章に向けて、2028年２Qに新バージョン PCI Security Standards Council",
    "link": "https://paymentnavi.com/paymentnews/186136.html",
@@ -3095,6 +3201,19 @@
    ],
    "type": "news",
    "published": "2026-11-17T18:03+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "3775126efa0185d3",
+   "title": "女性におすすめのクレジットカード！20代から50代まで年代別の選び方も解説",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qc1cza1phNGpUYVZLZWRVS2E1Yk1kMDlOemROaGpoUklOSlRfMXcxYnBhZUVqT0hVTGF4WjVqVWdtaXhyaEtYYXFteWhtSDdo?oc=5",
+   "source": "株探",
+   "summary": "女性におすすめのクレジットカード！20代から50代まで年代別の選び方も解説 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T17:00+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -4062,6 +4181,19 @@
    "via": "ケータイWatch"
   },
   {
+   "id": "fa4c98c766ae161f",
+   "title": "箱根登山バス、箱根湯本温泉旅館送迎バスにキャッシュレス決済を導入へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HX0NsRW1NUUcxSDBlQzYtaDNmNzAyMFByczFaTnMzbHNvVEhadlFtckNsODBOQjJyaVBvMG95LXRMRi02UEE?oc=5",
+   "source": "Dellows News",
+   "summary": "箱根登山バス、箱根湯本温泉旅館送迎バスにキャッシュレス決済を導入へ Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-16T14:05+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "78417b5f932c49b2",
    "title": "GMOペイメントゲートウェイ、増収増益",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KbUs3cGU2dkFjNG5tUllQUlpKTTVmZksxUUhMcjVZQVVjb2VSZFlEbFE5bnRfSDZYMFhEbnN4WENsajNFSm9aLThRLWp3SElBSFNmS1pzRDFDdmMxb1hvUXZOLURBQ1N2azN0OA?oc=5",
@@ -4516,6 +4648,19 @@
    "type": "news",
    "published": "2026-11-16T00:00+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "35f98fff6304553f",
+   "title": "【2026年11月】WAON・AEON Payのキャンペーン！ポイント10倍になるお得な日を紹介",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56ODhSQ1B3OXdESWViUURFOEZOeTdQNEVWNE9zUzVNOUlYeDVnczFMVy0xem5hU2kwRmdCN0VuMUZ4NEIzYTBfeg?oc=5",
+   "source": "マイベスト",
+   "summary": "【2026年11月】WAON・AEON Payのキャンペーン！ポイント10倍になるお得な日を紹介 マイベスト",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-16T00:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "3c0f5fdb0129e044",
@@ -39879,151 +40024,6 @@
    "type": "news",
    "published": "2026-10-02T12:33+09:00",
    "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "eadd7ba4dfb8548e",
-   "title": "「シンプルだけどよくできてる」実際に使ってみたら手放せなくなった！ キャッシュレス全盛だからこそ実は重宝する、ノースフェイスの［ランブルコインワレット］を紹介（月刊自家用車WEB）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoRFRNNTNYZkZFVXhfOFZQSFJSbEpkVEQwZXNfcy1CcFBnVnFzX004NzVobHFOX181UUF5aFBjMzVnRzZNLUR2Z1JzZUpOa05MSmZKNUNjdjNWZ3N1UmcxNFlLb1BuYkxyQUxWWkhuTGpLRGdOMGs0Z1NhaEZoTkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "「シンプルだけどよくできてる」実際に使ってみたら手放せなくなった！ キャッシュレス全盛だからこそ実は重宝する、ノースフェイスの［ランブルコインワレット］を紹介（月刊自家用車WEB） Yahoo!ニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:17+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "9e133225e9b8386c",
-   "title": "路面電車のタッチ決済サービス、10月から本格導入…長崎電気軌道「周遊にある程度寄与」",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ncmljbFMwVTJlVlpub3N4RTZfUWVHckM3cWRFMHJwOFN6WlMxaWxxc1ZxenBPejFmSHR1YTBLSjAxbXZYdnNEQkR6Zw?oc=5",
-   "source": "47NEWS",
-   "summary": "路面電車のタッチ決済サービス、10月から本格導入…長崎電気軌道「周遊にある程度寄与」 47NEWS",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:15+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "4de5e3121fc27768",
-   "title": "ニッポンレンタカーで別の不正アクセス発覚 新たに55人分情報漏えいか 免許証番号やクレカ4ケタも",
-   "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001952/",
-   "source": "ITmedia NEWS",
-   "summary": "新たに55人の会員情報ページに不正アクセスがあり、登録していた会員は、免許証番号やカード番号下4ケタ、名義人名も閲覧されたおそれ。",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-02T11:48+09:00",
-   "via": "ITmedia NEWS"
-  },
-  {
-   "id": "fe8ffcc60241c5fd",
-   "title": "【北國銀行】業界最安水準の決済手数料率1.88％～！お手持ちのスマホで導入できる加盟店向け決済サービス「スマートプラン",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14eHFyVGlLSURTTXQteElEU0I3Q0o1YjBHZkVvQ3BWam5rZkJ3R0R2ZkJVei03SzRRVzNlY0w3NHZxRU95aThXNXVxZjVNR211djc0ZQ?oc=5",
-   "source": "ニコニコニュース",
-   "summary": "【北國銀行】業界最安水準の決済手数料率1.88％～！お手持ちのスマホで導入できる加盟店向け決済サービス「スマートプラン ニコニコニュース",
-   "categories": [
-    "cashless",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-02T11:21+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "12f4305f5c4381ce",
-   "title": "オルタナバンクが新たに発表した海外BNPL事業支援ファンドID1177の魅力",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xY0JNWE02cXZmSGxsVHBVbkd1eU5hMFlqMUdpa2JZUllfWkIwckF2MzhWQ25jd2dfdlZpT2E2Wkk5Y09NZ2ZBUzE2djUzYmczekJVYQ?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "オルタナバンクが新たに発表した海外BNPL事業支援ファンドID1177の魅力 ニュースメディアVOIX",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T11:04+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
-  },
-  {
-   "id": "8ec53cc2fe040192",
-   "title": "ほっともっと「ほっとパイ」発売記念でSNSプレゼントキャンペーン実施。電子マネー500円/ヘアドライヤーが当たる (グルメ Watch)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2RzUDllRXZQTEM2NE10QUkzbEtjVHN1dlNldGU0UUFQVmE4MEJiend3cHJtXzRwMm1NT2g5WU1Ua3huT3o2QzJlMHl4VE1NeHlqSV9ZTm1ndm5RRXYzU2hLZ1lIUUV6c0JxQWQ1bTZPLVZsRG1yWC1WWl91RkJCT0pJTklqRU5nS3VEa0FB?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "ほっともっと「ほっとパイ」発売記念でSNSプレゼントキャンペーン実施。電子マネー500円/ヘアドライヤーが当たる (グルメ Watch) Yahoo!ニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T11:00+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "324c96f86da8ae5d",
-   "title": "北國銀行が提供する新たなカード加盟店サービス「スマートプラン」の魅力と活用法",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTdkRqYS1pZXBkcTVSNkp1Y0kxOTNFdkNYV0JPWDlaRkJaYV9IMVVEOUpoOU5yYlNidkthUHlBbGpOa2JUTUFaRzk1RXR5Njd6OGY4allfMVBCdTVVOVJja2lTWkptc1hud1M4cnVmaXlyNl9vYWc?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "北國銀行が提供する新たなカード加盟店サービス「スマートプラン」の魅力と活用法 ニュースメディアVOIX",
-   "categories": [
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-02T10:58+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "c6ec7d44ef13eff2",
-   "title": "沖電気と日立製作所がATM合弁発足 キャッシュレス普及で利用減、効率化狙う",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTZHh2YlZ1bjJZSnNBQjBTOTljV0NmYXcxUlRZY2tvZTBTQUZldUp1UFYtNFh2Z190V2FFSGlzNWVqZkJ3X2VVX3RqZGppeWo4MndWejk2UGJyWFBTcFhHaTZBbXZQVkVzNHdRX2Qxa0ZidWR3SV9QZi1BaFRlUQ?oc=5",
-   "source": "ITmedia エグゼクティブ",
-   "summary": "沖電気と日立製作所がATM合弁発足 キャッシュレス普及で利用減、効率化狙う ITmedia エグゼクティブ",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T10:54+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "f28a32d88ee3b168",
-   "title": "アメックス クレカ乗車 抽選キャンペーン｜クレジットカードはアメリカン・エキスプレス（アメックス）",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMm53QnkwVU9ZTUtLTnFieWY4RlZIdVhYbjZvNWZzcGhDVmdEaks1VUFHTW9FZFNDZC0yWVJzdG1EbWoybldOcjdRMTg3UUczc2IzWUs4OWt0TmVDMzBMUDE1bnQ1dGs1MWhJVnZnMXJ4eDJuTnNfU01BSWZFdzd3b1VMVEpsUQ?oc=5",
-   "source": "American Express",
-   "summary": "アメックス クレカ乗車 抽選キャンペーン｜クレジットカードはアメリカン・エキスプレス（アメックス） American Express",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-02T10:44+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "1271980ed5f925b7",
-   "title": "au PAYとPontaのキャンペーンまとめ【10月2日最新版】 抽選で7万7777ポイント還元や最大25～39％還元あり",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsSV9sMHpvLXZpWUxMdF9nRGZGRjgzNTMtVnM5SEhBcTQ2TDdIdDRyVjhzal9wWXVSc2REMGVqeHdPQXE1dk1Pa2VpN3UxOHlzeUowaXRnR0I3MUVuVU5VQkNwNFVLYjZTOVZzNU9qNEc5TXVLQ0HSAXZBVV95cUxQbElfbDB6by12aVlMTHRfZ0RmRkY4MzUzLVZzOUhIQXE0Nkw3SHQ0clY4c2pfcFl1UnNkRDBlanh3T0FxNXZNT2tlaTd1MTh5c3lKMGl0Z0dCNzFFblVOVUJDcDRVS2I2UzlWczVPajRHOU11S0NB?oc=5",
-   "source": "Infoseek",
-   "summary": "au PAYとPontaのキャンペーンまとめ【10月2日最新版】 抽選で7万7777ポイント還元や最大25～39％還元あり Infoseek",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-02T10:44+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "9a658a43c2abb805",
-   "title": "決済サービスを提供するSBペイメントサービス株式会社が決済代行事業を展開するSP.LINKS株式会社を子会社化",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UMGVvN0VtMW93UmtsUXliT0R1Z3h0TTdnVXFwakdidDVIbU1zLVd4STNrMVJZd1RQU0xweTJpejZOWExBVU0zMV85NlZjQlU?oc=5",
-   "source": "STARTUP LOG",
-   "summary": "決済サービスを提供するSBペイメントサービス株式会社が決済代行事業を展開するSP.LINKS株式会社を子会社化 STARTUP LOG",
-   "categories": [
-    "cashless",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-02T10:18+09:00",
-   "via": "Googleニュース「決済代行」"
   }
  ]
 }
