@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T17:43+09:00",
+ "updated_at": "2026-11-21T20:41+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "064e4c809e147805",
+   "title": "【FC加盟店募集を開始】メンズ眉毛サロンKEGIRAI、50店舗以上を指導した代表が語る、指導と店づくり",
+   "link": "https://prtimes.jp/main/html/rd/p/000000033.000183614.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[K2株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/183614/33/183614-33-4fa165445caf1a24d7203ae2b6f6e267-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+   "categories": [
+    "psp"
+   ],
+   "type": "release",
+   "published": "2026-11-21T20:10+09:00",
+   "company": "K2株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "50b4cf2e27183acb",
    "title": "六花亭のカード情報流出、約5万円の不正利用1件が判明",
@@ -40010,19 +40025,6 @@
    ],
    "type": "news",
    "published": "2026-10-02T13:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "ceb66395aed94061",
-   "title": "タイムズカー会員情報160万件流出 不正利用防ぐための申し込み殺到 アプリ受付を一時休止 日本信用情報機構",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rWkpJUnh4ZGp2RjZOelczbDJ0OHprN0h4WDdjSW80SkVKSWtZVzU2LWlFMlNrdlYtT1BNQS1yY3BIeEw4ci1lTnEzc3NDLVJaNGRWZWZEam0zWnNmai1jUGhRdVliZUNiTS1uMjJJYlVocldXT25hR1RQbHRxT0E?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "タイムズカー会員情報160万件流出 不正利用防ぐための申し込み殺到 アプリ受付を一時休止 日本信用情報機構 Yahoo!ニュース",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:33+09:00",
    "via": "Googleニュース「クレジットカード」"
   }
  ]
