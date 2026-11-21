@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T21:58+09:00",
+ "updated_at": "2026-11-22T00:33+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,19 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "0089f758d6405492",
+   "title": "キャッシュレス決済依存、リスク表面化 薄氷の160兆円経済 現金回帰でバランス必要",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kQU9PUXJXczlGY3FNNTI4WlZ4a0hnY080V2ctcDVOWjJfZ3dZMW9Ra0xXWUF5UVZkQTFFODA4T1FFMnNHUGRGZmZpTXM3TDV0UG83NGhERWFwNG5nQVhYMWI5cGlkYzRHcHpPQzUyMThHV0M1Smc?oc=5",
+   "source": "産経ニュース",
+   "summary": "キャッシュレス決済依存、リスク表面化 薄氷の160兆円経済 現金回帰でバランス必要 産経ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-21T22:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "93b9019f16c76ad8",
    "title": "NAPASが観光地で国境を越えたQR決済を拡大",
@@ -108,6 +121,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "e4260ec7ce0d6c0f",
+   "title": "オープンループ方式のBNPLサービスの開始が、セズル株の見通しを変える可能性がある",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVFsOXZobUVSbWRsLUM4MUo3Nmg2dDFRbUl0d0FTekdwWE9pdjZES1JlemJpeEVTWV9JemtiZmhxbkFFX2xXQ1lyZ09EMHduUGx5eGFIWVVfZlhPYzBxMHM1ZW9kQ2xUOUIzQ0VFM0RhMlNheDRJTXM5YXZHdmpObzd0Z0VDY2Q2Uy1Eb2ZKeVU5YXM1eFpDWjhqOW9fLUnSAaQBQVVfeXFMT1RYazhqOENHSDVfeEp0T2xidEhmc0hOMEk4YzlNZU1RZUtlWjdVMXh0czJRN000TzJUVmFqOVhILXR3UGltelFRcDVFVG80dXh1SS02Rk1KcjB4RWlacjdpbXJWZHdRVTZia3FKcVFZdU5tU2taN05Gc3gwUjJYV1pxSGRTa25PZklCcVJQUEEyZHhkRXN3aDZhaG9yLTBhOVpfS0w?oc=5",
+   "source": "Simply Wall St",
+   "summary": "オープンループ方式のBNPLサービスの開始が、セズル株の見通しを変える可能性がある Simply Wall St",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-21T21:09+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
    "id": "8fdd36a0b00e7c1d",
    "title": "六花亭から流出のクレカ不正利用1件確認（共同通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90dkdxYndFMzhWZW9ha05jM2hoaXdxdDlpNl9mR19jSzVkZ1dLT0hKT1dsb3Z4aVRJNFJlODVBU0tlS3FERkUtWHh3VDV5aVIyZEJPelZQcGVuV0hXc2RvcVlCOGxrZ3FkVlU4Nnl3VnJBdzNaVU90T1ZDTTJTeU0?oc=5",
@@ -179,6 +205,19 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteFR0am1NQldIYk9zTjZKelhaOW9RV3ppVDhQR3p4RFNSWjFYTFBxbUVzWDNuNWpnamZXeF9aZk1JdHVIeDhHX2xGYmF2QnIwa3VXWHloV3U4UQ?oc=5",
    "source": "北海道新聞デジタル",
    "summary": "六花亭、クレジットカード不正利用確認 情報流出で被害1件、5万円 北海道新聞デジタル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-21T19:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2099d40859986999",
+   "title": "六花亭、クレジットカード情報流出で不正利用1件確認 見舞金を準備",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteFR0am1NQldIYk9zTjZKelhaOW9RV3ppVDhQR3p4RFNSWjFYTFBxbUVzWDNuNWpnamZXeF9aZk1JdHVIeDhHX2xGYmF2QnIwa3VXWHloV3U4UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "六花亭、クレジットカード情報流出で不正利用1件確認 見舞金を準備 北海道新聞デジタル",
    "categories": [
     "credit"
    ],
@@ -3418,6 +3457,19 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qc1cza1phNGpUYVZLZWRVS2E1Yk1kMDlOemROaGpoUklOSlRfMXcxYnBhZUVqT0hVTGF4WjVqVWdtaXhyaEtYYXFteWhtSDdo?oc=5",
    "source": "株探",
    "summary": "女性におすすめのクレジットカード！20代から50代まで年代別の選び方も解説 株探",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2172e9a8a5c5cb52",
+   "title": "クレジットカードのお得な新規入会キャンペーン特典比較【2026年11月最新】",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kaUkzcy1mbnNYaE1ka2hMcTBMVW9KT0ZWLWNWRzhxaTFjYlBaUkxCeUJmY3YyMEZqa0NPVFM5MHkwbV9Zc1ctZ0VSNzNOLTRQ?oc=5",
+   "source": "みんかぶ",
+   "summary": "クレジットカードのお得な新規入会キャンペーン特典比較【2026年11月最新】 みんかぶ",
    "categories": [
     "credit"
    ],
@@ -39962,61 +40014,6 @@
    "published": "2026-10-02T17:10+09:00",
    "via": "Googleニュース「クレジットカード」",
    "company": "株式会社サイトクリエーション"
-  },
-  {
-   "id": "26a774cb2bf84d4b",
-   "title": "ヤマト運輸、「クロネコ代金後払いサービス」へ不正アクセスが発生と発表。サービスを停止（ネットショップ担当者フォーラム）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXaG9qS1FEODY3S3V4a29CRU0zSlBZTjVPTmZubFhvOGloU0tQRWRUTVZnS1pmLWFfcFVuWDR0ZTBPVWRaVWNxOHZmZXY3dUZFYVFqWEtURE1Ha2ROOWhobEczMmhBZEhuMGk2eDQ4SER4c1lTak45SzZrR2tpVmc?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "ヤマト運輸、「クロネコ代金後払いサービス」へ不正アクセスが発生と発表。サービスを停止（ネットショップ担当者フォーラム） Yahoo!ニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T17:01+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
-  },
-  {
-   "id": "9ec7a5b2ddc1c5ce",
-   "title": "安全なデジタルマネー基盤を全国へ「OEM電子マネー」「地域マネー」を提供開始",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42bDJNNnRFY0h4aFNWenk2UndLNlR2d3R2bFBlUWNrOVExX3YzMnVYRHhKZHIwTHNKcFNfeVVDTjY3S3ZzS1ZBcGlkTmFtU3FpR3laOQ?oc=5",
-   "source": "ニコニコニュース",
-   "summary": "安全なデジタルマネー基盤を全国へ「OEM電子マネー」「地域マネー」を提供開始 ニコニコニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "release",
-   "published": "2026-10-02T16:21+09:00",
-   "via": "Googleニュース「キャッシュレス決済」",
-   "company": "ウェルネット株式会社"
-  },
-  {
-   "id": "18c287bb90c17bd3",
-   "title": "クレカとは別の決済ルート──Binance PayをPayPay加盟店につなぐ「HIVEX」とは（NADA NEWS）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90b09uX1JwUTZVaXRMWVhyV1d3ZnNaczdpUnNmN3Znd1JPSUFQck95UW5LbDZMdExocmt0UFFfcm9pQUJfLUdta3YzYnBHZkpLRW0zZXZwVVNKZXNzQ05MSG1udGhNVFoyMmhrODdVTUdIYWxCcFNHbGlab0ZMZE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "クレカとは別の決済ルート──Binance PayをPayPay加盟店につなぐ「HIVEX」とは（NADA NEWS） Yahoo!ニュース",
-   "categories": [
-    "code",
-    "credit",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-02T16:14+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "4eaf91bd3e4190de",
-   "title": "海外旅行におすすめの最強クレジットカード10選！手数料や年会費を比較",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pb08yU1p4LVV1cmEwU0dkTlZFQXFVRFBhb2lfY0I0WjQzTDNoYUwwM29GbTJJT1N5YTBlUjV6Q25OWnV0RWQxajB4a29LcGlDVnVpNlFBdGY1MWZrcGd3ck5iUWJySTBzZ3JBUnJ0MmhDZw?oc=5",
-   "source": "新日本保険新聞社",
-   "summary": "海外旅行におすすめの最強クレジットカード10選！手数料や年会費を比較 新日本保険新聞社",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-02T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
   }
  ]
 }
