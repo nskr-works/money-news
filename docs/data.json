@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T17:44+09:00",
+ "updated_at": "2026-11-22T21:50+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,59 @@
  "topics": {},
  "items": [
   {
+   "id": "aeeaccd2f22503da",
+   "title": "歯科医院発のリップアートメイク「DENTLIP」、IBF世界フライ級タイトルマッチに挑むミエル・ファハルド選手とスポンサー契約を締結 あわせてアメリカン・エキスプレス決済...",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZdDdwOUtyQVlfMm1YUXlhOTNRemNYTGhNclNkODFCa1FubTlTNEEwLTVGcnpxZXlxTzZrYVlOYkZidUZtVTRzUEpNSHpwZw?oc=5",
+   "source": "アットプレス",
+   "summary": "歯科医院発のリップアートメイク「DENTLIP」、IBF世界フライ級タイトルマッチに挑むミエル・ファハルド選手とスポンサー契約を締結 あわせてアメリカン・エキスプレス決済... アットプレス",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-22T20:43+09:00",
+   "via": "@Press（決済）",
+   "company": "DENTLIP株式会社"
+  },
+  {
+   "id": "6063dcda592fbc56",
+   "title": "六花亭オンラインショップで個人情報流出の恐れ クレカ不正利用1件確認、再発行を呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HNVlYVnZ1ZWFoUHNmbWVPRlRpVUxNbmhIQzhjMjlPY0wwZUpwSXFJXzMwekEtb1paV2Q0RUg2RUtVTDJLX1VFclZRc2R6TnM1WDZN?oc=5",
+   "source": "東京報道新聞",
+   "summary": "六花亭オンラインショップで個人情報流出の恐れ クレカ不正利用1件確認、再発行を呼びかけ 東京報道新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T19:26+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "227651400a3f16b4",
+   "title": "約5万円の不正利用被害 六花亭オンラインショップ約8000件のクレカ情報流出か 見舞金も検討",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BMmdtMFZvMkh0bXkyLVZjSllQSGlqenA0VHI5UENSUHh5OVB3ZXQ3TkNJQS1IalNqVEVENHBzZS1kbVc5aUlxSGdjdTdxb284N0V5TVFEQm5idw?oc=5",
+   "source": "HTB 北海道テレビ",
+   "summary": "約5万円の不正利用被害 六花亭オンラインショップ約8000件のクレカ情報流出か 見舞金も検討 HTB 北海道テレビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T18:16+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "47874188673a2672",
+   "title": "北海道「六花亭」クレカ情報流出、セキュリティーコードも。再発行を呼びかけ、お見舞い金を用意",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yVTR6ZFNUa1EwS3hXSjVuQlU1RFhIY0lYTlNPSm1KNmZ0OE43MkFqaGJnN0czYXluVVp0aENXQmF6X0xRb2ZiZXN1R0NETjV6cW50WTRKUndhY3Rfa2llOGl2dnQ5Uk1BVzBPS2Z0Q3lZV0RXV201WA?oc=5",
+   "source": "ハフポスト",
+   "summary": "北海道「六花亭」クレカ情報流出、セキュリティーコードも。再発行を呼びかけ、お見舞い金を用意 ハフポスト",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T18:02+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "80dad5ac928ec574",
    "title": "トランプ氏、クレジットカード金利上限10%を提案 異例の民主党への歩み寄り",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLNmN0d2FELVlMRXFoT2F2UHRUeHhkNV9pR3NpYXgwenZDRllib3VVNU4yMUNjeUEwcEtwbzFRLW1PbGtkaE9oNlZ2al9DQlhXZS1SZ25WalhYV0dFRUFCRzVXZ09tNVA1THdZSU5BRy1KemNC?oc=5",
@@ -40,6 +93,19 @@
    ],
    "type": "news",
    "published": "2026-11-22T16:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5dd3b53b9edb8680",
+   "title": "クレカの支払いが返済日から61日以上遅れると信用情報に異動、10万円が30日遅れたら遅延損害金は上限1200円（LIMO）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2aTNjbjMzbjAzUkRFWFE3WHB3WllFVzNwZVRNcFlrVG5wbFltLWswaXlZZnZXd1FxLWI3NkFQc3JaOW95WEc0REN6d2N3cjdsVU9naHFTVzhiS0o1TGhnQWZXRHBlVFBMYm15bENKT0FBcXVMMUFPTG9SZTlsQlE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレカの支払いが返済日から61日以上遅れると信用情報に異動、10万円が30日遅れたら遅延損害金は上限1200円（LIMO） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T16:05+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -405,6 +471,19 @@
    ],
    "type": "news",
    "published": "2026-11-21T19:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "29f9e582039bcc15",
+   "title": "トランプ氏、クレジットカードの金利と手数料の上限設定で民主党と協力する考え",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1pQM19UY3Y5SjliM28weUl4UzJ3ajF1RU1BS2h1NDk0Ykx4VEpGN1EwN0NuYjVOQ0J0Z1hHREVJNFJBTXJZNnZpRVhZYjdkUm1IZzdsSElyNmZ3VlAtVmpHWVBHZXBMdGlIb3hJU1VOd3RsTFgxQWU1YU52ZXd0MkJPTExfWmc0dHJv?oc=5",
+   "source": "Mezha.net",
+   "summary": "トランプ氏、クレジットカードの金利と手数料の上限設定で民主党と協力する考え Mezha.net",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-21T19:03+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -877,6 +956,20 @@
    "type": "news",
    "published": "2026-11-20T17:03+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "65c1bf41dc56a0d6",
+   "title": "クレジットカードvsスマホ決済 最得案内",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FR09tUDRmOVlULTlpcUR2T1p2S3Bzc25Ud3k4QXlfNGxUdGVjRmJPU3c0czl5dW9yUnVfUENRdldDa2RHc3hfX0dHa21TMEk1dEtQVWlsUndFcHlEWnc?oc=5",
+   "source": "日経クロストレンド",
+   "summary": "クレジットカードvsスマホ決済 最得案内 日経クロストレンド",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-20T16:41+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "fd693a6809e13a05",
@@ -2784,6 +2877,19 @@
    "type": "news",
    "published": "2026-11-18T19:50+09:00",
    "via": "日経クロステック"
+  },
+  {
+   "id": "5806590d556916cd",
+   "title": "VNPAYはVibrant HCMCと提携し、年末商戦に向けてデジタル決済サービスを提供します。",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnR2RzEtUTNFUlRta0MxMjZiRV9GQkgzaWItRlhPYWdpazIzbTJ5a2JKWVEyNndVZGhiTEZPZVl4MUNYUTdDTlA0aVhmc3ltV2M3eWRYYWNzVXpxLWxUVlRDcC1tSmN0YWJ1NFBWOTVlUkMtOXFSaVZUcWVSQm9nSzdsS1Y0OHZZZlBlbW5wOTVCcldPdERPb050eklLOVlER1dUWE0xS0FiTXpyNmhz?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "VNPAYはVibrant HCMCと提携し、年末商戦に向けてデジタル決済サービスを提供します。 Vietnam.vn",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T19:43+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "a459e62dd46411b6",
@@ -39899,112 +40005,6 @@
    "type": "news",
    "published": "2026-10-03T16:00+09:00",
    "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "a2e8fb622f54fa01",
-   "title": "【鳥取県の公立保育施設で初！】米子市がキャッシュレス決済「誰でも決済」で保育現場のDX化を推進！",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCR3VyTXhfZnZRZ2MtOEdhbVQ3M19nNGxPOEtFRzFQT01GbWdtRVplMVZ0Zy1CeXcxYUh1UXNDNzRrampOUGlET3JUMUlRWDJJZ3c?oc=5",
-   "source": "山陽新聞",
-   "summary": "【鳥取県の公立保育施設で初！】米子市がキャッシュレス決済「誰でも決済」で保育現場のDX化を推進！ 山陽新聞",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-03T16:00+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "fa14321d38da31e8",
-   "title": "東京ポイントをVポイントに交換で20％還元 VポイントPayのVisaタッチ、上限1100ポイント",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZV3FJRUxlMFVXR2gtU2xtZ0dpMVVrS1pIQWx5R0pTcXFFcktjRVFRXy1NLW5MdEZ5bzdkeWtNMFM5MEVnRnAtLUgyUGFkQQ?oc=5",
-   "source": "ポイ探ニュース",
-   "summary": "東京ポイントをVポイントに交換で20％還元 VポイントPayのVisaタッチ、上限1100ポイント ポイ探ニュース",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-03T13:10+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "59a61d2af6ca61df",
-   "title": "住民票などの証明書、手数料をキャッシュレス決済 吉野川市でセルフレジ式端末導入",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrcEIzaG1rQThCSEExMTd4Z1ViejI1SzFUanJ6LUxSeXpNWE05c3Jib0tPS1pjTHRwc0VZcFJKdHp6ZU1DTGo5VDZGMXUwYlkwTHdVUVV3?oc=5",
-   "source": "徳島新聞デジタル",
-   "summary": "住民票などの証明書、手数料をキャッシュレス決済 吉野川市でセルフレジ式端末導入 徳島新聞デジタル",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-03T12:00+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "6e9ea7ebb9543476",
-   "title": "｢ユニバーサル・スタジオ・ジャパン ハロウィーン｣の貸切イベント参加方法を紹介！ JCBブランドの｢楽天カード｣などを使って人気イベントの抽選に申し込もう！",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94OF8tSnY3T0xUczd4QUZWVS1ZaWlSYkxOVjNNLTFmbUhRT0RCWVc0a0pEY2NqaHVXd2o1NExISDc2WUpkZVJjRTgwR2hrejNMNWdZ?oc=5",
-   "source": "ダイヤモンド・オンライン",
-   "summary": "｢ユニバーサル・スタジオ・ジャパン ハロウィーン｣の貸切イベント参加方法を紹介！ JCBブランドの｢楽天カード｣などを使って人気イベントの抽選に申し込もう！ ダイヤモンド・オンライン",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-03T11:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "b4d62ec2a706904e",
-   "title": "専業主婦はクレカ審査に通らない？ 申し込み経験者100人に聞いてみた【知る得】",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ob2oxRkdZdUVGZ2gwNE5Pc2k3R2NTNWZhcDY3T19CX0UySWpBbjhPX1V3ZlZ4U25Nb1d3SU9ELVRTVUZ6M0RzdGZYRzhBMzdOal9qU0Y4akJJQ0JRUUE?oc=5",
-   "source": "fukuishimbun.co.jp",
-   "summary": "専業主婦はクレカ審査に通らない？ 申し込み経験者100人に聞いてみた【知る得】 fukuishimbun.co.jp",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-03T11:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "2184c700b18792dd",
-   "title": "野球日本代表「侍ジャパン」の「ダイヤモンドパートナー」に（JCB）",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16TlVIdnZ3bG0yVU9MUDhEVzI5Q0ExR2pzZFd2c2xYbDlRRVdDQzdvMW1zX0FBOTBCcG5VcmdhMzh5TFV3M1lFenFIUjBWSmE5MU5nZ19kN3hxQzA?oc=5",
-   "source": "ペイメントナビ",
-   "summary": "野球日本代表「侍ジャパン」の「ダイヤモンドパートナー」に（JCB） ペイメントナビ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-03T10:58+09:00",
-   "via": "ペイメントナビ（Googleニュース経由）"
-  },
-  {
-   "id": "4e6e923edf1adf2a",
-   "title": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年10月版】～PayPay、d払い、au PAY、楽天ペイ (ITmedia Mobile)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFhRcWw2bDc2VkpZRFozWHRwNHVZX29CNnNlUGpoSHdMcVp5TC1Bcl9Wal9Vd0l3T0wwQ1ktX0xQNlRSUjAyR3BVMkdFdEpkaGxGbEZBUHgwUXB2aDBOLXhVNGpsYnlMMTg4QzFjQTBuVXFWdDZIeE45cFBGdXItdGMzSDlta2NOZ0NGQ01B?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年10月版】～PayPay、d払い、au PAY、楽天ペイ (ITmedia Mobile) Yahoo!ニュース",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-03T10:46+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "43acd90325839a1a",
-   "title": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年10月版】〜PayPay、d払い、au PAY、楽天ペイ",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFhYQ294WWVXLUlsTk9PZDhUOWo3ZzBaTkVTRUU4M1p0RE9TRklkNGJUQkN1aFhrVVpSZ1dTclZQUWtFMG45ckxURmZLd0htQjhDOEx4TmFSZjdFMzlxNTJRal9wVll3QmhldkRMZnZIX2NUYlE0ZTJVamo1MjU2TjVGaFY1eVJXU3pjRUZxZVNyVHZ2bkNPT1VCQdIBlwFBVV95cUxPVzZjOG1VUXFQWnVFLW1WQWN0NG9aSS1wWFlEelRqZ1Z4SUhYRU01WVRRSnlCQWx6eTFhRXN2SGdWRGJ2ZUxlUFBMTVpfM1RhUWNBTFhGRnRldzRqMWtZdGpla29wTGFNM0MwRmlhdVM4cWI5Zkd3VUpfNkdqVUJLeklKSlB6QWxxV1dnWGxudm5wcmNqeXY4?oc=5",
-   "source": "ｄメニューニュース",
-   "summary": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年10月版】〜PayPay、d払い、au PAY、楽天ペイ ｄメニューニュース",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-03T10:46+09:00",
-   "via": "Googleニュース「コード決済」"
   }
  ]
 }
