@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T21:50+09:00",
+ "updated_at": "2026-11-23T00:36+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,11 +30,38 @@
  "topics": {},
  "items": [
   {
+   "id": "4704a7af37a2888a",
+   "title": "自治体のキャッシュレス決済、支払い完了でも会計処理は終わらない!? 長野県が示した連携の条件",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sMGw3VXc0WGZURF9iU1pLNFZWbV9oLWJMRVVpeG5zVlg5aVJ1WDFJVEYwUUVVRlZFZF9ibUFid0JqbzBFc0I5cWp1dw?oc=5",
+   "source": "DXマガジン",
+   "summary": "自治体のキャッシュレス決済、支払い完了でも会計処理は終わらない!? 長野県が示した連携の条件 DXマガジン",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-22T22:06+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "aeeaccd2f22503da",
    "title": "歯科医院発のリップアートメイク「DENTLIP」、IBF世界フライ級タイトルマッチに挑むミエル・ファハルド選手とスポンサー契約を締結 あわせてアメリカン・エキスプレス決済...",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZdDdwOUtyQVlfMm1YUXlhOTNRemNYTGhNclNkODFCa1FubTlTNEEwLTVGcnpxZXlxTzZrYVlOYkZidUZtVTRzUEpNSHpwZw?oc=5",
    "source": "アットプレス",
    "summary": "歯科医院発のリップアートメイク「DENTLIP」、IBF世界フライ級タイトルマッチに挑むミエル・ファハルド選手とスポンサー契約を締結 あわせてアメリカン・エキスプレス決済... アットプレス",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-22T20:43+09:00",
+   "via": "@Press（決済）",
+   "company": "DENTLIP株式会社"
+  },
+  {
+   "id": "59d846c9f6251e7e",
+   "title": "歯科医院発のリップアートメイク「DENTLIP」、IBF世界フライ級タイトルマッチに挑むミエル・ファハルド選手とスポンサー契約を締結 あわせてアメリカン・エキスプレス決済に対応 | DENTLIP株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uN2FSZ1lkZUxObTlrc1NkbGp3ZlpEUVlpUlhDOElrUnA4bVBNOTdUTmxMNk1IVzZ3OTNzU0ZYTUQwMlVlYkZyUUtEVVQ1QUU?oc=5",
+   "source": "アットプレス",
+   "summary": "歯科医院発のリップアートメイク「DENTLIP」、IBF世界フライ級タイトルマッチに挑むミエル・ファハルド選手とスポンサー契約を締結 あわせてアメリカン・エキスプレス決済に対応 | DENTLIP株式会社 アットプレス",
    "categories": [
     "credit"
    ],
@@ -2982,6 +3009,19 @@
    "type": "news",
    "published": "2026-11-18T18:07+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "b4b87745c942e242",
+   "title": "Suicaペンギン後継に紫のウサギ 「借り物に限界」自社キャラに改革託す",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOYzBHX1NXODE4S1J3eGllUV93NG83Y2tiY2UzdUNzWEdDbm1oUzB4dlctbjh2LTd5S0NQU0UyRi0xbmdiS0RYaVJha1BqUnJGU3RMV2tPVUcwOVVEeC1uSVVqZnNKZ1NSdjMwSQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "Suicaペンギン後継に紫のウサギ 「借り物に限界」自社キャラに改革託す 日本経済新聞",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:59+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "4387c9aaee39d271",
@@ -39960,45 +40000,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tN0JwLTFIajhZVExSRGVGeUFjQ0UwalZfR0FzbVBhZ2ZiX0VKN213WEZYTXdoZUFKVXI1X0pzMEd3WEstLTZvdmJCSFVyZk8xZkRoT2Q1eE1XQQ?oc=5",
    "source": "fisco.jp",
    "summary": "30代のクレジットカードおすすめ18選｜恥ずかしくない究極の1枚と最強の2枚 fisco.jp",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-03T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "800db9166423f6cd",
-   "title": "クレジットカード究極の1枚はこれ！年代別おすすめメインカード最強15選や選び方・活用法を解説",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYbjAxS0FMb2JLcktsa0NLNktKZm5na1lPUjhXWEpZWk1qS0JQSENUWTU0T2syZU1NbmREU1lGNU52UzZVWHZ6ZWFpOGpxN0ttTjZjeXRwcm1vX1VP?oc=5",
-   "source": "投資情報のフィスコ",
-   "summary": "クレジットカード究極の1枚はこれ！年代別おすすめメインカード最強15選や選び方・活用法を解説 投資情報のフィスコ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-03T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "7caa46e7c1176f8a",
-   "title": "クレジットカード還元率の鬼はどれ？高還元率で最強のおすすめカードランキング26選【2026年版】",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5velU0V1RydVFTeUdrT0hWYTZhczNFRDdvWDFIZHE5VFBfYnZkN1ZJUGd1a1JPaTBJOUtLellwU3VleTgwQnFveEtoeVdRY2w4eHVSRlFLZ3lPUGY1b2c?oc=5",
-   "source": "投資情報のフィスコ",
-   "summary": "クレジットカード還元率の鬼はどれ？高還元率で最強のおすすめカードランキング26選【2026年版】 投資情報のフィスコ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-03T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "fe1ac353ba51104a",
-   "title": "学生におすすめのクレジットカード18選｜大学生でも作れるクレカと選び方を比較【2026年】",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEQmRwV2VjZUZQMUJXbEU5SHl0VkNkNVA5ZHFxZzJiZlU1cF9OSkoxTFIxbGk4cGltVEwtSDg3TGx3YzN4Q2Q0V0JTNWx1SEl1cE1hM1pQdTBFcjdEcy10cA?oc=5",
-   "source": "投資情報のフィスコ",
-   "summary": "学生におすすめのクレジットカード18選｜大学生でも作れるクレカと選び方を比較【2026年】 投資情報のフィスコ",
    "categories": [
     "credit"
    ],
