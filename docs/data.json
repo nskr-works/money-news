@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T00:33+09:00",
+ "updated_at": "2026-11-22T10:31+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,11 +30,115 @@
  "topics": {},
  "items": [
   {
+   "id": "3c5b8b54ea4c15fa",
+   "title": "六花亭 クレカ情報8000件流出か セキュリティコードも 不正利用1件確認（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQZzJfejNUNFZOclV1Q1hBLVdUNENjalJSSzF2Vmg3T3RTZXNQVDFfdDRGT2NjeTAtVEtVdmcxWlZsTTBiTThBTjFqU2xyUkp1RjFyMTZyNXVuRmtqT3NMUl9VMHJXVTYtb24wX2JGY2ktVmFZVmQ0SExrWlgxaHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "六花亭 クレカ情報8000件流出か セキュリティコードも 不正利用1件確認（テレビ朝日系（ANN）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T09:48+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "552b1c2ea9f6d0bd",
+   "title": "六花亭クレカ情報流出 不正利用の被害確認 8千件はさらに氏名や住所も",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteFR0am1NQldIYk9zTjZKelhaOW9RV3ppVDhQR3p4RFNSWjFYTFBxbUVzWDNuNWpnamZXeF9aZk1JdHVIeDhHX2xGYmF2QnIwa3VXWHloV3U4UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "六花亭クレカ情報流出 不正利用の被害確認 8千件はさらに氏名や住所も 北海道新聞デジタル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T08:33+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "80fb48bc6c7ebc99",
+   "title": "水道工務店が関東全域で冬に向け受付体制を強化 後払い決済にも新たに対応",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54UW5sQ2F6ejVickd5Z19hakw5Y3UwZVcxRHdqVXloR2M2R1pnM1FCSUZQREh3SHZIX1NfOEJPY0NfVHRGMDBz?oc=5",
+   "source": "Dellows News",
+   "summary": "水道工務店が関東全域で冬に向け受付体制を強化 後払い決済にも新たに対応 Dellows News",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-22T08:15+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
+  },
+  {
+   "id": "e28c42de0da21bb3",
+   "title": "なぜ今、コード決済に参入したのか？JR東日本「teppay」の勝算",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBqckV3eVhNb3hlSnN0ckY3M1c1LXMzeVBuRmNCYXJyZl85RTZfNmozMzhnWnl2bHhQTl9OVkdqMWo2bFR0?oc=5",
+   "source": "@DIME アットダイム",
+   "summary": "なぜ今、コード決済に参入したのか？JR東日本「teppay」の勝算 @DIME アットダイム",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-22T08:01+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "e626e33d111bcba6",
+   "title": "六花亭 クレカ情報8000件流出か セキュリティコードも 不正利用1件確認",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhREw3NndKSkVmVENRcEMzX1ZjOUs1TWRId0Nvd2FvS2FaTVpzdXlFU3VoejRweDFza1o5SXVncjdKQU5jd3dCa2tGdHZoSXVpTmM3WmZLUFo?oc=5",
+   "source": "NCC長崎文化放送",
+   "summary": "六花亭 クレカ情報8000件流出か セキュリティコードも 不正利用1件確認 NCC長崎文化放送",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T07:15+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "41fd43c143b8f6b1",
+   "title": "六花亭〝流出問題〟でクレカ不正利用が判明 補償めぐり企業とカード会社でモメる可能性",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ubzhjYzkxSmdEVTZxUVlhbkgxbnc2NDc0VlJoWDNPYkRITmdTeFRtZW5ZS1hfTVFnazlMX2YyY0NaYXQxWFB4V3hzTlhtUW9HMnhmWUdUTGs4UURtVVpPTHI5bFBhODNvVjRFWldlNNIBdEFVX3lxTE1iME1Vajh2OW5CeHNMUDBnZ1AxOVFIQTZBckt6Yk1fOTJUQmNodG9wcnZKTmstRG9wM3Y3RllHdVFZMTgya01kaUVFSlRJWTVaelJQcGw3amd4V09xSDFpN2JheHRwVVN2STltWU1qWEtldkJB?oc=5",
+   "source": "Infoseek",
+   "summary": "六花亭〝流出問題〟でクレカ不正利用が判明 補償めぐり企業とカード会社でモメる可能性 Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T06:08+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "9837325d3f3859e8",
+   "title": "クレカ不正利用 六花亭1件確認 再発行呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fWWRoWVV5THlCVFYtLU9wWV9ITmlxNHpzNDRrS2NwQ2N4VmZERnpmMTVCTjNtRDhwX3gxVEZralc5SmlxcmI3R2pMSUthZFBsWnd3N0FGYXVoZzlacXc?oc=5",
+   "source": "沖縄タイムス社",
+   "summary": "クレカ不正利用 六花亭1件確認 再発行呼びかけ 沖縄タイムス社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T03:57+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "0089f758d6405492",
    "title": "キャッシュレス決済依存、リスク表面化 薄氷の160兆円経済 現金回帰でバランス必要",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kQU9PUXJXczlGY3FNNTI4WlZ4a0hnY080V2ctcDVOWjJfZ3dZMW9Ra0xXWUF5UVZkQTFFODA4T1FFMnNHUGRGZmZpTXM3TDV0UG83NGhERWFwNG5nQVhYMWI5cGlkYzRHcHpPQzUyMThHV0M1Smc?oc=5",
    "source": "産経ニュース",
    "summary": "キャッシュレス決済依存、リスク表面化 薄氷の160兆円経済 現金回帰でバランス必要 産経ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-21T22:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "4ed2ae30aff0d84b",
+   "title": "キャッシュレス決済に対応した自動販売機と交通系ICカード＝11月21日午後、東京都千代田区（酒井真大撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOHViRFBPbXlSMEVPYjVFMDNqaXRDMmZUajZDOE5iTUtTcVhKTk84aUt0MkxNcHpicEw4aEZrWWxGMU9IeE4tSWpjQVV0TGpGT0g5NTBvVGlncHFFRHVZaklYdzduaDJsN1hJV003emNtRzEyRW9MTVo1aWZCRTNZMHJhWVhTT2xaOXdwWVlhRUtBa3I2YnFVNXBuUi03VmtCbXc?oc=5",
+   "source": "産経ニュース",
+   "summary": "キャッシュレス決済に対応した自動販売機と交通系ICカード＝11月21日午後、東京都千代田区（酒井真大撮影） 産経ニュース",
    "categories": [
     "cashless"
    ],
@@ -100,6 +204,19 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51UWlkOWVCZ2l0bUtXS3ktQUt6czlDNDVYR0paS2MxV3hGRHlnUGNFZ1dfcjV0RE8wZjNXd2hEeG1MYjJwZFd6X3NnOHAtU3lMMDhQUnB2NkpGeW9IaXV4WHYzQS11ZzlWcEJNWDdRWERYYUl3QXAzajlVZEdXVkE?oc=5",
    "source": "Yahoo!ニュース",
    "summary": "クレカ不正利用1件確認 六花亭で流出、再発行要請（共同通信） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-21T21:16+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4fdde316801227bc",
+   "title": "クレカ不正利用１件確認 六花亭で流出、再発行要請 | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lZXJub1JzZl9DNktNNHBOcWdBZHZYNlFhZzhFdkxhSm1Fa1dScnYydXM3Wjl2TG9FY2liekFLNGQxaHFZTXVSc3ZEdlZ6dUptcFV4Tm5R?oc=5",
+   "source": "佐賀新聞",
+   "summary": "クレカ不正利用１件確認 六花亭で流出、再発行要請 | | 全国のニュース 佐賀新聞",
    "categories": [
     "credit"
    ],
@@ -630,6 +747,19 @@
    "type": "news",
    "published": "2026-11-20T17:59+09:00",
    "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "6ccfc9a0a558f3af",
+   "title": "ベトナム航空、公式ウェブサイトにおける航空券購入に「PayPay」を導入",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjUnpXMkJsYUxMLXY0Y3B2RTZFQVZ3V2RCaGo1UU83ZTlqU1RMZkpyODMxM1QxRHA2b2J1TlZTQzBQVXA1amc2WGhPY1FhU1ExaDQ4cGhFNkNiNHJILWlqUUNLZXlzT3hkamYzRA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ベトナム航空、公式ウェブサイトにおける航空券購入に「PayPay」を導入 日本経済新聞",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-20T17:33+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "02d786edba645199",
@@ -2381,6 +2511,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "359a2e921171ae5c",
+   "title": "Unified QR Code Payment Platform “JPQR Global” to Connect with Singapore’s RoamQR—A Step Forward in Building an Asian QR Payment Network (Liquid Group/NetStars)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1a29sbW81ZFUyQXZ6OGEtV3VpNW9KXzkyMFd2WTJqaGg0WWlhbjZfR2hHZG5EaE40MXJneDZDUGdFay1TUV9VbU00QTU5VnRUSXV3Q0E0Qnpod2xzRGc?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "Unified QR Code Payment Platform “JPQR Global” to Connect with Singapore’s RoamQR—A Step Forward in Building an Asian QR Payment Network (Liquid Group/NetStars) ペイメントナビ",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-19T08:16+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
    "id": "7b89a6b8e481aef7",
    "title": "Adyen Agentic Commerceを見据えたセキュリティ〜決済基盤とネットワークで築く信頼のエコシステム（前編）",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95aWwybXMzVGlLVUtDcmtJWVdWSE5rOE84OTlfbl9ZYW11M2lUQ21xZFMwMm4tWkNZdkRSMHN6MzlTeEJIQ013MDhYQVdCamtDX1dMdHREckZIS0E?oc=5",
@@ -2765,6 +2908,19 @@
    "published": "2026-11-18T17:00+09:00",
    "via": "PR TIMES（決済）",
    "company": "ビザ・ワールドワイド・ジャパン株式会社"
+  },
+  {
+   "id": "01a827365d41be4e",
+   "title": "「いつもタッチ決済なのに…」一定金額超えは原則暗証番号 2025年3月からサインの取得は店の任意に（LIMO）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Nno1dkNNXzhQNEZvcUJKNXlWM0hmeTNYY2lmcTVoUE5LeEtkR1FDWkVZQW9fOUppTXhOdmY2REpVSGJ1MVA3Mi1rZmdHaWc0RnJjZVcweGxsbHdkNEQzWUJDekRVcVJDcG5QakZQYndURU5FZjNqdjdfUVhGT2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「いつもタッチ決済なのに…」一定金額超えは原則暗証番号 2025年3月からサインの取得は店の任意に（LIMO） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
    "id": "9f515709d404e615",
@@ -4016,6 +4172,20 @@
    "via": "ペイメントナビ（Googleニュース経由）"
   },
   {
+   "id": "f5c934beb05c61e5",
+   "title": "MeshとVisaが提携、タッチ決済でステーブルコインと仮想通貨残高を支払い可能に | ペイメントナビ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WWVVNN0RlX19sUEFhQUFDQ3JfWnhpdnN6dzRubEgzNjl0dktYT1gyT0h3V01ESmJjZVRQUW5NWF9zMFpzYWpRMHVmdjBFUmdtZUpvYUZfNjlmczA?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "MeshとVisaが提携、タッチ決済でステーブルコインと仮想通貨残高を支払い可能に | ペイメントナビ ペイメントナビ",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T08:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "d3c71f32d3251a92",
    "title": "AIコマースとMastercard（AIコマースとオンラインペイメント第2部 第2回目）",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pU2pLWUxEcWJCam1xd0otRDVhcU5UN3ZVZi1Yb19xek1nQ1ItWHJuWldjVVNBTzhqck5QS0lBTUFnSHdPcHE2M2VXbHJzVWQxSmZSb0xEdjJ4WkE?oc=5",
@@ -4023,6 +4193,19 @@
    "summary": "AIコマースとMastercard（AIコマースとオンラインペイメント第2部 第2回目） ペイメントナビ",
    "categories": [
     "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-17T07:45+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "e93fe901464e3378",
+   "title": "AI Commerce and Mastercard (AI Commerce and Online Payments, Part 2, Session 2)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQm8zMGhMR1JEUmVrUk5qZGVSRlVIWWl6Q2JXQjFQVk40SUl4MEphd0FjWFpNaWdFekJYRG5jdHFmTi1LR0RKRVptakhUUGJyRHctaVluYXNTSjlaeHc?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "AI Commerce and Mastercard (AI Commerce and Online Payments, Part 2, Session 2) ペイメントナビ",
+   "categories": [
     "credit"
    ],
    "type": "news",
@@ -4922,6 +5105,19 @@
    "type": "news",
    "published": "2026-11-16T00:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "7d872483f06cf6f9",
+   "title": "【2026年11月】楽天ペイのキャンペーンまとめ！還元率アップの方法も紹介",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40RXU4ZTZ0Y3YwN2VNOG9XaUFRQUJPZnVRSkd0cFFaX05Hc2pRdVVhQVZ5b1h4UUtVSlR1Uk1fRVphYUdFVmVEag?oc=5",
+   "source": "マイベスト",
+   "summary": "【2026年11月】楽天ペイのキャンペーンまとめ！還元率アップの方法も紹介 マイベスト",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-16T00:00+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "3c0f5fdb0129e044",
@@ -39812,208 +40008,6 @@
    "type": "news",
    "published": "2026-10-03T08:33+09:00",
    "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "ab7854542f99eaa1",
-   "title": "Visa・Mastercard依存を減らせるか 欧州の決済アプリ5者が「ENP」設立",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sVHZOTUpNdGFUVFJidFM3U1htenBJd2ZvRHZMbjRCdnI2YTd1TVFjQW5YTXdMYzFkWkgzbTk0U0d6YmMxUXNQeGkzY1BSVnN3T2h6U2s4NllaLWY4a1A3VWV4V1liTVRySGRoNUl5R0F2TDREYjY4aw?oc=5",
-   "source": "XenoSpectrum",
-   "summary": "Visa・Mastercard依存を減らせるか 欧州の決済アプリ5者が「ENP」設立 XenoSpectrum",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-03T08:18+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "ac57febf458eef60",
-   "title": "PayPayポイントコード、フリマなどでの売買を禁止 不正利用対策で",
-   "link": "https://k-tai.watch.impress.co.jp/docs/news/2145155.html",
-   "source": "ケータイWatch",
-   "summary": "PayPayは、PayPayポイントコードの不正利用防止を目的に、ポイントコードの取得やチャージに関するルールを10月1日に変更した。",
-   "categories": [
-    "code",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-03T08:00+09:00",
-   "via": "ケータイWatch"
-  },
-  {
-   "id": "c6df0da938071b88",
-   "title": "月3万円の買い物で年1万8000円分以上もらえる…決済､送金だけではもったいないPayPayポイ活の｢おトクな裏技｣",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HRG9idGZhblpWNkJVWlhSTkYtVGx3VHBFdXd3amFITzhsYkJTMk5EemVWeElhRGdIdFBTSWZROTBMRF82TEZlUUNpd0VRLXhEcUd3Y0xJOWtadUFMckxFY1ZyRnc1bERDNU9LNDFHeEk3UVhPdXFQT1U3aXpNdjA?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "月3万円の買い物で年1万8000円分以上もらえる…決済､送金だけではもったいないPayPayポイ活の｢おトクな裏技｣ Yahoo!ニュース",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-03T07:15+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "8a5efbd442687b79",
-   "title": "写真・図版（1枚目）| QRコード・バーコード決済スキーム 「Smart Code(TM)」 が、10月1日（木）より、ゼンショーグループの国内飲食店で取り扱いを開始",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MM2FHNUdEZHUyUUthY2g1RVd6ejMzVWo5Ylc0ekJmVkU1RHlUd1B6M3ZldEpzU1N3WDFZNmplVmxOeXlQeTlVZVZORTZ4eWNJaFdVYlpB?oc=5",
-   "source": "AERA DIGITAL",
-   "summary": "写真・図版（1枚目）| QRコード・バーコード決済スキーム 「Smart Code(TM)」 が、10月1日（木）より、ゼンショーグループの国内飲食店で取り扱いを開始 AERA DIGITAL",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-03T06:42+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "42c48d6daf111111",
-   "title": "ポイ活YouTuberが徹底解説！10月に参加すべきキャッシュレス・ポイントキャンペーン20選",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45ZDNSTnMwbjBjSkJFa25rd2RlUlYzM1ZKVE9YM1BWNVhORXdIMWZ1QzNNNDhuM1FHelIwckFTMVpFRElfVjVCdGJOd2hQaDRleHFlcURtR3BIWGNDRk9hc2xqZ1pmTTZKRm5MQVJzTXR4QW5XTnd1bDV3?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "ポイ活YouTuberが徹底解説！10月に参加すべきキャッシュレス・ポイントキャンペーン20選 ライブドアニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T21:24+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "351795ddbcc2a554",
-   "title": "ヤマト運輸、後払い決済に不正アクセス 個人情報流出の恐れ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiSmNGaXpwMjRKOTFQb0o0R0RkZ2dWYnZUUFlMTnFmTmloWUhQNThQa1ZSeXFMYjY2SGRob3Vld2dsb3NpZUJvSDNOTEJndmQyNkJqVFB3LUloUmVvLXdDb3pZXzAxOV9GTnhzU2pZWDkwVE1n?oc=5",
-   "source": "BigGo ファイナンス",
-   "summary": "ヤマト運輸、後払い決済に不正アクセス 個人情報流出の恐れ BigGo ファイナンス",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T19:55+09:00",
-   "via": "Googleニュース「後払い・BNPL」"
-  },
-  {
-   "id": "3c7f72d4769cf9a9",
-   "title": "ヤマト運輸、「クロネコ代金後払いサービス」への不正アクセスで続報 利用者など一部個人情報が漏えいか",
-   "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001979/",
-   "source": "ITmedia NEWS",
-   "summary": "ヤマト運輸は10月2日、9月29日に公表した「クロネコ代金後払いサービス」への不正アクセスについて、一部の利用者や加盟店の情報、担当社員の氏名が漏えいした可能性があると発表した。",
-   "categories": [
-    "cashless",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-02T19:32+09:00",
-   "via": "ITmedia NEWS"
-  },
-  {
-   "id": "4a772aa305f90b67",
-   "title": "北国銀行が新決済サービス クレカタッチやQR支払い、スマホで対応",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WMkhFV1VvVDViQjdwa1IyM1JydW9TMlhzU2M5blB4eE83YThmM3Rzd2hZVHRzcFhPYjNQZExQcDNmUlFGWlVSZ3dfSElXVTVVOWo1RE04eFA2MTk4NXFON0tRVUNlX29QNGZaYQ?oc=5",
-   "source": "日本経済新聞",
-   "summary": "北国銀行が新決済サービス クレカタッチやQR支払い、スマホで対応 日本経済新聞",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-02T19:27+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "5fea89aafc4f55f9",
-   "title": "「楽天ペイ」、お笑いコンビ・なすなかにしさんが「楽天ペイ富山県1日生活応援隊長」に就任",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqaTdiYzhXdW1DSGFfYUp4TkVNZVhoVFVaLTRfOHc3UEwzc0tlTFl5dEpsbklVXzd2UFhsM1dNamRYX1hIREZrMVd4MnlNNEpuRm1yS0xxbi10ZlBkem51LUxYN2JCeXNzakZZWjMtcw?oc=5",
-   "source": "ニコニコニュース",
-   "summary": "「楽天ペイ」、お笑いコンビ・なすなかにしさんが「楽天ペイ富山県1日生活応援隊長」に就任 ニコニコニュース",
-   "categories": [
-    "code"
-   ],
-   "type": "release",
-   "published": "2026-10-02T19:21+09:00",
-   "via": "Googleニュース「キャッシュレス決済」",
-   "company": "楽天ペイメント株式会社"
-  },
-  {
-   "id": "dc9f092ed8b316c5",
-   "title": "ヤマト運輸「クロネコ代金後払いサービス」、不正アクセスで情報漏えいの可能性",
-   "link": "https://internet.watch.impress.co.jp/docs/news/2145352.html",
-   "source": "INTERNET Watch",
-   "summary": "ヤマト運輸は10月2日、「クロネコ代金後払いサービス」で発生した不正アクセスにより、情報の一部が漏えいした可能性があると発表した。",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T19:00+09:00",
-   "via": "INTERNET Watch"
-  },
-  {
-   "id": "d8dbdd8716b2e4f5",
-   "title": "なぜ？「フタバ図書」が２４時間営業スタート 顔認証、キャッシュレス…技術革新で「無人化」を実現 広島 (テレビ新広島)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDJYQll5anF5MUdhcFIwUTNBcXRERUdvMWFkVzd5ODRubElkNVNsRV80VUVkMkY3TURGOXNLUEVNaFNmeXdMU1BzUkRsdFhOaGtRWXZ2X1ZjNGVQbEx4czdLZVRWZUU5RnhPYzNzNHJRZ2JURkNOLWtYRVBxWmJJaURKNkRJLWZYWWlZVFF3?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "なぜ？「フタバ図書」が２４時間営業スタート 顔認証、キャッシュレス…技術革新で「無人化」を実現 広島 (テレビ新広島) Yahoo!ニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T18:56+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "f39b9522b32f725f",
-   "title": "ヤマトで顧客情報流出か ネット通販向け決済サービスに不正アクセス クレカ情報含まれず",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02Z3diZG1SWXZBU1A1eWZ6OFZIZjFidFFvZW9JcDFxZWRFWmhhQllpZ3dKQUE5dEpQZU1xclFKcllWVDNlSzhKSXB1NkRtQjNJcm1OQVdvUVlPZEZ0NVFNN1MwRXppaUxIamNPZFd5dzVNZFJ6VXc?oc=5",
-   "source": "産経ニュース",
-   "summary": "ヤマトで顧客情報流出か ネット通販向け決済サービスに不正アクセス クレカ情報含まれず 産経ニュース",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-02T18:09+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "4beb61d1e6e9e0dc",
-   "title": "【男女トラブル】相手が自分のクレジットカードを持ったまま別れた｜若井亮",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jUHlyWE1Fa1hpN2NSVFZ2OGFhUEJwU2xWMHdqM2NmVWtyc2Z3RFh2QWFULWptWmpWTjVGMUxEUDk0UEdEMGNJS1FzeE5sUXExck1feDJoU0NYQmRnZUppaVl3?oc=5",
-   "source": "mbp-japan.com",
-   "summary": "【男女トラブル】相手が自分のクレジットカードを持ったまま別れた｜若井亮 mbp-japan.com",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-02T17:51+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "0a6838e83a57a613",
-   "title": "ヤマト運輸のネット通販向け決済サービスに不正アクセス 顧客情報が流出か (2026年10月2日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80YngyUU5aQ1BMbHJMRGJGOG00ZHQ2eGdrUE45TlVOQ0QwZGNMT1JLZ21zTDhmT2w4V2JQX0pzZ041bTFuTS1LOEVoSW04U0g4RU5jaVc3T3VDMTYzRmc?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "ヤマト運輸のネット通販向け決済サービスに不正アクセス 顧客情報が流出か (2026年10月2日掲載) ライブドアニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-02T17:17+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "c58a7d74d65f9ab0",
-   "title": "公営競技の後払い決済利用実態を調査。91.4％が月5万円未満、最多はクレジットカード",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fXzNmUVpabjZucGMxeWhMMnN3V2Q2aFdYVTdkY0UyaVduNFpsRU5KTGw5Sy13SUs0RXMyRG9ZemZZcFFub05SZ21BTm5vdXJsWlF2WUF1NVJYZjVDZHZmbFdMV1R6ak1RN0E?oc=5",
-   "source": "PR TIMES",
-   "summary": "公営競技の後払い決済利用実態を調査。91.4％が月5万円未満、最多はクレジットカード PR TIMES",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "release",
-   "published": "2026-10-02T17:10+09:00",
-   "via": "Googleニュース「クレジットカード」",
-   "company": "株式会社サイトクリエーション"
   }
  ]
 }
