@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T04:26+09:00",
+ "updated_at": "2026-11-24T12:20+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,36 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "0f85ebafc216523e",
+   "title": "IIJ、訪日外国人向けプリペイド型SIMサービス「Japan Travel SIM」において、5G通信の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000071.000165540.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社インターネットイニシアティブ] 当社は、訪日外国人や一時帰国者向けのモバイルデータ通信サービス「Japan Travel SIM(https://t.iijmio.jp/)」において、2026年12月1日（火）より、5G通信の提供を順次開始します。eSIMは同日以降に開通手続きを...",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-24T10:10+09:00",
+   "company": "株式会社インターネットイニシアティブ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
+  {
+   "id": "f3d1d34f0dd9fe5c",
+   "title": "グルメの祭典！外食チェーン5社がau PAY マーケットの 「BLACK FRIDAY」で「惣菜祭 第四弾」を開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000750.000017486.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社すかいらーくホールディングス] 株式会社すかいらーくホールディングスは、auコマース＆ライフ株式会社が運営する総合ショッピングサイト「au PAY マーケット」において、2026年11月24日（火）から11月30日（月）までの期間、「BLACK FRIDAY」と...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-24T10:00+09:00",
+   "company": "株式会社すかいらーくホールディングス",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "f5e6e779fb796fb2",
    "title": "観光地における国境を越えたQRコード決済を拡大する。",
@@ -39974,32 +40004,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OWlQwSlIyRU1wYzZyOFh2bXRrOUxhT1ZQakVOUDdTd0pULTU2VGQ3eFZyc1NwcThMdnBEMUNTY3hHOExqSUxBdEZzY29QLWtZY055Q3ZxeGxkLThJLUpCMUxfaU0?oc=5",
    "source": "新日本保険新聞社",
    "summary": "プライオリティパス付帯のおすすめ人気クレジットカード11選！無料は？最安はどれ？ 新日本保険新聞社",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-04T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "559beb49a9629007",
-   "title": "【2026年最新】アメリカで使えるクレジットカードおすすめランキング7選！旅行・留学に最強の1枚",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIR2dXdkJkNER2UnpCNnh6cHFvZmRwN0toSXdTTkdCT0wxOEVQVnhiSHpjZXpHaDFxYnNqTVRfeXpJTEFFc01PZ3NvMVdyM3lNOElwcHJUREhfWkgtTHNQSnNkXzFsZw?oc=5",
-   "source": "新日本保険新聞社",
-   "summary": "【2026年最新】アメリカで使えるクレジットカードおすすめランキング7選！旅行・留学に最強の1枚 新日本保険新聞社",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-04T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "1b2e81772a4ab40a",
-   "title": "クレジットカードのステータスランキング15選【2026年最新】格付けと招待制カードへの道筋",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wRlV3N1dGTldmV1ZmVU1GWkYwNlhaTy0wUEVuZzBVbU1FUm9KZ1M5c2d4OTV5ekxwc0hRU19mMGJJOFRnS1BRYzdkLWN5cEx1Yk1pa3dIa2NJSWZZVjJpWGFNVQ?oc=5",
-   "source": "投資情報のフィスコ",
-   "summary": "クレジットカードのステータスランキング15選【2026年最新】格付けと招待制カードへの道筋 投資情報のフィスコ",
    "categories": [
     "credit"
    ],
