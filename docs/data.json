@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T23:53+09:00",
+ "updated_at": "2026-11-25T00:14+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -41,8 +41,7 @@
    "type": "release",
    "published": "2026-11-24T23:15+09:00",
    "company": "アップルオートネットワーク株式会社",
-   "via": "PR TIMES 新着（直接）",
-   "pending_notify": true
+   "via": "PR TIMES 新着（直接）"
   },
   {
    "id": "e836c6e18280ba73",
@@ -55,6 +54,32 @@
    ],
    "type": "news",
    "published": "2026-11-24T20:21+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7b66b89d4a0ac0b4",
+   "title": "化粧品販売のヴェレダ「クレカ情報が漏れた可能性」 4万5千人分（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5STXM5UFJEbG9rb1VqTDRSenllWThoYWVQZzZrZFpqYUU4ZnVQcGJjYTkteDFSSlIwTXlDaFdCU2wySnFyQ29yS1ctbjAyVzJUVER0Q0JxUXNuZk1HejNsMnpDZVB4c2JtUkpCZ2hCTDlMOUVJam9ocl95ZENxY1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "化粧品販売のヴェレダ「クレカ情報が漏れた可能性」 4万5千人分（朝日新聞） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T19:22+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "1fadecd7e0c70494",
+   "title": "京王電鉄 1100万人超の情報漏えいか 本人確認書類クレカ番号も",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcFNNRkFONW83bHFVb1ctbENMUG5xZ21wTWtXR29qOThHa2NKNVI3OFVWa2w3bnBlRWRhY1VGOUwtcTdwaEhkVWlJOUl4SXhWTVMyNjJLLVBZLW8zcUJF?oc=5",
+   "source": "NHKニュース",
+   "summary": "京王電鉄 1100万人超の情報漏えいか 本人確認書類クレカ番号も NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T18:51+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -718,6 +743,19 @@
    "type": "news",
    "published": "2026-11-23T17:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "6fc239074f7c14c5",
+   "title": "Netflix（ネットフリックス）の支払い方法｜クレジットカードなしでも見られるの？",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVTJFWnB4UklXeGhBbnBMbVRWOV9HVkgwRWVBb01ZR0tyczBuYWp5RE1GQUdIWFBKcU01bDNadGdXR0pHWlZ2X0pzNS1UQWxFenFfVWNXVHF4NDVvUENXa2J6cnY0bWpSOUpxQ0RLTnB5Z1BvU2RIQk1HWUZ2MzkwQ3hxSFJfWlFtdWR1QV9EbmdSbW5pTHRtWjg3dXZnS0M5UXE0dHNfOUFxNDBNSzFES1Nxc0FuZw?oc=5",
+   "source": "DAZN",
+   "summary": "Netflix（ネットフリックス）の支払い方法｜クレジットカードなしでも見られるの？ DAZN",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-23T16:02+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "62d218d556129e9f",
@@ -2671,6 +2709,20 @@
    "type": "news",
    "published": "2026-11-20T07:00+09:00",
    "via": "ペイメントナビ"
+  },
+  {
+   "id": "ef8e187d850f6c9d",
+   "title": "「120分飲み放題・刺身5点盛合わせ・鍋2人前」居酒屋で約5300円分を堪能するも所持金1210円で金払えず→クレカやスマホ決済も失敗→65歳男を詐欺容疑で逮捕「無銭飲食するつもりなかった」＜旭川市",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jRWkxcFJXbDU4WWI5TjRmUGJMbUk0SGlVRG10aU5FZDZ0ckttLW9GeXJURlRaeE0xcFpQaFMyWEpoMDN5bnpkR3l4T0V4M0ttVTRKZGpodkFobFl6cmZBbDVUbGNubzR3cWJQTXpn?oc=5",
+   "source": "Excite エキサイト",
+   "summary": "「120分飲み放題・刺身5点盛合わせ・鍋2人前」居酒屋で約5300円分を堪能するも所持金1210円で金払えず→クレカやスマホ決済も失敗→65歳男を詐欺容疑で逮捕「無銭飲食するつもりなかった」＜旭川市 Excite エキサイト",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-20T06:01+09:00",
+   "via": "Googleニュース「コード決済」"
   },
   {
    "id": "e13d7092172f931e",
@@ -39947,58 +39999,6 @@
    "type": "news",
    "published": "2026-10-06T06:46+09:00",
    "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "bf9ef34f309724d5",
-   "title": "楽天カードとみずほが狙う1193兆円の「法人決済市場」。新クレカに「UPSIDER」を活用したワケ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOenpCY0Z3TU1MaUJPc1A4RFA2VGN0OVM0N1RqR0ZUUXlXaUZIRXJMUVV3LWNjSF9keFVlYmVQS3FTVlVMU2NJTlI5aDJrRTUzQkpVYTNNN1pwb0w0aXg4dnprTDBYSmN3N0pCSEhBRXFTdUl4aHpQZ0hpTzVjSzlhNA?oc=5",
-   "source": "Business Insider Japan",
-   "summary": "楽天カードとみずほが狙う1193兆円の「法人決済市場」。新クレカに「UPSIDER」を活用したワケ Business Insider Japan",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T06:45+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "1b2a30498161e889",
-   "title": "成長するASEAN富裕層を、日本の力に JCB・MUFG両トップが語る協業の狙い",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9qd2wyX3dWM194QjlKTldqeDItRHZleDh4SDMta1dzOGNXUS00UUpZZ0dFc1JNSTR1VmI5WnMybmxVWWhf?oc=5",
-   "source": "ps.nikkei.com",
-   "summary": "成長するASEAN富裕層を、日本の力に JCB・MUFG両トップが語る協業の狙い ps.nikkei.com",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T05:43+09:00",
-   "via": "日本経済新聞（Googleニュース経由）"
-  },
-  {
-   "id": "11b519fbefb349f4",
-   "title": "【衝撃】総額230億円分の配布‼︎全国民にPayPayなど総額30000p貰える！！ Avatar (YIHdoxc5mL)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM3dsZkNUeFBOQVd2eV9GdXJNa0dnRko4a00xWXJIUXdQLUpDYUFIQ0N0R2plaHZpV09LSGlrbVdtRlBzMGxEdnM4c3QxSC1LUlFoZWZ3VVpHSWRHV3BFQmtQdE5FM2ppMTdrOVIyRzRReDNKV1BEQ1Brc0l1THFPcFln?oc=5",
-   "source": "Unisba Media",
-   "summary": "【衝撃】総額230億円分の配布‼︎全国民にPayPayなど総額30000p貰える！！ Avatar (YIHdoxc5mL) Unisba Media",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T01:37+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "a680bb5c448837ce",
-   "title": "消費者委員会が建議 キャッシュレス決済の規制強化を要請🔒",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44MEdRUTVSYURGNVBqOEp2QzRNU1JVMWd2M0t0NDVwaDNmb19OWmdvZ3RNQV9DOUM0bmN4T3hhQkdHTTJBZ2hvM9IBTkFVX3lxTE03dldCN05PTF82d1JGeDBSZWU0VGRHOS1nVWVoNW9aVDd4QU9NaGk0UU5IaDRwX3ZicFBDSDBKeE1HVnpRWGJpNGpOblRXdw?oc=5",
-   "source": "WEBニッポン消費者新聞",
-   "summary": "消費者委員会が建議 キャッシュレス決済の規制強化を要請🔒 WEBニッポン消費者新聞",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T01:18+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
   }
  ]
 }
