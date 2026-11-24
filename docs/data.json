@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T00:14+09:00",
+ "updated_at": "2026-11-25T04:02+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,20 @@
  "topics": {},
  "items": [
   {
+   "id": "a8e50ca50b7524e5",
+   "title": "家電EC「XPRICE本店」にて、2026年11月23日よりPayPayポイントが最大1,000ポイント戻ってくるクーポン配布！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000501.000028810.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[エクスプライス株式会社] エクスプライス株式会社（本社：東京都墨田区）は、家電EC「XPRICE本店（https://www.xprice.co.jp(https://www.xprice.co.jp)）」にて、2026年11月23日（月）～12月20日（日）までPayPay支払いでPayPayポイント...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-25T02:10+09:00",
+   "company": "エクスプライス株式会社",
+   "via": "PR TIMES 新着（直接）"
+  },
+  {
    "id": "fe93afba6eeff9c2",
    "title": "中古車買取・販売のフランチャイズ「アップル」、「アップルフェスティバル2026 ～共に、これからをつくる～」を開催｜全国の加盟店ら約400名が集結、新経営理念も発表",
    "link": "https://prtimes.jp/main/html/rd/p/000000019.000115193.html",
@@ -44,6 +58,19 @@
    "via": "PR TIMES 新着（直接）"
   },
   {
+   "id": "8de26aa2afbfefdf",
+   "title": "“六花亭”でセキュリティコード含むクレジットカード情報約8000件流出の可能性＿早くも約5万円の不正利用を1件確認＿氏名・住所・電話番号・メールアドレスも漏えいか＿利用者が今できる対応は？〈北海道〉",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFZGeldjMXVuUVRvWFFMMjNBTmxBYkZSa0I2Rjk4cVBuaGV1QU1Felg3eDR5UnFOQk1kOHpva0ptaHFFSTN5Y1NHR0p1T3Z0aG84TW9GTUFtUFlqSHliWkRPZjh3YkgzaFc5REVKeW53UV9zbzVCRUk2dDFLWWFjOWN2Q0R1alVNbzJSZHln?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "“六花亭”でセキュリティコード含むクレジットカード情報約8000件流出の可能性＿早くも約5万円の不正利用を1件確認＿氏名・住所・電話番号・メールアドレスも漏えいか＿利用者が今できる対応は？〈北海道〉 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T21:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "e836c6e18280ba73",
    "title": "“総理と面会”ICC赤根所長 クレカ使えず",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05bTdETk1WSzZTYUNWeXVHR1JEaTd5QTQzVHFzdThpcWpISFZzaElXQlVjbFpXLXE4X01UQVFoWXpzc2FLNlk3QlB2UEJ3cVRoWG5GYzVKMG9wcm9JeXRUUzA1NWJBbFVrWDF2YXQ5aDY2Y0k?oc=5",
@@ -54,6 +81,19 @@
    ],
    "type": "news",
    "published": "2026-11-24T20:21+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7f2cf31b08e64853",
+   "title": "京王グループで１１００万人超の個人情報流出か…ホテル宿泊客のパスポート画像や百貨店顧客のクレカ情報",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaM2dnd0ZLck9RMDkyQkE0VWVfUmNTSThYdnZwZkE4YlN6VmZnX3BnMTF1S3dvV2RDMHcydW9LaGlTdjhqMzlHaGE1ZEhaTHVuZGRxa21VUWVGdWhtZTBpYmZKdmNNQQ?oc=5",
+   "source": "読売新聞",
+   "summary": "京王グループで１１００万人超の個人情報流出か…ホテル宿泊客のパスポート画像や百貨店顧客のクレカ情報 読売新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T20:00+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -80,6 +120,19 @@
    ],
    "type": "news",
    "published": "2026-11-24T18:51+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "7d8ca289f1616e8b",
+   "title": "京王電鉄、顧客情報1100万人分が流出か クレカ全桁・旅券画像も",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OMGNvc0FLZXdoUFdQZEhhZEtQZEZjaHpJT1VaQVA1SE1OUmhHbm5rZzkxYnN6Rnh5VW8xNW5RdWpQY3V0ZmJvUWQ0Zl9YaE9OOTUxOHFYcUxuTFpnbjNLMHdIcUFkZXEzb1FfQkY0RFBnTTVS?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "京王電鉄、顧客情報1100万人分が流出か クレカ全桁・旅券画像も BigGo ファイナンス",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T18:35+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -212,6 +265,19 @@
    "type": "news",
    "published": "2026-11-24T15:11+09:00",
    "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "14e6c855f7f90c05",
+   "title": "後払い決済、年収1600万円超の富裕層にも浸透 ブロック調査",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43TGNKbnhWUUZ5MDFCX2FfaHo3MWx4dVFnTGhKX3JQNzBzNkk0d0w3R1N2dEFOTVRrdm1PMEVFRkczVGhkNXBqVENpNUNiZS1PRG9xUmoxMHUweS1wd1Q4cmVyZVhGU0taalNoNDcyR2hBR1Bp?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "後払い決済、年収1600万円超の富裕層にも浸透 ブロック調査 BigGo ファイナンス",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-24T14:55+09:00",
+   "via": "Googleニュース「後払い・BNPL」"
   },
   {
    "id": "d39f22fa015c0f06",
@@ -370,6 +436,19 @@
    "type": "news",
    "published": "2026-11-24T12:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "2bae7f2ce62c0102",
+   "title": "イタリア金融界、デジタルユーロ対応で共同決済基盤",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQkFOcG1jaVNUekh5ekFzbDFBamF1RGNfLXZLeUNuRUFhdFZMMU1tTE9TenkwTnB4RW1kSzRJRHNLTHB5RTlORVlpVkF4OU1XY1hEOTI3eW9ySVNVTFpkTGV0Zm5SNGZSbHptR2M0X04za0lrbmpYcGo2blFRMXR5TUdvckJweC1GckFSUFZZck5qNktqdzFNLUhEN0VDY0pnVHpQTk9LVy1PQ3V0ZWxWQzFvSlM1MllDMTBncmYzNkszVXRDVHhOWDBxY0xqY2s?oc=5",
+   "source": "디지털투데이",
+   "summary": "イタリア金融界、デジタルユーロ対応で共同決済基盤 디지털투데이",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-24T11:19+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "5dae03f003821efa",
@@ -545,6 +624,19 @@
    "type": "news",
    "published": "2026-11-24T07:20+09:00",
    "via": "ペイメントナビ"
+  },
+  {
+   "id": "a7cc607beea101ea",
+   "title": "アウラニ・リゾート、2027年1月1日よりキャッシュレス決済のみ対応へ移行",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLdXZaSzdkZFlnM3kwT3ZULV9fZW9COEQ0cnlrelR1MUtRN05pQjdsWXRwQTdWc0FRVjY5RFJzVEpRMVRtM1RkRlBpWWxjTDA?oc=5",
+   "source": "dpost.jp",
+   "summary": "アウラニ・リゾート、2027年1月1日よりキャッシュレス決済のみ対応へ移行 dpost.jp",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-24T07:14+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "2ab63e4ae3adeb3d",
@@ -2659,6 +2751,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "49c60b125a884ac0",
+   "title": "トランザクション・メディア・ネットワークス、京田辺市のＡＩ交通に操作不要の決済端末導入",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVbmhPN3BFUldhdi1hZjhrOWM5S1VocmdoZkdCMFcyTlpTZnBFOUlwN3pWcjZBLWZROUlxQWpYRUowcENSN3hQVHc3U00tN0VsZkZHYw?oc=5",
+   "source": "https://kabu-ir.com/",
+   "summary": "トランザクション・メディア・ネットワークス、京田辺市のＡＩ交通に操作不要の決済端末導入 https://kabu-ir.com/",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-20T07:23+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
    "id": "8765d720b0c9badf",
    "title": "個人情報、漏れたらまず何する？ ID／PW、クレカ、免許証、メールアドレス、情報別やることまとめ（＠IT）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JVUU4eElYZVpGZTYtMVA1eHpMVEJ1ME9zVHM3d0ZKWlpMSXJValJrUXJkNVgyaERDdUNNYzZNaHlxaUZ3ZzN0X1p5VjFKOXFsUld5aVJiZTlVX1FLUUxpRWdmSVAwNFNFNzFab2ZJRmtrWUF2aldNQ29YanZuQWc?oc=5",
@@ -4413,6 +4518,19 @@
    ],
    "type": "news",
    "published": "2026-11-18T12:25+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "81faec78f2edae17",
+   "title": "株主優待は普段の買い物に使える【電子マネー】で受け取りたい人へ、継続保有条件なしの11月・12月権利確定の9銘柄",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aX180RWQwcjQwXzF6RTMwSEptelFjQ25JbkFTMUtQbXp2MVhhaHJ5ZEVHS004V1hheDl4OHVmOFoza2tJZEkweVJuV0VfMGFmWEE?oc=5",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "summary": "株主優待は普段の買い物に使える【電子マネー】で受け取りたい人へ、継続保有条件なしの11月・12月権利確定の9銘柄 LIMO | くらしとお金の経済メディア",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-18T12:21+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
@@ -39877,128 +39995,6 @@
    "type": "news",
    "published": "2026-10-06T08:30+09:00",
    "via": "日本経済新聞（Googleニュース経由）"
-  },
-  {
-   "id": "748ce9329ea475b4",
-   "title": "1,000万人の決済データ×位置情報で「売れる場所」を可視化オリコの加盟店向け出店支援における商圏分析GIS活用事例を公開",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1scFAzS1ZxS1hjRXZFWDNhbEpJNlVyYmxGT3VfSUtyRjdLVG1NaG52SnBpeFVPTnFoVnBKTmdLcFpNVzNUbHBCRE5Cbm40R2ZrOGdqSXg1Wk5KMW8xaExqTWJZYjQzcGVXaHc?oc=5",
-   "source": "PR TIMES",
-   "summary": "1,000万人の決済データ×位置情報で「売れる場所」を可視化オリコの加盟店向け出店支援における商圏分析GIS活用事例を公開 PR TIMES",
-   "categories": [
-    "psp"
-   ],
-   "type": "release",
-   "published": "2026-10-06T08:30+09:00",
-   "via": "PR TIMES（決済）",
-   "company": "技研商事インターナショナル株式会社"
-  },
-  {
-   "id": "3b6ae0b099469d4a",
-   "title": "失効クレジットカードを「復活」させる攻撃手法 ～ 非接触決済の通信改ざんで不正決済成功",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50WU9xSkRiMDZyelpYY3JOQktSazVVeE8yNHFVTlVrUDdJR2c1aUV3S3U5dGdzLWFaeTU2RGVqX0JVaEZ6bTVIN0dPaV9lZUtmSjFqQzgwY2dqV29nMnhQOVNvVkRqQ3lUYmNtZw?oc=5",
-   "source": "ScanNetSecurity",
-   "summary": "失効クレジットカードを「復活」させる攻撃手法 ～ 非接触決済の通信改ざんで不正決済成功 ScanNetSecurity",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T08:20+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "b8809523ed6bf614",
-   "title": "電子マネーが、世界を少しだけスムーズにする。 John Travolta (V9Y1SU7hGN)",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fdlNQWG85aENEUDBOX1BaMlpBTmVJVjMtV0xhYl9jN0dqeTBSMG0zSll2bTRGMldvdWFQeHdFMGtFeWJIZUNkWUJCYkg4Y2tkM01wSUpaNUxlV2NvU0l4U2hQODFJdw?oc=5",
-   "source": "Unisba Media",
-   "summary": "電子マネーが、世界を少しだけスムーズにする。 John Travolta (V9Y1SU7hGN) Unisba Media",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T08:04+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "c3fb565e3dc099ee",
-   "title": "イズミが「ゆめNEOBANK」でチャージ・決済を便利に？ ドコモSMTBネット銀行のBaaS機能を活用",
-   "link": "https://paymentnavi.com/paymentnews/183168.html",
-   "source": "ペイメントナビ",
-   "summary": "2026年10月6日8:00（JST） 【日本】ドコモSMTBネット銀行（日本・東京）と、イズミ（広島）は、2026年9月30日に記者説明会を開催し、イズミグループでクレジットカードや電子マネーなどの金融サービスを提供す […] The post イズミが「ゆめNEOBANK」でチャージ・決済を便利に？ ドコモSMTBネット銀行のBaaS機能を活用 first appeared on ペイメントナ",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T08:00+09:00",
-   "via": "ペイメントナビ"
-  },
-  {
-   "id": "42cd12269a217279",
-   "title": "PayPayほけん、「インフルエンザお見舞い金」 リピート割で10円引",
-   "link": "https://www.watch.impress.co.jp/docs/news/2145791.html",
-   "source": "Impress Watch",
-   "summary": "PayPay保険サービスは、「PayPay」内の「PayPayほけん」ミニアプリで、「インフルエンザお見舞い金」の提供を10月5日に開始した。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T08:00+09:00",
-   "via": "Impress Watch"
-  },
-  {
-   "id": "f7f0485892924e24",
-   "title": "No.79【ポイ活】電子マネーWAONポイントがWAON POINTに統合！自動移行しないって知ってた？やるべき対処法を完全解説 Geoffrey Paschel (QRlVOK5t4u)",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12b1FUWUdOQkRmRUZUUzdvZ0I1OWZpS19ZOTRrT204dGNSb1ZwSEl4RjhEZVRxaVQ5TW1aeHU2VjRybl85WF9haXVDOG1WbVNILXBxejhQNEZoMk5PQjlCOFBEUHlfaWVZSjVr?oc=5",
-   "source": "Unisba Media",
-   "summary": "No.79【ポイ活】電子マネーWAONポイントがWAON POINTに統合！自動移行しないって知ってた？やるべき対処法を完全解説 Geoffrey Paschel (QRlVOK5t4u) Unisba Media",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T07:10+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "0c61967cd635be92",
-   "title": "【徹底比較】一番お得なSuicaチャージカードは？最強のクレジットカードはコレ | 家計・ライフ - Mocha（モカ）",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pUGV5Nk0xTkhPaDhUWXpxQkdjVVVReGZ3QWVucm9ORk5xWU12cWxzQTdQS1JEamp6RlhCTjkzNG1Pdw?oc=5",
-   "source": "FP Cafe",
-   "summary": "【徹底比較】一番お得なSuicaチャージカードは？最強のクレジットカードはコレ | 家計・ライフ - Mocha（モカ） FP Cafe",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T07:08+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "2746e4bd1ef2c5cd",
-   "title": "コンビニのキャッシュレス決済、2026年上半期の動向を公表 セブン・ファミマ・ローソンのデータを集計",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40enRXZ2t6ZC1ObElpdmRzNjZkWHp6ejUwTUJRcnk2Q3NsODhWT2J5S29CUFR5QW0wNTJQVk9iQ1FYMkRmaHFTSE9DVXlPaER6M2hJSkh0eWI?oc=5",
-   "source": "DXマガジン",
-   "summary": "コンビニのキャッシュレス決済、2026年上半期の動向を公表 セブン・ファミマ・ローソンのデータを集計 DXマガジン",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T06:47+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "dd6b274af3f0ccd6",
-   "title": "ネットスターズ、Stripeに国内コード決済5ブランドを接続 日本市場対応を支援、店頭決済にも拡大へ",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQ0U3MFJoR2ltRnJzREJWb0ZzRFVHSDhuYVA3NmxCelBacGszLVV2VFk2cmJPcHB1SDd0TjFFckRXeDZzaURYeGhHRUJoZHRkaXNQbExn?oc=5",
-   "source": "日本ネット経済新聞",
-   "summary": "ネットスターズ、Stripeに国内コード決済5ブランドを接続 日本市場対応を支援、店頭決済にも拡大へ 日本ネット経済新聞",
-   "categories": [
-    "code",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-06T06:46+09:00",
-   "via": "Googleニュース「コード決済」"
   }
  ]
 }
