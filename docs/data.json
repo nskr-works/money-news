@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T19:24+09:00",
+ "updated_at": "2026-11-25T23:54+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,45 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "1dd3d37f26d86cf3",
+   "title": "松本地区の共通タクシーチケット、2027年3月末で終了 組合が解散方針、キャッシュレス普及が背景",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vbDU5V2pnN0I0WGNURDY2SGJUQ0NWSHZsbzJWa1lVMWFBblhxME5IVUl5eEt1VUNNWHJkQVNRdlVMdlcxbnpvMnlOd0tUTk1VS2psMmpTVTdJOEZZaGdsMmhQMC1IUnlaSVFDYnd3QWk?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "summary": "松本地区の共通タクシーチケット、2027年3月末で終了 組合が解散方針、キャッシュレス普及が背景 信濃毎日新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-25T21:23+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "61d6fe2e45afb927",
+   "title": "キャッシュレス決済サービス「Ｐａｙどん」 26日午後から利用再開へー 鹿児島県（KKB鹿児島放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mUHdiV3l1UTNOZEpVZC1USU5CTDdMN2RlWnJjMjRsUWZmNU9DMmJjUVhldThCVG5rWVMzRDZ4bnRlNFlKWU53Q0tzbG5oMXpYQU01Zm1yX3BzWXpfTjNLMndvNlpJb0h2Qm5jRmpWMHpjRHBpVzhPdXljbndrYnc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "キャッシュレス決済サービス「Ｐａｙどん」 26日午後から利用再開へー 鹿児島県（KKB鹿児島放送） Yahoo!ニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-25T20:37+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "d7748863346e3482",
+   "title": "キャッシュレス派の大本命！ラルコバレーノ「収納力が凄い」手のひらサイズの財布、スマホと合体するミニ財布…ほか【レザーグッズの人気記事ランキングベスト3】（2026年10月版） | 【公式】モノマックス（MonoMax）｜付録、カバン、時計、家電、カップ麺などの情報を詳しく解説！",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yd0pJXzcyVW9vS1RyTTNLNHRBbHBLNFlQX2tGUW1ac1pnaVUxUzVXWllWMDI3TE9SRFBqcHhrQUQxeU5ZNUhaMVRydw?oc=5",
+   "source": "MonoMax web",
+   "summary": "キャッシュレス派の大本命！ラルコバレーノ「収納力が凄い」手のひらサイズの財布、スマホと合体するミニ財布…ほか【レザーグッズの人気記事ランキングベスト3】（2026年10月版） | 【公式】モノマックス（MonoMax）｜付録、カバン、時計、家電、カップ麺などの情報を詳しく解説！ MonoMax web",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-25T19:30+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
   {
    "id": "00ab49b74dcf70f7",
    "title": "ハノイ市は、デジタル変革政策を支援する決済サービスプロバイダーを求めている。",
@@ -273,6 +312,19 @@
    "company": "株式会社サイトクリエーション"
   },
   {
+   "id": "7396439103f1e157",
+   "title": "Rettyがグルメ情報を外販、ヤフー出資でPayPay連携も （2ページ目）",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUNWMmtTVDdva0ZHSW5hb1V4UmtOV2FvSmNoX1prX0VwM1lYUmc0MlNYWXFWdFc1MDNBN0x0V1REQjc5ZTJzUzlFOFNpQXlyZWRSUmNPa2hCb1h0WlRzZU5NOWliQzlkTThqcmZNZVBBaVM2TzE0M0pZZWk3ZHRLaFdtSUk3UUJYQ2pheG1CTThRM1dHd2c?oc=5",
+   "source": "日経クロストレンド",
+   "summary": "Rettyがグルメ情報を外販、ヤフー出資でPayPay連携も （2ページ目） 日経クロストレンド",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-25T14:41+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
    "id": "413d6263b0b15908",
    "title": "年末の自分へのご褒美に。セゾンローズゴールド・アメリカン・エキスプレス®・カード、新規入会キャンペーンを11月25日から開催",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tcmxLTUN1OWQ0Sm5EUXNrZkdaNHRULVhYU2VTUGFPc21udU1mWGM1U0pRTkV0T3lMZk5qQ1ZBRHlrMW9nUlVfNDB3VVBwazBIMzlJc0ozVnBJYVREeGRNZHJqNjFYdFdXdmc?oc=5",
@@ -312,6 +364,19 @@
    "type": "news",
    "published": "2026-11-25T14:00+09:00",
    "via": "Impress Watch"
+  },
+  {
+   "id": "d4e7d14dd136964b",
+   "title": "独走PayPayが投資回収ターンに 何重もの「やめさせない」仕掛け （3ページ目）",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEtYQm1YQzFZemdFaFUwTGxBTzVzY3NNaWZiazFHelV0LVZwbmRjdU9NOWZlQUlRLXlzY2xKc3A5Y0Z4Q0V2WGpqU2FlQjg2MlpCaW9GbUZiTEo4Y1FmZnV3NVUwTjcxUjBNN0QwVi1FYlNSc0d2TXpJRGxfQkRZTUhiMUN5Q1c0SU9BYkVMaVktTEloT2JVVA?oc=5",
+   "source": "日経クロストレンド",
+   "summary": "独走PayPayが投資回収ターンに 何重もの「やめさせない」仕掛け （3ページ目） 日経クロストレンド",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-25T13:40+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "ea9c59d7d3e85c5d",
@@ -445,6 +510,20 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OVVRjcHpkbzZiX19QNkFBS1Y5dDBHWGtmNm5kM1hNckZqQmp5Z1Z1WmxwZVdXazBWVndWZE5ta25MazBydHZGNDFrZmY0ZXROSzdEVFpfaFBDZWRLWE1Uc1k5YU43cmFUUFE?oc=5",
    "source": "PR TIMES",
    "summary": "JCB、DEAN & DELUCA HAWAIIの限定バッグが貰えるキャンペーン開催 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-25T11:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "866b2500ecbf8cce",
+   "title": "JCB、DEAN & DELUCA HAWAIIの限定バッグが貰えるキャンペーン開催 | 株式会社ジェーシービーのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OVVRjcHpkbzZiX19QNkFBS1Y5dDBHWGtmNm5kM1hNckZqQmp5Z1Z1WmxwZVdXazBWVndWZE5ta25MazBydHZGNDFrZmY0ZXROSzdEVFpfaFBDZWRLWE1Uc1k5YU43cmFUUFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCB、DEAN & DELUCA HAWAIIの限定バッグが貰えるキャンペーン開催 | 株式会社ジェーシービーのプレスリリース PR TIMES",
    "categories": [
     "credit"
    ],
@@ -39901,88 +39980,6 @@
    "type": "news",
    "published": "2026-10-06T16:00+09:00",
    "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "aa00b4e6ef88d157",
-   "title": "「働きがいのある会社」Great Place To Workより認定を取得（Mastercard）",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FSG9aSG1ucUNQRi1Ea0J0d0E0Yy1neVM5eW5MOGtJZkZXbGs5dlZnYlFGeW1tZC14enluOEUyTGpuOEd6cEo0MGVtbWdMRWNsQmZNUDczVzZfbDA?oc=5",
-   "source": "ペイメントナビ",
-   "summary": "「働きがいのある会社」Great Place To Workより認定を取得（Mastercard） ペイメントナビ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T15:55+09:00",
-   "via": "ペイメントナビ（Googleニュース経由）"
-  },
-  {
-   "id": "2ddb17f6ee8f1486",
-   "title": "モバイルSuicaのコード決済「teppay」10月20日開始 2万円を超えたチャージが可能に（ITmedia Mobile）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HWXV1OXpFY3o2LTk1LVV6ZTEyZEhsbVVVaU9TaGtxenVJWk5RWmxSMXhRR18xTXRzanlKbG9ySFhhUVdwdl8xdWpfNVhQblFVMVhFTjFJMnZtemZOY1E5NDRJSi1Ea3JBZHpSR01GaXB0UkR2TTgydXpKZ3ZxbXM?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "モバイルSuicaのコード決済「teppay」10月20日開始 2万円を超えたチャージが可能に（ITmedia Mobile） Yahoo!ニュース",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T15:44+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "1c0ac5c2a2a568d2",
-   "title": "TMN、JR東日本の「teppay」に2026年10月対応開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000097.000064450.html",
-   "source": "PR TIMES 新着（直接）",
-   "summary": "[株式会社トランザクション・メディア・ネットワークス] 電子決済サービスの株式会社トランザクション・メディア・ネットワークス（本社：東京都中央区、代表：大高 敦、以下TMN）は、自社が提供する「TMN決済ゲートウェイサービス（以下 TMNゲートウェイ）」において、...",
-   "categories": [
-    "cashless",
-    "psp"
-   ],
-   "type": "release",
-   "published": "2026-10-06T15:41+09:00",
-   "company": "株式会社トランザクション・メディア・ネットワークス",
-   "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "d295e1326e12c9dc",
-   "title": "モバイルSuicaのコード決済「teppay」10月20日開始 2万円を超えたチャージが可能に - ITmedia Mobile",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZHMtQmktZ3FwVHh0SmtMOFlpRWZ5WnVKUmpIcmF6N3hyNURDaEF5UzhLUFUtWTJ3bDY0ck5KT2pydzFtdkZZbTc2ajZ2b1ZFbE9wTFFTeFRDN3JYYm1xSUxlUEpZTHp0U2dpYi14VdIBaEFVX3lxTFBoeVVLVG50dnRhNzJmSldqX0p3QnRGdng5dldyZ3pBRUoxdEY1MnhHS3VYaFpVRkdFczkwOGRTMjkyTDE3QmlOR0NYZDA4V3k2cG5sOXVpd3hReG5XVnBoR05PNDlWSkE3?oc=5",
-   "source": "ITmedia",
-   "summary": "モバイルSuicaのコード決済「teppay」10月20日開始 2万円を超えたチャージが可能に - ITmedia Mobile ITmedia",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T15:39+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "a1316aeac849e2f8",
-   "title": "決済サービスを悪用し 現金をだまし取られる詐欺被害も SNSアカウント乗っ取りに注意",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYa2FSSUczQk8tR0hfeU51dzJaOV9DaDlzUWVYazJ3UjZDQmVSOTR4bk5oaFJ5YWtHWEdIdmF5UC1GajlSdjJVMGpER19Ub2xDazlFWXlTT1Fxb0dNNmFV?oc=5",
-   "source": "TBS NEWS DIG",
-   "summary": "決済サービスを悪用し 現金をだまし取られる詐欺被害も SNSアカウント乗っ取りに注意 TBS NEWS DIG",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T15:37+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "92a4c576469e0269",
-   "title": "JR東日本、コード決済「teppay」を10月20日開始",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DSFBVelFiM1VkN3EyXzJpYVB6NjU1RFJ1cmlLNlVFeVRndTN6V3RveVkzY3BFYjZ1ZVlRaVE2SjRMTzJuZ3k0OFROZnlpSWgycVpoZ2x5QQ?oc=5",
-   "source": "traicy.com",
-   "summary": "JR東日本、コード決済「teppay」を10月20日開始 traicy.com",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T15:30+09:00",
-   "via": "Googleニュース「コード決済」"
   }
  ]
 }
