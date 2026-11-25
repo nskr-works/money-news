@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T04:02+09:00",
+ "updated_at": "2026-11-25T13:32+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,6 +30,238 @@
  "topics": {},
  "items": [
   {
+   "id": "ea9c59d7d3e85c5d",
+   "title": "Mastercard、Apple Payのタッチ決済で3万円分のギフトカード当たる 26日から",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2159081.html",
+   "source": "ケータイWatch",
+   "summary": "Mastercardは、Apple Payに設定したMastercardでタッチ決済を利用すると、抽選で300人にApple Gift Card 3万円分が当たるキャンペーンを実施する。期間は2026年11月26日～2027年1月3日。応募者全員に限定スマホ壁紙も進呈する。",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T13:29+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "7cd953af2ef28066",
+   "title": "Mastercard×Apple Payでタッチ決済！ JUN OSON限定壁紙が全員に、抽選でギフトカード3万円分も 11月26日から",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kUHRCWnpsU1dEU3hoWVhwX215N0VBaEpiZENTamZkQVZURmlkTnZiTk5GbEF1QkFmcXBnVTRVMFZDWUp3YjVJbHBjbnhnZWp5UHgwaXBJb3ZwTl9OM3dlYnhZWTk4RXMteEE?oc=5",
+   "source": "AppBank",
+   "summary": "Mastercard×Apple Payでタッチ決済！ JUN OSON限定壁紙が全員に、抽選でギフトカード3万円分も 11月26日から AppBank",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T13:18+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "bbe8fb6d948d1361",
+   "title": "TOLOT、クレカ入力不要の「PayPay決済」に対応",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FaXNqT2dWY1hiTTVxeTdDa1llQWtHNDNFNDB1d0NpajBZeGNYemwzOUlFbHdRWkNObzBoQVBCOVNhZll4UndZYU8tczU5OG84dzdwTTMxN3pEWkhaM28yMnU2SlhUOUhzelE?oc=5",
+   "source": "PR TIMES",
+   "summary": "TOLOT、クレカ入力不要の「PayPay決済」に対応 PR TIMES",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-25T13:12+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社TOLOT"
+  },
+  {
+   "id": "9e0474f95bb92978",
+   "title": "GINZA GILC NIGHT 2026 華やかに開幕！ 11月19日には俳優の見上 愛さんが点灯式に登壇 ～銀座にプレミアムカード会員専用ラウンジを持つダイナースクラブも協賛～",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iS3RvM1E4YkRZOGtfZ2N0c0NCT3VnelRNZ3U0aV8tT09YTXk4VHJvbm9yRnNUSzlIeVRvN2xvOUtsWnJDOEJFRHNkbzJscEVLUEVEMkJFWml5NGhNUWlfcDhfT3ZVSVJtdGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "GINZA GILC NIGHT 2026 華やかに開幕！ 11月19日には俳優の見上 愛さんが点灯式に登壇 ～銀座にプレミアムカード会員専用ラウンジを持つダイナースクラブも協賛～ PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-25T12:27+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "三井住友トラストクラブ株式会社"
+  },
+  {
+   "id": "e93448c4ebb46131",
+   "title": "メルペイ、きらぼし銀行と連携",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5c2lkTFBCZi1ZLW5LM2ctT0NFSWNFVWJQeVR0T1lWQ1Z0bjUyR1B1UjA4MmJacUE1UTlNSUdJdGZIZGsyRHFTRXIyZFFDQWQzbXlwY1RwbGs1RGJsWnphT3NXZ05zeHZacHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "メルペイ、きらぼし銀行と連携 PR TIMES",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-25T12:10+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社メルカリ"
+  },
+  {
+   "id": "3319c451af5e6161",
+   "title": "所持金は1500円…「スマホ決済で払うつもりだった」福岡から鹿屋まで12万円超の無賃乗車か 30歳男逮捕",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzN6VUZ3dHB6Z2VlTzFCUUx4alBmaEIzVHNiOXJMampzYnhZbFVhbkJRa21lZEFGZGxYU2s1R1lLcjYxOHJ4YUdHTVFWeTY1Smk5cGlFRURwelF1cUFEWU5vdnd4TGtSVVU4eHE0Z1FZM09HZmV5YW5tQVFOaHZOVkVxai0yODQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "所持金は1500円…「スマホ決済で払うつもりだった」福岡から鹿屋まで12万円超の無賃乗車か 30歳男逮捕 日テレNEWS NNN",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-25T12:02+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "12933ea6f59337f2",
+   "title": "Mastercard、「移動も買い物も、Mastercardのタッチ決済を、Apple Payで。キャンペーン」を11月26日（木）より開始！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40M29yVm9BckQ3R0gyZW1EUm85eW9oV19LbWpOdUxKSmx5NVU0cGthRkZldi1DOGdCMXRCODBRdThXUTVNN0NvSXppN3pVYVZoTkVDek82R1lxcVM1ZG83LW5rNnhLWEU5YkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "Mastercard、「移動も買い物も、Mastercardのタッチ決済を、Apple Payで。キャンペーン」を11月26日（木）より開始！ PR TIMES",
+   "categories": [
+    "cashless",
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-25T11:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」",
+   "company": "Mastercard"
+  },
+  {
+   "id": "38097c557af985e2",
+   "title": "JCB、DEAN & DELUCA HAWAIIの限定バッグが貰えるキャンペーン開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OVVRjcHpkbzZiX19QNkFBS1Y5dDBHWGtmNm5kM1hNckZqQmp5Z1Z1WmxwZVdXazBWVndWZE5ta25MazBydHZGNDFrZmY0ZXROSzdEVFpfaFBDZWRLWE1Uc1k5YU43cmFUUFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "JCB、DEAN & DELUCA HAWAIIの限定バッグが貰えるキャンペーン開催 PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-25T11:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社ジェーシービー"
+  },
+  {
+   "id": "18f78c950868a0c6",
+   "title": "後払いサービス利用者187名に実態調査｜利用理由は「支払い時期を後にできる」が39.6％で最多",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QaTNsSWd2ZmJjTF9NWm5Ob0N2OGJrQjBUU3BsX1E2aUR2V0VNWTZRYVRxb1Nya2ZSOGFUNUphVDJYbzFZVXdpdTNrLXFTNVJlZWhIbGkzR1hFeWE0eGFoV2lhZ2QzcW91OEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "後払いサービス利用者187名に実態調査｜利用理由は「支払い時期を後にできる」が39.6％で最多 PR TIMES",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-25T10:00+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "株式会社サイトクリエーション"
+  },
+  {
+   "id": "4632c39f53331aca",
+   "title": "Hecto Innovation、Kaiaと提携 ステーブルコイン決済基盤の実装加速",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMy1DV0MycmNDamNtWXR1cGVuWFlETVlYYW15MGJyM0JONHZrTldYWXpVMmJNc250anJXcHJGTkZmM1Brc1JXZmwyVVpxNG0tNUpJTk1WZUMxZGM3a05EdkRETWRZbW5JU05FS0llUkVzWnI1eDVPTkc5cUNMX3kzZjN0M0FRN0JmYlhTNk5leGVHR3Fnd1E2bjFXb0tKUjUtWThlTzZuaHN0ZkoxM2xNRldNNEEzb0dGdU9Sa2Q0cHZoNHdVWFQySA?oc=5",
+   "source": "디지털투데이",
+   "summary": "Hecto Innovation、Kaiaと提携 ステーブルコイン決済基盤の実装加速 디지털투데이",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-25T09:17+09:00",
+   "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "405d83c92827754a",
+   "title": "G2 Risk Solutions、加盟店審査の盲点を突く不正を防ぐ国際ブランドルール違反対策とトランザクションロンダリング検知（前編）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zaFVBMWozLU9keVFDVGF2MElSeVIwa09naUJxbGJkekt2eFdaMVo5NnRPZ2ZqeTVlUE54Y2NPY0xNVmZGWFNfRmF0dXVvXzJvWmZFZlhhbkYtS0U?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "G2 Risk Solutions、加盟店審査の盲点を突く不正を防ぐ国際ブランドルール違反対策とトランザクションロンダリング検知（前編） ペイメントナビ",
+   "categories": [
+    "credit",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-25T09:00+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "c68d1ec41f0f2cd0",
+   "title": "社会課題の解決に挑むリーダーを支援 アメリカン・エキスプレスが「Leadership Academy」を東京で開催",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pN2V1Z0JIeER4bUVpWmQwYk9DZ0ljYWlaOVdkOXZET2ZRczZvTWRJSHZJTHJBc0ZMZjhtbkgxTEV6Vk5Ea2ZUbm94VUh1bElwQ3pLZV9fam40S1U?oc=5",
+   "source": "ペイメントナビ",
+   "summary": "社会課題の解決に挑むリーダーを支援 アメリカン・エキスプレスが「Leadership Academy」を東京で開催 ペイメントナビ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T08:30+09:00",
+   "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "b6af13de954c9d2f",
+   "title": "アウラニ、2027年1月1日からキャッシュレス化｜対応する支払い方法",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWc282YjdLM1RLWG00WGdhcER6SF9JMlp5NEZwZWJNZl9Gc3RSbUQ1dHZ2NlQ1aTQtbk90al9RSTNoaGJRQzZVblB2dTNtUGg3UjdzcVlqemZ5bDhPLW5uaFZrcmpvcm9Ud29iTmdybjUwSmJpSkZBSkhn?oc=5",
+   "source": "disneyworldfan.jp",
+   "summary": "アウラニ、2027年1月1日からキャッシュレス化｜対応する支払い方法 disneyworldfan.jp",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-25T07:14+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "72efb757567d30d3",
+   "title": "「ビットコインでも最大4％還元」クラーケン親会社、米国でクレジットカード2種発行へ",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBRcVg0VGJURjlCcTdSdThhejdVRlp6NU9aMEVYVjNjM2QxOEQ0c21jRWxIMnVFWTNULUo4aElwRW1WMG8?oc=5",
+   "source": "CoinPost",
+   "summary": "「ビットコインでも最大4％還元」クラーケン親会社、米国でクレジットカード2種発行へ CoinPost",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T07:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "877e12caf3865b0b",
+   "title": "京王、1100万人超の個人情報漏えいか 一部クレカ番号なども 9月のランサム被害で",
+   "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003429/",
+   "source": "ITmedia NEWS",
+   "summary": "京王電鉄は11月24日、京王グループが9月に受けたランサムウェア攻撃を巡り、顧客や取引先など約1063万人分の個人情報が漏えいした可能性があると発表した。一部には海外からの宿泊客のパスポートの写しやクレジットカード番号も含まれる。従業員や採用応募者などの一部は漏えいを確認した。二次被害は確認していないという。",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T07:00+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "65d00d81f3326ec8",
+   "title": "【事件】山陽小野田市の男性２７万円詐欺被害/現金と電子マネーで",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nNzRyRnAxT3BrY0VpS0Z6dVhYUG02NDI4eGRvOXk4TmtlRVJtRk43ZlR1bUMyNllBNEMtSHZXeHBFRE8yLUd1eTFSODFPalJRSF8yakFsLTNjanhUNGpFMG9VWUdxeXhoMGc?oc=5",
+   "source": "山口新聞 電子版",
+   "summary": "【事件】山陽小野田市の男性２７万円詐欺被害/現金と電子マネーで 山口新聞 電子版",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-25T06:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "c4c4701386809cdc",
+   "title": "お得にクレカ乗車 ポイント二重取りで上乗せ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ONzJSSl9VZkZvdC1mYUlQWXl4MUhkUVd5Y1hFWjh6aGVIazh2YmJHcVRUQlhHWkVIYjV4dHM2T215aUwtbm0yTzNxUnlRdXNPaWpwaldZTFNUNEpvazNRM3MxTHd6UUx2Q0ZzQg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "お得にクレカ乗車 ポイント二重取りで上乗せ 日本経済新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T04:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "a8e50ca50b7524e5",
    "title": "家電EC「XPRICE本店」にて、2026年11月23日よりPayPayポイントが最大1,000ポイント戻ってくるクーポン配布！",
    "link": "https://prtimes.jp/main/html/rd/p/000000501.000028810.html",
@@ -42,6 +274,19 @@
    "published": "2026-11-25T02:10+09:00",
    "company": "エクスプライス株式会社",
    "via": "PR TIMES 新着（直接）"
+  },
+  {
+   "id": "39c5485aa831f4e1",
+   "title": "Stripe、企業価値2,000億ドルで既存株売却を協議…上場ではなく株式取引",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sN1FZY19QQ2xNdGRIYWFmNFlYVEJfQUZwbktiUTlnMTVuZmI1T05rY0pQYm9QVUMtcXlia3FZM1YzSFBmNWMxZzRHM0M2eWFfbmFDTkZwSy1nZ0IyRWpwN3QxWExreHExd3cyWU5RWmpFa2hp?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "Stripe、企業価値2,000億ドルで既存株売却を協議…上場ではなく株式取引 BigGo ファイナンス",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-25T01:55+09:00",
+   "via": "Googleニュース「決済代行」"
   },
   {
    "id": "fe93afba6eeff9c2",
@@ -81,6 +326,19 @@
    ],
    "type": "news",
    "published": "2026-11-24T20:21+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "779edc655b99fcf0",
+   "title": "アメリカ制裁で「クレカ使えず職員が立て替え」ICC赤根所長「日本は現金使える」（FNNプライムオンライン（フジテレビ系））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xenZZandhdVFGdlM2U1dNQnY4MlhJWjhQVnItWEI3blB2UWNPcjU1N3NQZmhmN050LTc4RWhKNkh5TWpzaW4xM20yR25nOEkteGVqUmIyd2VRcEFzMmhWQThfakdJNFRrWjRQN2VFZHQ1Z1laWnBWZDFhbHpGOGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "アメリカ制裁で「クレカ使えず職員が立て替え」ICC赤根所長「日本は現金使える」（FNNプライムオンライン（フジテレビ系）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T20:19+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -133,6 +391,19 @@
    ],
    "type": "news",
    "published": "2026-11-24T18:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "9b0e058b46d8eb66",
+   "title": "京王電鉄、1100万人分流出か クレカ番号、パスポート画像も（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4MTYxX1F6SklYazNyemhDMDhNNU9fTUxEUmJwMS1EbGZOUWFqRGVINkxVQTNTWTV1VGNOb2MxQVhiQXNJNDBXQ1JCT2FIY18yejcxSjJDQVNoT2hoR0tvUzNGTEszbWVCa2pwT2x4eUppanA1c21WSHpJMFdGdnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "京王電鉄、1100万人分流出か クレカ番号、パスポート画像も（共同通信） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T18:16+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -396,6 +667,19 @@
    ],
    "type": "news",
    "published": "2026-11-24T13:20+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "11e4824d289c40fa",
+   "title": "「クレジットカードの審査に落ちた」と言う30歳の息子。アルバイトでも年収は「300万円」あるそうなのですが、何が原因だったのでしょうか？ (ファイナンシャルフィールド)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXVRSWxKcjh4UlM3V1lvd1pSTkg5RVBqZ0EyaVZZNjlXaHlzLWNBaDFIUHQ3TUVNOXRGWGFpT1ZxbENJcjBaZzNwMDhhZXJna0xubkszemlSNnJlcExXVnNEOXZvWnhVcmxGLU81Q29JUlNzdzlVbXdvbXZLcEw1UmtOT3JOUmRDTEFub2dn?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「クレジットカードの審査に落ちた」と言う30歳の息子。アルバイトでも年収は「300万円」あるそうなのですが、何が原因だったのでしょうか？ (ファイナンシャルフィールド) Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T12:50+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -3635,6 +3919,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "edb496d0548481b5",
+   "title": "ミニストップ、Visa eギフトをWAONで購入すると1％還元 11月20日開始",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90ak9MUnc5Z0V1bWsxYV8zdkpiU1ZRS1ZIeURtS3Zud1dkaGRIc2F0QVExZXJMSldCamZlR2RPaFdiVzU2WlhydGM4dUN3YjNrNjJ4OVdvZkpfblpFNngw?oc=5",
+   "source": "Infoseek",
+   "summary": "ミニストップ、Visa eギフトをWAONで購入すると1％還元 11月20日開始 Infoseek",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-19T12:11+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
    "id": "ff26a51f3e3d5d68",
    "title": "スーパー銭湯で窃盗相次ぐ 合鍵でロッカー開けクレカ狙う組織的犯行か なぜスーパー銭湯？手口は",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zSGhDYzlVbmVPaDYyUnVYWkJvMktuTnhQVVFSRm9fOHUtbm5iYm5mN0lLbTJOOGRPZnQ4VHJjTEw3NVduYUtuTjVGYUtnYjBTUXNfVDVZR3hrTTY0bU9NaFlqTnRrOFRYVVAwLWNnaThfTndzaFlKajhLN1JuS2s?oc=5",
@@ -3653,6 +3950,19 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vSS0zSHdDd3ZaUjJucnhKSFJYSW1NQVNWNy0wWGJnbTFLTVRzUGVlbHpuYmxkcUVsWHkzRzg1Z2syRUt6c05VTkVhSjM2Y1BqZmc?oc=5",
    "source": "ゴールドオンライン",
    "summary": "【学生が有利】初めてのクレジットカード徹底解説！デートで恥をかく前に｜資産形成ゴールドオンライン ゴールドオンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-19T12:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "b2f796297ae7cd14",
+   "title": "JCBとVisaのどちらが良い？学生はクレジットカードで賢く節約【7選】｜資産形成ゴールドオンライン",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ROFJpeUxSdjFiazVLQ2QtRnBoVk01aUtGWVZvR3pveHJ5YTNpWV9vVWs1SnlVVnJYZFVMVmFGZWF6SkJld0E5OTAxbWdUX3FYY1E?oc=5",
+   "source": "ゴールドオンライン",
+   "summary": "JCBとVisaのどちらが良い？学生はクレジットカードで賢く節約【7選】｜資産形成ゴールドオンライン ゴールドオンライン",
    "categories": [
     "credit"
    ],
@@ -39683,318 +39993,6 @@
    "published": "2026-10-06T14:15+09:00",
    "company": "American Express International, Inc.",
    "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "abce297391a405a5",
-   "title": "次回開催予定のセミナー「金融包摂の推進 ― キャッシュレス決済の原動力」",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHNiT19zYV9OYTVrTXN5SmVEVjVlTkRrWGgxejZVRExwblVSSUhTSEdjM1RVZHEteUk4VkN0SnRMNkZqUk5KajE5YkxSeEIxNGQyR0FFQ29fNnBMTFlwQnpxejlOUXU5UTh1S1c5OTlELUplWHhqSUNvdXRiLW1MOEgxMXB1N055OXJyTjVIalF2Y2NKaFQzU08xeURTQkg1TzE0STlURUdYVFg5V21SWmEzWDVuUjVS?oc=5",
-   "source": "Vietnam.vn",
-   "summary": "次回開催予定のセミナー「金融包摂の推進 ― キャッシュレス決済の原動力」 Vietnam.vn",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T14:08+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "df336fac9022f7bd",
-   "title": "テラスモール松戸の駐車場で料金の「オンライン精算（事前精算）」が利用できるように、スマホでキャッシュレス払いして出口はスムーズに",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ha2p6N3F3NHZCcFRtVmE1SmtjY1M0SXZUV2JBcGRpbjNMUFZFcWxKcGZDdXR4bXgzMzJmZGtUTkFteHlBRjViRjdMdGZka3c?oc=5",
-   "source": "松戸つうしん",
-   "summary": "テラスモール松戸の駐車場で料金の「オンライン精算（事前精算）」が利用できるように、スマホでキャッシュレス払いして出口はスムーズに 松戸つうしん",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T14:06+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "019bc460df9c4a1f",
-   "title": "Amazon、au PAY マーケット、Qoo10が登壇！EC事業者向け交流イベント「第10回 ごくー会 @東京」を11月6日（金）開催。最新トレンドと現場のノウハウから「次の一手」を見つける一日に",
-   "link": "https://prtimes.jp/main/html/rd/p/000000320.000062228.html",
-   "source": "PR TIMES 新着（直接）",
-   "summary": "[株式会社GoQSystem] 通販一元管理システム『GoQSystem（ごくーシステム）』を開発・提供する株式会社GoQSystem（本社：東京都中央区、代表取締役：藤本 卓治）は、2026年11月6日（金）、EC事業者向けリアルイベント「第10回 ごくー会...",
-   "categories": [
-    "code"
-   ],
-   "type": "release",
-   "published": "2026-10-06T14:00+09:00",
-   "company": "株式会社GoQSystem",
-   "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "974278b3207d320e",
-   "title": "キエンホン区で市場とキャッシュレス決済専用通りが開設されました。",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFZWeGh6eTZyNzZYMnRzMEtmRFh3QVpCcWpHRlJ6TzhaM1hlSlVyMU1yUW9mZzNKWFdHWjdlZHpmZTU5WHprYUFEbXlPdjVlZUF6bnNDWnE2RVZaUW05Z0dQbWM0b3R6TGhtYWVhLW9WNThBbWNJWDV6YjhNcFhiSWozOWF1em5KcGpvZTMzc3cwOHcyMkRIUEtvQnZ3aGE0?oc=5",
-   "source": "Vietnam.vn",
-   "summary": "キエンホン区で市場とキャッシュレス決済専用通りが開設されました。 Vietnam.vn",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T13:49+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "855a569a0cf8a123",
-   "title": "明治学院大学がオンライン決済サービス『Paysys』を導入：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yNU15NjM1aE9MaWJ1Umx1alZxYlJQZDRwbnFtYjVhMFhNZ1lkbzBQM0pERW90VGs0LTNCaXZkam12cUgtdjVyb1NzUzQ5WEdLWWE0WGlGQ3FEZVMtNV9qSzlPYURLZTg0VFJz?oc=5",
-   "source": "時事ドットコム",
-   "summary": "明治学院大学がオンライン決済サービス『Paysys』を導入：時事ドットコム 時事ドットコム",
-   "categories": [
-    "cashless",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-06T13:16+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "615cac199349277a",
-   "title": "会計でクレジットカードを出したら「PayPayなら使えます」と言われて困惑…。同じキャッシュレスでも、カードを使えない店があるのはなぜ？ (ファイナンシャルフィールド)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1pFdmRYWlFaWS1MbDk5YkdEOGJnd3hhLUFhNXpfNk40UzlpZGdiU3NXMWd2bmdYUWtQNFUxRGFBZWJWWk5fRy13Z3Q5UkwtVjFkWmlnUjlPaTg3ZWtkSjY5R2E5cWZwb3doVC12MG9CTFNTdFRfMm05dkpPckdMRjl2S05JbnR5ZWV1TGdn?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "会計でクレジットカードを出したら「PayPayなら使えます」と言われて困惑…。同じキャッシュレスでも、カードを使えない店があるのはなぜ？ (ファイナンシャルフィールド) Yahoo!ニュース",
-   "categories": [
-    "cashless",
-    "code",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T13:10+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "534def4dc4f82489",
-   "title": "「三井ショッピングパーク &mall」「三井アウトレットパーク オンライン」に「d払い」を導入！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000928.000118641.html",
-   "source": "PR TIMES 新着（直接）",
-   "summary": "[株式会社NTTドコモ] 株式会社NTTドコモ（以下、ドコモ）は、三井不動産株式会社（以下、三井不動産）が運営する公式オンラインショッピングサイト「三井ショッピングパーク &mall（アンドモール）」「三井アウトレットパーク ...",
-   "categories": [
-    "code"
-   ],
-   "type": "release",
-   "published": "2026-10-06T12:40+09:00",
-   "company": "株式会社NTTドコモ",
-   "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "eb81ed5a552815b7",
-   "title": "決済端末「アルファポータブル」、サロン向け顧客管理POSレジシステム「Aiony」と連携",
-   "link": "https://prtimes.jp/main/html/rd/p/000000075.000041697.html",
-   "source": "PR TIMES 新着（直接）",
-   "summary": "[アルファノート株式会社] サロン向けサービスを展開する両社が連携、10月6日申し込み受付開始 [画像1: https://prcdn.freetls.fastly.net/release_image/41697/75/41697-75-edf2850440bf563159d5a7bddb4b17ad-1024x153.png?width=536&...",
-   "categories": [
-    "psp"
-   ],
-   "type": "release",
-   "published": "2026-10-06T12:40+09:00",
-   "company": "アルファノート株式会社",
-   "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "3f45e0fe5688185a",
-   "title": "アクル、アンファー株式会社が運営する皮膚科学の知見を土台にした新しいエイジングケアブランドサイト「AND CREAGE」に不正検知・認証システム「ASUKA」の提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000126.000035938.html",
-   "source": "PR TIMES 新着（直接）",
-   "summary": "[アクル] クレジットカード決済などの不正利用対策ソリューションを提供する株式会社アクル（本社：東京都港区、代表取締役社長：近藤 修、以下「アクル」）は、アンファー株式会社（本社：東京都千代田区、代表取締役社長...",
-   "categories": [
-    "credit"
-   ],
-   "type": "release",
-   "published": "2026-10-06T12:40+09:00",
-   "company": "アクル",
-   "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "db11844a7ab9617e",
-   "title": "ついにクレカ決済導入！激安大型スーパー『ラ・ムー（LAMU）』各店舗で『キャッシュレス決済』導入スタート！",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FUGJJd2NoTGJmRnJxak5pVDV5NTNFVVU5NEpPRlBXNlAwSWJmVjhCaVhmUnZ4YWNVUmJiY1ZFZGtRYld1Yk9PcTByZWJRZFhrSlE?oc=5",
-   "source": "にいがた速報",
-   "summary": "ついにクレカ決済導入！激安大型スーパー『ラ・ムー（LAMU）』各店舗で『キャッシュレス決済』導入スタート！ にいがた速報",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T12:00+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "7010346afaa6cb8e",
-   "title": "福岡・八女市で女性が暗号資産だまし取られる クレジットカード会社や警察官を名乗る男が「不正利用被害がある」と携帯に電話 「逮捕状」を示し送金要求",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIOHRrN2pRRy1nZTBzT29QTUY4Vm1kd3VncTFtcVcxMzFZcmh3NEJNOHgyYkpzNmctUWNpUHIyVzJDRVJNOXo3TTJPaGthcm92WjBXN2pB?oc=5",
-   "source": "西日本新聞me",
-   "summary": "福岡・八女市で女性が暗号資産だまし取られる クレジットカード会社や警察官を名乗る男が「不正利用被害がある」と携帯に電話 「逮捕状」を示し送金要求 西日本新聞me",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T11:46+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "2e9a1778dddd18d2",
-   "title": "明治学院大学がオンライン決済サービス『Paysys』を導入",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRWhkb0JfUGxDalh1dGdJbHdUYUhkVFFfSndjclB5ODh3ZVVidTFwWWtSeHZ3S3FVTHctclY2Q2VHU0lwbWlId2M4TVAwVEdyQ0JQMHpSNmNpeS1CVkJNcGJacDRNa3VOWkE?oc=5",
-   "source": "PR TIMES",
-   "summary": "明治学院大学がオンライン決済サービス『Paysys』を導入 PR TIMES",
-   "categories": [
-    "cashless",
-    "psp"
-   ],
-   "type": "release",
-   "published": "2026-10-06T11:23+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」",
-   "company": "株式会社ペイメントフォー"
-  },
-  {
-   "id": "bccd4cf6cc9dbb6f",
-   "title": "【初心者向け】初めての韓国旅行 お金の準備完全ガイド｜現金・クレカ・プリペイドを徹底比較",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pMVg0aUR4am9PREppZXRGNm5ZdmhBVElQN2NjdjdBT0RnNklsWXpaSFBwMFoxWS1sV0ZMMTRxaTkxU1JGdldZZ1FMQmVHREZ6c19r?oc=5",
-   "source": "ドリームニュース",
-   "summary": "【初心者向け】初めての韓国旅行 お金の準備完全ガイド｜現金・クレカ・プリペイドを徹底比較 ドリームニュース",
-   "categories": [
-    "cashless",
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T10:30+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "c9ee9b9ae8a0ea31",
-   "title": "すき家・はま寿司などで「ANA Pay」「JAL Pay」「FamiPay」が利用可能に Smart Code導入",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lbGwwRTJObWYyUGxiZXc0NkhUWV83enZhdzFxUnUyOE9MRVNUUkpJbFFQR19mWnJPM3RjUUJsMzJHa2p6OWlyY3ZBYndOSFhtdEprWDJxTWRvUnJ3cGhz?oc=5",
-   "source": "Infoseek",
-   "summary": "すき家・はま寿司などで「ANA Pay」「JAL Pay」「FamiPay」が利用可能に Smart Code導入 Infoseek",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T10:16+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "353e792cf641bcd6",
-   "title": "すき家・はま寿司などで「ANA Pay」「JAL Pay」「FamiPay」が利用可能に Smart Code導入｜Infoseekニュース",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lbGwwRTJObWYyUGxiZXc0NkhUWV83enZhdzFxUnUyOE9MRVNUUkpJbFFQR19mWnJPM3RjUUJsMzJHa2p6OWlyY3ZBYndOSFhtdEprWDJxTWRvUnJ3cGhz?oc=5",
-   "source": "Infoseek",
-   "summary": "すき家・はま寿司などで「ANA Pay」「JAL Pay」「FamiPay」が利用可能に Smart Code導入｜Infoseekニュース Infoseek",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T10:16+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "2f9129bab905d873",
-   "title": "Suica、JRE POINTのキャンペーンまとめ【10月6日最新版】 モバイルSuica利用で600ポイント、交換レート35％オフも",
-   "link": "https://www.itmedia.co.jp/mobile/articles/2610/06/news053.html",
-   "source": "ITmedia Mobile",
-   "summary": "JR東日本が10月に実施しているキャンペーンをまとめた。モバイルSuicaやJRE POINTを利用したキャンペーンを実施している。普通列車グリーン車の利用や、JRE POINTでの新幹線チケット交換がお得になる施策もある。",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T10:00+09:00",
-   "via": "ITmedia Mobile"
-  },
-  {
-   "id": "68c4657672065181",
-   "title": "新たなステーブルコイン「OUSD」が Stripe で利用可能に",
-   "link": "https://prtimes.jp/main/html/rd/p/000000130.000077879.html",
-   "source": "PR TIMES 新着（直接）",
-   "summary": "[ストライプジャパン株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/77879/130/77879-130-0e498245632b2b13bf2afd111c7a03ae-3900x1950.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-   "categories": [
-    "psp"
-   ],
-   "type": "release",
-   "published": "2026-10-06T10:00+09:00",
-   "company": "ストライプジャパン株式会社",
-   "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "19a5d8866ac1a8b4",
-   "title": "「楽天ペイ」、「&mall」「三井アウトレットパーク オンライン」で利用可能に",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kcjl5SEdSbG9zeC1LaXllY3VQUWVqZC1YRnlZN2RwUkhPQk5lYU1KZkhNaXdEa0c0QmV0YWFnSm9QcTlLWEJnMEhBYXVqcnNyWXhETTJkaW13RFNuMGhSb2pIbDJTdmFFeUE?oc=5",
-   "source": "PR TIMES",
-   "summary": "「楽天ペイ」、「&mall」「三井アウトレットパーク オンライン」で利用可能に PR TIMES",
-   "categories": [
-    "code"
-   ],
-   "type": "release",
-   "published": "2026-10-06T10:00+09:00",
-   "via": "PR TIMES（決済）",
-   "company": "楽天ペイメント株式会社"
-  },
-  {
-   "id": "c707671c30179909",
-   "title": "創業70周年を記念した2つのキャンペーンを実施（アプラス）",
-   "link": "https://paymentnavi.com/paymentnews/183193.html",
-   "source": "ペイメントナビ",
-   "summary": "2026年10月6日9:57（JST） 【日本】アプラス（日本・東京）は、2026年10月6日に創業70周年を迎えるが、アプラス発行のクレジットカードを利用する会員に感謝を込め、創業70周年を記念した2つのキャンペーンを […] The post 創業70周年を記念した2つのキャンペーンを実施（アプラス） first appeared on ペイメントナビ .",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T09:57+09:00",
-   "via": "ペイメントナビ"
-  },
-  {
-   "id": "31eb72729e29e611",
-   "title": "「チケットレストラン」がApple Pay・Google Payに対応（エデンレッドジャパン）",
-   "link": "https://paymentnavi.com/paymentnews/183199.html",
-   "source": "ペイメントナビ",
-   "summary": "2026年10月6日9:50（JST） 【日本】エデンレッドジャパン（日本・東京）は、食事補助用途で従業員に発行されるサービス「チケットレストラン」において、食事補助サービスとして業界初となるApple Pay・Goog […] The post 「チケットレストラン」がApple Pay・Google Payに対応（エデンレッドジャパン） first appeared on ペイメントナビ .",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T09:50+09:00",
-   "via": "ペイメントナビ"
-  },
-  {
-   "id": "603245a3cef51c31",
-   "title": "文ペイとKB国民カード、デジタル資産決済で協力—ステーブルコインを用いた国内加盟店決済",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vLWlPenBJaGNFWmp2Q1hUYXZQVnpSVmc4cUJ1VHVOQ0k5SmVpSk5GMnJkTl9MNGgxWHIyMmhqR3VZODNsNnFsVFdQZDBNdXBzY2NxcnVXZVY0Ylk?oc=5",
-   "source": "亜州日報",
-   "summary": "文ペイとKB国民カード、デジタル資産決済で協力—ステーブルコインを用いた国内加盟店決済 亜州日報",
-   "categories": [
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-06T09:08+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "f418dc19c2c3fc0a",
-   "title": "銀閣寺でも進むキャッシュレス化",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqZ0pjM1JQVXBKRkZOOHFEcVNaUFA1YjR2SG5oNmJ0S18wZkVpUE9SU1VMSmdZcy1UNFl1SElVMThHVkY3OUhpSlNWY3hyUi1rSFdhVDA3b0dtR3l4RGxj?oc=5",
-   "source": "選挙ドットコム",
-   "summary": "銀閣寺でも進むキャッシュレス化 選挙ドットコム",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T08:35+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "f519b3c161ea868e",
-   "title": "ＧＥＮＤＡ[9166]：Nayaxとの業務提携を開始 アミューズメント施設向けキャッシュレス決済・店舗運営プラットフォーム「Tigapo」を英国全土へ展開 2026年10月6日(適時開示) ：日経会社情報DIGITAL",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9waTdNV3FicTF5TllreV9oWU85SWx2clNSTktJcnRJMmx5eTA3b3pMbTBlbUF0TnRRR2V4N25RT0FlVmtUYVVfYmNIRFpRU09wOTFhMk9QX2ZlQzh5b1hqdWxHV2x5RjNuMUE?oc=5",
-   "source": "日本経済新聞",
-   "summary": "ＧＥＮＤＡ[9166]：Nayaxとの業務提携を開始 アミューズメント施設向けキャッシュレス決済・店舗運営プラットフォーム「Tigapo」を英国全土へ展開 2026年10月6日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T08:30+09:00",
-   "via": "日本経済新聞（Googleニュース経由）"
   }
  ]
 }
