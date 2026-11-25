@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T23:54+09:00",
+ "updated_at": "2026-11-26T03:08+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,87 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "7500c66238f3e8e1",
+   "title": "PayPayでシステム障害 PayPayクレジットが使用できず",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpT2hsUzR0TVA5aG1IUmtOZ0RDbkNzTzEzcTZocEJkRnlncXF3REJOT0pORU45QkhjUnVZNnNNSG9QSHNoSmhqMlRpTzdfbXh0VEpIbzNvdzRoaHBVWk5wUy1GQndnX1VlMmZzbkdpSDAydw?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "PayPayでシステム障害 PayPayクレジットが使用できず テレ朝NEWS",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8f5403cdc8d23c36",
+   "title": "ＰａｙＰａｙでシステム障害、クレジットカード連携サービスが利用不可に…サイバー攻撃確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3cHpjS29QYWNNNGpCWEVhQ2RtYVdmOHRHVEhHd2RnWnZ0ZHByNzJsSEFybk9LSWhBLUx2M2RIdmVZMmlNWlZxaUtoMlhJU0RkOTZmb2JNSWlqNGdKNjlMVi1RODU?oc=5",
+   "source": "読売新聞",
+   "summary": "ＰａｙＰａｙでシステム障害、クレジットカード連携サービスが利用不可に…サイバー攻撃確認されず 読売新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:25+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "8487fdf967718ef8",
+   "title": "スマートフォン決済「PayPay（ペイペイ）」のアイコン - ペイペイ、クレカ決済に障害 サイバー攻撃は確認されず - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmZTNKMnU5UnQ2YmMyeFB3VElnT2xqZ2JCdWdTWTBMUFJ3VDZRZGZYX0ZGRlZNd3EwNUl0djl6SDM0V1B4cDl5RE1GTERmcDhIVTlDZ1poZw?oc=5",
+   "source": "西日本新聞me",
+   "summary": "スマートフォン決済「PayPay（ペイペイ）」のアイコン - ペイペイ、クレカ決済に障害 サイバー攻撃は確認されず - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:15+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "202431c50c27422f",
+   "title": "PayPayで障害、クレカ機能で 25日夜～",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2159303.html",
+   "source": "ケータイWatch",
+   "summary": "スマホ決済サービス「PayPay」で、25日夜から障害が発生している。PayPayによれば、「PayPayクレジットでの支払い」「「PayPayクレジットからのチャージ」「三井住友カードでの支払い」「他社カード利用券の購入」が利用できないという。",
+   "categories": [
+    "cashless",
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:05+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "8c7257591dc8d7db",
+   "title": "ペイペイ、クレカ決済に障害",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPSGV0SEZNU0VrUm40R0ttenQxV3hrdnpzOXN3YVBHZUswYTVLdXozSHlxZUthWkcyRHc4azJydzczWDhXTGQwbHNiMjJlZEdIUzdlbzRuUzBLX3B5TVhwNDd1OWNKdDk5?oc=5",
+   "source": "カナロコ",
+   "summary": "ペイペイ、クレカ決済に障害 カナロコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T23:36+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "d57be772cafb60a2",
+   "title": "【速報】ペイペイ、クレカ決済機能で障害",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tVXI5cy0yTTFJYjJvTGptVTVCbDhtTG5sNzlKc2ZmMW9IbU16NTQ3dnFONU5xQ0RtaTdwWnFnTlhzSGloMHJQVGhhOA?oc=5",
+   "source": "47NEWS",
+   "summary": "【速報】ペイペイ、クレカ決済機能で障害 47NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T23:14+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "1dd3d37f26d86cf3",
    "title": "松本地区の共通タクシーチケット、2027年3月末で終了 組合が解散方針、キャッシュレス普及が背景",
@@ -69,6 +150,19 @@
    "via": "Googleニュース「キャッシュレス決済」"
   },
   {
+   "id": "d42b7a9ad096de34",
+   "title": "キャッシュレス派の大本命！ラルコバレーノ「収納力が凄い」手のひらサイズの財布、スマホと合体するミニ財布…ほか【レザーグッズの人気記事ランキングベスト3】（2026年10月版）",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04ZHI1MlRjVzdKYXVQbDZDamp1RHN6RkdQYloxMTNUdUM1ZFhwOTBqLXAwNTN4RXl1Qko4Qmc2X2lhS0lhZjNENThfUkFUUEpzS2RZemdRd2tlVjA4TjFJaXVTSmFYQzAyWUJYWEx1MGVlUTVha3lR0gF8QVVfeXFMT1JiVEhXeFZNLWlUTl9UYmtOOGExUTBwS0w1d0xvTS1wOXVLX3pWSGtlNlU3ZndubjE2RmZyd2VmMFdrRTEwZWNMczFJV21aRnVreElLUThKdGtRMXRwdHpuZDBXTmdTdHZMYnBtamJHVlUyWmhGRWtpYlJ4Nw?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "キャッシュレス派の大本命！ラルコバレーノ「収納力が凄い」手のひらサイズの財布、スマホと合体するミニ財布…ほか【レザーグッズの人気記事ランキングベスト3】（2026年10月版） ｄメニューニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-25T19:30+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "00ab49b74dcf70f7",
    "title": "ハノイ市は、デジタル変革政策を支援する決済サービスプロバイダーを求めている。",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeW1ieUsxUDlFdndyOTJmZ2FZdHZPNVlGbVVNckdWRkxWSnlHdmVBUHduMDk1SE5fWjlpdjJIY3dyY2p1bGVOQVJyTUVnV3ppWGFKTjdpT3FvM2tKX0xWYl81UzdLM19hMEVPUzVyMkJlVk1lazU1Tjl0T0MxZFM3MmE3OUhILTJJYnZsNFQtSHNuclczZXhKLXVRbG0wQ25MYmtiUW1n?oc=5",
@@ -101,6 +195,19 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mU0M5WWdSdXM2dGh0cU9DdUJSOTNzb2RtRzhyQmVPRENTZ3dRM2I0czFxNU0xaDd3QllBb0dGWUtLQnhkUzByVVBuVktXUkZUZWZhdl9B?oc=5",
    "source": "徳島新聞デジタル",
    "summary": "空港リムジンバスの運賃、12月から値上げ 徳島バス キャッシュレス決済利用者は現行と同額に 徳島新聞デジタル",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-25T18:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "fdab247752e95075",
+   "title": "空港リムジンバスの運賃、12月から値上げ 徳島バス キャッシュレス決済利用者は現行と同額",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mU0M5WWdSdXM2dGh0cU9DdUJSOTNzb2RtRzhyQmVPRENTZ3dRM2I0czFxNU0xaDd3QllBb0dGWUtLQnhkUzByVVBuVktXUkZUZWZhdl9B?oc=5",
+   "source": "徳島新聞デジタル",
+   "summary": "空港リムジンバスの運賃、12月から値上げ 徳島バス キャッシュレス決済利用者は現行と同額 徳島新聞デジタル",
    "categories": [
     "cashless"
    ],
@@ -282,6 +389,19 @@
    "type": "news",
    "published": "2026-11-25T16:23+09:00",
    "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "7ffdf010543e575b",
+   "title": "キャッシュレスシティに変貌遂げた福岡 市民は本当に“幸福”か （2ページ目）",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSakl1dWozSlN3U1dPVzZSRlNqWnpRMmhoLURZUndjdEZ5YlNJR0Qxa09kZnNoV1YwM1lFTnp4bGUwLXRkU2N3X2lWbUxHMHlaaTJPUWszUmZsQk5RV1hhRHZoaTE0VEVRTmd4UlVaYzZpdWF6bi1tUDYtUkVJZjA4TUdzQUZod1hkTF9QWDBmU2t0WFFzSQ?oc=5",
+   "source": "日経クロストレンド",
+   "summary": "キャッシュレスシティに変貌遂げた福岡 市民は本当に“幸福”か （2ページ目） 日経クロストレンド",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-25T15:35+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "cbe9d511d14abd2e",
@@ -1018,6 +1138,19 @@
    ],
    "type": "news",
    "published": "2026-11-24T14:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a090bbe1a2f762dd",
+   "title": "クレジットカードに身に覚えのない「1円」の利用通知が届いて困惑…。不正利用の可能性を考えてすぐにカードを停止したほうがよいのでしょうか？ (ファイナンシャルフィールド)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVVHbWZaT3dHQXJ1a1JycEhMeEtuVU9DZDE2MDBzVHVJNWctYVVGLTJLcGFBRVBWX0xtVlFtMzcwbkplWk9maV9YRFJYTzJQRXBGaTlSOG5zd1BuWU9HVTRhU3EyX194S0dxanc3M0w1RGs2cVZPRmdVUEhBdmRiT3FqT3NidlBuaWhwbkdn?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "クレジットカードに身に覚えのない「1円」の利用通知が届いて困惑…。不正利用の可能性を考えてすぐにカードを停止したほうがよいのでしょうか？ (ファイナンシャルフィールド) Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T13:50+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -2911,6 +3044,20 @@
    "source": "PayPay",
    "summary": "【早期終了のお知らせ】「由利本荘市 一般店で最大20％、大型店で最大5％が戻ってくるキャンペーン」について PayPay",
    "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-20T14:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "b224dcd940d79e52",
+   "title": "【早期終了のお知らせ】「宮古島市キャッシュレス還元キャンペーン」について",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zSU95a2pBOE02bkxjVWN6VS1PbmIyZmlPT0RBeGxsWVJrR2EwUTdMc3F3bjRrV0VYX1V6ZUZWM2l4REJON2puMEE1akpwUkotdWtzek5XMjhTQWQtcVpOcEVpYjI5VDlqX0VROUZuOTNOdw?oc=5",
+   "source": "PayPay",
+   "summary": "【早期終了のお知らせ】「宮古島市キャッシュレス還元キャンペーン」について PayPay",
+   "categories": [
+    "cashless",
     "code"
    ],
    "type": "news",
@@ -39836,150 +39983,6 @@
    "type": "news",
    "published": "2026-10-06T16:24+09:00",
    "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "5dfcd150c7781629",
-   "title": "JR東日本がSuicaの新たなコード決済サービス「teppay」を20日開始",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZklUWWU3U1M0ZVRoT0dJWEVjak1EX1piY3JsdGJiLTJ1aDV6bFByQl9PcTJjWE1fWklnSWdETEJoNFdVYmdGQmdpTHgwZGtJWW1MOW9KMlBRb0FNcGFrazZSN2VyYS1CS2JwdXF4bmFvTXhpYVHSAYoBQVVfeXFMT1hocS1fZWxYNEk1aW1Ecl9vT1RGUVZzMkNOYi1XZWRCZ0t2b2dRMXZFb3I4WjU0NnZ1S1d2Tjd0cHE1elZlSDJFSXBZUHJVRGRzVVJ2VWdlWThFR2VTS2VxLVJ3eFM5SUMwMXY4czAyc2FObjFhd0N0VkVKMENVUVJzYzZBMEx4X21B?oc=5",
-   "source": "サンスポ",
-   "summary": "JR東日本がSuicaの新たなコード決済サービス「teppay」を20日開始 サンスポ",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:16+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "1ab857747fb92b1d",
-   "title": "JR東日本、モバイルスイカにコード決済 20日からサービス開始",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvYTFvVWFPMEJJOHQ0emdjTm5TcTNLRzFMMzk5RXdyTWxUeTNfeVNxb3czQnZQS3ZOV2V1V0t4dG9zRjFtalp0RW5kajl3Nm90WTVIZjFB?oc=5",
-   "source": "nikkinonline.com",
-   "summary": "JR東日本、モバイルスイカにコード決済 20日からサービス開始 nikkinonline.com",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:05+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "eb352e383fc2e7f7",
-   "title": "JR東日本の新コード決済、20日開始",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90bTJVUUk1bER5UVJkTzdGV2JaUTdMeEVaMlpJX0ZMcXkxRjRUZTV5bUgtblRsaVFSN3l1UGc1SjVmVEVhOEFuZ0Z6UFc2cGFTbnI3VWRkSlR3QUhFVFNfLXZ0MA?oc=5",
-   "source": "nippon.com",
-   "summary": "JR東日本の新コード決済、20日開始 nippon.com",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:05+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "6476c26711f5bac4",
-   "title": "東京都北区初の独自デジタル地域通貨「ほくペイ」開始（ポケットチェンジ）",
-   "link": "https://paymentnavi.com/paymentnews/183179.html",
-   "source": "ペイメントナビ",
-   "summary": "2026年10月6日16:04（JST） 【日本】デジタルガレージのグループ会社であり、オリジナル電子マネー発行プラットフォーム「Pokepay（ポケペイ）」を手掛けるポケットチェンジ（いずれも日本・東京）は、東京都北区 […] The post 東京都北区初の独自デジタル地域通貨「ほくペイ」開始（ポケットチェンジ） first appeared on ペイメントナビ .",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:04+09:00",
-   "via": "ペイメントナビ"
-  },
-  {
-   "id": "1a6fd7d470e95d36",
-   "title": "dポイントやd払い等、「熊本復興支援オリジナル券面」提供（ドコモ/ドコモFG）",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52Mm84R0I4MWZuaWJEamxzTU1tUWh2Q1FTVlNMaHFYbVNzWEd3cVlCWmd6emJGX3Z6LUw1ZWFIQXZUTW9JVnJIZmJTT3pFaVFmTkVGdks0OVlyVlE?oc=5",
-   "source": "ペイメントナビ",
-   "summary": "dポイントやd払い等、「熊本復興支援オリジナル券面」提供（ドコモ/ドコモFG） ペイメントナビ",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:00+09:00",
-   "via": "ペイメントナビ（Googleニュース経由）"
-  },
-  {
-   "id": "d34c78952bd48a0e",
-   "title": "【2026年】ホテル無料宿泊・優待クレジットカードおすすめランキング8選！選び方や特典適用条件も解説",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UcHFnb0hrV3M5VW5TbkU3aEFLWDFaVWhmZUQ1VjlacDFUWFB6OFk4WHc2RDhIUUpnWllQcUZhY1M5T3E3TU16NUlfSXJydmxkY19wWlUwbDlUWkU4LU9YdXJ3dHM?oc=5",
-   "source": "投資情報のフィスコ",
-   "summary": "【2026年】ホテル無料宿泊・優待クレジットカードおすすめランキング8選！選び方や特典適用条件も解説 投資情報のフィスコ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "88f08d560b0fa64b",
-   "title": "【新NISA口座おすすめ比較】NISAでより多くのポイントが貯まる証券会社はココ！ ｢クレカ積立｣で年1万ポイント以上が貯まることも！",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxOS1DXzZNZndncm9RTlMtRDJval9CbFI3bmxJU0JPcm1tYlN3SjZobE5OZnk3YkVHTWp1T2EzTkRZSnNHRXhHU0ZPRFVUckJHSzYw?oc=5",
-   "source": "ダイヤモンド・オンライン",
-   "summary": "【新NISA口座おすすめ比較】NISAでより多くのポイントが貯まる証券会社はココ！ ｢クレカ積立｣で年1万ポイント以上が貯まることも！ ダイヤモンド・オンライン",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "ec75e42059fed3b9",
-   "title": "アメックスカードのおすすめの種類は？最強クレジットカード21選を徹底比較",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aT19TU3UwZnU2LXRmQURtbDRtcUFBcUxUQlBPZU5rQUhlNmJJbFI0SWk5d0dwdUxVLUZ0cGs4RWhxNkUtTU0zakdVWjFtQi1NWXVjdWNMRDQ3MUFKT3c?oc=5",
-   "source": "投資情報のフィスコ",
-   "summary": "アメックスカードのおすすめの種類は？最強クレジットカード21選を徹底比較 投資情報のフィスコ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "bc2b3e77a6765275",
-   "title": "【2026年最新】公共料金・税金の支払いにおすすめのクレジットカード最強ランキング14選！",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2X29WQ3BqMlJnalhxYXVYSHZSczdDTTRQUFRFcFNPWmZvSGFxZnZORzVLN3pQU1BudEdGdkF1amtFZ0F5MkVfMzlhalVVZGhOQ3h5dHZ1ZmRiSlV4a01B?oc=5",
-   "source": "投資情報のフィスコ",
-   "summary": "【2026年最新】公共料金・税金の支払いにおすすめのクレジットカード最強ランキング14選！ 投資情報のフィスコ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "466b19e0b28543de",
-   "title": "ゴールドカードおすすめ人気ランキング【2026年版】年会費無料・特典・還元率を比較 - クレジットカード比較",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02M2JiZE1IMHQ1TkJyN1d4YTd0anJPTWZSVy0xb3dObVlKdHBBeWtSYjdiTWRwU21rcWtwaVQ5aXdNNWk2TTd6R2dENV9nSHZzSVUteg?oc=5",
-   "source": "株探",
-   "summary": "ゴールドカードおすすめ人気ランキング【2026年版】年会費無料・特典・還元率を比較 - クレジットカード比較 株探",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "18c0286fc57428c9",
-   "title": "【2026年】かわいいクレジットカード30選！デザインがシンプル・おしゃれ・キャラクターな年会費無料クレカを画像付きで一挙紹介",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfVXN6QUZ4a1ZrU0U2eG1QV1lWd21rWmVtbjhKOVMzWE5uV3MxNjhyY0pXelE2Znp2eWZRbGNtMTdCZEVDWVNhNTlES19DNGZWQzBOQnF3UjhvTlpO?oc=5",
-   "source": "投資情報のフィスコ",
-   "summary": "【2026年】かわいいクレジットカード30選！デザインがシンプル・おしゃれ・キャラクターな年会費無料クレカを画像付きで一挙紹介 投資情報のフィスコ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
   }
  ]
 }
