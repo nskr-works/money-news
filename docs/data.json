@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T23:23+09:00",
+ "updated_at": "2026-11-27T02:51+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,19 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "9a7ddbf81085ac15",
+   "title": "ドコモ「dポイント」「d払い」12月キャンペーン、ジョーシン最大5倍やイオンシネマ・ENEOS・高島屋など",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2159654.html",
+   "source": "ケータイWatch",
+   "summary": "NTTドコモは26日、12月に開始する「dポイント」と「d払い」のキャンペーンを発表した。小田急のショッピングセンター、ENEOS、青山商事、フジ、京王百貨店、イオンシネマ、高島屋、ジョーシン、WOWOWが対象となる。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-27T00:00+09:00",
+   "via": "ケータイWatch"
+  },
   {
    "id": "044d772c00d9968a",
    "title": "「TikTok」など装う不正アプリ、愛知県内で被害相次ぐ 決済サービスを遠隔操作され不正送金",
@@ -162,6 +175,19 @@
    "published": "2026-11-26T16:30+09:00",
    "via": "PR TIMES（決済）",
    "company": "ストライプジャパン株式会社"
+  },
+  {
+   "id": "5b8169a930845cf9",
+   "title": "アウトレットプラザ、ECサイトへの不正アクセスで個人情報漏えい 不正プログラムを除去、クレジットカード情報の流出はなし",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHlneFNDQzc3TVNlVG1FV09zbTFEVWhFdWVMODJlR2lQVGl1amxUVnYxanhYaWR0VTZTQThQTk9xTF80RlFpdXFQZXFiUXo2YTYxUmlFRXVmY2FaU0FRYUlWU0k0aDdfZ2M0Njh3MkZ3V1hIc3kycWxldWdvVnVsMm9CQmZkM253TWxSUQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "アウトレットプラザ、ECサイトへの不正アクセスで個人情報漏えい 不正プログラムを除去、クレジットカード情報の流出はなし 合同会社ロケットボーイズ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T16:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "a60f0c8179350a77",
@@ -554,6 +580,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "29c7e0971a5904b3",
+   "title": "PayPayでシステム障害 PayPayクレジットが使用できず – Quebee キュエビー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lajNaWEl3OERFUVRHTFMzVzBDWnlEZ1hVZm9QLUFVU3JEcjRGZWVXbUdadjhGUDNlaG8tcVVCaVhIR0Zrd0U5Ym56Y013UGYyUWVvLWVRM20?oc=5",
+   "source": "QAB 琉球朝日放送",
+   "summary": "PayPayでシステム障害 PayPayクレジットが使用できず – Quebee キュエビー QAB 琉球朝日放送",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:50+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "8f5403cdc8d23c36",
    "title": "ＰａｙＰａｙでシステム障害、クレジットカード連携サービスが利用不可に…サイバー攻撃確認されず",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3cHpjS29QYWNNNGpCWEVhQ2RtYVdmOHRHVEhHd2RnWnZ0ZHByNzJsSEFybk9LSWhBLUx2M2RIdmVZMmlNWlZxaUtoMlhJU0RkOTZmb2JNSWlqNGdKNjlMVi1RODU?oc=5",
@@ -579,6 +618,19 @@
    "type": "news",
    "published": "2026-11-26T00:15+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "57ad1368650ccf10",
+   "title": "記者コラム＝クレジットカードで地下鉄に乗ってみた＝「これ、本当に通れるのか…？」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15dW5PeUdacjY1cnlTU3JsUy1RdVNEVTBQOEVDTnVuTkpIeFd6UVF3QTZXTTc3aWpRZl8tSFViZ1Z2WGtzY0M0amkyZ1lvdkszbWJ3VzNPQXdpYmFHYVNxNkd0OA?oc=5",
+   "source": "ブラジル日報",
+   "summary": "記者コラム＝クレジットカードで地下鉄に乗ってみた＝「これ、本当に通れるのか…？」 ブラジル日報",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:08+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "202431c50c27422f",
@@ -620,6 +672,19 @@
    "type": "news",
    "published": "2026-11-25T23:36+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "389596178c965619",
+   "title": "ペイペイ、クレカ決済に障害 サイバー攻撃は確認されず | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZcVl1MElUR0xhU1FtWENaZ3RGYnVXeHkwZmlMVW5pR2NuVElZSmstajNJd2xaQTBVaUxULVNsTlI5bVFkQVY5Z0YwYWFXVnpHOXhuTUhR?oc=5",
+   "source": "佐賀新聞",
+   "summary": "ペイペイ、クレカ決済に障害 サイバー攻撃は確認されず | | 全国のニュース 佐賀新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T23:36+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "280750d766a418fe",
@@ -686,6 +751,19 @@
    "type": "news",
    "published": "2026-11-25T21:23+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "8e122fe0f0f1c40c",
+   "title": "85歳女性からクレカを盗み、36万円引き出した疑い 特殊詐欺「受け子」兼「出し子」の31歳男逮捕",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1enpZVHVqbVRoTEYwenVyRmRtTnNQN3ZpWF9ZV2VOSUhrUlB2TFZHeVVCdGcyTEdmMngtdVVZbWk0X3VDajZPWVlubDZDV0JCME5FNlFoT1I?oc=5",
+   "source": "京都新聞デジタル",
+   "summary": "85歳女性からクレカを盗み、36万円引き出した疑い 特殊詐欺「受け子」兼「出し子」の31歳男逮捕 京都新聞デジタル",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T21:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "61d6fe2e45afb927",
@@ -767,6 +845,19 @@
    "via": "PR TIMES 新着（直接）"
   },
   {
+   "id": "5b1beec293a4d7c2",
+   "title": "メルペイがきらぼし銀行と提携し、便利な決済機能を提供開始",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiNlJfUUQ1OU83SFJkdnktYnVkT1pseU53WE9WS0NpaGNmdEpVNzllZlN2Vy1jZHZtRWc5VjV2WUU3Rmd0QVV6cFJlc3pGc3RIMV9BdWtoMWZYdm92a3ZMT1h5Qnh4R0ptUmVWWU9sY3o?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "メルペイがきらぼし銀行と提携し、便利な決済機能を提供開始 ニュースメディアVOIX",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-25T18:02+09:00",
+   "via": "Googleニュース「コード決済」"
+  },
+  {
    "id": "6ad29c2afee68d77",
    "title": "空港リムジンバスの運賃、12月から値上げ 徳島バス キャッシュレス決済利用者は現行と同額に",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mU0M5WWdSdXM2dGh0cU9DdUJSOTNzb2RtRzhyQmVPRENTZ3dRM2I0czFxNU0xaDd3QllBb0dGWUtLQnhkUzByVVBuVktXUkZUZWZhdl9B?oc=5",
@@ -831,6 +922,19 @@
    "type": "news",
    "published": "2026-11-25T17:45+09:00",
    "via": "Googleニュース「決済代行」"
+  },
+  {
+   "id": "4b076804c055e7a9",
+   "title": "「ヴェレダ」公式ECに不正アクセス 個人情報約20万件、クレカ情報約4万6000件が漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93VGt5ZnJ0M3JsVWh2RkstMHI5MU1EZHFwQWhiM3hZdUtMXy1kSXEwYUpURnJMcklQTmxCNjVaOHlOYVFWbkpVNWdjdGdSUnk2dzF6S29vUE9hemg2a1ptbmpyYWtVNVZQcFpXTWozU3J1VVJjamFTN1k1ZXlPUjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「ヴェレダ」公式ECに不正アクセス 個人情報約20万件、クレカ情報約4万6000件が漏えいの可能性 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T17:40+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "368b53488dd6bbb8",
@@ -1187,6 +1291,19 @@
    "company": "株式会社メルカリ"
   },
   {
+   "id": "16f4edd717c35b86",
+   "title": "ICC赤根所長「クレカ使えない」 トランプ政権による制裁で 高市総理と面会",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VTUZFT3JSUGJDeE9iVjhFY2hsQzJQME5CaWVicDU4VUQtaWhxc1E1dUdLamtSZEJfNkxFTERPSVRDcWtXRkZycGR0T3dHVFNtaWc2MFhUekc4V0hnd29CRXRtZGtZMlV6Q1hGbmhBV3NSSVE?oc=5",
+   "source": "テレ朝NEWS",
+   "summary": "ICC赤根所長「クレカ使えない」 トランプ政権による制裁で 高市総理と面会 テレ朝NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T12:06+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "3319c451af5e6161",
    "title": "所持金は1500円…「スマホ決済で払うつもりだった」福岡から鹿屋まで12万円超の無賃乗車か 30歳男逮捕",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzN6VUZ3dHB6Z2VlTzFCUUx4alBmaEIzVHNiOXJMampzYnhZbFVhbkJRa21lZEFGZGxYU2s1R1lLcjYxOHJ4YUdHTVFWeTY1Smk5cGlFRURwelF1cUFEWU5vdnd4TGtSVVU4eHE0Z1FZM09HZmV5YW5tQVFOaHZOVkVxai0yODQ?oc=5",
@@ -1308,6 +1425,19 @@
    "type": "news",
    "published": "2026-11-25T08:30+09:00",
    "via": "ペイメントナビ（Googleニュース経由）"
+  },
+  {
+   "id": "de06decd444d828f",
+   "title": "【2026年最新】新幹線でお得なクレジットカードおすすめランキングTOP10｜路線別の選び方も解説",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iYkhGaEw3WkpWTlVndnNxOUN6bWFma3FGOFcwMDNiZGdIbVRwaVpZcXNDWDZXS2x0VDFuQ1A2RkRuQ2t5cTNxVjVnbmM5RG1LWV92em1XV25GcVcxb3VwWGF5OG10MzA2NGcxTUREUQ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】新幹線でお得なクレジットカードおすすめランキングTOP10｜路線別の選び方も解説 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T07:18+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "b6af13de954c9d2f",
@@ -1447,6 +1577,32 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05bTdETk1WSzZTYUNWeXVHR1JEaTd5QTQzVHFzdThpcWpISFZzaElXQlVjbFpXLXE4X01UQVFoWXpzc2FLNlk3QlB2UEJ3cVRoWG5GYzVKMG9wcm9JeXRUUzA1NWJBbFVrWDF2YXQ5aDY2Y0k?oc=5",
    "source": "テレ朝NEWS",
    "summary": "“総理と面会”ICC赤根所長 クレカ使えず テレ朝NEWS",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T20:21+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2f2fabe444143e51",
+   "title": "“総理と面会”ICC赤根所長 クレカ使えず（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZWpEYnhPSEtKX2RhLV9JdWZCLUdUV252bEZLLTZtYnZDaHRBZTljRFBxcEJRT1dpZUFpck1wZXVlWm5sY2N3ZnBNYnhUQ2o0UTRwNy1mbldIYzdmY1ozeDljS0Nwd1RDSU40bHFpVnpXSFlwYkRTM0sxWE93eU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "“総理と面会”ICC赤根所長 クレカ使えず（テレビ朝日系（ANN）） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T20:21+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "4d9d473ae6d02fbe",
+   "title": "“総理と面会”ICC赤根所長 クレカ使えず – Quebee キュエビー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qOXhGc1R4WUgzWFIyc01UdERuQXBfajNIdTM1dC1wc0NnblVwMnZpZFJGdW9MZVRjOEdZdVV4NVhTcnhSckNKbGYzWTF6RTFwMDg1ZjBGSVQ?oc=5",
+   "source": "QAB 琉球朝日放送",
+   "summary": "“総理と面会”ICC赤根所長 クレカ使えず – Quebee キュエビー QAB 琉球朝日放送",
    "categories": [
     "credit"
    ],
@@ -1611,6 +1767,19 @@
    "via": "ケータイWatch"
   },
   {
+   "id": "5d605214f5fb33f0",
+   "title": "「ヴェレダ」、不正アクセスで個人情報約20万件、クレカ情報4万件が漏えいか（FASHIONSNAP）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yQ2xyYWxyOFJta0R0bzNZdEV6eUtVUG0wY3lmRF9lOFg0Ykx5bmJxQk1uVlpfSnVmc045Q2N5ZmhpdHV3Z2thY3BSV0kwQVAwMG4tR185bjVrV0VfNHpCT3JHY0Z0RUdwT21xcHk3TDJabzFzQ0xJQ3hVQUtJOHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「ヴェレダ」、不正アクセスで個人情報約20万件、クレカ情報4万件が漏えいか（FASHIONSNAP） Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T17:31+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "bbf06321bcd1d0fb",
    "title": "山口きらら博記念公園へのキャッシュレス決済の導入について",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40TVZhOFlHZ3NaRUtYQm84UFlkUlE4VnpVZVhLcHVrQklCOVVMWkFpdUdpT1NCaWwyenhzRFFqUGlSYzh3NlFBNlRkVWU1dXp5dzRpN0c5enBSRkNUMUhR?oc=5",
@@ -1740,6 +1909,19 @@
    ],
    "type": "news",
    "published": "2026-11-24T14:37+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "3713e2f60d24c137",
+   "title": "ヴェレダ公式通販、クレカ情報4万件超が漏えいか 番号・名義・有効期限・セキュリティコードも",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsVjNUYnBZS2ZVcUo0NVVaMzJCZWhBTFNGSnVfaG80WDRnNWRKNVowNEZSdDdCcmF1SjhOeGJvcU85VXVvbmU1X3VrVUdaZU5DM00zMjE2bTBJNzlya2UxY053RmIzdjZMa3dXT1ZteHlUaTBzVG51eklpQUV0QWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ヴェレダ公式通販、クレカ情報4万件超が漏えいか 番号・名義・有効期限・セキュリティコードも Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T14:34+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -2284,6 +2466,32 @@
    "type": "news",
    "published": "2026-11-23T17:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "559beb49a9629007",
+   "title": "【2026年最新】アメリカで使えるクレジットカードおすすめランキング7選！旅行・留学に最強の1枚",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIR2dXdkJkNER2UnpCNnh6cHFvZmRwN0toSXdTTkdCT0wxOEVQVnhiSHpjZXpHaDFxYnNqTVRfeXpJTEFFc01PZ3NvMVdyM3lNOElwcHJUREhfWkgtTHNQSnNkXzFsZw?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】アメリカで使えるクレジットカードおすすめランキング7選！旅行・留学に最強の1枚 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-23T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "da12f0eaa11c3dd3",
+   "title": "Visaクレジットカードおすすめ12枚｜還元率・年会費・発行スピードで比較【2026年版】",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03Y3BxMF9qLXU2YzQ4UDFKRDdPdWg5SHVqTVhObktFMG8wYjVycy1od19WUEp5M3M3eVNrMFNEX2RnLWp5WGF4ZHI0UFVjd2ZPc0lnZGdfNHYya3Y2c1o3a3NUbkdQd2c?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "Visaクレジットカードおすすめ12枚｜還元率・年会費・発行スピードで比較【2026年版】 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-23T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "6fc239074f7c14c5",
@@ -39758,218 +39966,6 @@
    "type": "news",
    "published": "2026-10-07T06:09+09:00",
    "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "cee4a2509ad472d1",
-   "title": "デビッド・ピアース：AIエージェントにクレジットカードを1枚だけ渡し、毎日確認せよ",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZmNCRnE3Y3AzZnRMVGhncVBNd0hxTHd1ZXg1VmNsVnFCeG83YWxhbjN6Q1RyOEFseE5tcEFYYzJfU3Vvc3FwZVk2SW5SdFNzUjlaUWJ3RkUtdw?oc=5",
-   "source": "BigGo ファイナンス",
-   "summary": "デビッド・ピアース：AIエージェントにクレジットカードを1枚だけ渡し、毎日確認せよ BigGo ファイナンス",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-07T06:08+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "c538c51555afdf9e",
-   "title": "PayPay、11月以降の地域限定キャンペーン発表 東京や大阪で最大6000円～1万2000円おトク",
-   "link": "https://www.itmedia.co.jp/mobile/articles/2610/06/news076.html",
-   "source": "ITmedia Mobile",
-   "summary": "PayPayは、2026年11月以降に実施する地方自治体と連携したキャンペーンについて発表。最大1万2000円分のプレミアムが付いた「プレミアム商品券」（PayPay商品券）を利用できる。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-07T06:00+09:00",
-   "via": "ITmedia Mobile"
-  },
-  {
-   "id": "82f4c8b761b0b1fc",
-   "title": "電車に乗らず自転車で通勤するエンジニア、健康のためでも問題となる可能性",
-   "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00084/00443/",
-   "source": "日経クロステック",
-   "summary": "テレワークで自宅にいることが多いITエンジニアです。太ってきたので、出社時は徒歩や自転車での通勤にしました。出社時の通勤交通費は後払いの切符代による支給です。徒歩や自転車での通勤が上司にばれて叱られました。交通手段の選択は自由ではないでしょうか。",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-07T05:00+09:00",
-   "via": "日経クロステック"
-  },
-  {
-   "id": "8326fd336df1f343",
-   "title": "JR東日本のコード決済「teppay（テッペイ）」が10月20日提供開始へ",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nZi1fS3NTR0FGaEF6eFAwbUVjaEpCRi1RWXU3NXlnempsbXBvVHZ0ekxRWjA4MkgwWFhSanpITEhGSlVDbDcwVUw1OFNtenNmV1hBMnJVOU01Q3UzY2ZNdlFhNVQ?oc=5",
-   "source": "GAPSIS",
-   "summary": "JR東日本のコード決済「teppay（テッペイ）」が10月20日提供開始へ GAPSIS",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-07T04:54+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "d7b51d5a0f4c587f",
-   "title": "キャッシュレスで税金納付 「ポイ活プラン」を活用",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rX1N0TUFMdWI4Z0RNUVlCMnEzOHpmdDlzdDZObUlrZmVTNENvcHVkZ3FuaXYtbi1GSHlEVU1KSnZJemtLaUxTeWE2Zi13bFdqeGxtR1B5S01tc0pNeTdZVGZEWDRheUtXZ1BqZw?oc=5",
-   "source": "日本経済新聞",
-   "summary": "キャッシュレスで税金納付 「ポイ活プラン」を活用 日本経済新聞",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-07T04:00+09:00",
-   "via": "日本経済新聞（Googleニュース経由）"
-  },
-  {
-   "id": "3c3f0f8871b12e0e",
-   "title": "JR東日本，新コード決済サービス「teppay」を10月20日から開始",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4VzdITUVkVkFWYXE3RVg4dlJtdDZoQU5sbXNwRHFGMklFVkNsZ1VhdjR2NnNXWUtlcFdkdldVTVJISkQ1SEJ3bkQxX2NoZUxUcGl3dEdzWQ?oc=5",
-   "source": "鉄道ファン・railf.jp",
-   "summary": "JR東日本，新コード決済サービス「teppay」を10月20日から開始 鉄道ファン・railf.jp",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-07T03:35+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "68a2eea6677188ad",
-   "title": "丹青社、三井住友カードのキャッシュレス決済データ分析サービス「Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化 | 株式会社丹青社",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBObTd0bjFTMkNQZkNvM1JYeWxUMUcwNmk4a0xMWU9QYmxBOC1HQS1UVGxTcEMzN2diS0RSaHljVGJpandxMUo4Nnp3SWpEMGM5VU9BUnZrUjByN00wcjdxZQ?oc=5",
-   "source": "Digital PR Platform",
-   "summary": "丹青社、三井住友カードのキャッシュレス決済データ分析サービス「Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化 | 株式会社丹青社 Digital PR Platform",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-07T01:35+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "bdcba2a77c088488",
-   "title": "SBIデジトラストが日韓送金を検証 QR決済の商用化を検討",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yWG9rRlE2VzRSUnAtNFJmMHJtTU9HVmNlSkxVU01pdnA5c296SGFaTXlnTjJ6ZFdkODFQQXRKdHdPR3VZQWtHZXFodGhSNUFLX3kxdDJJeHZGSGRrVjhz?oc=5",
-   "source": "PlusWeb3",
-   "summary": "SBIデジトラストが日韓送金を検証 QR決済の商用化を検討 PlusWeb3",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-07T00:01+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "06699c1e9e53c6b7",
-   "title": "Suicaが高額決済に対応｜新サービス『teppay』10月20日開始",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WbmRIZENLTW1fUjBSeFd3X0tXcGtxNUltdWpkeXFIY216Mk9laDdocWlHUGFUQ21wbkxUMWoyZVVHODd4dS1aYUdpVk0tdWlEMmJFZFhULTU4SFg2blE3eFRBSWQ?oc=5",
-   "source": "Amusement Japan",
-   "summary": "Suicaが高額決済に対応｜新サービス『teppay』10月20日開始 Amusement Japan",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-07T00:00+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "6313ee48d29e20c1",
-   "title": "キャッシュレス決済代行会社・サービスのおすすめ【2026年10月】",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5EVmQtMkFSYUsxZXZEcWlvWk5CYnJzUUhZU1lsVkFqV0g5SVRRZGpabURLeU9qUWkxWXZUTC1R?oc=5",
-   "source": "マイベスト",
-   "summary": "キャッシュレス決済代行会社・サービスのおすすめ【2026年10月】 マイベスト",
-   "categories": [
-    "cashless",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-07T00:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "3375f80c5f8b252f",
-   "title": "ほけんのぜんぶ、保険会社・金融機関・カード会社向けに、保険ビジネス支援事業「ほけんのぜんぶ for Business」を本格展開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000025.000058426.html",
-   "source": "PR TIMES 新着（直接）",
-   "summary": "[株式会社ほけんのぜんぶ] 株式会社ほけんのぜんぶ（本社：東京都豊島区、代表取締役社長（CEO）：宮内 洋平、以下「当社」）は、2026年10月1日より、20年以上の保険ビジネス運営で培った実践知を活かし、保険会社・金融機関・カード会社な...",
-   "categories": [
-    "credit"
-   ],
-   "type": "release",
-   "published": "2026-10-06T23:40+09:00",
-   "company": "株式会社ほけんのぜんぶ",
-   "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "3d74148e7af35b7e",
-   "title": "キャッシュレス決済は、金融包摂を推進する重要な要因である。",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLU1DSHJMOWM1QzV6MndVQ25MWTJiVXZaVFFXS3JseHBLUDVrQU1HdkxsTUdzTHVabTRvaFNTbjRaX09PdzdGekEwSzZuTlBidm5pOE5rUkJzeVkzeWpvaFZsWEQwaU5OZUZqTi1HQXJrYXVxTk1LWmtXUC01MTdiUGdOcWZQV3VRMU1vQldEQXpObjRXU0c5US1nY0Z0dm5QWV9TalgzZXQ?oc=5",
-   "source": "Vietnam.vn",
-   "summary": "キャッシュレス決済は、金融包摂を推進する重要な要因である。 Vietnam.vn",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T23:17+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "4ea5f5a3c8e984ab",
-   "title": "シチズン時計、顧客情報約10万人分が漏えいか 銀行口座やクレジットカード情報も流出の可能性",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWVlQazlOdjVtVF9la01hZmZmRjYxb204a1JIQlhqU1YxbjYxdmxUZUpBVDNHclFHdll3OGdfZkczcVZtRlBaQzQ0LUNKT0xtZ0ZkY1JabmlPeWUtRHpiaVhGRW93NE5tcEZxNVEzOV9SNWtxYWd2MzQ4T1F6V0U?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "シチズン時計、顧客情報約10万人分が漏えいか 銀行口座やクレジットカード情報も流出の可能性 Yahoo!ニュース",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T22:50+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "b135d29b7c9c3ba8",
-   "title": "AntomがAffirmの決済オプションを米国加盟店向けに追加 執筆",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPWUZ5bGNDZTNaS0lLaHZCUlkwMUJTT3V1NzNuUlhjQTc5VFctNFVyUGxrMnMxblBWNVFCRDcwdWl1Szg1TjNQYTYyUWtuMnNjT3I1emFDRVZ6bE5ISGpRU3lyNUNXeUdTbVQtMUg4OFE?oc=5",
-   "source": "Investing.com 日本",
-   "summary": "AntomがAffirmの決済オプションを米国加盟店向けに追加 執筆 Investing.com 日本",
-   "categories": [
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-06T22:13+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "ac082bc640917416",
-   "title": "「teppay」20日開始 Suicaのコード決済",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yMUgtMWxWMmNPSDVRYjdDRGVfRlI4bk8wVGRqRkFrOGxzZndaUWNHbk4zWVZ4N3dQVFhPN29nYXgybzY3NlZ5Q0J6V0lxT3BGSTY4bjRpREE2UHYwX0FOM2p0cw?oc=5",
-   "source": "テレ東BIZ",
-   "summary": "「teppay」20日開始 Suicaのコード決済 テレ東BIZ",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T22:00+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "596f0c5a644f43f3",
-   "title": "シチズン時計 約10万人の個人情報漏洩か 不正アクセスで銀行口座やクレカ情報が流出した可能性も",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GQWY2b1hzVnN4b2Q0S3VQSFVvS0s3aVhYNTI1ZlhNc0RSeHhKOXJySWNSQTBmMmQ4R1VMcHFKQjhUS0U1aE9rcW4tcWFOR3gxWDhJems3MWtDRVBFMXVaa1hWU0ZpbzJDLVdGZTV6STc4eTg1T3phT3JrRDdrQ0U?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "シチズン時計 約10万人の個人情報漏洩か 不正アクセスで銀行口座やクレカ情報が流出した可能性も Yahoo!ニュース",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-06T21:21+09:00",
-   "via": "Googleニュース「クレジットカード」"
   }
  ]
 }
