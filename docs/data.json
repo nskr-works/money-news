@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T03:08+09:00",
+ "updated_at": "2026-11-26T12:45+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,99 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "cf328cd972b0b044",
+   "title": "PayPay、「PayPayマネーライトの現金化は規約違反」注意呼びかけ",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2159302.html",
+   "source": "ケータイWatch",
+   "summary": "PayPayは26日、「PayPayマネーライト」の現金化をうたうサービスについて、絶対に利用しないようユーザーに呼びかける案内を公開した。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-26T12:25+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "133f405aa70d47bc",
+   "title": "PayPayの障害、現在は復旧済み クレカ決済やチャージなど",
+   "link": "https://k-tai.watch.impress.co.jp/docs/news/2159420.html",
+   "source": "ケータイWatch",
+   "summary": "スマホ決済サービスの「PayPay」は、25日夜から発生していた障害について、26日5時ごろに復旧したと発表した。現在は、「PayPayクレジットでの支払い」「PayPayクレジットからのチャージ」「三井住友カードでの支払い」「他社カード利用券の購入」が再び利用可能となっている。",
+   "categories": [
+    "cashless",
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T11:55+09:00",
+   "via": "ケータイWatch"
+  },
+  {
+   "id": "60fc1f125bba5160",
+   "title": "「PayPayマネーライトを現金化」サービスに注意 アカウント閉鎖の可能性も",
+   "link": "https://www.watch.impress.co.jp/docs/news/2159408.html",
+   "source": "Impress Watch",
+   "summary": "PayPayは、PayPayマネーライトの現金化をうたうサービスを利用しないよう注意を呼び掛けている。利用規約で禁止している行為であり、PayPayが利用規約違反と判断した場合には、PayPay残高の利用停止やアカウントの閉鎖等の措置を講じることもあるとしている。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-26T11:40+09:00",
+   "via": "Impress Watch"
+  },
+  {
+   "id": "7fdf6572ad3f4c4b",
+   "title": "「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
+   "source": "ITmedia NEWS",
+   "summary": "PayPayマネーライトを現金化する目的で第三者へ譲渡する行為はPayPayの利用規約違反であり、PayPay残高の利用停止やアカウントの閉鎖などの措置を講じる場合があると警告している。",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-26T11:27+09:00",
+   "via": "ITmedia NEWS"
+  },
+  {
+   "id": "6ddf7a39ab31936f",
+   "title": "アミューズメント業界のキャッシュレス最前線 展示会で見えた導入競争の新局面",
+   "link": "https://paymentnavi.com/paymentnews/186737.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月26日8:00（JST） 【日本】2026年11月に開催された「アミューズメントエキスポ」（主催：一般社団法人日本アミューズメント産業協会：JAIA）では、旭精工、加賀電子/飛天ジャパン、DGフィナンシャ […] The post アミューズメント業界のキャッシュレス最前線 展示会で見えた導入競争の新局面 first appeared on ペイメントナビ .",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-26T08:00+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "db3ab92cd9d85e93",
+   "title": "DEAN & DELUCA HAWAIIの限定バッグを進呈するキャンペーン（JCB）",
+   "link": "https://paymentnavi.com/paymentnews/186762.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月26日7:49（JST） 【日本】ジェーシービー（JCB、日本・東京）の海外業務を担う子会社であるジェーシービー・インターナショナル（総称してJCB）は、2026年12月1日から2027年1月31日まで（ […] The post DEAN & DELUCA HAWAIIの限定バッグを進呈するキャンペーン（JCB） first appeared on ペイメントナビ .",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T07:49+09:00",
+   "via": "ペイメントナビ"
+  },
+  {
+   "id": "a3cda956da9c492b",
+   "title": "AI不正対策のRiskifiedと国内初の包括業務提携を締結（デジタルガレージ）",
+   "link": "https://paymentnavi.com/paymentnews/186753.html",
+   "source": "ペイメントナビ",
+   "summary": "2026年11月25日7:30（JST） 【日本】デジタルガレージ（DG）は、子会社であるDGビジネステクノロジー（DGFT）とDGフィナンシャルテクノロジー（DGFT）（いずれも日本・東京）とのグループ会社連携により、 […] The post AI不正対策のRiskifiedと国内初の包括業務提携を締結（デジタルガレージ） first appeared on ペイメントナビ .",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-26T07:30+09:00",
+   "via": "ペイメントナビ"
+  },
   {
    "id": "7500c66238f3e8e1",
    "title": "PayPayでシステム障害 PayPayクレジットが使用できず",
@@ -39887,102 +39980,6 @@
    "published": "2026-10-06T16:41+09:00",
    "company": "LINEヤフー株式会社（金融）",
    "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "3572fb89cc0e06da",
-   "title": "JR東日本の新決済サービス「teppay」が「StarPay」と連携し加盟店申込を開始",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YWlFNb09VNGdtcm9CWlBKLURjY01mNUJTVmhFZ2RUMFBKV21ZcERNd3VRN3pLckJWcmtQendTdTFKaFFMc2tlOWNvam45MU9udWlHaWZyUjJ4U016N2ZVMEk4UTMzNnZSYXA4?oc=5",
-   "source": "voix.jp",
-   "summary": "JR東日本の新決済サービス「teppay」が「StarPay」と連携し加盟店申込を開始 voix.jp",
-   "categories": [
-    "cashless",
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:36+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "f2ee51821b10b88b",
-   "title": "JR東のコード決済「テッペイ」10月20日開始 上限30万円まで決済可能に",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwZHRmV2lnSDJwaFQyaDJhSVJUcTYyRnBKbGI1eHhOd1JhSUY5cGNkUzJ5T0lMd3owNDItUVR4ZG9kYy1ZdUpvYzRha1VaMmYtejRNS1h6MEwyQVdQUk5RNVNtYzFXOHFCZWc?oc=5",
-   "source": "ITmedia",
-   "summary": "JR東のコード決済「テッペイ」10月20日開始 上限30万円まで決済可能に ITmedia",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:36+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "58b005ad3764672c",
-   "title": "モバイルSuicaにQR決済「teppay」、10月20日開始 2万円上限を突破",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JUlYtdGhFUGtyUFZtSGxBUm9ra1gyYk9qVlJ0T1hSelFWNTI0am1GNVl5SnlYWnNsQjV2MEFtUzJNaUZhaUQ1Nmk2XzhiNlhfSEU5c0s4SVFyVlZGcWo0M010cTBsQzRPbld5bTlSZnNWV1hN?oc=5",
-   "source": "BigGo ファイナンス",
-   "summary": "モバイルSuicaにQR決済「teppay」、10月20日開始 2万円上限を突破 BigGo ファイナンス",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:35+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "0cc1a4d6ff9b448f",
-   "title": "JR東日本のコード決済「サービス開始日」決定 モバイルSuicaに機能追加",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uM1pWNjR1S0pRVWhuQ0Z6WlNJMzFyd3BUYTkwZW1fLXNtZnh5ZkFKM1p2cHZfcTlJdFU1ckI2VFRpS2FmaEpYNmJmNWpKeE9DaDlETW5YZnZseTlX?oc=5",
-   "source": "鉄道プレスネット",
-   "summary": "JR東日本のコード決済「サービス開始日」決定 モバイルSuicaに機能追加 鉄道プレスネット",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:29+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "d0c0dcd8771ba182",
-   "title": "交通系IC「nimoca」ユーザー情報521件流出 履歴照会サービスへの不正アクセスで",
-   "link": "https://www.itmedia.co.jp/news/article/2610/06/2000002047/",
-   "source": "ITmedia NEWS",
-   "summary": "nimocaコールセンターへ「身に覚えのないメールが届いた」と問い合わせがあり、調査した結果、利用履歴照会サービスに対する第三者の不正アクセスを確認した。",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:29+09:00",
-   "via": "ITmedia NEWS"
-  },
-  {
-   "id": "e116136f35afcde5",
-   "title": "Toss Payments、情報流出で管理体制の不備認める 加盟店管理・監督も強化",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbHJ0dDVnczRBZ2FqNmpFcUVZTzExNXBNZXZFU2ZJOUVKWTE0WU9QM282NnI1ak1rX0hJckJ1dTdMTVBvMFBhMG5ncXJoNnNvdDdJOHdZRWR4aVo4NC1OWGJFb05yOXZVMENySjJDZ3cyaVFNeHU5OTNvZGZBS0JZQnlWY3lnb3dzYnpLeEF3eE8xM2FYbk1kUHRuaUo0NTU4WXg2ZUNBdlpLSmJOTHd5SVFrNUZSM2RYdEJwamlPU2NXTmlJN1RmeERnMkNyMzViSlE?oc=5",
-   "source": "디지털투데이",
-   "summary": "Toss Payments、情報流出で管理体制の不備認める 加盟店管理・監督も強化 디지털투데이",
-   "categories": [
-    "psp"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:26+09:00",
-   "via": "Googleニュース「決済代行」"
-  },
-  {
-   "id": "c81928c4cc421690",
-   "title": "JR東日本のコード決済「teppay」10月20日開始、最大20％還元も（ケータイ Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlQm56WjhUWjJsckJOWm5xVXdtWGlrN3oxTjJSRmhHTngwNDJsS3YwdUctSjBieTB0Z016MlhPMi1ybG91WXBEcnZaUWRHN2JEcl90WkZadl95cjlPaUhxLTc2VmVsRFFRV2sxVUJERWo3TW9yLU52UjhBMzEwYUU?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "JR東日本のコード決済「teppay」10月20日開始、最大20％還元も（ケータイ Watch） Yahoo!ニュース",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T16:24+09:00",
-   "via": "Googleニュース「コード決済」"
   }
  ]
 }
