@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T02:51+09:00",
+ "updated_at": "2026-11-27T04:38+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,21 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "26a4656bbebbfb11",
+   "title": "12月開始の「dポイント」「d払い」キャンペーン",
+   "link": "https://prtimes.jp/main/html/rd/p/000000232.000141840.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社NTTドコモ dポイント] 株式会社NTTドコモ（以下、ドコモ）は、「dポイント」「d払い(R)」においておトクなキャンペーンを開催いたします。詳細は、下表のとおりです。 ＊ キャンペーンには諸条件や注意事項がございます。詳細はキャン...",
+   "categories": [
+    "code"
+   ],
+   "type": "release",
+   "published": "2026-11-27T03:10+09:00",
+   "company": "株式会社NTTドコモ dポイント",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true
+  },
   {
    "id": "9a7ddbf81085ac15",
    "title": "ドコモ「dポイント」「d払い」12月キャンペーン、ジョーシン最大5倍やイオンシネマ・ENEOS・高島屋など",
@@ -39945,20 +39960,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Way1ySDc4SFBjRTUtUE9QN21uRHRDdWtsTEJ2RDRHUFJmbnp0d2kyRDdLc2x6SUJsOExvN1lCUWhKTEFJdHdLYmVmZzlhVU8zM2p4UkVrNnNzVDl2YlBCVQ?oc=5",
    "source": "Infoseek",
    "summary": "JR東日本、モバイルSuicaで新コード決済「teppay」10月20日開始 - 2万円超の買い物や残高の受け渡しが可能に Infoseek",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-07T06:09+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "1dd9c2e192768edf",
-   "title": "【画像】JR東日本、モバイルSuicaで新コード決済「teppay」10月20日開始 - 2万円超の買い物や残高の受け渡しが可能に 5/10",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lbVJiSlprb0x3cGl2MXRJNXJ2RkF6RFhKcy1CREJIUGc0RzhhTDdPckhQQ0ptazBjSzRJSVdNaVc0Y29ucWtxWFpLTWZOUnh1WkNhck80YmMyakt6WWFmQmdTRWR3YTUwX0o1cTNPM1NIemJaREM3cmYzZGI?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "【画像】JR東日本、モバイルSuicaで新コード決済「teppay」10月20日開始 - 2万円超の買い物や残高の受け渡しが可能に 5/10 ライブドアニュース",
    "categories": [
     "cashless",
     "code"
