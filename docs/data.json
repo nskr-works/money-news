@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T18:59+09:00",
+ "updated_at": "2026-11-26T23:23+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,72 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "044d772c00d9968a",
+   "title": "「TikTok」など装う不正アプリ、愛知県内で被害相次ぐ 決済サービスを遠隔操作され不正送金",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qbGNpUFBsNjVvallPQ3RDMzFPdnA3akZNWmRCUDFyTGg2Q1J3cHhaXy13QU13ektVUlUyT2dwRXpXdDR4Qmh5bm5DM2VnMVVrdDNUUg?oc=5",
+   "source": "中日新聞Web",
+   "summary": "「TikTok」など装う不正アプリ、愛知県内で被害相次ぐ 決済サービスを遠隔操作され不正送金 中日新聞Web",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-26T21:21+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "65dab51f37a4fa2a",
+   "title": "客にクレジットカード作成を勧誘…古いカード預かり現金引き出す 元銀行関連会社の女を逮捕 北海道",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qNFJpOU8tNVh4THQ2ek9odGN2cmtNLWMzMmhSWHVmMmZ1R1BUY0VWVjZnbVA3TGtuNFRfRzlaWVUwb1ZCNm9TWEd3NGF0OXFiU0lDU2lVbXl5d19scEVLc1lFc3lfcmk1Z3o2dmVVYXU1YkJlNWI1VkQ4WG5xT2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "客にクレジットカード作成を勧誘…古いカード預かり現金引き出す 元銀行関連会社の女を逮捕 北海道 Yahoo!ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T20:17+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "3c72e481dc29d051",
+   "title": "Adyen、国内加盟店向けに電子マネー決済を拡充 - TMNのサービスを採用",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSm9SbnFGSjIwaU5DTWNkTFhQR2F6SHdJb1BFWjBjNy1QQ0tobTBxaXhNc09NamdzRHpEOVE2QTZSUTVKX210a3o4bDB0WTZPR3dLNUpxRFdZejF4S0dobUhDalhuZk1l?oc=5",
+   "source": "マイナビニュース",
+   "summary": "Adyen、国内加盟店向けに電子マネー決済を拡充 - TMNのサービスを採用 マイナビニュース",
+   "categories": [
+    "cashless",
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-26T20:15+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
+  },
+  {
+   "id": "85563a55ba385a28",
+   "title": "三井不動産ポイント会員の個人情報漏えい、３１１万人対象…クレジットカード情報含まれず",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPYTlIQTdQUU1RRVFoaDFoS1o5R0NLaUF2OExSWEpoNzVQZmR1RHMwQjNNV3BXTm9PdzB2emVQdEY2T3ZPcGxTM2VyTFRYRmpqcmYzVnd1bDdWZzN4ZFQ2T2dNaExqdw?oc=5",
+   "source": "読売新聞",
+   "summary": "三井不動産ポイント会員の個人情報漏えい、３１１万人対象…クレジットカード情報含まれず 読売新聞",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T19:44+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "6b3d3af2b76e1137",
+   "title": "不正入手したクレジットカード情報でコンピュータ機器を盗んだ疑い 神戸市の女(41)を逮捕 トクリュウの主犯格か 岡山",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByZkdhMEVNNVZNdnNjNGNpOURLMEFWRGZhd2J1YjdUMi1vT2VqdHlSMnM5b2NzTURDM1lrQUpCR19PMndTUGJuVnlCZ2F5SXJO?oc=5",
+   "source": "KSBニュース",
+   "summary": "不正入手したクレジットカード情報でコンピュータ機器を盗んだ疑い 神戸市の女(41)を逮捕 トクリュウの主犯格か 岡山 KSBニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T18:35+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
   {
    "id": "bb7aca805b3afe49",
    "title": "【合計300名にApple Gift Card 3万円分が当たる！】MastercardがApple Payのタッチ決済キャンペーンを本日スタート！応募者全員特典も",
@@ -123,6 +189,19 @@
    "published": "2026-11-26T15:10+09:00",
    "via": "PR TIMES（決済）",
    "company": "株式会社NTTドコモ・フィナンシャルグループ"
+  },
+  {
+   "id": "77fb7a566f6faf11",
+   "title": "県立広島病院内にオープンする「Lawson Go」にウォークスルー決済サービスを提供",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TMm93VTdhOVl2eG9aMEJpQUJ0dTVwMTdCQlFHSGZmcG00X1UxT0hodFdkcTFfd0hoaEtaWVBPS0NiVkZMaGlIM2NVU1dFSHozVVljNWdLREg4SGt0dlJyVklneWdUdTJsSVE?oc=5",
+   "source": "NTT Data",
+   "summary": "県立広島病院内にオープンする「Lawson Go」にウォークスルー決済サービスを提供 NTT Data",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-26T15:01+09:00",
+   "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
    "id": "e6490fa5fc89c549",
@@ -1467,6 +1546,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "94ee2e07da94558a",
+   "title": "アクワイアリング・決済代行サービスの商品企画マネージャー候補",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FNThZUVRHaEVPUUtHMmY5Z2JZTllNQ190cjVIejhOOEx4cFZhYmxBaWprTWtpcHcxSWpjRlp6TkdiVXlMR2h5SnVSWmlDNDZwLW1hc0FBMVRKU0xIdVVfUU5lTQ?oc=5",
+   "source": "日経転職版",
+   "summary": "アクワイアリング・決済代行サービスの商品企画マネージャー候補 日経転職版",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-24T18:10+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
    "id": "3fca095e650d6210",
    "title": "タワレコに不正アクセスで1021万件漏えい 77万件は住所も",
    "link": "https://www.watch.impress.co.jp/docs/news/2158821.html",
@@ -2469,6 +2561,19 @@
    ],
    "type": "news",
    "published": "2026-11-22T16:05+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "e68cffd87283ce96",
+   "title": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4eFgzMmpLcGl1WkcwR2xad0lFdWNLVTVUUXc1eFJIeFJRTVFNbVRvNkJpUGY3MGwyNk82Y2NhM1I0NHAwclZZVnJRdzZwSjk0dHhKSm1pTlpjSHZhbUow?oc=5",
+   "source": "NHKニュース",
+   "summary": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認 NHKニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-22T14:02+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -39865,114 +39970,6 @@
    "type": "news",
    "published": "2026-10-06T21:21+09:00",
    "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "0d1eda247e3aadde",
-   "title": "都市部から農村部まで、キャッシュレス決済を普及させる。",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUm9DQ0xCdzRfVXlRWW9NZ3ZFQWNKWVh0cS1IRHV2M2tGWWluM1lDSG9PNEdyRm1TNk9tOHYyOFlhSkhwS2pEYjFKeER6Ukg0OVJoMk9fY2xZOFJMUExiTjhkS3FUSFpxbHd2cllUaVpiWkZlY28yai13ZnRha0l6NjlfeEtZUkhHYnFObWxmSnRoNlk1VGRlcA?oc=5",
-   "source": "Vietnam.vn",
-   "summary": "都市部から農村部まで、キャッシュレス決済を普及させる。 Vietnam.vn",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T21:12+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "12864d553cff9b0a",
-   "title": "モバイルSuicaでコード決済「teppay」10月20日開始",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOLVhkVU01SmllNDA4eEhJSnF6VEhqV1Ftd2NwTTZDQzhBRlExOW1sV1FEcFhNYm9NRUFPaEhycnJiWDNteURrNUlsX2lJRF9fSTBPQWZzNG5LRFV2RjJCaExvTm5KYVU5eFI5U1lLX05MX0JGb2puUnY4c2xwN1lRcVliNjJtS1Vrenh1UTZnV0l0cUhWajJxQV9UV05KcEttQ0dwWllPb1FYQUg2aGc0SlNsZ1BIeXo1eFlkQ3lTTDJld29oX0RCZFp0RmpxdXlRV096cVlBMlVrYzV4VkZNaHhLSExyRVNtbzJVMk5wMlZnV3lzTEhpTWNlRXI4VDhLWGUzRVFTZHAzbHAwMkJv?oc=5",
-   "source": "SmartNews",
-   "summary": "モバイルSuicaでコード決済「teppay」10月20日開始 SmartNews",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T21:03+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "7e52c63d0c407920",
-   "title": "コード決済「teppay」 JR東が20日から提供、業界上位規模",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkeFpqWXNNYVA4UnZtQlNsVkJ3aFYzY2RiUExCSlI1RnV2V3YwcGJ6ZmJQMEJEOXNCX3VWMW9xSEJJcG0zZncyajFYR0VzRTllMHNGalFHcHdPZVdVel9hTm5NWlA1N0hQ?oc=5",
-   "source": "毎日新聞",
-   "summary": "コード決済「teppay」 JR東が20日から提供、業界上位規模 毎日新聞",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T20:33+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "fe63b5c132ed52cf",
-   "title": "コード決済「teppay」 JR東日本が20日から提供、業界上位規模",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkeFpqWXNNYVA4UnZtQlNsVkJ3aFYzY2RiUExCSlI1RnV2V3YwcGJ6ZmJQMEJEOXNCX3VWMW9xSEJJcG0zZncyajFYR0VzRTllMHNGalFHcHdPZVdVel9hTm5NWlA1N0hQ?oc=5",
-   "source": "毎日新聞",
-   "summary": "コード決済「teppay」 JR東日本が20日から提供、業界上位規模 毎日新聞",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T20:33+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "45e06e0e247e211b",
-   "title": "ＪＲ東、「モバイルＳｕｉｃａ」でコード決済サービス「ｔｅｐｐａｙ」を利用可能に…決済上限額３０万円",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pV3JTcktjRWZXNXlNRm1OUUVjdVZjZjkxQ1pramRJZ2poSENvT0NrazlYaE1tcFR6REw0SmNXdkZYcklILU01YUdKMkpTVEVJZ2FuWThwQk1nQV9WWVQtcEhtemU?oc=5",
-   "source": "読売新聞",
-   "summary": "ＪＲ東、「モバイルＳｕｉｃａ」でコード決済サービス「ｔｅｐｐａｙ」を利用可能に…決済上限額３０万円 読売新聞",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T20:12+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "c7d56872a6708d7f",
-   "title": "【画像】ＪＲ東、「モバイルＳｕｉｃａ」でコード決済サービス「ｔｅｐｐａｙ」を利用可能に…決済上限額３０万円",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnVGY5SVpuSUNJUktIeTNaNm5xQ0pXbGY0b3QtU0tqcTI0RkxUSVZiX1RJRG8zSktYd1lzNDViLWFoX3RLYTdqS0NzMnIzM1dpeXpvdU4zemsxVExvR0hRd21GQnk5MEVyRUw1ZWRjVjd3MVVqY3doSUhQMGs?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "【画像】ＪＲ東、「モバイルＳｕｉｃａ」でコード決済サービス「ｔｅｐｐａｙ」を利用可能に…決済上限額３０万円 ライブドアニュース",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T20:12+09:00",
-   "via": "Googleニュース「決済サービス・加盟店」"
-  },
-  {
-   "id": "3be112d0df921432",
-   "title": "【粗大ごみ キャッシュレス決済】",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yTUFrUWlqNjZPN0JES3VPTEFGZFZ2ZjFWTjV0emlRZDJway12aFBKaW5FY0lQNnhUaVRCVU8zSVBOdEtzSGZWTzZCeHBTR0tnQjVmWFZydmJYejVCMGZV?oc=5",
-   "source": "選挙ドットコム",
-   "summary": "【粗大ごみ キャッシュレス決済】 選挙ドットコム",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-06T20:07+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "34774503f9c18e11",
-   "title": "「モバイルSuica」で「2万円超」の利用が可能に 新コード決済サービス「teppay」、10月20日にサービス開始 画像（3/4ページ）",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SeXMzcWg2N1hPV2NzZ1ZOeU5UX3duQVlrVDNpVjlURE1JTW1NNTRiWUEwaFlOR2lIQThEMGVqRlA3VkdpSzRNWm1iVm1LNkFzRi01a0YtQk03OHlXeHJNVndQclVWMEtILURFdmlXTkNtMUk?oc=5",
-   "source": "Tetsudo.com（鉄道コム）",
-   "summary": "「モバイルSuica」で「2万円超」の利用が可能に 新コード決済サービス「teppay」、10月20日にサービス開始 画像（3/4ページ） Tetsudo.com（鉄道コム）",
-   "categories": [
-    "cashless",
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-06T19:57+09:00",
-   "via": "Googleニュース「コード決済」"
   }
  ]
 }
