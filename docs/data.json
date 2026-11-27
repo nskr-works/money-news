@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T23:17+09:00",
+ "updated_at": "2026-11-28T02:37+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -30,11 +30,65 @@
  "topics": {},
  "items": [
   {
+   "id": "d7bfefc3237e35b6",
+   "title": "金地金をアプリで購入、ご自宅へ--エクスチェンジャーズ、「XJPY（電子マネー）」で金地金1kgの販売を開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qUzBubjJTcm5Ga1Z1Y182MlJBSTRuZ2dIUkNwUHN5NHlnN01nYzFDaVk4VFMxamd2MjBVMWkzTEplSGxOMVYxeXdLSk9CeEhsVFJ4bWg0eFNqWEFWYkpGMTE1alplM3Fj?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "金地金をアプリで購入、ご自宅へ--エクスチェンジャーズ、「XJPY（電子マネー）」で金地金1kgの販売を開始 ニコニコニュース",
+   "categories": [
+    "cashless"
+   ],
+   "type": "release",
+   "published": "2026-11-28T02:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」",
+   "company": "株式会社エクスチェンジャーズ"
+  },
+  {
+   "id": "d06abd3fe55ced8d",
+   "title": "チケット販売サイト「カンフェティ」がサイバー攻撃で個人情報漏洩、対象件数調査中、退会者や一部のクレジットカード情報・パスワードも対象|情報漏洩のニュース-セキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTk1YVUN1YmludmVGbEU4NzdadTBQdF9jSUs3aE1XcW9YVnFBbks1QzIzSnFBUXM0MUJZbnlBRWNkeE1mdVRVanZlbkppNElHcXdsMDd3bmh5RThFQmRGQ1BMaTktY2JycFJ0alczYmxNa3dVTlRaYVRET1BnWU5yMjNkbFFRdU5xQmhfVnpXTU9RVEhSWVE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "チケット販売サイト「カンフェティ」がサイバー攻撃で個人情報漏洩、対象件数調査中、退会者や一部のクレジットカード情報・パスワードも対象|情報漏洩のニュース-セキュリティ対策Lab 合同会社ロケットボーイズ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-27T23:26+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "5cee8c73459169a4",
+   "title": "【2026年最新】60代のクレジットカード最強の2枚｜目的別おすすめの組み合わせ11選",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13QUlPdTlPdnhvU3Z6Y05JT3ZnNHFzODM3SzRadHplY1laVFJXUFN0bUhPdFkwbjR0dGpqekRORm9KQlcybzFPZHN1bl9MbVQxRkFNQ09qVlM2d0RHYndwUlVYWHBITW1WY2F5ekJJYVJIQQ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年最新】60代のクレジットカード最強の2枚｜目的別おすすめの組み合わせ11選 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-27T19:27+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "4cadc430e7a9746b",
    "title": "福岡都市圏の路線バスでクレカ乗車を順次拡大 | 西日本鉄道株式会社のプレスリリース",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15ZmtiQnptdHM0WFBiUk1CaUxqR1EtSjV2Q0c3bHdvUHNMOEZJa3c5dUZOaU1NcGhpU1ZNLURiVXlPMHJjME5qUUhBRjdVVXhKMDhsZWdVeEE0UlhzTUtvRlViRGlDbWhuRUE?oc=5",
    "source": "PR TIMES",
    "summary": "福岡都市圏の路線バスでクレカ乗車を順次拡大 | 西日本鉄道株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "credit"
+   ],
+   "type": "release",
+   "published": "2026-11-27T19:20+09:00",
+   "via": "PR TIMES（決済）",
+   "company": "西日本鉄道株式会社"
+  },
+  {
+   "id": "2b1b542b884bfadd",
+   "title": "福岡都市圏の路線バスでクレカ乗車を順次拡大",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15ZmtiQnptdHM0WFBiUk1CaUxqR1EtSjV2Q0c3bHdvUHNMOEZJa3c5dUZOaU1NcGhpU1ZNLURiVXlPMHJjME5qUUhBRjdVVXhKMDhsZWdVeEE0UlhzTUtvRlViRGlDbWhuRUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "福岡都市圏の路線バスでクレカ乗車を順次拡大 PR TIMES",
    "categories": [
     "credit"
    ],
@@ -84,6 +138,19 @@
    "via": "Googleニュース「タッチ決済・電子マネー」"
   },
   {
+   "id": "b06b2f6017ca6a64",
+   "title": "VIBは、Visaから4つの賞を受賞し、クレジットカード業界における革新性を証明しました。",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLTRnV0xaZFl1N2ZibmE3OXVGcEtFSl9FVlJLYmwwWXF2Ti1IU18xWjlmRHI2WTYzTHlaMHRrWXpQRktxcEpIZFowNkZMOVBkSnpsNTVCOW5LNy1aclJvbF9pQ28zdU0xUTlxY2ZRSDNoc096c1RfZlYxUHZOUkI0am4wZW9BS0tXYW9RUTBVMmV0c3B6QXppa0dDSlNQLVNwblY5RnA1dmpPWnc?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "VIBは、Visaから4つの賞を受賞し、クレジットカード業界における革新性を証明しました。 Vietnam.vn",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-27T18:48+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "ab94fd65e3b7db32",
    "title": "西鉄バスが一律30円値上げ、初乗りは現行の210円から240円 現金のみでキャッシュレスは据え置き",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnS25SUlF3SWlqc1RqbkpKVmZNSkxZV19UbDNXMkpyQXpZaklpLThEcEJuakdtc0g4T1BDclg2VnlOMWs3VEhBS3V6dzJTMHhtY3NYZ1VMQnZDazVtUzZrOVpuOXB5V2VrbV9CSg?oc=5",
@@ -95,6 +162,19 @@
    "type": "news",
    "published": "2026-11-27T18:10+09:00",
    "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "0dd93c6e7d33b7e7",
+   "title": "ネオ海の家が挑む0秒キャッシュレス お得で動かぬ今どき消費者 （3ページ目）",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXdiNFJrMHJHX3hEVkkyS09Rem9hMVU0a2xjcUVmX0NLYUIwVTlWNkJBdDlndFJ6Z2liWjNUeWN2ckxXVzFZalY5VDlYempDR0VUbHZLUDVhOUtXSTBBemZpRGJWNmZZN1ZBVTI3ZVJnSU1BNWc4Mi1DYlg5ekRyRDFkMkR6VlI3RUlHa3E2QlFna2ViTkE?oc=5",
+   "source": "日経クロストレンド",
+   "summary": "ネオ海の家が挑む0秒キャッシュレス お得で動かぬ今どき消費者 （3ページ目） 日経クロストレンド",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-27T17:40+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "3f537f546ab825a7",
@@ -268,6 +348,19 @@
    "via": "Googleニュース「決済サービス・加盟店」"
   },
   {
+   "id": "30c7fc242d9a8203",
+   "title": "コロナに抗え 「キャッシュレス＋α」で生き残る小売りと外食 （2ページ目）",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVRPSmdLeG1zcVdMN2NuV2JWMjRFbmRHcXV5Z1Y3dHZOS0dFb0tOR2IyNVNscVlVSDNCNUhobS1uNGRtOThVZmVLblFJb0JzNTlxUElvQUJDV2V2dnhNN2UtY0VlTjU1QzNkb0ZLU2NLNmRvMkhHMERJYXJzaFhHY2FlSFZHTXVYYmZMdHBrSFJUMmRnY3I3Wg?oc=5",
+   "source": "日経クロストレンド",
+   "summary": "コロナに抗え 「キャッシュレス＋α」で生き残る小売りと外食 （2ページ目） 日経クロストレンド",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-27T12:51+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "b878ff6999314d5c",
    "title": "UCとQRコード決済サービス「JPQR Global」の取次業務契約を締結（ネットスターズ）",
    "link": "https://paymentnavi.com/paymentnews/186802.html",
@@ -334,6 +427,19 @@
    "type": "news",
    "published": "2026-11-27T11:01+09:00",
    "via": "Googleニュース「コード決済」"
+  },
+  {
+   "id": "b9cb63392dd8fe3a",
+   "title": "米クレジットカード金利上限論が再燃、年10%でも採算維持余地か",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWkVkamkzRC16VVJ0MThoU2ZQWTBvdE5NZTdPSkZGaVJEZVlzQ0k0U0ZtSVF4U1FtQTBFT3ZkeTFUQ2hQUlpjLUxPVmwyN1VnaFZ5OUdhREw4Z0IzUTFTTFJvOGUwR0dNTW5rc0VnU3pmQUdEeGkzd1Q5VC0wcXBFdHRQMlFEb0lfWE5UNzE0alMxZnRubV9Sd1FrU2tRZXgxYlFnN0NwZEtaeGViVW5kWkJxX1BjNmxiY0FDdnhrUlhpbmV4MWtsOEFnaw?oc=5",
+   "source": "디지털투데이",
+   "summary": "米クレジットカード金利上限論が再燃、年10%でも採算維持余地か 디지털투데이",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-27T11:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "e8d662dbf3d3a834",
@@ -552,6 +658,32 @@
    "via": "PR TIMES 新着（直接）"
   },
   {
+   "id": "22d777ce56fb6a09",
+   "title": "7500万ユーザーの割り勘手段に LINEのQRコード決済の普及戦略 （2ページ目）",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2hjRHU3LTZRN3ZMVVIxUGdzeTJudkhFcGJqaVZ0MXE0Vmh6OW1Qd3pHZGFrSlVMZ0htZzhJakVhdWwyOUpiOWdTaUhoQmJkcDhOU1Q4ZURBQXhjWWVzcXh6RGdsUE81NTA3Nm1DVWVxdlJnYTh2TU1peklVeUhuSWxVYy0xdmxWYWI1SERnR1JCWFU1UEE?oc=5",
+   "source": "日経クロストレンド",
+   "summary": "7500万ユーザーの割り勘手段に LINEのQRコード決済の普及戦略 （2ページ目） 日経クロストレンド",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-27T02:37+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "35a1f26dcf3f53cb",
+   "title": "２７４８ ＶＩＳＡのクレカ乗車で３０％キャッシュバック ２０２７年１月１１日まで 東京メトロと都営地下鉄でキャンペーン どらったら！！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDTV93MDlBQ3JMSXBPWEdsN1BQTkFXd09CX0s5WW1BQzU3WENqYlB6RkRwREgxX3Fsd20zWVltTEptd2U1cGhrbzQzdnV2Ti1Sclk3Q0ZnYS0tbXlnQlhIVWJyMk1iRnFoOXc?oc=5",
+   "source": "どらったら！！",
+   "summary": "２７４８ ＶＩＳＡのクレカ乗車で３０％キャッシュバック ２０２７年１月１１日まで 東京メトロと都営地下鉄でキャンペーン どらったら！！ どらったら！！",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-27T00:44+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "9a7ddbf81085ac15",
    "title": "ドコモ「dポイント」「d払い」12月キャンペーン、ジョーシン最大5倍やイオンシネマ・ENEOS・高島屋など",
    "link": "https://k-tai.watch.impress.co.jp/docs/news/2159654.html",
@@ -670,6 +802,19 @@
    "published": "2026-11-26T17:09+09:00",
    "via": "日本経済新聞（Googleニュース経由）",
    "company": "TMN"
+  },
+  {
+   "id": "fdc2de3e111d8c7e",
+   "title": "トランザクション・メディア・ネットワークス[5258]：TMN、グローバル決済大手Adyenの日本国内向け決済プラットフォームに採用 2026年11月26日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FeVpLUjEyVW5nQXFjWXhpbnNQd2tJamNVZVNDa3hrSDZSWmhFWmxkcW9LaWk0MXc2UjhadFFVRzFZbURUaWo0czJTdXpjRkVydi1sang0NC1uenVlbDFmNXcweDJtNWN6Unc?oc=5",
+   "source": "日本経済新聞",
+   "summary": "トランザクション・メディア・ネットワークス[5258]：TMN、グローバル決済大手Adyenの日本国内向け決済プラットフォームに採用 2026年11月26日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "psp"
+   ],
+   "type": "news",
+   "published": "2026-11-26T17:00+09:00",
+   "via": "日本経済新聞（Googleニュース経由）"
   },
   {
    "id": "f3a11068d41c232c",
@@ -941,6 +1086,19 @@
    "via": "Googleニュース「コード決済」"
   },
   {
+   "id": "6c06a4d5374637de",
+   "title": "ペイペイ障害、9時間で復旧 アプリのクレカ決済 原因は調査中",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JdjMwWTM2VjlPWHNHQTcxRFFBekZSWXdIVFFrOURkYlVGdG81ZHA1ei02eEdzTzZ4OHNMS2s0X2FIXzJBczMtMUZkemY3VmNwTG1kN1pHTlFFMXRYcmNEN3REYWJGQXMxeE03VWhORDJRc3E2cWc?oc=5",
+   "source": "産経ニュース",
+   "summary": "ペイペイ障害、9時間で復旧 アプリのクレカ決済 原因は調査中 産経ニュース",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T10:10+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
    "id": "a8976c7a0794ec0f",
    "title": "ネットスターズ、ユーシーカードとJPQR Globalの取次契約を締結",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DVVJNRUgydVg5MzY5T0N4b3laYXFlUzRfTnZyYjdwNGllRFYwYWM5RmhkdHYxZVVJeEJjQ1BaVWJZR0tXMzRqRGZuRUlUZFhGanZJ?oc=5",
@@ -1208,6 +1366,33 @@
    "type": "news",
    "published": "2026-11-26T00:05+09:00",
    "via": "ケータイWatch"
+  },
+  {
+   "id": "7fd9262fa4943642",
+   "title": "PayPayで障害、クレカ機能で 25日夜〜",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RdVduVWJ4eE5yakNnNnhnQklsWVNVQjZIUURLV1lrOWNhSXRsbW4yVEw0UjFEcGhGaV9PcXFuSnZBYWFHcWtseGFNcS03dXBxV2lVNDlGSDZ6QV9zbzBJR2Y4SXY4ZTBlOVJXNWM2RTJDN0HSAXhBVV95cUxQaF9fV0VjcU5SQmltVzM3T1ZqRTV0RTNQZDNiVWZ4SlJUdkpKTEpxQXV3MER2LWtyQmpON0RaSzVRUmJUQ0k5WjlnWURQc1hEVVN1YXJ3azZfYnE1N0htb1hHeFRoVzl5MnN6Y3htWXFLUUJvcDZMZ08?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "PayPayで障害、クレカ機能で 25日夜〜 ｄメニューニュース",
+   "categories": [
+    "code",
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:05+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
+   "id": "af018479fe50b8e7",
+   "title": "韓国｜プリペイドカード「WOWPASS」が本人認証を強化 － 残高50万ウォン超にはアプリ認証が必要に",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZEtnTjNBUzNMVVZhTThrY2NxVWVQR2RlUkNPekhuVnQ1YTcxcGNHa3UtUFhUUUFGQWdHVEhaaFd2SVY5ZDFHNmtoai1ORUE4d2JLR0NvRm92bE0?oc=5",
+   "source": "日本橋夢屋",
+   "summary": "韓国｜プリペイドカード「WOWPASS」が本人認証を強化 － 残高50万ウォン超にはアプリ認証が必要に 日本橋夢屋",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "ddc74a49c4a8ab1f",
@@ -1632,6 +1817,19 @@
    "type": "news",
    "published": "2026-11-25T16:33+09:00",
    "via": "ITmedia Mobile"
+  },
+  {
+   "id": "7afd54e8e4adcd8b",
+   "title": "ゴールド特典改定後も好調、PayPayカードの勝算を宮崎CEOに聞く ポイント還元以外の強みとは？（2/2 ページ） - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91eS1jcTh5M0ZaSEVwWElrM3BocU52OUVTQldsSmNONzFjV0Nva05YMExCajdjTmJhQ2NTY0JtYXFFMi1nSEpSUEg1WG9pbHVpenJJUUg1OFZPSjg3OTFDUXUxLWdDamszb2s0N0cyWmQ2UdIBa0FVX3lxTE41ekFsLTJHbkFSdGlZY1dROU93NmdvM20wSDc4T2RnczhMaHlGUkZDZU9hZjc5UGZZX2JtU2I2V3Mwemxab0pCR0lsNERBaGdJS3VFeUJSSHRQemFNZHFFZk1lRTR0bHIwRzNB?oc=5",
+   "source": "ITmedia",
+   "summary": "ゴールド特典改定後も好調、PayPayカードの勝算を宮崎CEOに聞く ポイント還元以外の強みとは？（2/2 ページ） - ITmedia Mobile ITmedia",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-25T16:33+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "70b69f3a1bdd734c",
@@ -2405,6 +2603,19 @@
    ],
    "type": "news",
    "published": "2026-11-24T17:31+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "2e4bcdfc104071ee",
+   "title": "【2026年版】40代クレジットカード最強の2枚！目的別おすすめ組み合わせ10選",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yMDZVdzIyRUlXNktwdzcwSjZvQ2w0SXVYTGV5RlVSZmJnYWdnWWRPb19ZV1JoRS01M3BlQ2F5ZUlnNVlFWmJiVlo2QlVicnZwZFF6S3QtNHhOdWg0bllhbnV5LUNGRTBYYnR4eU5kdTJZQQ?oc=5",
+   "source": "新日本保険新聞社",
+   "summary": "【2026年版】40代クレジットカード最強の2枚！目的別おすすめ組み合わせ10選 新日本保険新聞社",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-24T17:00+09:00",
    "via": "Googleニュース「クレジットカード」"
   },
   {
@@ -3920,6 +4131,19 @@
    "type": "news",
    "published": "2026-11-21T17:00+09:00",
    "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "2f0844412247b777",
+   "title": "クレジットカード40代向けおすすめ21選｜メイン・最強の2枚の選び方や注意点も比較",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5naWRSd3JtWlZJV2E1YTI3MlVHVDIzS3RDVjJhOTczX3pkdDI5aE9kVV91ZHh5dHZ5SmhrRzlIZXRrcE1nZTJ0eWJIUXNfc3g1TUdJTDhVbC1HUQ?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "クレジットカード40代向けおすすめ21選｜メイン・最強の2枚の選び方や注意点も比較 投資情報のフィスコ",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-21T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
   },
   {
    "id": "50b4cf2e27183acb",
@@ -39736,229 +39960,6 @@
    ],
    "type": "news",
    "published": "2026-10-07T21:40+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "70c06b3215b252b6",
-   "title": "奈良県内の女性から電子マネー詐取容疑、長野市の男逮捕 - 奈良県警西和署",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRODNGUzNMTUFnTGRXOGwtaDFkOTVBeFZPV1BsUjNURzhXYU1QT2g2Wnc0dGxTdVIwaVlMMElRTGY5ZUxmZ2R5V2VDSnhiU0V1b2dBYnBfaF9lT3dOZmlz?oc=5",
-   "source": "奈良新聞",
-   "summary": "奈良県内の女性から電子マネー詐取容疑、長野市の男逮捕 - 奈良県警西和署 奈良新聞",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-07T21:30+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "2c8705a53136ae78",
-   "title": "クレジットカードのおすすめはどれ？いま選ばれている流行りの20枚を比較しました",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwNVRqQWhJa3JrUUhNZm5oM3hITlBXN3l0Y2tUdndZa01sank0bmxNNWJtblF3S2pxWUlmcElGV20wXy1xVjc1Y0RFdVdBcUFVNkxSQk82Ym1mSEtTLUQxcDZB?oc=5",
-   "source": "旅行新聞",
-   "summary": "クレジットカードのおすすめはどれ？いま選ばれている流行りの20枚を比較しました 旅行新聞",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-07T20:19+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "3b97fce167c5964f",
-   "title": "長野都市ガスで約3600件の顧客情報が流出か 委託会社に「不正アクセス」 氏名、住所、電話番号を含むデータが流出 金融機関の口座番号やクレジットカード情報は含まれず（NBS長野放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55dkI5Rld0N1FGcm9Fc2JaemdjVFJKOHBzdjRZX2V4dVVnRzlVdWl2dVg2TEt4RUtZbWNBUE83cmYzUWlHM1NBQlhFYkNrMVo3UXdScUZCZDVhaHB6bHFrTWtXSG1FdTlpdjZjR2h0dG1NM1F5czRaN2tFMTg1eEE?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "長野都市ガスで約3600件の顧客情報が流出か 委託会社に「不正アクセス」 氏名、住所、電話番号を含むデータが流出 金融機関の口座番号やクレジットカード情報は含まれず（NBS長野放送） Yahoo!ニュース",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-07T19:38+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "9f3f5482e422f647",
-   "title": "学生におすすめのクレジットカードの選抜11選！収入ゼロでも失敗しない選び方",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NNU8yS3piTkl1SnMxSkpmT0RXNk1FaWtvb1hRbWtkWlF2cU1GV04wcUhYMjFLSGdiQUE3dkNRclpVc2VVblBfWGlEQTNHNTNzZ3ZkYXlvMjl1MDk4aFNtei1B?oc=5",
-   "source": "旅行新聞",
-   "summary": "学生におすすめのクレジットカードの選抜11選！収入ゼロでも失敗しない選び方 旅行新聞",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-07T19:34+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "d6af1d7ccea1de31",
-   "title": "AEON Payで新規登録やコード決済がおトクになるキャンペーンを10月から順次開始",
-   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNa2JSUWN6czg1SkZFTS1tckdXVWNWTTI4eGh1OTItSWVsbFV0NDFQYm9sTnB5TG9PbjFNMkYzR01QM1JqeFNLM3lxVnd2MktZR3J3UHdhTkpoSnhfVTk0cjJLankxbmRJUmxJZEJNMzFtSGc4N0JseDc1bE1oSEZacGFaNVVVQ1FOczAxTzl3RzFxbDZqaHdOSEdhMVV1OWNGUElZOVAxY0JRYldHcEZTdlFwcGw3Vjh6UTh1cFp3Vk50LXQ3OWUzYjFsRnhST1BncHk3OHhiMEw0MHRzVXBjSERjR3RLeWdTbGRBRDJQYjVCNGFXY2Y1SnNJVEdqVUdoNmlvbm5BLTJoNlpORzlBQnY0dzFYaFJDWUpKblozUm1uOFdwbnlIS1hJVGR2UEItZzJQT09xRllCNUZ3SHfSAcMCQVVfeXFMTXpPeHlwSmx0RndYOG9DanhsN1FJc0hZMDBtend4OWJDV0ZjN1pfQThrRmlxejhMRmdCeHNhc2lKSjZsQ3I0TnlENDlxN0ZLOV94VTh3Wl83U3c5Qk4zTjZIMEM0TmdGYjJjWl9CbnFwbHROenljNkE0R3RqUmY0cXcyQWlYS3FYVnU1a25GY2hNUjljeV9yM3E4ZXZhS3pPUTR1YmIwbVJqSmhLN0dVdWtNbGJIZTJzMGVkYVF4MUc0R3U1cUZUUHJZR0ItSWlHNzFqQl9neWJaVDczZi05UFNVNDcxSDJtTlo1RTV1amF2WGRUTlFkaDE3dFdEUUs5eFdOQzJjcFVtQnJGUm1vdXU3azRld2NGcWd4VTItWEs5OVBsQVJGUjFSSXZ4VWJFSU5FTEd2QkdFNl80OHBKY1Z0N28?oc=5",
-   "source": "South65",
-   "summary": "AEON Payで新規登録やコード決済がおトクになるキャンペーンを10月から順次開始 South65",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-07T18:42+09:00",
-   "via": "Googleニュース「キャッシュレス決済」"
-  },
-  {
-   "id": "c04800948abad526",
-   "title": "電車に乗るだけで10％ポイント還元！三井住友カードが京王線・井の頭線でタッチ決済キャンペーン開始",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ueC04eWQ0ellyb00zdEJHZkVHNXozTHllWW45eUgtWFJFM1dEZlBKUnRtUmNDWXhTWExuV0NVNVFaUUxCS0lCd3RvWTYzYXM?oc=5",
-   "source": "DXマガジン",
-   "summary": "電車に乗るだけで10％ポイント還元！三井住友カードが京王線・井の頭線でタッチ決済キャンペーン開始 DXマガジン",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-07T18:27+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "b616c97d2f6260be",
-   "title": "地元の魅力をキーホルダー化！？ 観光地からご当地電子マネーまで 高校生がガチャのデザイン案発表 岐阜県大垣市",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xVjdlSTMxR2NvWHV6VWpzSFVjNVJTX25Db0ZJSTc2aFBneVFZS05Ua2pZbnc2M3A3SHFsVW1NNEVwWkFka1V1dHd5QktGd3V2U2V6a0JXdVZRaXMzOXlrYXZ5NkpUMTA2VG5LWkxIUzN0ODlNbmJHRkljNE1hTFk?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "地元の魅力をキーホルダー化！？ 観光地からご当地電子マネーまで 高校生がガチャのデザイン案発表 岐阜県大垣市 Yahoo!ニュース",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-07T18:22+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "e77344555da0cfd9",
-   "title": "ネイバーの中古取引でもクレジットカード決済が可能に、金融委が24件の革新金融サービスを新たに指定",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vR3Zha2lRUmdMMVhoTVM3T3NfNjA1dV92QW0wSXQ0QjlST09NZjh0V08yOThBa2NZc3JibFFhX0J4SmdiZi1iX3E1TWRQM3dIX0R1Wm15aTRsZms?oc=5",
-   "source": "亜州日報",
-   "summary": "ネイバーの中古取引でもクレジットカード決済が可能に、金融委が24件の革新金融サービスを新たに指定 亜州日報",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-07T17:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "db5aaec04045dc60",
-   "title": "オンライン銀行引落「Jamm」、リリースから運用1年でチャージバック・不正利用報告ゼロ件を達成。",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82ZVY0MUh3NDhfVXNJdGNYLVB2SE1yUWUzdm5YQWd5ekN1QkUzY3RGVGRsNC1Rb09KR0haVVI1Sm1IdDFvdmZyb3l2U24tZWtjYWUtejk2UDI1b045YzNZSW5ZWTNlWV9FMlE?oc=5",
-   "source": "PR TIMES",
-   "summary": "オンライン銀行引落「Jamm」、リリースから運用1年でチャージバック・不正利用報告ゼロ件を達成。 PR TIMES",
-   "categories": [
-    "credit"
-   ],
-   "type": "release",
-   "published": "2026-10-07T16:19+09:00",
-   "via": "PR TIMES（決済）",
-   "company": "株式会社Jamm"
-  },
-  {
-   "id": "07fc7db77348ac7b",
-   "title": "カーセブン加盟店が日本カーシェアリング協会へ車両を寄贈",
-   "link": "https://prtimes.jp/main/html/rd/p/000000010.000177546.html",
-   "source": "PR TIMES 新着（直接）",
-   "summary": "[株式会社カーセブンデジフィールド] 中古車買取・販売のカーセブン（運営本部：株式会社カーセブンデジフィールド 本社：東京都品川区 代表取締役：井上 貴之）の加盟店であるカーセブン石巻店（運営：株式会社アイセイオート）は、2026年9月18日...",
-   "categories": [
-    "psp"
-   ],
-   "type": "release",
-   "published": "2026-10-07T16:15+09:00",
-   "company": "株式会社カーセブンデジフィールド",
-   "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "10917f43196655f5",
-   "title": "京王線・井の頭線でスマホ決済を利用しVポイント10％還元キャンペーン開催中",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zOC1sNEpscG5VN3ZJUE51UFlvTlJpMTE3UEUwZVlpUVV0X3lKYnh3RDNkQmpPNUtTS0VhVi14S1FVTHJRSDVfRjZNemZGeS01MTJRbVEwMU10STI4ZFRTR2pmQ3JCRlZsVHZvTw?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "京王線・井の頭線でスマホ決済を利用しVポイント10％還元キャンペーン開催中 ニュースメディアVOIX",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-07T16:12+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "29303e5511b68f3f",
-   "title": "【神奈川】サーバー開発エンジニア（決済サービス） ※リーダー",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84SnQ0SFJYR1J5Yk5uTnRoSHk2cS0tYXpvaG0yekJfc2ZPd1VuMXBOYmRqVm1QU1FmcEtWenlrdURWTEJ2ck1XZnRfaHpGUWNIVDFzVUtSNnBYR2hMdDgwTTNWYTlldU9fWWh6eHJB?oc=5",
-   "source": "日経転職版",
-   "summary": "【神奈川】サーバー開発エンジニア（決済サービス） ※リーダー 日経転職版",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-07T16:00+09:00",
-   "via": "日本経済新聞（Googleニュース経由）"
-  },
-  {
-   "id": "11095b52a692df0a",
-   "title": "【2026年最新】ANAマイル最強クレジットカードおすすめ比較！還元率と損益分岐点で選ぶ正解",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95cUhMTEFENGwyWEp0aDBFUnlYMGlRZzJxWnN2RkJKUWdQQi1ROUlSZzBaeGhlVlJ4Q2oyZHdud3ozRVJXdU85QzUwaXAtZThNbnZSN0o1UUhXMFBRX0kzUVl3?oc=5",
-   "source": "投資情報のフィスコ",
-   "summary": "【2026年最新】ANAマイル最強クレジットカードおすすめ比較！還元率と損益分岐点で選ぶ正解 投資情報のフィスコ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-07T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "c9b6529fb936a4a0",
-   "title": "JCBカード比較・一覧|おすすめJCBカードランキング&種類や違いを比較",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ESXByZ1pYZ2xVSmVDZkt6clY5RlgzeGtqY19WajZQRDlDbjVZQWQ2elAwZEdZWndlQTBMZWh3ZXlRLUtvYXlhM1lsWXhic2FlNEhaVmlpbw?oc=5",
-   "source": "みんかぶ",
-   "summary": "JCBカード比較・一覧|おすすめJCBカードランキング&種類や違いを比較 みんかぶ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-07T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "34c3b05091f6a185",
-   "title": "au PAY ゴールドカードの特徴・メリット&デメリット|au/UQ mobile・auひかりで最大10%還元のauユーザーにお得なカード！",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZYmRZOXY1NVl0dE1zcVNqR2VwYV9QR1k3R05MOXM1QlRkbzdreFJSOG9Xc3ltaC1kOTl1SzJETERWZEVwa1Y2MnhSSVkwX1pEZ0p6b2o1My1aQWxVZkpxMDc5cw?oc=5",
-   "source": "みんかぶ",
-   "summary": "au PAY ゴールドカードの特徴・メリット&デメリット|au/UQ mobile・auひかりで最大10%還元のauユーザーにお得なカード！ みんかぶ",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-07T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "8bbb7a922a3b4df7",
-   "title": "セゾンアメックスゴールドは恥ずかしいと言われる理由は？口コミや代替カードを解説",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pOEpOVHhRTEpkTDVRSEZnNGZiQU96MmlpWUVQckVndUh2ZzAyTW5BczFKMVpKNXI4TnFKSGZnR1poUFZDSTJDc0l5eFB0Nm16WTJScFIwRkFpQ1ZPbjhzbGZlVWlfMEo4czBnVkQyM1RxdmxyT1otNGd3?oc=5",
-   "source": "新日本保険新聞社",
-   "summary": "セゾンアメックスゴールドは恥ずかしいと言われる理由は？口コミや代替カードを解説 新日本保険新聞社",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-07T16:00+09:00",
-   "via": "Googleニュース「クレジットカード」"
-  },
-  {
-   "id": "e262b0c7782740aa",
-   "title": "消費者金融・クレジットカードの借金に悩む人へ 10月9日北見で無料相談会 北海道財務局",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BQk1CcXBETUFaZjduZnJMcnczemFnay1sekVHU3ZaY0RfRGplRTNGVlA1c2d3ZF9ZN0w5SWFDZ3RiZGNGVTl2VGR6aVVQMGM3ODZJdVk1OHFNVl9OZVh0VHhDcWU?oc=5",
-   "source": "北海道新聞デジタル",
-   "summary": "消費者金融・クレジットカードの借金に悩む人へ 10月9日北見で無料相談会 北海道財務局 北海道新聞デジタル",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-07T15:56+09:00",
    "via": "Googleニュース「クレジットカード」"
   }
  ]
