@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T18:23+09:00",
+ "updated_at": "2026-11-28T22:33+09:00",
  "collected_since": "2026-10-04T21:20+09:00",
  "categories": [
   {
@@ -29,6 +29,32 @@
  ],
  "topics": {},
  "items": [
+  {
+   "id": "0a8d930060bd91fd",
+   "title": "【タッチ決済未導入】JR東日本と京成電鉄で導入されない理由と今後導入される可能性は？",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84TFU1bVdyZVpsNGZ2aEo2N0p2aTNkX3lWTlgyRW41UHdSdnVmQXhVejUwMnEtWWFhQzlyWWVWcjFReXNEbjBaSWczUFpPUQ?oc=5",
+   "source": "Kumoyuni45",
+   "summary": "【タッチ決済未導入】JR東日本と京成電鉄で導入されない理由と今後導入される可能性は？ Kumoyuni45",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-28T21:00+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
+  {
+   "id": "7792c6695ba418fc",
+   "title": "タイムズカー、不審メールに注意喚起 免許証情報の保有をかたり電子マネー要求",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zWHk2OHVycl90VWZIVFhnY2c3VFBNUGkyQjA4WGxEWTd2bmVuaXN2cWg5UkFLc2IwNllrVVJQSmpOemM4SGtTcXlJX3hlaWU1RzBBYllqWEhEaHpZbHZ0ZDhtMmVTVkdTV2Q4VFF3YWphdjVU?oc=5",
+   "source": "https://mediadogs.jp/",
+   "summary": "タイムズカー、不審メールに注意喚起 免許証情報の保有をかたり電子マネー要求 https://mediadogs.jp/",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-28T20:58+09:00",
+   "via": "Googleニュース「タッチ決済・電子マネー」"
+  },
   {
    "id": "0e75a6998daa688a",
    "title": "「ドームに来る際にも利用していただけると」ホークス周東佑京選手が地下鉄のタッチ決済やマナー向上を呼びかけ",
@@ -920,6 +946,19 @@
    "via": "Googleニュース「クレジットカード」"
   },
   {
+   "id": "d4320962054ea93e",
+   "title": "久留米市役所 - 久留米市の上下水道料金、2027年4月からキャッシュレス決済に対応 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QWndDM0RzanFETHhleXhhOVZSSjgxZmZaN3NWY1d3RWNSOHgxOVA1ejE5T2Rqd0d6NW44NHBqRE9YcjFJa2s1b0YzRHY1aVlPcl9uVHh3bw?oc=5",
+   "source": "西日本新聞me",
+   "summary": "久留米市役所 - 久留米市の上下水道料金、2027年4月からキャッシュレス決済に対応 - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "cashless"
+   ],
+   "type": "news",
+   "published": "2026-11-27T06:04+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
+  },
+  {
    "id": "d25b97571973bf72",
    "title": "［福岡県］水道料金キャッシュレスOK 久留米市、2027年4月から 納付書払い方法拡充",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JTW9vMEMzYXFETmxnemdhcHdzZm9GcUVhTVVqNXJNci1scXc1bE9vWk15dkx1YmpQeG9RMGJ4RWtUMjltRm5rLWxZQkplTEpjYlVGQ09B?oc=5",
@@ -1143,6 +1182,32 @@
    "type": "news",
    "published": "2026-11-26T17:00+09:00",
    "via": "日本経済新聞（Googleニュース経由）"
+  },
+  {
+   "id": "811ca7268b468cb7",
+   "title": "人気のクレジットカードから選ぶ！（2026年最新版）みんなの「おすすめクレジットカード」一覧！",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxeWdXQVNrc3FwWFozTU5SbXRQbmtoZndWQ2llYXU0SWJ0QXN2ZnJvR29INExub25vS2gtd2VwUUlyZVN2Yll3bjNMbThqbm5w?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "人気のクレジットカードから選ぶ！（2026年最新版）みんなの「おすすめクレジットカード」一覧！ ダイヤモンド・オンライン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-26T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "a370888865311db9",
+   "title": "【12月はd払い】枚方市でお買い物を楽しもう！最大15％ポイント還元キャンペーン",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BeDdaYmhhaTdudVp1OTNiMktNS1ROOWdkeDFsR1pzd25PcUcyc0NFb29Vd2dkZlpCU09lckVJS3hDYTBtY2ozbVdqc21NN215VnlzS3djMmV1c05FaklF?oc=5",
+   "source": "枚方市",
+   "summary": "【12月はd払い】枚方市でお買い物を楽しもう！最大15％ポイント還元キャンペーン 枚方市",
+   "categories": [
+    "code"
+   ],
+   "type": "news",
+   "published": "2026-11-26T17:00+09:00",
+   "via": "Googleニュース「キャッシュレス決済」"
   },
   {
    "id": "f3a11068d41c232c",
@@ -2112,6 +2177,19 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtYjZ2TE9fSTkwYTJVampaT3E0MUF3NXNDc0dmYkdjUThCVHI1bUwtZnJ6SWg2ZF9YQ3EyNXJVQzdNMHJXdUNnX1JUWkpuZw?oc=5",
    "source": "価格.comマガジン",
    "summary": "クレジットカードおすすめ10選！ 究極の1枚の選び方・使い方を徹底解説【2026年11月】 価格.comマガジン",
+   "categories": [
+    "credit"
+   ],
+   "type": "news",
+   "published": "2026-11-25T17:00+09:00",
+   "via": "Googleニュース「クレジットカード」"
+  },
+  {
+   "id": "97fc66c03b7628f0",
+   "title": "学生におすすめのクレジットカード19選！大学生でも作れる人気クレカを比較",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjWlN3MkJfb0JaWGlFYXJ2dURQaE80XzhyTTBvbG8xZDlHcExMS1RaNFpRUU9RaWhlTlRsZVRkcE9xMlN1N181bUpXWWg4Qjc4UzhN?oc=5",
+   "source": "株探",
+   "summary": "学生におすすめのクレジットカード19選！大学生でも作れる人気クレカを比較 株探",
    "categories": [
     "credit"
    ],
@@ -39879,84 +39957,6 @@
    "published": "2026-10-08T13:40+09:00",
    "company": "Mastercard",
    "via": "PR TIMES 新着（直接）"
-  },
-  {
-   "id": "ceea027f5c9fdf67",
-   "title": "ASEANの富裕層向けカードを発行開始、三菱UFJ銀行と協業（JCB）",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04a2RqLUdrcTlkcmNsNTZEQWdwY3ZoeEQyNVNwQXVBam1HeG5yajgta3BnekF5cUJzclVKc3pFUG84Q3lsLW1iSkk3U21Ld0RXcEpONW52dUJUNDA?oc=5",
-   "source": "ペイメントナビ",
-   "summary": "ASEANの富裕層向けカードを発行開始、三菱UFJ銀行と協業（JCB） ペイメントナビ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-08T12:00+09:00",
-   "via": "ペイメントナビ（Googleニュース経由）"
-  },
-  {
-   "id": "f02607c1b0fad90e",
-   "title": "ASEANの富裕層向けカードを発行開始、三菱UFJ銀行と協業（JCB） | ペイメントナビ",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04a2RqLUdrcTlkcmNsNTZEQWdwY3ZoeEQyNVNwQXVBam1HeG5yajgta3BnekF5cUJzclVKc3pFUG84Q3lsLW1iSkk3U21Ld0RXcEpONW52dUJUNDA?oc=5",
-   "source": "ペイメントナビ",
-   "summary": "ASEANの富裕層向けカードを発行開始、三菱UFJ銀行と協業（JCB） | ペイメントナビ ペイメントナビ",
-   "categories": [
-    "credit"
-   ],
-   "type": "news",
-   "published": "2026-10-08T12:00+09:00",
-   "via": "ペイメントナビ（Googleニュース経由）"
-  },
-  {
-   "id": "32da5c9e0b3349c9",
-   "title": "改札前で慌てない！電子マネーの残高がわかるパスケースが登場",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyU3c0UXRfUmdOeUZhUlFZbGxNLWlURW8zSmlKNWM5SjVWc3duN3JhUWkyQ0tLUWNtVVE4WUswU2Z3Rmh1dEVQZFFUN25wV2kxT3Fr0gFYQVVfeXFMTlFZc1hJSFhTUFZvak11QloxVmNWbzRJdzEtZHhVSzN4aHhicXIzRkFfd3hObWxPXzBBSG1pQmNQUjFVTnVYcEtseTdrblNWZy1FSDRfZU5kOA?oc=5",
-   "source": "ウォーカープラス",
-   "summary": "改札前で慌てない！電子マネーの残高がわかるパスケースが登場 ウォーカープラス",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-08T11:43+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
-  },
-  {
-   "id": "c5b9c30229adcc0b",
-   "title": "Galaxyの折りたたみスマホが5％オフ、楽天ペイで3.5％還元も 11月4日まで",
-   "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news070.html",
-   "source": "ITmedia Mobile",
-   "summary": "サムスン電子は、11月4日までグローバルキャンペーン「Samsung Week」を開催。Samsungオンラインショップ、Galaxy Harajuku、Galaxy Studio Osakaで、対象製品を最大10％オフで販売する。",
-   "categories": [
-    "code"
-   ],
-   "type": "news",
-   "published": "2026-10-08T11:29+09:00",
-   "via": "ITmedia Mobile"
-  },
-  {
-   "id": "5f45cf5088bdffef",
-   "title": "チタン製ストラップで「手ぶら」の新習慣を。スマホ決済も鍵の取り出しもスムーズになるよ",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCdkRoVnFjTzBxOTNPR2s4Qm5JYW81ZG1tMW1GckwzeHFUaTVNYVhlT2EtdHRoTV9jUDRaQjdjSGEwb2M2NHlJNDRmTkN1cXc?oc=5",
-   "source": "ROOMIE（ルーミー）",
-   "summary": "チタン製ストラップで「手ぶら」の新習慣を。スマホ決済も鍵の取り出しもスムーズになるよ ROOMIE（ルーミー）",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-08T11:15+09:00",
-   "via": "Googleニュース「コード決済」"
-  },
-  {
-   "id": "e0b3525d2d7af1aa",
-   "title": "タッチ決済で地下鉄乗り放題 札幌市、6～8日実験2回目 3月中にも本格導入へ",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTNZaEFkcTlSdElVRzhOeGh0cHRTLWR2enNUYTg3WU9UYjBOV3c4Vk5wTmdERnpRLXRUeGVsY21uR2llMnR1bi1RbWU4LXVWS2g4MHNEakthcHIzZ0FBbnhGLWNYYW5PYmo3blBONnpiX09GWUxhM2s4dVVKb3dmbTFXRVFMZWtndGhhWTFka1MtRFA0?oc=5",
-   "source": "北海道新聞デジタル",
-   "summary": "タッチ決済で地下鉄乗り放題 札幌市、6～8日実験2回目 3月中にも本格導入へ 北海道新聞デジタル",
-   "categories": [
-    "cashless"
-   ],
-   "type": "news",
-   "published": "2026-10-08T11:05+09:00",
-   "via": "Googleニュース「タッチ決済・電子マネー」"
   }
  ]
 }
